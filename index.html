@@ -333,7 +333,7 @@
   "company_name": "Example Co",
   "patch": { "priority": "HIGH" }
 }</textarea>
-      <div class="mcp-info" id="mcp-info">Loading MCP instructions...</div>
+      <div class="mcp-info" id="mcp-info">Loading MCP overview...</div>
       <div class="snippet" id="mcp-snippet"></div>
       <div class="panel-actions">
         <button class="btn primary" id="mcp-send">Send</button>
@@ -658,6 +658,29 @@
         document.getElementById(id).addEventListener('change', updateSnippet);
       });
 
+      const formatInstructions = (data) => {
+        if (!data) return 'No MCP data.';
+        const lines = [];
+        if (data.description) lines.push(`MCP: ${data.description}`);
+        if (data.stats) {
+          lines.push('Current data counts:');
+          Object.keys(data.stats).forEach((region) => {
+            const s = data.stats[region];
+            lines.push(`- ${region}: ${s.count} rows (rank ${s.min_rank}–${s.max_rank})`);
+          });
+        }
+        if (data.required_fields) {
+          lines.push(`Required fields: ${data.required_fields.join(', ')}`);
+        }
+        if (data.optional_fields) {
+          lines.push(`Optional fields: ${data.optional_fields.join(', ')}`);
+        }
+        if (data.priority_values) {
+          lines.push(`Priority values: ${data.priority_values.join(', ')}`);
+        }
+        return lines.join('\\n');
+      };
+
       const loadInstructions = async () => {
         const endpoint = document.getElementById('mcp-endpoint').value.trim();
         const apiKey = document.getElementById('mcp-key').value.trim();
@@ -672,7 +695,7 @@
             body: JSON.stringify({ tool: 'get_instructions', arguments: {} })
           });
           const json = await res.json();
-          info.textContent = json.ok ? JSON.stringify(json.result, null, 2) : `Error: ${json.error}`;
+          info.textContent = json.ok ? formatInstructions(json.result) : `Error: ${json.error}`;
         } catch (err) {
           info.textContent = `Error: ${err.message}`;
         }

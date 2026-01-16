@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T13:56:28.169Z",
+  "last_updated": "2026-01-16T13:56:31.578Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10678,6 +10678,24 @@
       "website": "dynamicssquare.com",
       "decision_makers": [],
       "why_target": "D365 F&O and Business Central specialist, 12+ years, 500+ clients",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768571791578",
+      "rank": 1036,
+      "priority": "HIGH",
+      "company_name": "Boyer & Associates",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics Business Central"
+      ],
+      "website": "boyerassoc.com",
+      "decision_makers": [],
+      "why_target": "Top 5% Microsoft partners (President Club)",
       "notable_clients": "",
       "awards": ""
     }

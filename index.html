@@ -4,63 +4,108 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ERP Consultancy Database</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/ag-grid-enterprise@32.0.2/dist/ag-grid-enterprise.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/ag-charts-community@9.2.2/dist/umd/ag-charts-community.js"></script>
   <style>
     :root {
-      --ink: #111827;
-      --muted: #6b7280;
-      --bg: #f6f7fb;
+      --ink: #101828;
+      --muted: #667085;
+      --bg: #f5f7fb;
       --card: #ffffff;
-      --accent: #2563eb;
-      --accent-2: #059669;
-      --border: #e5e7eb;
+      --accent: #1d4ed8;
+      --accent-2: #0f766e;
+      --border: #e4e7ec;
+      --shadow: 0 1px 2px rgba(16, 24, 40, 0.06), 0 1px 3px rgba(16, 24, 40, 0.1);
     }
 
     * { box-sizing: border-box; }
 
     body {
       margin: 0;
-      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      font-family: "IBM Plex Sans", "Segoe UI", Arial, sans-serif;
       color: var(--ink);
-      background: linear-gradient(180deg, #f8fafc, #f0f4f9);
+      background: var(--bg);
     }
 
     .app {
       max-width: 1500px;
       margin: 0 auto;
-      padding: 24px;
+      padding: 20px 24px 40px;
     }
 
-    .header {
+    .topbar {
       display: flex;
-      flex-wrap: wrap;
-      gap: 16px;
       align-items: center;
       justify-content: space-between;
+      gap: 16px;
+      padding: 14px 0 18px;
+      border-bottom: 1px solid var(--border);
       margin-bottom: 20px;
     }
 
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-weight: 700;
+      font-size: 18px;
+      letter-spacing: 0.01em;
+    }
+
+    .brand-badge {
+      background: var(--accent);
+      color: #fff;
+      font-weight: 700;
+      padding: 6px 10px;
+      border-radius: 6px;
+      font-size: 12px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .muted {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .header {
+      display: grid;
+      grid-template-columns: minmax(260px, 1fr) minmax(280px, 520px);
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+
     .title {
-      font-size: 26px;
+      font-size: 28px;
       font-weight: 700;
     }
 
     .title span { color: var(--accent); }
 
+    .subtitle {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
     .stats {
-      display: flex;
-      gap: 20px;
-      flex-wrap: wrap;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 12px;
     }
 
     .stat {
       background: var(--card);
       border: 1px solid var(--border);
       border-radius: 10px;
-      padding: 10px 14px;
-      min-width: 140px;
+      padding: 12px 14px;
       text-align: center;
+      box-shadow: var(--shadow);
     }
 
     .stat .num {
@@ -78,31 +123,32 @@
 
     .tabs {
       display: flex;
-      gap: 6px;
+      gap: 20px;
+      border-bottom: 1px solid var(--border);
       margin-bottom: 12px;
     }
 
     .tab {
-      border: 1px solid var(--border);
-      background: var(--card);
+      border: none;
+      background: transparent;
       color: var(--muted);
-      border-radius: 999px;
-      padding: 10px 16px;
-      font-size: 13px;
+      padding: 10px 4px;
+      font-size: 14px;
       cursor: pointer;
+      border-bottom: 2px solid transparent;
     }
 
     .tab.active {
-      border-color: var(--accent);
       color: var(--accent);
-      box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.15);
+      border-bottom-color: var(--accent);
+      font-weight: 600;
     }
 
     .toolbar {
       display: flex;
       gap: 10px;
       flex-wrap: wrap;
-      margin: 12px 0 16px;
+      margin: 14px 0 18px;
     }
 
     .toolbar input {
@@ -139,7 +185,7 @@
       background: var(--card);
       border: 1px solid var(--border);
       border-radius: 12px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+      box-shadow: var(--shadow);
       overflow: hidden;
     }
 
@@ -149,8 +195,8 @@
     }
 
     .chart-panel {
-      margin-top: 16px;
-      padding: 12px;
+      margin-top: 12px;
+      padding: 12px 16px 16px;
       border-top: 1px solid var(--border);
     }
 
@@ -168,9 +214,9 @@
       text-transform: uppercase;
     }
 
-    .priority-HIGH { background: #fee2e2; color: #b91c1c; }
-    .priority-MEDIUM { background: #fef3c7; color: #b45309; }
-    .priority-LOWER { background: #dcfce7; color: #15803d; }
+    .priority-HIGH { background: #fee2e2; color: #b42318; }
+    .priority-MEDIUM { background: #fef3c7; color: #b54708; }
+    .priority-LOWER { background: #dcfce7; color: #047857; }
 
     .detail-panel {
       padding: 16px 18px;
@@ -202,12 +248,31 @@
       color: var(--muted);
       text-align: center;
     }
+
+    .ag-theme-alpine {
+      --ag-font-family: "IBM Plex Sans", "Segoe UI", Arial, sans-serif;
+      --ag-header-background-color: #f8fafc;
+      --ag-row-hover-color: #f1f5ff;
+      --ag-border-color: #e4e7ec;
+      --ag-odd-row-background-color: #ffffff;
+    }
   </style>
 </head>
 <body>
   <div class="app">
+    <div class="topbar">
+      <div class="brand">
+        <span class="brand-badge">AG Grid</span>
+        ERP Consultancy Database
+      </div>
+      <div class="muted">Master-detail grid with decision makers</div>
+    </div>
+
     <div class="header">
-      <div class="title">ERP Consultancy <span>Database</span></div>
+      <div>
+        <div class="title">Regional Partner Coverage <span>Overview</span></div>
+        <div class="subtitle">Filter by region, expand rows for contacts, and export per-market JSON.</div>
+      </div>
       <div class="stats">
         <div class="stat"><div class="num" id="stat-total">0</div><div class="label">Total</div></div>
         <div class="stat"><div class="num" id="stat-high">0</div><div class="label">High Priority</div></div>
@@ -255,7 +320,8 @@
 
     const state = {
       currentRegion: 'australasia',
-      gridApi: null
+      gridApi: null,
+      chart: null
     };
 
     function priorityRenderer(params) {
@@ -360,13 +426,20 @@
         buckets[key] = (buckets[key] || 0) + 1;
       });
       const data = Object.keys(buckets).map(key => ({ priority: key, count: buckets[key] }));
+      if (state.chart) {
+        agCharts.AgCharts.destroy(state.chart);
+      }
       const options = {
         container: document.getElementById('chart'),
         data,
-        series: [{ type: 'pie', angleKey: 'count', labelKey: 'priority' }],
+        series: [{ type: 'bar', xKey: 'priority', yKey: 'count', fill: '#2563eb' }],
+        axes: [
+          { type: 'category', position: 'bottom' },
+          { type: 'number', position: 'left' }
+        ],
         title: { text: `Priority Breakdown (${state.currentRegion.replace('_', ' ')})` }
       };
-      agCharts.AgCharts.create(options);
+      state.chart = agCharts.AgCharts.create(options);
     }
 
     function setGridData(region) {

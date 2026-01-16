@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T11:26:04.799Z",
+  "last_updated": "2026-01-16T11:26:39.631Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10393,6 +10393,24 @@
       "website": "nbs-us.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner, 300+ implementations, 20+ years",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768562799631",
+      "rank": 1020,
+      "priority": "HIGH",
+      "company_name": "HouseBlend.io",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "website": "houseblend.io",
+      "decision_makers": [],
+      "why_target": "Boutique NetSuite firm specializing in rescue missions for troubled implementations",
       "notable_clients": "",
       "awards": ""
     }

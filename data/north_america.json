@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T12:06:17.454Z",
+  "last_updated": "2026-01-16T12:35:02.828Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10622,6 +10622,25 @@
       "website": "inavista.com",
       "decision_makers": [],
       "why_target": "Infor Alliance Partner for large/complex ERP LN implementations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768566902828",
+      "rank": 1033,
+      "priority": "HIGH",
+      "company_name": "Copley Consulting Group",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Infor CloudSuite Food & Beverage",
+        "SyteLine"
+      ],
+      "website": "copleycg.com",
+      "decision_makers": [],
+      "why_target": "30 years Infor Gold Channel Partner, Food & Beverage specialist",
       "notable_clients": "",
       "awards": ""
     }

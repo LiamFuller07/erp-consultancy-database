@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T07:44:57Z",
+  "last_updated": "2026-01-16T11:00:35.856Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -713,7 +713,7 @@
         "B2B",
         "B2C"
       ],
-      "awards": "Summer 2024 Spotlight\u2014Epicor Switch",
+      "awards": "Summer 2024 Spotlight—Epicor Switch",
       "notable_clients": "",
       "service_focus": "SuiteCommerce | eCommerce Integration | Optimization",
       "partner_tier": "Alliance Partner; Commerce Partner; #1 GoodFirms Ranked",
@@ -1348,7 +1348,7 @@
         "Distribution",
         "Technology"
       ],
-      "awards": "Canadian Alliance Partner 2024; Winter 2024 Spotlight\u2014Sustainability, AI",
+      "awards": "Canadian Alliance Partner 2024; Winter 2024 Spotlight—Sustainability, AI",
       "notable_clients": "",
       "service_focus": "Full Implementation | Manufacturing | Distribution",
       "partner_tier": "Canadian Alliance Partner of Year 2024",
@@ -1566,7 +1566,7 @@
       "key_verticals": [
         "Construction accounting"
       ],
-      "awards": "Breakthrough Alliance Partner 2024; Summer 2024 Spotlight\u2014Construction",
+      "awards": "Breakthrough Alliance Partner 2024; Summer 2024 Spotlight—Construction",
       "notable_clients": "Lam-Wood Systems",
       "service_focus": "Full Implementation",
       "partner_tier": "Breakthrough Alliance Partner of Year 2024",
@@ -1700,7 +1700,7 @@
         "Healthcare",
         "Legal"
       ],
-      "awards": "Winter 2024 Spotlight\u2014Private Equity Carveout",
+      "awards": "Winter 2024 Spotlight—Private Equity Carveout",
       "notable_clients": "KCC, Verita, Elite",
       "service_focus": "Full Implementation | Healthcare/Life Sciences | Financial Services/PE",
       "partner_tier": "Alliance Partner",
@@ -1782,7 +1782,7 @@
         "Manufacturing",
         "Wholesale Distribution"
       ],
-      "awards": "Summer 2023 Alliance Partner Spotlight\u2014Retail",
+      "awards": "Summer 2023 Alliance Partner Spotlight—Retail",
       "notable_clients": "Red Wing Shoes, Perry Ellis, Custom Ink",
       "service_focus": "Full Implementation | Retail/eCommerce | Manufacturing | Distribution",
       "partner_tier": "Oracle Gold Partner (Oracle Retail)",
@@ -1937,7 +1937,7 @@
       "awards": "NA Alliance Partner Services 2022, 2023, 2024, 2025",
       "notable_clients": "",
       "service_focus": "Full Implementation",
-      "partner_tier": "NA Alliance Partner\u2014Services 2022-2025 (4 consecutive)",
+      "partner_tier": "NA Alliance Partner—Services 2022-2025 (4 consecutive)",
       "partner_status": "Alliance Partner",
       "netsuite_practice_details": "Alliance Partner; Mid-market implementations; SuiteSuccess methodology; Professional services, technology verticals",
       "decision_makers": [],
@@ -6872,7 +6872,7 @@
         "Energy",
         "Solar"
       ],
-      "awards": "5-Star Partner; Growth Solution Provider 2020; Fall 2025 Spotlight\u2014Energy",
+      "awards": "5-Star Partner; Growth Solution Provider 2020; Fall 2025 Spotlight—Energy",
       "notable_clients": "",
       "service_focus": "Implementation | Manufacturing | Distribution",
       "partner_tier": "5-Star Solution Provider (2020-2021)",
@@ -10008,6 +10008,22 @@
       "id": "na-403",
       "rank": 403,
       "website": ""
+    },
+    {
+      "id": "na-999",
+      "rank": 999,
+      "priority": "LOWER",
+      "company_name": "MCP Sandbox Co",
+      "country": "USA",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "",
+      "notable_clients": "",
+      "awards": ""
     }
   ]
 }

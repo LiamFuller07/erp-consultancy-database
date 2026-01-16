@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T18:01:23.191Z",
+  "last_updated": "2026-01-16T18:01:26.369Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -11002,6 +11002,25 @@
       "website": "adssglobal.net",
       "decision_makers": [],
       "why_target": "Founded 1981, 80+ certified professionals",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768586486369",
+      "rank": 1054,
+      "priority": "HIGH",
+      "company_name": "CertiPro Solutions",
+      "country": "USA",
+      "city": "Orange County",
+      "state": "CA",
+      "employees": "",
+      "erp_systems": [
+        "Sage 100",
+        "Sage X3"
+      ],
+      "website": "certipro.com",
+      "decision_makers": [],
+      "why_target": "Sage 100 and Sage X3 specialist",
       "notable_clients": "",
       "awards": ""
     }

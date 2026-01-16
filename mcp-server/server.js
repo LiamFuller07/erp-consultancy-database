@@ -9,6 +9,7 @@ const REPO = process.env.GITHUB_REPO || "erp-consultancy-database";
 const BRANCH = process.env.GITHUB_BRANCH || "main";
 const TOKEN = process.env.GITHUB_TOKEN;
 const PORT = Number(process.env.PORT || process.env.MCP_PORT || 3333);
+const API_KEY = process.env.MCP_API_KEY || "";
 
 const REGION_SET = new Set(["australasia", "north_america", "europe"]);
 const PRIORITY_SET = new Set(["HIGH", "MEDIUM", "LOWER", "LOW", "HIGHEST"]);
@@ -398,11 +399,6 @@ server.setRequestHandler(ListToolsRequestSchema, async () => {
         inputSchema: getInstructionsSchema
       },
       {
-        name: "get_schema",
-        description: "Return required/optional fields and valid priority values.",
-        inputSchema: z.object({})
-      },
-      {
         name: "replace_region",
         description: "Replace a region JSON dataset in GitHub (full overwrite).",
         inputSchema: replaceRegionSchema
@@ -415,6 +411,11 @@ server.setRequestHandler(ListToolsRequestSchema, async () => {
       {
         name: "list_regions",
         description: "List available regions.",
+        inputSchema: z.object({})
+      },
+      {
+        name: "get_schema",
+        description: "Return required/optional fields and valid priority values.",
         inputSchema: z.object({})
       }
     ]
@@ -432,9 +433,38 @@ await server.connect(transport);
 
 const httpServer = http.createServer(async (req, res) => {
   if (req.method !== "POST" || req.url !== "/mcp") {
+    if (req.method === "GET" && req.url === "/mcp") {
+      if (API_KEY) {
+        const provided = req.headers["x-api-key"];
+        if (provided !== API_KEY) {
+          res.writeHead(401, { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" });
+          res.end(JSON.stringify({ ok: false, error: "Unauthorized" }));
+          return;
+        }
+      }
+      try {
+        const result = await callTool("get_instructions", {});
+        res.writeHead(200, { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" });
+        res.end(JSON.stringify({ ok: true, result }));
+        return;
+      } catch (err) {
+        res.writeHead(500, { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" });
+        res.end(JSON.stringify({ ok: false, error: err.message }));
+        return;
+      }
+    }
     res.writeHead(404, { "Content-Type": "application/json" });
     res.end(JSON.stringify({ error: "Not found" }));
     return;
+  }
+
+  if (API_KEY) {
+    const provided = req.headers["x-api-key"];
+    if (provided !== API_KEY) {
+      res.writeHead(401, { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" });
+      res.end(JSON.stringify({ ok: false, error: "Unauthorized" }));
+      return;
+    }
   }
 
   let body = "";

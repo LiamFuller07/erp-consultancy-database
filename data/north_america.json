@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T11:27:56.313Z",
+  "last_updated": "2026-01-16T12:06:06.090Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -9328,31 +9328,22 @@
       "website": ""
     },
     {
+      "id": "na-377",
+      "rank": 377,
+      "priority": "HIGH",
       "company_name": "Total Dynamics",
       "country": "USA",
-      "city": "Atlanta",
-      "state": "GA",
+      "city": "Charlotte",
+      "state": "NC",
       "employees": "50-100",
       "erp_systems": [
         "NetSuite"
       ],
-      "key_verticals": [
-        "Tech",
-        "professional services",
-        "media"
-      ],
-      "awards": "",
-      "notable_clients": "Accenture; DataDog; Dataiku; HootSuite; Vice Media; UntuckIt; Varonis",
-      "service_focus": "General Implementation",
-      "partner_tier": "Part of TD Holdings; EMEA focus but NA entity",
-      "partner_status": "Oracle NetSuite EMEA Channel Partner",
-      "netsuite_practice_details": "",
+      "website": "total-dyn.com",
       "decision_makers": [],
-      "priority": "MEDIUM",
-      "data_source": "NetSuite_Partners_MASTER - NetSuite_Partners_MASTER.csv (2).csv",
-      "id": "na-377",
-      "rank": 377,
-      "website": ""
+      "why_target": "Charlotte and Raleigh NetSuite consulting firm",
+      "notable_clients": "Accenture; DataDog; Dataiku; HootSuite; Vice Media; UntuckIt; Varonis",
+      "awards": ""
     },
     {
       "company_name": "Trajectory",

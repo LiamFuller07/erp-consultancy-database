@@ -8,7 +8,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/ag-grid-enterprise@32.0.2/dist/ag-grid-enterprise.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/ag-charts-community@9.2.2/dist/umd/ag-charts-community.js"></script>
   <style>
     :root {
       --ink: #101828;
@@ -36,89 +35,11 @@
       padding: 20px 24px 40px;
     }
 
-    .topbar {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 16px;
-      padding: 14px 0 18px;
-      border-bottom: 1px solid var(--border);
-      margin-bottom: 20px;
-    }
-
-    .brand {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      font-weight: 700;
-      font-size: 18px;
-      letter-spacing: 0.01em;
-    }
-
-    .brand-badge {
-      background: var(--accent);
-      color: #fff;
-      font-weight: 700;
-      padding: 6px 10px;
-      border-radius: 6px;
-      font-size: 12px;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-    }
-
-    .muted {
-      color: var(--muted);
-      font-size: 13px;
-    }
-
     .header {
-      display: grid;
-      grid-template-columns: minmax(260px, 1fr) minmax(280px, 520px);
+      display: flex;
       align-items: center;
       justify-content: space-between;
-      gap: 18px;
-      margin-bottom: 18px;
-    }
-
-    .title {
-      font-size: 28px;
-      font-weight: 700;
-    }
-
-    .title span { color: var(--accent); }
-
-    .subtitle {
-      margin-top: 6px;
-      color: var(--muted);
-      font-size: 14px;
-    }
-
-    .stats {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-      gap: 12px;
-    }
-
-    .stat {
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 12px 14px;
-      text-align: center;
-      box-shadow: var(--shadow);
-    }
-
-    .stat .num {
-      font-size: 20px;
-      font-weight: 700;
-      color: var(--accent);
-    }
-
-    .stat .label {
-      font-size: 11px;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
+      margin-bottom: 14px;
     }
 
     .tabs {
@@ -194,16 +115,6 @@
       height: 640px;
     }
 
-    .chart-panel {
-      margin-top: 12px;
-      padding: 12px 16px 16px;
-      border-top: 1px solid var(--border);
-    }
-
-    #chart {
-      width: 100%;
-      height: 320px;
-    }
 
     .priority-badge {
       display: inline-block;
@@ -260,26 +171,6 @@
 </head>
 <body>
   <div class="app">
-    <div class="topbar">
-      <div class="brand">
-        <span class="brand-badge">AG Grid</span>
-        ERP Consultancy Database
-      </div>
-      <div class="muted">Master-detail grid with decision makers</div>
-    </div>
-
-    <div class="header">
-      <div>
-        <div class="title">Regional Partner Coverage <span>Overview</span></div>
-        <div class="subtitle">Filter by region, expand rows for contacts, and export per-market JSON.</div>
-      </div>
-      <div class="stats">
-        <div class="stat"><div class="num" id="stat-total">0</div><div class="label">Total</div></div>
-        <div class="stat"><div class="num" id="stat-high">0</div><div class="label">High Priority</div></div>
-        <div class="stat"><div class="num" id="stat-contacts">0</div><div class="label">With Contacts</div></div>
-      </div>
-    </div>
-
     <div class="tabs">
       <button class="tab active" data-region="australasia">Australasia</button>
       <button class="tab" data-region="north_america">North America</button>
@@ -289,17 +180,10 @@
     <div class="toolbar">
       <input id="search" type="text" placeholder="Search companies, ERP systems, locations..." />
       <button class="btn primary" id="btn-add">Add Row</button>
-      <button class="btn" id="btn-export">Export JSON</button>
-      <button class="btn success" id="btn-chart">Refresh Priority Chart</button>
-      <input id="file-import" type="file" accept=".json" style="display:none" />
-      <button class="btn" id="btn-import">Import JSON</button>
     </div>
 
     <div class="card">
       <div id="grid" class="ag-theme-alpine"></div>
-      <div class="chart-panel">
-        <div id="chart"></div>
-      </div>
     </div>
 
     <div class="footer">Local-first database. Data saved in JSON per region.</div>
@@ -320,8 +204,7 @@
 
     const state = {
       currentRegion: 'australasia',
-      gridApi: null,
-      chart: null
+      gridApi: null
     };
 
     function priorityRenderer(params) {
@@ -403,43 +286,19 @@
     };
 
     async function loadRegion(region) {
-      const response = await fetch(REGION_FILES[region]);
-      const json = await response.json();
-      DATA[region] = json;
-      return json.consultancies || [];
-    }
-
-    function refreshStats() {
-      const all = Object.values(DATA).flatMap(d => d.consultancies || []);
-      const high = all.filter(r => r.priority === 'HIGH').length;
-      const contacts = all.filter(r => (r.decision_makers || []).length > 0).length;
-      document.getElementById('stat-total').textContent = all.length;
-      document.getElementById('stat-high').textContent = high;
-      document.getElementById('stat-contacts').textContent = contacts;
-    }
-
-    function renderChart() {
-      const rows = DATA[state.currentRegion].consultancies || [];
-      const buckets = {};
-      rows.forEach(r => {
-        const key = r.priority || 'UNKNOWN';
-        buckets[key] = (buckets[key] || 0) + 1;
-      });
-      const data = Object.keys(buckets).map(key => ({ priority: key, count: buckets[key] }));
-      if (state.chart) {
-        agCharts.AgCharts.destroy(state.chart);
+      try {
+        const response = await fetch(REGION_FILES[region]);
+        if (!response.ok) {
+          DATA[region] = { consultancies: [] };
+          return [];
+        }
+        const json = await response.json();
+        DATA[region] = json;
+        return json.consultancies || [];
+      } catch (err) {
+        DATA[region] = { consultancies: [] };
+        return [];
       }
-      const options = {
-        container: document.getElementById('chart'),
-        data,
-        series: [{ type: 'bar', xKey: 'priority', yKey: 'count', fill: '#2563eb' }],
-        axes: [
-          { type: 'category', position: 'bottom' },
-          { type: 'number', position: 'left' }
-        ],
-        title: { text: `Priority Breakdown (${state.currentRegion.replace('_', ' ')})` }
-      };
-      state.chart = agCharts.AgCharts.create(options);
     }
 
     function setGridData(region) {
@@ -466,25 +325,12 @@
       state.gridApi.applyTransaction({ add: [row], addIndex: 0 });
     }
 
-    function exportRegion() {
-      const data = DATA[state.currentRegion];
-      const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = `${state.currentRegion}.json`;
-      a.click();
-      URL.revokeObjectURL(url);
-    }
-
     async function init() {
       const gridDiv = document.getElementById('grid');
       agGrid.createGrid(gridDiv, gridOptions);
 
       await Promise.all(Object.keys(REGION_FILES).map(loadRegion));
-      refreshStats();
       setGridData(state.currentRegion);
-      renderChart();
 
       document.querySelectorAll('.tab').forEach(btn => {
         btn.addEventListener('click', () => {
@@ -492,7 +338,6 @@
           btn.classList.add('active');
           state.currentRegion = btn.dataset.region;
           setGridData(state.currentRegion);
-          renderChart();
         });
       });
 
@@ -501,23 +346,6 @@
       });
 
       document.getElementById('btn-add').addEventListener('click', addRow);
-      document.getElementById('btn-export').addEventListener('click', exportRegion);
-      document.getElementById('btn-chart').addEventListener('click', renderChart);
-
-      document.getElementById('btn-import').addEventListener('click', () => {
-        document.getElementById('file-import').click();
-      });
-
-      document.getElementById('file-import').addEventListener('change', async (e) => {
-        const file = e.target.files[0];
-        if (!file) return;
-        const text = await file.text();
-        const json = JSON.parse(text);
-        DATA[state.currentRegion] = json;
-        setGridData(state.currentRegion);
-        refreshStats();
-        renderChart();
-      });
     }
 
     init();

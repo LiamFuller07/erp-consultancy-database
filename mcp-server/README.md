@@ -20,6 +20,8 @@ npm start
 
 - `list_regions` -> returns `australasia, north_america, europe`
 - `get_region` `{ region }`
+- `get_region_compact` `{ region }` -> `{ columns, rows }`
+- `get_region_text` `{ region }` -> `{ text }`
 - `replace_region` `{ region, data }`
 - `upsert_company` `{ region, id?, company_name?, patch }`
 - `get_schema` `{}` -> required/optional fields + valid priority values

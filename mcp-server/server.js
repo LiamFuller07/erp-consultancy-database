@@ -105,6 +105,10 @@ const upsertCompanySchema = z.object({
   patch: z.record(z.any())
 });
 
+const getRegionCompactSchema = z.object({
+  region: regionSchema
+});
+
 function getRegionPath(region) {
   return `data/${region}.json`;
 }
@@ -179,6 +183,50 @@ function normalizeDataset(region, data) {
   return { ...data, region, consultancies: cleaned };
 }
 
+function toCompact(json) {
+  const columns = [
+    "id",
+    "rank",
+    "priority",
+    "company_name",
+    "country",
+    "city",
+    "state",
+    "employees",
+    "erp_systems",
+    "website",
+    "decision_makers"
+  ];
+  const rows = (json.consultancies || []).map((row) => {
+    return columns.map((col) => {
+      const value = row[col];
+      if (Array.isArray(value)) return value.join(", ");
+      if (col === "decision_makers") return (value || []).map((d) => `${d.name} (${d.title})`).join("; ");
+      return value ?? "";
+    });
+  });
+  return { columns, rows };
+}
+
+function toText(json) {
+  return (json.consultancies || []).map((row) => {
+    const dm = (row.decision_makers || [])
+      .map((d) => `${d.name}${d.title ? ` - ${d.title}` : ""}${d.linkedin_url ? ` (${d.linkedin_url})` : ""}`)
+      .join("; ");
+    return [
+      row.rank,
+      row.priority,
+      row.company_name,
+      row.country,
+      row.city || "",
+      row.state || "",
+      row.erp_systems ? row.erp_systems.join(", ") : "",
+      row.website || "",
+      dm
+    ].filter(Boolean).join(" | ");
+  }).join("\n");
+}
+
 async function callTool(name, args) {
   if (name === "list_regions") {
     return Array.from(REGION_SET);
@@ -189,6 +237,20 @@ async function callTool(name, args) {
     const path = getRegionPath(region);
     const { json } = await getJsonFile(path);
     return json;
+  }
+
+  if (name === "get_region_compact") {
+    const { region } = getRegionCompactSchema.parse(args);
+    const path = getRegionPath(region);
+    const { json } = await getJsonFile(path);
+    return toCompact(json);
+  }
+
+  if (name === "get_region_text") {
+    const { region } = getRegionCompactSchema.parse(args);
+    const path = getRegionPath(region);
+    const { json } = await getJsonFile(path);
+    return { text: toText(json) };
   }
 
   if (name === "replace_region") {
@@ -254,6 +316,16 @@ server.setRequestHandler(ListToolsRequestSchema, async () => {
         name: "get_region",
         description: "Fetch a region JSON dataset from GitHub.",
         inputSchema: getRegionSchema
+      },
+      {
+        name: "get_region_compact",
+        description: "Fetch a region dataset as {columns, rows} for LLMs.",
+        inputSchema: getRegionCompactSchema
+      },
+      {
+        name: "get_region_text",
+        description: "Fetch a region dataset as text lines for LLMs.",
+        inputSchema: getRegionCompactSchema
       },
       {
         name: "get_schema",

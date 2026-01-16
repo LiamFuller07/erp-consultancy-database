@@ -432,6 +432,11 @@
       state.gridApi.setGridOption('rowData', rows);
     }
 
+    function applyRegionColumns(region) {
+      const showLocation = region === 'north_america';
+      state.gridApi.setColumnsVisible(['city', 'state'], showLocation);
+    }
+
     function addRow() {
       const rows = DATA[state.currentRegion].consultancies || [];
       const nextRank = rows.length + 1;
@@ -457,6 +462,7 @@
 
       await Promise.all(Object.keys(REGION_FILES).map(loadRegion));
       setGridData(state.currentRegion);
+      applyRegionColumns(state.currentRegion);
 
       document.querySelectorAll('.tab').forEach(btn => {
         btn.addEventListener('click', () => {
@@ -471,6 +477,7 @@
           document.querySelector('.card').style.display = 'block';
           document.getElementById('mcp-panel').classList.remove('active');
           setGridData(state.currentRegion);
+          applyRegionColumns(state.currentRegion);
         });
       });
 

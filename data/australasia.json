@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-16T07:44:57Z",
+  "last_updated": "2026-01-16T10:04:57.755Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -215,14 +215,14 @@
       "id": "au-010"
     },
     {
-      "company_name": "Cohesio Group (K\u00f6rber ANZ)",
+      "company_name": "Cohesio Group (Körber ANZ)",
       "country": "Australia",
       "employees": "100+ (AU, part of 13K global)",
       "erp_systems": [
-        "K\u00f6rber WMS"
+        "Körber WMS"
       ],
       "priority": "HIGHEST",
-      "why_target": "Backed by K\u00f6rber (13K+ employees globally)",
+      "why_target": "Backed by Körber (13K+ employees globally)",
       "rank": 11,
       "decision_makers": [
         {
@@ -2241,18 +2241,18 @@
       "id": "au-103"
     },
     {
-      "company_name": "Cohesio Group (K\u00f6rber ANZ)",
+      "company_name": "Cohesio Group (Körber ANZ)",
       "country": "Australia",
       "city": "Melbourne HQ",
-      "employees": "Part of K\u00f6rber (13K+ global)",
+      "employees": "Part of Körber (13K+ global)",
       "erp_systems": [
-        "K\u00f6rber WMS",
+        "Körber WMS",
         "HighJump",
         "Voice-directed",
         "AMR robotics"
       ],
       "priority": "HIGH",
-      "awards": "Acquired Sept 2019 by K\u00f6rber",
+      "awards": "Acquired Sept 2019 by Körber",
       "retail_focus": "HIGHEST - Chemist Warehouse, Adore Beauty",
       "decision_makers": [
         {
@@ -2349,7 +2349,7 @@
         "Blue Yonder WMS",
         "TMS",
         "LMS",
-        "K\u00f6rber Warehouse Advantage"
+        "Körber Warehouse Advantage"
       ],
       "priority": "MEDIUM",
       "awards": "BY Supply Chain Execution Partner of Year 2025, Ex-Deloitte/EY/IBM/PwC",
@@ -3656,6 +3656,22 @@
       "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
       "rank": 161,
       "id": "au-161"
+    },
+    {
+      "id": "au-000",
+      "rank": 1,
+      "priority": "HIGH",
+      "company_name": "TBD",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "",
+      "notable_clients": "",
+      "awards": ""
     }
   ]
 }

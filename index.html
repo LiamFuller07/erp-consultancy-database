@@ -548,7 +548,7 @@
           return;
         }
         const payload = JSON.stringify({ tool, arguments: args }, null, 2);
-        const snippet = `curl -s ${endpoint} \\\n  -H 'Content-Type: application/json' \\\n  -d '${payload.replace(/'/g, \"'\\\\''\")}'`;
+        const snippet = `curl -s ${endpoint} \\\n  -H 'Content-Type: application/json' \\\n  -d '${payload.replace(/'/g, "'\\\\''")}'`;
         document.getElementById('mcp-snippet').textContent = snippet;
       };
 

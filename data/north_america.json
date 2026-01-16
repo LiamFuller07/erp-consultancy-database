@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T11:24:24.888Z",
+  "last_updated": "2026-01-16T11:24:46.540Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10210,6 +10210,24 @@
       "website": "aktion.com",
       "decision_makers": [],
       "why_target": "Largest Infor Distribution partner in US, Acumatica President Club",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768562686540",
+      "rank": 1010,
+      "priority": "HIGHEST",
+      "company_name": "Six S Partners",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Epicor Kinetic"
+      ],
+      "website": "sixspartners.com",
+      "decision_makers": [],
+      "why_target": "Epicor Platinum Elite partner, training and consulting",
       "notable_clients": "",
       "awards": ""
     }

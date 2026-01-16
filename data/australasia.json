@@ -1,0 +1,3661 @@
+{
+  "schema_version": "1.0",
+  "region": "australasia",
+  "last_updated": "2026-01-16T07:44:57Z",
+  "consultancies": [
+    {
+      "company_name": "Deloitte Australia",
+      "country": "Australia",
+      "employees": "10,000+ (AU)",
+      "erp_systems": [
+        "SAP",
+        "Oracle",
+        "MS Dynamics"
+      ],
+      "priority": "HIGH",
+      "why_target": "Big 4 - massive AU presence, dedicated retail practice",
+      "rank": 1,
+      "decision_makers": [
+        {
+          "name": "Adam Sandler / Leon Doyle",
+          "title": "Key Executive",
+          "linkedin_url": "au.linkedin.com/in/doyleleon"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-001"
+    },
+    {
+      "company_name": "Accenture Australia",
+      "country": "Australia",
+      "employees": "6,000+ (AU)",
+      "erp_systems": [
+        "SAP",
+        "Oracle",
+        "MS Dynamics"
+      ],
+      "priority": "HIGH",
+      "why_target": "Big 4 - major retail/supply chain practice",
+      "rank": 2,
+      "decision_makers": [
+        {
+          "name": "Shankar Sribalachandran",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/shankar-sribalachandran/"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-002"
+    },
+    {
+      "company_name": "PwC Australia",
+      "country": "Australia",
+      "employees": "9,000+ (AU)",
+      "erp_systems": [
+        "SAP",
+        "MS Dynamics",
+        "Oracle"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Big 4 - SAP Platinum Partner",
+      "rank": 3,
+      "decision_makers": [
+        {
+          "name": "Bradley Burt / Pravinesh Ram",
+          "title": "Key Executive",
+          "linkedin_url": "au.linkedin.com/in/spryan"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-003"
+    },
+    {
+      "company_name": "Capgemini Australia",
+      "country": "Australia",
+      "employees": "3,000+ (AU)",
+      "erp_systems": [
+        "SAP",
+        "Oracle",
+        "MS Dynamics"
+      ],
+      "priority": "HIGH",
+      "why_target": "Big 4 tier - Coles relationship, Acclimation acquisition",
+      "rank": 4,
+      "decision_makers": [
+        {
+          "name": "Olaf Pietschner (CEO APAC)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/olafpietschner"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-004"
+    },
+    {
+      "company_name": "Simpro (simPRO Group)",
+      "country": "Australia",
+      "employees": "700+ employees",
+      "erp_systems": [
+        "Simpro FSM"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Large AU software company, K1 PE backing",
+      "rank": 5,
+      "decision_makers": [
+        {
+          "name": "Gary Specter (Board Advisor)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/gary-specter"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-005"
+    },
+    {
+      "company_name": "NRI Australia & New Zealand",
+      "country": "Australia",
+      "employees": "2,500+ professionals ANZ",
+      "erp_systems": [
+        "Oracle Fusion Cloud"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Major Oracle partner, enterprise focus",
+      "rank": 6,
+      "decision_makers": [
+        {
+          "name": "Kaylene OBrien (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "au.linkedin.com/in/kaylene-o-brien-gaicd-1399a111"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-006"
+    },
+    {
+      "company_name": "Pronto Software",
+      "country": "Australia",
+      "employees": "486 employees",
+      "erp_systems": [
+        "Pronto Xi (proprietary)"
+      ],
+      "priority": "HIGH",
+      "why_target": "Australian ERP vendor since 1976",
+      "rank": 7,
+      "decision_makers": [
+        {
+          "name": "Chad Gates (MD & CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "au.linkedin.com/in/gateschad"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-007"
+    },
+    {
+      "company_name": "Cin7",
+      "country": "Australia",
+      "employees": "~400 employees",
+      "erp_systems": [
+        "Cin7 Core",
+        "Omni"
+      ],
+      "priority": "HIGH",
+      "why_target": "Inventory platform leader, Rubicon PE backing",
+      "rank": 8,
+      "decision_makers": [
+        {
+          "name": "Ajoy Krishnamoorthy (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/ajoyk/"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-008"
+    },
+    {
+      "company_name": "Fusion5",
+      "country": "Australia",
+      "employees": "300+ employees (ANZ)",
+      "erp_systems": [
+        "Oracle NetSuite",
+        "JDE"
+      ],
+      "priority": "HIGH",
+      "why_target": "3rd largest global NetSuite partner",
+      "rank": 9,
+      "decision_makers": [
+        {
+          "name": "Deepak Nangia (Group CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/deepak-nangia-7079719"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-009"
+    },
+    {
+      "company_name": "Manhattan Associates Australia",
+      "country": "Australia",
+      "employees": "100+ (AU est)",
+      "erp_systems": [
+        "Manhattan Active WMS",
+        "OMS"
+      ],
+      "priority": "HIGHEST",
+      "why_target": "17x Gartner WMS leader, enterprise scale",
+      "rank": 10,
+      "decision_makers": [
+        {
+          "name": "Raghav Sibal (MD ANZ)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/raghavsibal"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-010"
+    },
+    {
+      "company_name": "Cohesio Group (K\u00f6rber ANZ)",
+      "country": "Australia",
+      "employees": "100+ (AU, part of 13K global)",
+      "erp_systems": [
+        "K\u00f6rber WMS"
+      ],
+      "priority": "HIGHEST",
+      "why_target": "Backed by K\u00f6rber (13K+ employees globally)",
+      "rank": 11,
+      "decision_makers": [
+        {
+          "name": "Nishan Wijemanne (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "au.linkedin.com/in/nishanwijemanne"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-011"
+    },
+    {
+      "company_name": "Open Sky Group Australia",
+      "country": "Australia",
+      "employees": "160+ BY specialists globally",
+      "erp_systems": [
+        "Blue Yonder WMS"
+      ],
+      "priority": "HIGH",
+      "why_target": "Blue Yonder Partner of Year 2025",
+      "rank": 12,
+      "decision_makers": [
+        {
+          "name": "Ian Drummond (CEO AU)",
+          "title": "Key Executive",
+          "linkedin_url": "au.linkedin.com/in/ian-drummond-6b41862"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-012"
+    },
+    {
+      "company_name": "FUJIFILM MicroChannel",
+      "country": "Australia",
+      "employees": "100+ employees",
+      "erp_systems": [
+        "Sage",
+        "MS Dynamics",
+        "SAP B1"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Acquired by FUJIFILM Feb 2023 for ~$100M",
+      "rank": 13,
+      "decision_makers": [
+        {
+          "name": "Brett Matthews (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/brett-matthews-40871713"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-013"
+    },
+    {
+      "company_name": "Commerce Vision (now Advantive)",
+      "country": "Australia",
+      "employees": "82 employees",
+      "erp_systems": [
+        "Lucy AI",
+        "ERP integration"
+      ],
+      "priority": "HIGH",
+      "why_target": "Acquired by Advantive March 2025",
+      "rank": 14,
+      "decision_makers": [
+        {
+          "name": "David Brice (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/davidbrice"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-014"
+    },
+    {
+      "company_name": "Wild Tech",
+      "country": "Australia",
+      "employees": "77 employees",
+      "erp_systems": [
+        "MS Dynamics 365"
+      ],
+      "priority": "HIGH",
+      "why_target": "Growing MS Dynamics specialist",
+      "rank": 15,
+      "decision_makers": [
+        {
+          "name": "Grant Wild (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/company/wild-tech-pty-ltd/"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-015"
+    },
+    {
+      "company_name": "Annexa",
+      "country": "Australia",
+      "employees": "65 employees",
+      "erp_systems": [
+        "Oracle NetSuite"
+      ],
+      "priority": "HIGHEST",
+      "why_target": "Top 10 global NetSuite partner, fashion/retail",
+      "rank": 16,
+      "decision_makers": [
+        {
+          "name": "Jarred Spriggs (MD)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/jarredspriggs"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-016"
+    },
+    {
+      "company_name": "Stratus Consulting Group",
+      "country": "Australia",
+      "employees": "58 employees",
+      "erp_systems": [
+        "MYOB",
+        "Wiise",
+        "Epicor"
+      ],
+      "priority": "HIGHEST",
+      "why_target": "MYOB Partner of Year, retail specialist",
+      "rank": 17,
+      "decision_makers": [
+        {
+          "name": "Michael Pendred / Mark Belkin",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/michaelpendred"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-017"
+    },
+    {
+      "company_name": "Apparel21",
+      "country": "Australia",
+      "employees": "51-200 employees",
+      "erp_systems": [
+        "Apparel21 (proprietary)"
+      ],
+      "priority": "HIGHEST",
+      "why_target": "Dominant fashion ERP, 40+ years",
+      "rank": 18,
+      "decision_makers": [
+        {
+          "name": "Daniel Broughton (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/daniel-broughton-a6ab01193"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-018"
+    },
+    {
+      "company_name": "Retail Express (Maropost)",
+      "country": "Australia",
+      "employees": "50-100 employees",
+      "erp_systems": [
+        "Retail POS"
+      ],
+      "priority": "HIGHEST",
+      "why_target": "Acquired by Maropost 2022, pure retail",
+      "rank": 19,
+      "decision_makers": [
+        {
+          "name": "Aaron Blackman (Founder/CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/aaron-blackman/"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-019"
+    },
+    {
+      "company_name": "Starshipit",
+      "country": "Australia",
+      "employees": "51-200 employees",
+      "erp_systems": [
+        "Shipping automation"
+      ],
+      "priority": "HIGH",
+      "why_target": "Anacacia Capital backed, retail shipping",
+      "rank": 20,
+      "decision_makers": [
+        {
+          "name": "George Plummer (Founder/CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/georgeplummer"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-020"
+    },
+    {
+      "company_name": "Leverage Technologies",
+      "country": "Australia",
+      "employees": "50+ specialists",
+      "erp_systems": [
+        "SAP B1",
+        "Sage",
+        "MYOB"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Multi-ERP Gold Partner, 16+ awards",
+      "rank": 21,
+      "decision_makers": [
+        {
+          "name": "Brett Mundell (MD)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/brett-mundell-19336412"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-021"
+    },
+    {
+      "company_name": "FourPL",
+      "country": "Australia",
+      "employees": "~50+ employees",
+      "erp_systems": [
+        "Blue Yonder",
+        "SAP EWM"
+      ],
+      "priority": "HIGHEST",
+      "why_target": "CIPS Award 2023, retail supply chain",
+      "rank": 22,
+      "decision_makers": [
+        {
+          "name": "Brett Findlay (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/brett-findlay-3938474"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-022"
+    },
+    {
+      "company_name": "Precise Business Solutions",
+      "country": "Australia",
+      "employees": "50+ staff",
+      "erp_systems": [
+        "Epicor Kinetic"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Epicor Worldwide Partner of Year",
+      "rank": 23,
+      "decision_makers": [
+        {
+          "name": "Mark Batina (Founder/MD)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/markbatina/"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-023"
+    },
+    {
+      "company_name": "ComActivity (now Atturra)",
+      "country": "Australia",
+      "employees": "40-51 employees",
+      "erp_systems": [
+        "Infor M3"
+      ],
+      "priority": "HIGH",
+      "why_target": "Acquired by Atturra (ASX:ATA) Dec 2024",
+      "rank": 24,
+      "decision_makers": [
+        {
+          "name": "Jason Levick (Co-Founder)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/jasonlevick"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-024"
+    },
+    {
+      "company_name": "ATB Partners",
+      "country": "Australia",
+      "employees": "36 employees",
+      "erp_systems": [
+        "Unleashed"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Established accounting firm",
+      "rank": 25,
+      "decision_makers": [
+        {
+          "name": "Michael Mekhitarian",
+          "title": "Key Executive",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-025"
+    },
+    {
+      "company_name": "Datapel Systems",
+      "country": "Australia",
+      "employees": "~25-50 employees",
+      "erp_systems": [
+        "WMS"
+      ],
+      "priority": "HIGH",
+      "why_target": "Australian WMS vendor",
+      "rank": 26,
+      "decision_makers": [
+        {
+          "name": "Adam Wesley (Founder/CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/adamwesley/"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-026"
+    },
+    {
+      "company_name": "OneKloudX",
+      "country": "Australia",
+      "employees": "~25 employees",
+      "erp_systems": [
+        "Oracle NetSuite"
+      ],
+      "priority": "HIGH",
+      "why_target": "CRN Fast50 #3, Rising Star 2023",
+      "rank": 27,
+      "decision_makers": [
+        {
+          "name": "Robert Jurcec (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/robert-jurcec-6152108"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-027"
+    },
+    {
+      "company_name": "Logistics Bureau Group",
+      "country": "Australia",
+      "employees": "20+ consultants",
+      "erp_systems": [
+        "Vendor-agnostic"
+      ],
+      "priority": "HIGH",
+      "why_target": "Established supply chain consultancy",
+      "rank": 28,
+      "decision_makers": [
+        {
+          "name": "Rob OByrne (Founder/CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "au.linkedin.com/in/robobyrne"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-028"
+    },
+    {
+      "company_name": "Trace Consultants",
+      "country": "Australia",
+      "employees": "~20+ consultants",
+      "erp_systems": [
+        "Vendor-agnostic"
+      ],
+      "priority": "HIGH",
+      "why_target": "Founded 2022, fast-growing",
+      "rank": 29,
+      "decision_makers": [
+        {
+          "name": "Shanaka Jayasinghe",
+          "title": "Key Executive",
+          "linkedin_url": "au.linkedin.com/company/trace-consulting-group"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-029"
+    },
+    {
+      "company_name": "Prological Consulting",
+      "country": "Australia",
+      "employees": "19 staff",
+      "erp_systems": [
+        "Vendor-agnostic"
+      ],
+      "priority": "HIGH",
+      "why_target": "100% independent",
+      "rank": 30,
+      "decision_makers": [
+        {
+          "name": "Peter Jones (Founder/MD)",
+          "title": "Key Executive",
+          "linkedin_url": "au.linkedin.com/in/peter-jones-79a7a212"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-030"
+    },
+    {
+      "company_name": "Software4Business",
+      "country": "Australia",
+      "employees": "~17 employees",
+      "erp_systems": [
+        "Cin7"
+      ],
+      "priority": "HIGH",
+      "why_target": "Cin7 Partner, retail/wholesale",
+      "rank": 31,
+      "decision_makers": [
+        {
+          "name": "Hanno Winterbach (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-031"
+    },
+    {
+      "company_name": "DWR Consulting",
+      "country": "Australia",
+      "employees": "~17 employees",
+      "erp_systems": [
+        "Oracle NetSuite"
+      ],
+      "priority": "HIGHEST",
+      "why_target": "100% AU team, retail & eCommerce specialist",
+      "rank": 32,
+      "decision_makers": [
+        {
+          "name": "Nigel Wooden (MD/Founder)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/dwrmd"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-032"
+    },
+    {
+      "company_name": "CitySoft Consulting",
+      "country": "Australia",
+      "employees": "15-30 (est)",
+      "erp_systems": [
+        "Sage X3",
+        "Intacct"
+      ],
+      "priority": "HIGH",
+      "why_target": "#1 Sage X3 partner ANZ",
+      "rank": 33,
+      "decision_makers": [
+        {
+          "name": "Ian Hill (MD)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/ian-h-2882371a"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-033"
+    },
+    {
+      "company_name": "Aptus Business Solutions",
+      "country": "Australia",
+      "employees": "~16 employees",
+      "erp_systems": [
+        "Sage Intacct",
+        "MYOB"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Adelaide-based",
+      "rank": 34,
+      "decision_makers": [
+        {
+          "name": "Joe Gentile (MD)",
+          "title": "Key Executive",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-034"
+    },
+    {
+      "company_name": "Extolla",
+      "country": "Australia",
+      "employees": "16+ staff",
+      "erp_systems": [
+        "Softeon WMS"
+      ],
+      "priority": "HIGHEST",
+      "why_target": "Founded Jan 2023, ex-enVista team",
+      "rank": 35,
+      "decision_makers": [
+        {
+          "name": "Peter Kendall (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/peter-kendall-11a7272"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-035"
+    },
+    {
+      "company_name": "WAO Group / WAO Connect",
+      "country": "Australia",
+      "employees": "11-50 employees",
+      "erp_systems": [
+        "Cin7",
+        "DEAR",
+        "Odoo"
+      ],
+      "priority": "HIGH",
+      "why_target": "Fashion/retail focus, Xero pioneer",
+      "rank": 36,
+      "decision_makers": [
+        {
+          "name": "Marlon Wambeek (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/marlon-wambeek-a2a79521/"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-036"
+    },
+    {
+      "company_name": "Integration Kings",
+      "country": "Australia",
+      "employees": "~9 employees",
+      "erp_systems": [
+        "Cin7 Core",
+        "DEAR"
+      ],
+      "priority": "HIGH",
+      "why_target": "Cin7 Elite Partner, 4.9 rating",
+      "rank": 37,
+      "decision_makers": [
+        {
+          "name": "Rob King (Co-Founder)",
+          "title": "Key Executive",
+          "linkedin_url": "au.linkedin.com/in/robertkingca"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-037"
+    },
+    {
+      "company_name": "Business Continuum",
+      "country": "Australia",
+      "employees": "~10 employees",
+      "erp_systems": [
+        "Unleashed",
+        "Cin7"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Ex-Xero employee",
+      "rank": 38,
+      "decision_makers": [
+        {
+          "name": "Matt Peng (Founder)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/company/business-continuum"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-038"
+    },
+    {
+      "company_name": "GrowthPath",
+      "country": "Australia",
+      "employees": "Small",
+      "erp_systems": [
+        "Cin7",
+        "DEAR",
+        "Unleashed"
+      ],
+      "priority": "HIGH",
+      "why_target": "Ex-CFO Philips Asia Pacific, analytics specialist",
+      "rank": 39,
+      "decision_makers": [
+        {
+          "name": "Tim Richardson (Founder)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/tim-richardson-cpa"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-039"
+    },
+    {
+      "company_name": "DigiCloud",
+      "country": "Australia",
+      "employees": "Small",
+      "erp_systems": [
+        "Lightspeed",
+        "Cin7",
+        "Shopify"
+      ],
+      "priority": "HIGH",
+      "why_target": "Melbourne retail cloud specialist",
+      "rank": 40,
+      "decision_makers": [
+        {
+          "name": "Jason Shico (Director)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/jasonshico"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-040"
+    },
+    {
+      "company_name": "9 Yards",
+      "country": "Australia",
+      "employees": "Small",
+      "erp_systems": [
+        "Cin7 (exclusively)"
+      ],
+      "priority": "HIGH",
+      "why_target": "Fashion, apparel, F&B, beauty",
+      "rank": 41,
+      "decision_makers": [
+        {
+          "name": "Paul Murray",
+          "title": "Key Executive",
+          "linkedin_url": "au.linkedin.com/in/paul-murray-8939a08a"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-041"
+    },
+    {
+      "company_name": "Beyond Expectations",
+      "country": "Australia",
+      "employees": "6 staff",
+      "erp_systems": [
+        "Cin7 Core",
+        "Omni"
+      ],
+      "priority": "HIGH",
+      "why_target": "NZ-based, serves AU",
+      "rank": 42,
+      "decision_makers": [
+        {
+          "name": "Peter Rowe (Founder/CEO)",
+          "title": "Key Executive",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-042"
+    },
+    {
+      "company_name": "Hawk Cloud Consulting",
+      "country": "Australia",
+      "employees": "Small",
+      "erp_systems": [
+        "Cin7 Core",
+        "DEAR"
+      ],
+      "priority": "HIGH",
+      "why_target": "E-commerce, fitness, retail",
+      "rank": 43,
+      "decision_makers": [
+        {
+          "name": "Kevin Smith",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/kevinsmithhcc/"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-043"
+    },
+    {
+      "company_name": "Cloud Ease Consulting",
+      "country": "Australia",
+      "employees": "2 employees",
+      "erp_systems": [
+        "Cin7 Core",
+        "DEAR"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "South Melbourne",
+      "rank": 44,
+      "decision_makers": [
+        {
+          "name": "Andrew Collins (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/andrewcollinsau/"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-044"
+    },
+    {
+      "company_name": "Cloudsolve",
+      "country": "Australia",
+      "employees": "<10 employees",
+      "erp_systems": [
+        "Unleashed",
+        "Vend"
+      ],
+      "priority": "HIGH",
+      "why_target": "Wholesale, retail, eCommerce",
+      "rank": 45,
+      "decision_makers": [
+        {
+          "name": "Rhys Roberts (Director)",
+          "title": "Key Executive",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-045"
+    },
+    {
+      "company_name": "Catalyst Cloud Solutions",
+      "country": "Australia",
+      "employees": "<5 employees",
+      "erp_systems": [
+        "Unleashed"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Adelaide-based",
+      "rank": 46,
+      "decision_makers": [
+        {
+          "name": "Scott Elder (Director)",
+          "title": "Key Executive",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-046"
+    },
+    {
+      "company_name": "JD Stride",
+      "country": "Australia",
+      "employees": "Est. 1999",
+      "erp_systems": [
+        "DEAR",
+        "Cin7 Core"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Google Premier Partner",
+      "rank": 47,
+      "decision_makers": [
+        {
+          "name": "Darren Sproats (Co-Founder)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/dsproats/"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-047"
+    },
+    {
+      "company_name": "Solution Minds Consulting",
+      "country": "Australia",
+      "employees": "Advisory team",
+      "erp_systems": [
+        "Vendor-agnostic"
+      ],
+      "priority": "HIGH",
+      "why_target": "100% independent, no commissions",
+      "rank": 48,
+      "decision_makers": [
+        {
+          "name": "Jamon Johnston (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/company/sm-c.com.au"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-048"
+    },
+    {
+      "company_name": "CMC Consulting",
+      "country": "Australia",
+      "employees": "40+ years experience",
+      "erp_systems": [
+        "Vendor-agnostic"
+      ],
+      "priority": "HIGHEST",
+      "why_target": "Fashion retail ERP selection expert",
+      "rank": 49,
+      "decision_makers": [
+        {
+          "name": "Peter Goes (MD)",
+          "title": "Key Executive",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-049"
+    },
+    {
+      "company_name": "Tower Systems",
+      "country": "Australia",
+      "employees": "3,500+ retailers",
+      "erp_systems": [
+        "Tower POS"
+      ],
+      "priority": "HIGHEST",
+      "why_target": "Acquired by Vela APX Nov 2024",
+      "rank": 50,
+      "decision_makers": [
+        {
+          "name": "Mark Fletcher (Founder/CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "au.linkedin.com/in/mark-fletcher-tower"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-050"
+    },
+    {
+      "company_name": "Fishbowl Inventory APAC",
+      "country": "Australia",
+      "employees": "600+ companies",
+      "erp_systems": [
+        "Fishbowl"
+      ],
+      "priority": "HIGH",
+      "why_target": "No partners - direct implementation",
+      "rank": 51,
+      "decision_makers": [
+        {
+          "name": "Simon Jupe (MD)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/simon-jupe-267a7737/"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-051"
+    },
+    {
+      "company_name": "Akuna Solutions",
+      "country": "Australia",
+      "employees": "<25 employees",
+      "erp_systems": [
+        "Sage Intacct",
+        "NetSuite"
+      ],
+      "priority": "LOW",
+      "why_target": "Melbourne-based",
+      "rank": 52,
+      "decision_makers": [
+        {
+          "name": "Mike Lorge (Director)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/mikelorge"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-052"
+    },
+    {
+      "company_name": "Giuntabell",
+      "country": "Australia",
+      "employees": "Small",
+      "erp_systems": [
+        "Sage Intacct"
+      ],
+      "priority": "LOW",
+      "why_target": "NFP specialist only",
+      "rank": 53,
+      "decision_makers": [
+        {
+          "name": "Nunzio Giunta CPA",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/nunziogiunta"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-053"
+    },
+    {
+      "company_name": "BISCIT Pty Ltd",
+      "country": "Australia",
+      "employees": "100+ years combined exp",
+      "erp_systems": [
+        "Epicor Kinetic"
+      ],
+      "priority": "HIGH",
+      "why_target": "Innovation awards, POS integration products",
+      "rank": 54,
+      "decision_makers": [
+        {
+          "name": "Greg Hyslop (Founder/CEO)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/greghyslop"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-054"
+    },
+    {
+      "company_name": "Tonic Technologies",
+      "country": "Australia",
+      "employees": "Small",
+      "erp_systems": [
+        "MYOB Acumatica"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Brisbane-based",
+      "rank": 55,
+      "decision_makers": [
+        {
+          "name": "James Wishart (Co-Founder)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/james-wishart-5a261430"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-055"
+    },
+    {
+      "company_name": "Havi Technology",
+      "country": "Australia",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "MS Dynamics",
+        "Odoo"
+      ],
+      "priority": "HIGH",
+      "why_target": "Retail/eCommerce focus",
+      "rank": 56,
+      "decision_makers": [
+        {
+          "name": "Carol Le (Exec Dir)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/carol-le-havi"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-056"
+    },
+    {
+      "company_name": "Ioppolo & Associates",
+      "country": "Australia",
+      "employees": "35+ years",
+      "erp_systems": [
+        "Odoo",
+        "Oracle"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Perth/Melbourne",
+      "rank": 57,
+      "decision_makers": [
+        {
+          "name": "Guy Ioppolo (Founder)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/guy-ioppolo"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-057"
+    },
+    {
+      "company_name": "TeamBlueSky",
+      "country": "Australia",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "Oracle NetSuite"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "BPO/Payroll specialist",
+      "rank": 58,
+      "decision_makers": [
+        {
+          "name": "Henry Sack (GM)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/henry-sack-71213a149"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-058"
+    },
+    {
+      "company_name": "RSM Australia",
+      "country": "Australia",
+      "employees": "500+ global resources",
+      "erp_systems": [
+        "Oracle NetSuite"
+      ],
+      "priority": "HIGH",
+      "why_target": "Global accounting firm, growing NetSuite",
+      "rank": 59,
+      "decision_makers": [
+        {
+          "name": "Brynt Moggach",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/brynt"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-059"
+    },
+    {
+      "company_name": "AVT",
+      "country": "Australia",
+      "employees": "20+ consultants",
+      "erp_systems": [
+        "Oracle NetSuite"
+      ],
+      "priority": "HIGH",
+      "why_target": "Retail/wholesale/eCommerce focus",
+      "rank": 60,
+      "decision_makers": [
+        {
+          "name": "Dr. Gaurav Srivastava (CEO)",
+          "title": "Key Executive",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-060"
+    },
+    {
+      "company_name": "BlueHub",
+      "country": "Australia",
+      "employees": "Global team",
+      "erp_systems": [
+        "Cin7 Core",
+        "Omni"
+      ],
+      "priority": "HIGH",
+      "why_target": "UK HQ, serves AU clients",
+      "rank": 61,
+      "decision_makers": [
+        {
+          "name": "Matt Flanagan (MD)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/mattflanagan3"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-061"
+    },
+    {
+      "company_name": "Henderson Logistics",
+      "country": "Australia",
+      "employees": "25+ years exp",
+      "erp_systems": [
+        "Vendor-agnostic"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Sydney, Melbourne",
+      "rank": 62,
+      "decision_makers": [
+        {
+          "name": "Vishnu Naidu (Director)",
+          "title": "Key Executive",
+          "linkedin_url": "au.linkedin.com/company/henderson-logistics"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-062"
+    },
+    {
+      "company_name": "MyIntegrator",
+      "country": "Australia",
+      "employees": "Small",
+      "erp_systems": [
+        "iPaaS",
+        "ERP Integration"
+      ],
+      "priority": "HIGH",
+      "why_target": "Melbourne integration specialist",
+      "rank": 63,
+      "decision_makers": [],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-063"
+    },
+    {
+      "company_name": "Invictus Partners",
+      "country": "Australia",
+      "employees": "Small",
+      "erp_systems": [
+        "Vendor-agnostic"
+      ],
+      "priority": "MEDIUM",
+      "why_target": "Does not resell/implement",
+      "rank": 64,
+      "decision_makers": [],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-064"
+    },
+    {
+      "company_name": "Walkerscott",
+      "country": "Australia",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "MS Dynamics 365"
+      ],
+      "priority": "LIMITED",
+      "why_target": "NZ/AU, Gov/NFP focus",
+      "rank": 65,
+      "decision_makers": [
+        {
+          "name": "Blair Scott (Co-Founder)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/blairpscott"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-065"
+    },
+    {
+      "company_name": "WMSSoft",
+      "country": "Australia",
+      "employees": "Small",
+      "erp_systems": [
+        "Odoo"
+      ],
+      "priority": "HIGH",
+      "why_target": "Melbourne, wholesale/retail",
+      "rank": 66,
+      "decision_makers": [],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-066"
+    },
+    {
+      "company_name": "Summer Technology",
+      "country": "Australia",
+      "employees": "Small",
+      "erp_systems": [
+        "Odoo"
+      ],
+      "priority": "HIGH",
+      "why_target": "Melbourne",
+      "rank": 67,
+      "decision_makers": [],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-067"
+    },
+    {
+      "company_name": "nConnect Group",
+      "country": "Australia",
+      "employees": "Global",
+      "erp_systems": [
+        "Blue Yonder WMS",
+        "TMS"
+      ],
+      "priority": "HIGH",
+      "why_target": "APAC supply chain",
+      "rank": 68,
+      "decision_makers": [
+        {
+          "name": "Andy Kim (GM)",
+          "title": "Key Executive",
+          "linkedin_url": "linkedin.com/in/andykim-nconnect"
+        }
+      ],
+      "data_source": "ranked_erp_partners.xlsx - Ranked by Size (1).csv",
+      "id": "au-068"
+    },
+    {
+      "company_name": "CitySoft Consulting",
+      "country": "Australia",
+      "city": "Melbourne, Sydney, Singapore, Malaysia, UK",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "Sage X3",
+        "Sage Intacct",
+        "Sage 300",
+        "SAP B1",
+        "MS Dynamics"
+      ],
+      "priority": "HIGH",
+      "awards": "Sage X3 Partner of Year 2023 & 2024 ANZ",
+      "retail_focus": "HIGH - Manufacturing, retail, F&B",
+      "decision_makers": [
+        {
+          "name": "Ian Hill",
+          "title": "Managing Director (Co-Founder)",
+          "linkedin_url": "linkedin.com/in/ian-h-2882371a"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 69,
+      "id": "au-069"
+    },
+    {
+      "company_name": "CitySoft Consulting",
+      "country": "Australia",
+      "city": "Melbourne HQ",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "Sage X3",
+        "Sage Intacct",
+        "Sage 300",
+        "SAP B1",
+        "MS Dynamics"
+      ],
+      "priority": "HIGH",
+      "awards": "",
+      "retail_focus": "HIGH",
+      "decision_makers": [
+        {
+          "name": "Warren Hetherington",
+          "title": "COO",
+          "linkedin_url": "linkedin.com/in/warren-hetherington-5817aba2"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 70,
+      "id": "au-070"
+    },
+    {
+      "company_name": "FUJIFILM MicroChannel",
+      "country": "Australia",
+      "city": "Sydney, Melbourne, Brisbane, Perth, Auckland, Singapore",
+      "employees": "100+ awards",
+      "erp_systems": [
+        "Sage Intacct",
+        "Sage X3",
+        "Sage 300",
+        "MS Dynamics",
+        "SAP B1",
+        "MYOB"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Sage Intacct Partner of Year 2024 & 2023, FUJIFILM acquired Feb 2023",
+      "retail_focus": "MEDIUM",
+      "decision_makers": [
+        {
+          "name": "Brett Matthews",
+          "title": "CEO",
+          "linkedin_url": "linkedin.com/in/brett-matthews-40871713"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 71,
+      "id": "au-071"
+    },
+    {
+      "company_name": "FUJIFILM MicroChannel",
+      "country": "Australia",
+      "city": "Sydney HQ",
+      "employees": "100+ awards",
+      "erp_systems": [
+        "Sage Intacct",
+        "Sage X3",
+        "Sage 300",
+        "MS Dynamics",
+        "SAP B1",
+        "MYOB"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Founder - sold to FUJIFILM Feb 2023 for ~$100M",
+      "retail_focus": "MEDIUM",
+      "decision_makers": [
+        {
+          "name": "Harach Lucas",
+          "title": "Senior Executive Advisor (Founder)",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 72,
+      "id": "au-072"
+    },
+    {
+      "company_name": "Leverage Technologies",
+      "country": "Australia",
+      "city": "Sydney, Melbourne, Brisbane",
+      "employees": "50+ specialists",
+      "erp_systems": [
+        "Sage X3",
+        "Sage Intacct",
+        "SAP B1",
+        "SAP ByDesign",
+        "MYOB Acumatica"
+      ],
+      "priority": "MEDIUM",
+      "awards": "16+ partner awards, SAP Gold Partner, 300+ ERP projects",
+      "retail_focus": "MEDIUM - Manufacturing, distribution",
+      "decision_makers": [
+        {
+          "name": "Brett Mundell",
+          "title": "Managing Director",
+          "linkedin_url": "linkedin.com/in/brett-mundell-19336412"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 73,
+      "id": "au-073"
+    },
+    {
+      "company_name": "Leverage Technologies",
+      "country": "Australia",
+      "city": "Sydney HQ",
+      "employees": "50+ specialists",
+      "erp_systems": [
+        "Sage X3",
+        "Sage Intacct",
+        "SAP B1",
+        "SAP ByDesign",
+        "MYOB Acumatica"
+      ],
+      "priority": "MEDIUM",
+      "awards": "450+ clients",
+      "retail_focus": "MEDIUM",
+      "decision_makers": [
+        {
+          "name": "Vikram Pachica",
+          "title": "Founder/EVP",
+          "linkedin_url": "linkedin.com/in/vikrampachica"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 74,
+      "id": "au-074"
+    },
+    {
+      "company_name": "Aptus Business Solutions",
+      "country": "Australia",
+      "city": "Rose Park SA 5067",
+      "employees": "~16 employees",
+      "erp_systems": [
+        "Sage Intacct",
+        "Sage X3",
+        "Sage 300",
+        "MYOB Acumatica"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Sage Select Partner of Year APAC 2021 & 2022",
+      "retail_focus": "MEDIUM - SaaS, NFP, hospitality",
+      "decision_makers": [
+        {
+          "name": "Jolyon (Joe) Gentile",
+          "title": "Managing Director",
+          "linkedin_url": "linkedin.com/in/joegentile"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 75,
+      "id": "au-075"
+    },
+    {
+      "company_name": "Akuna Solutions",
+      "country": "Australia",
+      "city": "Melbourne VIC 3000",
+      "employees": "<25 employees",
+      "erp_systems": [
+        "Sage Intacct",
+        "Oracle NetSuite",
+        "Salesforce"
+      ],
+      "priority": "LOWER",
+      "awards": "Sage ANZ Tech Partner of Year",
+      "retail_focus": "LOW",
+      "decision_makers": [
+        {
+          "name": "Mike Lorge",
+          "title": "Director",
+          "linkedin_url": "linkedin.com/in/mikelorge"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 76,
+      "id": "au-076"
+    },
+    {
+      "company_name": "Akuna Solutions",
+      "country": "Australia",
+      "city": "Melbourne",
+      "employees": "<25 employees",
+      "erp_systems": [
+        "Sage Intacct",
+        "Oracle NetSuite",
+        "Salesforce"
+      ],
+      "priority": "LOWER",
+      "awards": "",
+      "retail_focus": "LOW",
+      "decision_makers": [
+        {
+          "name": "Jurgens Snyman",
+          "title": "Services Director",
+          "linkedin_url": "linkedin.com/in/jurgens-snyman"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 77,
+      "id": "au-077"
+    },
+    {
+      "company_name": "Giuntabell",
+      "country": "Australia",
+      "city": "Australia",
+      "employees": "Small",
+      "erp_systems": [
+        "Sage Intacct"
+      ],
+      "priority": "LOWER",
+      "awards": "Sage Finance Futurist Award 2020, NFP Accountant of Year 2021",
+      "retail_focus": "LOW - NFP only",
+      "decision_makers": [
+        {
+          "name": "Nunzio Giunta CPA",
+          "title": "Founder & Managing Partner",
+          "linkedin_url": "linkedin.com/in/nunziogiunta"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 78,
+      "id": "au-078"
+    },
+    {
+      "company_name": "Cin7",
+      "country": "Australia",
+      "city": "Auckland NZ, Global",
+      "employees": "~400 employees",
+      "erp_systems": [
+        "Cin7 Core (DEAR)",
+        "Cin7 Omni"
+      ],
+      "priority": "HIGH",
+      "awards": "8,500+ customers, $100M+ Rubicon investment",
+      "retail_focus": "HIGH - Retail, wholesale, e-commerce",
+      "decision_makers": [
+        {
+          "name": "Ajoy Krishnamoorthy",
+          "title": "CEO",
+          "linkedin_url": "linkedin.com/in/ajoyk/"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 79,
+      "id": "au-079"
+    },
+    {
+      "company_name": "Cin7",
+      "country": "Australia",
+      "city": "Auckland NZ",
+      "employees": "~400 employees",
+      "erp_systems": [
+        "Cin7 Core (DEAR)",
+        "Cin7 Omni"
+      ],
+      "priority": "HIGH",
+      "awards": "Founded 2012",
+      "retail_focus": "HIGH",
+      "decision_makers": [
+        {
+          "name": "Danny Ing",
+          "title": "Founder/Chief Innovation Officer",
+          "linkedin_url": "nz.linkedin.com/in/danny-ing"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 80,
+      "id": "au-080"
+    },
+    {
+      "company_name": "Cin7",
+      "country": "Australia",
+      "city": "Global",
+      "employees": "~400 employees",
+      "erp_systems": [
+        "Cin7 Core (DEAR)",
+        "Cin7 Omni"
+      ],
+      "priority": "HIGH",
+      "awards": "Promoted to President Feb 2024",
+      "retail_focus": "HIGH",
+      "decision_makers": [
+        {
+          "name": "Nolan Smith",
+          "title": "President/COO",
+          "linkedin_url": "linkedin.com/in/smithnolant"
+        },
+        {
+          "name": "Kris Kniaz",
+          "title": "CTO",
+          "linkedin_url": "linkedin.com/in/kriskniaz"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 81,
+      "id": "au-081"
+    },
+    {
+      "company_name": "Retail Express (Maropost)",
+      "country": "Australia",
+      "city": "Brisbane QLD",
+      "employees": "50-100 employees",
+      "erp_systems": [
+        "Proprietary retail POS",
+        "inventory",
+        "e-commerce"
+      ],
+      "priority": "HIGH",
+      "awards": "$55M acquisition by Maropost 2022, $50B+ sales processed",
+      "retail_focus": "HIGHEST - Pure retail focus",
+      "decision_makers": [
+        {
+          "name": "Aaron Blackman",
+          "title": "Founder & CEO",
+          "linkedin_url": "linkedin.com/in/aaron-blackman/"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 82,
+      "id": "au-082"
+    },
+    {
+      "company_name": "Tower Systems",
+      "country": "Australia",
+      "city": "Hawthorn, Melbourne",
+      "employees": "3,500+ retailers",
+      "erp_systems": [
+        "Tower POS",
+        "Xero integration"
+      ],
+      "priority": "HIGH",
+      "awards": "Acquired by Vela APX Nov 2024",
+      "retail_focus": "HIGHEST - 16 retail verticals",
+      "decision_makers": [
+        {
+          "name": "Mark Fletcher",
+          "title": "Founder & CEO",
+          "linkedin_url": "au.linkedin.com/in/mark-fletcher-tower"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 83,
+      "id": "au-083"
+    },
+    {
+      "company_name": "Datapel Systems",
+      "country": "Australia",
+      "city": "North Ryde NSW",
+      "employees": "~25-50 employees",
+      "erp_systems": [
+        "WMS Plus",
+        "WMS Professional",
+        "WMS Enterprise",
+        "DataPOS"
+      ],
+      "priority": "MEDIUM",
+      "awards": "World Future Awards 2024",
+      "retail_focus": "HIGH - Retail distribution",
+      "decision_makers": [
+        {
+          "name": "Adam Wesley",
+          "title": "Founder & Managing Director/CEO",
+          "linkedin_url": "linkedin.com/in/adamwesley/"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 84,
+      "id": "au-084"
+    },
+    {
+      "company_name": "Simpro (simPRO Group)",
+      "country": "Australia",
+      "city": "Brisbane HQ, 6 countries",
+      "employees": "700+ employees",
+      "erp_systems": [
+        "Simpro FSM"
+      ],
+      "priority": "MEDIUM",
+      "awards": "$350M+ K1 investment, transitioned from CEO to Board Advisor",
+      "retail_focus": "MEDIUM - Field service",
+      "decision_makers": [
+        {
+          "name": "Gary Specter",
+          "title": "Board Advisor (former CEO)",
+          "linkedin_url": "linkedin.com/in/gary-specter"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 85,
+      "id": "au-085"
+    },
+    {
+      "company_name": "Simpro (simPRO Group)",
+      "country": "Australia",
+      "city": "Brisbane",
+      "employees": "700+ employees",
+      "erp_systems": [
+        "Simpro FSM"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Former electrical contractor",
+      "retail_focus": "MEDIUM",
+      "decision_makers": [
+        {
+          "name": "Steve Bradshaw",
+          "title": "Co-Founder",
+          "linkedin_url": "au.linkedin.com/in/stephenjbradshaw"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 86,
+      "id": "au-086"
+    },
+    {
+      "company_name": "Starshipit",
+      "country": "Australia",
+      "city": "Auckland NZ",
+      "employees": "51-200 employees",
+      "erp_systems": [
+        "Shipping platform",
+        "60+ couriers"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Acquired by Anacacia Capital 2023, 30K+ retailers",
+      "retail_focus": "HIGH - Retail shipping",
+      "decision_makers": [
+        {
+          "name": "George Plummer",
+          "title": "Founder & CEO",
+          "linkedin_url": "linkedin.com/in/georgeplummer"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 87,
+      "id": "au-087"
+    },
+    {
+      "company_name": "Integration Kings",
+      "country": "Australia",
+      "city": "Loganholme QLD",
+      "employees": "~9 employees",
+      "erp_systems": [
+        "Cin7 Core",
+        "DEAR",
+        "Xero",
+        "Shopify"
+      ],
+      "priority": "HIGH",
+      "awards": "Elite Partner (highest tier), 4.9 rating",
+      "retail_focus": "HIGH - Retail, wholesale, e-commerce",
+      "decision_makers": [
+        {
+          "name": "Rob King",
+          "title": "Co-Founder",
+          "linkedin_url": "au.linkedin.com/in/robertkingca"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 88,
+      "id": "au-088"
+    },
+    {
+      "company_name": "Software4Business",
+      "country": "Australia",
+      "city": "Brisbane QLD",
+      "employees": "~17 employees",
+      "erp_systems": [
+        "Cin7",
+        "Cin7 Core",
+        "Xero",
+        "QuickBooks",
+        "Shopify"
+      ],
+      "priority": "MEDIUM",
+      "awards": "5.0 rating, 20+ years consulting",
+      "retail_focus": "HIGH - Retail, wholesale, food",
+      "decision_makers": [
+        {
+          "name": "Hanno Winterbach",
+          "title": "CEO",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 89,
+      "id": "au-089"
+    },
+    {
+      "company_name": "9 Yards",
+      "country": "Australia",
+      "city": "Australia",
+      "employees": "Small",
+      "erp_systems": [
+        "Cin7 (exclusively)"
+      ],
+      "priority": "MEDIUM",
+      "awards": "5.0 rating, 28 reviews, Founded 2016",
+      "retail_focus": "HIGH - Fashion, apparel, F&B, beauty",
+      "decision_makers": [
+        {
+          "name": "Paul Murray",
+          "title": "Senior Specialist",
+          "linkedin_url": "au.linkedin.com/in/paul-murray-8939a08a"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 90,
+      "id": "au-090"
+    },
+    {
+      "company_name": "Cloud Ease Consulting",
+      "country": "Australia",
+      "city": "South Melbourne VIC",
+      "employees": "2 employees",
+      "erp_systems": [
+        "Cin7 Core",
+        "DEAR",
+        "Unleashed",
+        "Xero"
+      ],
+      "priority": "LOWER",
+      "awards": "4.8 rating",
+      "retail_focus": "MEDIUM - Wholesale, retail",
+      "decision_makers": [
+        {
+          "name": "Andrew Collins",
+          "title": "CEO & Founder",
+          "linkedin_url": "linkedin.com/in/andrewcollinsau/"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 91,
+      "id": "au-091"
+    },
+    {
+      "company_name": "Hawk Cloud Consulting",
+      "country": "Australia",
+      "city": "Sydney",
+      "employees": "Small",
+      "erp_systems": [
+        "Cin7 Core",
+        "DEAR",
+        "Shopify POS"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Premium Partner, 5.0 rating, 35 reviews",
+      "retail_focus": "HIGH - E-commerce, fitness, retail",
+      "decision_makers": [
+        {
+          "name": "Kevin Smith",
+          "title": "Director of Technology",
+          "linkedin_url": "linkedin.com/in/kevinsmithhcc/"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 92,
+      "id": "au-092"
+    },
+    {
+      "company_name": "WAO Group / WAO Connect",
+      "country": "Australia",
+      "city": "Baulkham Hills NSW",
+      "employees": "11-50 employees",
+      "erp_systems": [
+        "DEAR",
+        "Cin7",
+        "Odoo ERP",
+        "Xero"
+      ],
+      "priority": "HIGH",
+      "awards": "Fashion/retail focus",
+      "retail_focus": "HIGH - eCommerce, fashion, retail",
+      "decision_makers": [
+        {
+          "name": "Marlon Wambeek",
+          "title": "CEO & Co-Founder",
+          "linkedin_url": "linkedin.com/in/marlon-wambeek-a2a79521/"
+        },
+        {
+          "name": "Jeri Wambeek",
+          "title": "CRO & Co-Founder",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 93,
+      "id": "au-093"
+    },
+    {
+      "company_name": "JD Stride",
+      "country": "Australia",
+      "city": "Bundoora, Melbourne",
+      "employees": "Est. 1999, 2,500+ projects",
+      "erp_systems": [
+        "DEAR",
+        "Cin7 Core",
+        "Google Workspace"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Google Premier Partner",
+      "retail_focus": "MEDIUM",
+      "decision_makers": [
+        {
+          "name": "Darren Sproats",
+          "title": "Co-Founder & Director",
+          "linkedin_url": "linkedin.com/in/dsproats/"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 94,
+      "id": "au-094"
+    },
+    {
+      "company_name": "BlueHub",
+      "country": "Australia",
+      "city": "UK HQ, serves AU/UAE/Europe/USA",
+      "employees": "Global",
+      "erp_systems": [
+        "Cin7 Core",
+        "Cin7 Omni"
+      ],
+      "priority": "MEDIUM",
+      "awards": "CEO Pick of Year 2023, 5.0 rating 53 reviews (UK-based)",
+      "retail_focus": "HIGH - Global retail",
+      "decision_makers": [
+        {
+          "name": "Matt Flanagan",
+          "title": "Managing Director",
+          "linkedin_url": "linkedin.com/in/mattflanagan3"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 95,
+      "id": "au-095"
+    },
+    {
+      "company_name": "Beyond Expectations",
+      "country": "Australia",
+      "city": "Auckland NZ",
+      "employees": "6 staff",
+      "erp_systems": [
+        "Cin7 Core",
+        "Cin7 Omni",
+        "Xero",
+        "WorkflowMax"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Technology Partner of Year 2023",
+      "retail_focus": "HIGH",
+      "decision_makers": [
+        {
+          "name": "Peter Rowe",
+          "title": "Founder & CEO",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 96,
+      "id": "au-096"
+    },
+    {
+      "company_name": "GrowthPath",
+      "country": "Australia",
+      "city": "Bundoora, Melbourne",
+      "employees": "Small",
+      "erp_systems": [
+        "Cin7",
+        "DEAR",
+        "Unleashed",
+        "Xero",
+        "Power BI"
+      ],
+      "priority": "HIGH",
+      "awards": "Advanced analytics connectors, ex-CFO Philips Asia Pacific",
+      "retail_focus": "HIGH - Analytics/BI specialist",
+      "decision_makers": [
+        {
+          "name": "Tim Richardson",
+          "title": "Founder (CPA)",
+          "linkedin_url": "linkedin.com/in/tim-richardson-cpa"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 97,
+      "id": "au-097"
+    },
+    {
+      "company_name": "DigiCloud",
+      "country": "Australia",
+      "city": "Melbourne",
+      "employees": "Small",
+      "erp_systems": [
+        "Lightspeed",
+        "Cin7",
+        "Shopify",
+        "Xero"
+      ],
+      "priority": "MEDIUM",
+      "awards": "POS integration specialist",
+      "retail_focus": "HIGH - Retail cloud",
+      "decision_makers": [
+        {
+          "name": "Jason Shico",
+          "title": "Director",
+          "linkedin_url": "linkedin.com/in/jasonshico"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 98,
+      "id": "au-098"
+    },
+    {
+      "company_name": "Business Continuum",
+      "country": "Australia",
+      "city": "Blackburn VIC",
+      "employees": "~10 employees",
+      "erp_systems": [
+        "Unleashed",
+        "Cin7",
+        "DEAR",
+        "WorkflowMax",
+        "Xero"
+      ],
+      "priority": "MEDIUM",
+      "awards": "One of Xeros first AU employees, Founded 2014",
+      "retail_focus": "MEDIUM - Wholesale, creative",
+      "decision_makers": [
+        {
+          "name": "Matt Peng",
+          "title": "Founder",
+          "linkedin_url": "linkedin.com/company/business-continuum"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 99,
+      "id": "au-099"
+    },
+    {
+      "company_name": "Cloudsolve",
+      "country": "Australia",
+      "city": "Sydney NSW",
+      "employees": "<10 employees",
+      "erp_systems": [
+        "Unleashed",
+        "Vend POS",
+        "Xero"
+      ],
+      "priority": "MEDIUM",
+      "awards": "20+ years, MBA Macquarie",
+      "retail_focus": "HIGH - Wholesale, retail, eCommerce",
+      "decision_makers": [
+        {
+          "name": "Rhys Roberts",
+          "title": "Director & Founder",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 100,
+      "id": "au-100"
+    },
+    {
+      "company_name": "Catalyst Cloud Solutions",
+      "country": "Australia",
+      "city": "Adelaide SA",
+      "employees": "<5 employees",
+      "erp_systems": [
+        "Unleashed",
+        "Xero"
+      ],
+      "priority": "LOWER",
+      "awards": "Xero Preferred Integrator, Founded 2014",
+      "retail_focus": "MEDIUM",
+      "decision_makers": [
+        {
+          "name": "Scott Elder",
+          "title": "Director & Co-Founder",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 101,
+      "id": "au-101"
+    },
+    {
+      "company_name": "ATB Partners",
+      "country": "Australia",
+      "city": "Parramatta NSW",
+      "employees": "36 employees",
+      "erp_systems": [
+        "Unleashed",
+        "cloud accounting"
+      ],
+      "priority": "LOWER",
+      "awards": "20+ years CPA",
+      "retail_focus": "MEDIUM",
+      "decision_makers": [
+        {
+          "name": "Michael Mekhitarian",
+          "title": "Co-Founder & Director",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 102,
+      "id": "au-102"
+    },
+    {
+      "company_name": "Fishbowl Inventory Asia Pacific",
+      "country": "Australia",
+      "city": "Mooloolaba QLD",
+      "employees": "600+ companies",
+      "erp_systems": [
+        "Fishbowl Manufacturing",
+        "Fishbowl Warehouse",
+        "Fishbowl Go"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Direct implementation model - no partners",
+      "retail_focus": "HIGH - Manufacturing, wholesale, F&B",
+      "decision_makers": [
+        {
+          "name": "Simon Jupe",
+          "title": "Managing Director",
+          "linkedin_url": "linkedin.com/in/simon-jupe-267a7737/"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 103,
+      "id": "au-103"
+    },
+    {
+      "company_name": "Cohesio Group (K\u00f6rber ANZ)",
+      "country": "Australia",
+      "city": "Melbourne HQ",
+      "employees": "Part of K\u00f6rber (13K+ global)",
+      "erp_systems": [
+        "K\u00f6rber WMS",
+        "HighJump",
+        "Voice-directed",
+        "AMR robotics"
+      ],
+      "priority": "HIGH",
+      "awards": "Acquired Sept 2019 by K\u00f6rber",
+      "retail_focus": "HIGHEST - Chemist Warehouse, Adore Beauty",
+      "decision_makers": [
+        {
+          "name": "Nishan Wijemanne",
+          "title": "CEO",
+          "linkedin_url": "au.linkedin.com/in/nishanwijemanne"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 104,
+      "id": "au-104"
+    },
+    {
+      "company_name": "FourPL",
+      "country": "Australia",
+      "city": "Brisbane, Sydney, Melbourne",
+      "employees": "~50+ employees",
+      "erp_systems": [
+        "Blue Yonder WMS",
+        "SAP EWM",
+        "Infor WMS",
+        "Oracle WMS"
+      ],
+      "priority": "HIGH",
+      "awards": "CIPS ANZ Procurement Consultancy Award 2023, Also Chairman Open Sky Group",
+      "retail_focus": "HIGHEST - Super Retail Group, Amart",
+      "decision_makers": [
+        {
+          "name": "Brett Findlay",
+          "title": "CEO",
+          "linkedin_url": "linkedin.com/in/brett-findlay-3938474"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 105,
+      "id": "au-105"
+    },
+    {
+      "company_name": "FourPL",
+      "country": "Australia",
+      "city": "Brisbane HQ",
+      "employees": "~50+ employees",
+      "erp_systems": [
+        "Blue Yonder WMS",
+        "SAP EWM",
+        "Infor WMS",
+        "Oracle WMS"
+      ],
+      "priority": "HIGH",
+      "awards": "Leads Queensland office",
+      "retail_focus": "HIGHEST",
+      "decision_makers": [
+        {
+          "name": "Anthony Hawkins",
+          "title": "CSO (Founding Partner)",
+          "linkedin_url": "linkedin.com/in/anthony-hawkins-9795034"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 106,
+      "id": "au-106"
+    },
+    {
+      "company_name": "FourPL",
+      "country": "Australia",
+      "city": "Brisbane",
+      "employees": "~50+ employees",
+      "erp_systems": [
+        "Blue Yonder WMS",
+        "SAP EWM",
+        "Infor WMS",
+        "Oracle WMS"
+      ],
+      "priority": "HIGH",
+      "awards": "Title corrected from Partner",
+      "retail_focus": "HIGHEST",
+      "decision_makers": [
+        {
+          "name": "Chris Poulton",
+          "title": "COO",
+          "linkedin_url": "linkedin.com/in/cepoulton"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 107,
+      "id": "au-107"
+    },
+    {
+      "company_name": "Open Sky Group Australia",
+      "country": "Australia",
+      "city": "Australia",
+      "employees": "160+ BY specialists globally",
+      "erp_systems": [
+        "Blue Yonder WMS",
+        "TMS",
+        "LMS",
+        "K\u00f6rber Warehouse Advantage"
+      ],
+      "priority": "MEDIUM",
+      "awards": "BY Supply Chain Execution Partner of Year 2025, Ex-Deloitte/EY/IBM/PwC",
+      "retail_focus": "HIGH - 3PL, retail, e-commerce",
+      "decision_makers": [
+        {
+          "name": "Ian Drummond",
+          "title": "CEO Australia",
+          "linkedin_url": "au.linkedin.com/in/ian-drummond-6b41862"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 108,
+      "id": "au-108"
+    },
+    {
+      "company_name": "Extolla",
+      "country": "Australia",
+      "city": "Australia, NZ, Southeast Asia",
+      "employees": "16+ staff",
+      "erp_systems": [
+        "Softeon WMS (technology agnostic)"
+      ],
+      "priority": "HIGH",
+      "awards": "Founded Jan 2023, ex-enVista APAC team",
+      "retail_focus": "HIGHEST - Coles Liquor, The Iconic",
+      "decision_makers": [
+        {
+          "name": "Peter Kendall",
+          "title": "CEO",
+          "linkedin_url": "linkedin.com/in/peter-kendall-11a7272"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 109,
+      "id": "au-109"
+    },
+    {
+      "company_name": "Extolla",
+      "country": "Australia",
+      "city": "Australia",
+      "employees": "16+ staff",
+      "erp_systems": [
+        "Softeon WMS (technology agnostic)"
+      ],
+      "priority": "HIGH",
+      "awards": "30+ years automation experience",
+      "retail_focus": "HIGHEST",
+      "decision_makers": [
+        {
+          "name": "David Bille",
+          "title": "Director, DC Design/Automation",
+          "linkedin_url": "linkedin.com/in/david-bille-39b70919"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 110,
+      "id": "au-110"
+    },
+    {
+      "company_name": "Logistics Bureau Group",
+      "country": "Australia",
+      "city": "Sydney HQ, Bangkok",
+      "employees": "27+ years, 2,000+ clients",
+      "erp_systems": [
+        "Vendor-agnostic consulting"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Industry Excellence Award 2018",
+      "retail_focus": "HIGH - Retail, FMCG",
+      "decision_makers": [
+        {
+          "name": "Rob OByrne",
+          "title": "Founder, Owner & Group CEO",
+          "linkedin_url": "au.linkedin.com/in/robobyrne"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 111,
+      "id": "au-111"
+    },
+    {
+      "company_name": "Trace Consultants",
+      "country": "Australia",
+      "city": "Melbourne",
+      "employees": "~20+ consultants",
+      "erp_systems": [
+        "Vendor-agnostic",
+        ".Store WMS",
+        ".Planner"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Founded 2022",
+      "retail_focus": "HIGH - Retail, FMCG",
+      "decision_makers": [
+        {
+          "name": "Shanaka Jayasinghe",
+          "title": "Co-Founder & Partner",
+          "linkedin_url": "au.linkedin.com/company/trace-consulting-group"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 112,
+      "id": "au-112"
+    },
+    {
+      "company_name": "Trace Consultants",
+      "country": "Australia",
+      "city": "Sydney",
+      "employees": "~20+ consultants",
+      "erp_systems": [
+        "Vendor-agnostic",
+        ".Store WMS",
+        ".Planner"
+      ],
+      "priority": "MEDIUM",
+      "awards": "",
+      "retail_focus": "HIGH",
+      "decision_makers": [
+        {
+          "name": "Mathew Tolley",
+          "title": "Co-Founder & Partner",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 113,
+      "id": "au-113"
+    },
+    {
+      "company_name": "Prological Consulting",
+      "country": "Australia",
+      "city": "Wollongong HQ",
+      "employees": "19 staff, 150+ projects",
+      "erp_systems": [
+        "Vendor-agnostic"
+      ],
+      "priority": "MEDIUM",
+      "awards": "The Iconic client, 100% independent",
+      "retail_focus": "HIGH - Retail, fashion",
+      "decision_makers": [
+        {
+          "name": "Peter Jones",
+          "title": "Founder & Managing Director",
+          "linkedin_url": "au.linkedin.com/in/peter-jones-79a7a212"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 114,
+      "id": "au-114"
+    },
+    {
+      "company_name": "Henderson Logistics",
+      "country": "Australia",
+      "city": "Sydney, Melbourne",
+      "employees": "25+ years exp",
+      "erp_systems": [
+        "Vendor-agnostic"
+      ],
+      "priority": "LOWER",
+      "awards": "",
+      "retail_focus": "MEDIUM - Apparel, e-commerce",
+      "decision_makers": [
+        {
+          "name": "Vishnu Naidu",
+          "title": "Director & Principal",
+          "linkedin_url": "au.linkedin.com/company/henderson-logistics"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 115,
+      "id": "au-115"
+    },
+    {
+      "company_name": "nConnect Group",
+      "country": "Australia",
+      "city": "APAC",
+      "employees": "Global",
+      "erp_systems": [
+        "Blue Yonder WMS",
+        "TMS"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Blue Yonder implementation partner",
+      "retail_focus": "HIGH - 3PL",
+      "decision_makers": [
+        {
+          "name": "Andy Kim",
+          "title": "GM Operations",
+          "linkedin_url": "linkedin.com/in/andykim-nconnect"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 116,
+      "id": "au-116"
+    },
+    {
+      "company_name": "Manhattan Associates Australia",
+      "country": "Australia",
+      "city": "Sydney (Chatswood)",
+      "employees": "Enterprise",
+      "erp_systems": [
+        "Manhattan Active WMS",
+        "TMS",
+        "OMS",
+        "POS"
+      ],
+      "priority": "HIGH",
+      "awards": "17x Gartner WMS Magic Quadrant Leader",
+      "retail_focus": "HIGHEST - Enterprise omnichannel",
+      "decision_makers": [
+        {
+          "name": "Raghav Sibal",
+          "title": "Managing Director ANZ",
+          "linkedin_url": "linkedin.com/in/raghavsibal"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 117,
+      "id": "au-117"
+    },
+    {
+      "company_name": "Fusion5",
+      "country": "Australia",
+      "city": "Sydney, Melbourne, Perth, Auckland",
+      "employees": "$160M+ revenue, 1,200+ customers",
+      "erp_systems": [
+        "Oracle NetSuite",
+        "Oracle JD Edwards",
+        "Oracle Fusion"
+      ],
+      "priority": "HIGH",
+      "awards": "3rd Most Significant Global NetSuite Partner, Appointed Oct 2024",
+      "retail_focus": "HIGH - Wholesale distribution",
+      "decision_makers": [
+        {
+          "name": "Deepak Nangia",
+          "title": "Group CEO",
+          "linkedin_url": "linkedin.com/in/deepak-nangia-7079719"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 118,
+      "id": "au-118"
+    },
+    {
+      "company_name": "Fusion5",
+      "country": "Australia",
+      "city": "Sydney HQ",
+      "employees": "$160M+ revenue",
+      "erp_systems": [
+        "Oracle NetSuite",
+        "Oracle JD Edwards",
+        "Oracle Fusion"
+      ],
+      "priority": "HIGH",
+      "awards": "Appointed May 2023",
+      "retail_focus": "HIGH",
+      "decision_makers": [
+        {
+          "name": "Sven Martin",
+          "title": "CEO Australia",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 119,
+      "id": "au-119"
+    },
+    {
+      "company_name": "Fusion5",
+      "country": "Australia",
+      "city": "Auckland NZ",
+      "employees": "$160M+ revenue",
+      "erp_systems": [
+        "Oracle NetSuite",
+        "Oracle JD Edwards",
+        "Oracle Fusion"
+      ],
+      "priority": "HIGH",
+      "awards": "Co-Founded Fusion5 2002",
+      "retail_focus": "HIGH",
+      "decision_makers": [
+        {
+          "name": "Rebecca Tohill",
+          "title": "Executive Chair (Founder)",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 120,
+      "id": "au-120"
+    },
+    {
+      "company_name": "NRI Australia & New Zealand",
+      "country": "Australia",
+      "city": "Sydney HQ",
+      "employees": "2,500+ professionals ANZ",
+      "erp_systems": [
+        "Oracle Fusion Cloud (ERP",
+        "EPM",
+        "SCM",
+        "HCM)",
+        "Oracle Cloud Infrastructure"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Appointed Dec 2024, ex-Capgemini CEO, ex-Deloitte Partner",
+      "retail_focus": "MEDIUM",
+      "decision_makers": [
+        {
+          "name": "Kaylene OBrien",
+          "title": "CEO",
+          "linkedin_url": "au.linkedin.com/in/kaylene-o-brien-gaicd-1399a111"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 121,
+      "id": "au-121"
+    },
+    {
+      "company_name": "AVT (Absolute Vision Tech)",
+      "country": "Australia",
+      "city": "Sydney NSW",
+      "employees": "500+ projects, 250+ implementations",
+      "erp_systems": [
+        "Oracle NetSuite"
+      ],
+      "priority": "HIGH",
+      "awards": "ANZ Rising Star Partner 2020",
+      "retail_focus": "HIGH - Retail, Wholesale, eCommerce",
+      "decision_makers": [
+        {
+          "name": "Dr. Gaurav Srivastava",
+          "title": "CEO & Founder",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 122,
+      "id": "au-122"
+    },
+    {
+      "company_name": "AVT (Absolute Vision Tech)",
+      "country": "Australia",
+      "city": "Sydney",
+      "employees": "500+ projects",
+      "erp_systems": [
+        "Oracle NetSuite"
+      ],
+      "priority": "HIGH",
+      "awards": "At AVT since 2010",
+      "retail_focus": "HIGH",
+      "decision_makers": [
+        {
+          "name": "Melanie Kruppa-Srivastava",
+          "title": "Business Director (Co-Founder)",
+          "linkedin_url": "au.linkedin.com/pub/melanie-patricia-kruppa/7/ba/272"
+        },
+        {
+          "name": "Anthony Long",
+          "title": "COO",
+          "linkedin_url": "linkedin.com/in/anthonylong1"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 123,
+      "id": "au-123"
+    },
+    {
+      "company_name": "RSM Australia",
+      "country": "Australia",
+      "city": "Multiple locations",
+      "employees": "500+ global resources",
+      "erp_systems": [
+        "Oracle NetSuite"
+      ],
+      "priority": "MEDIUM",
+      "awards": "NetSuite 2025 ANZ Growth Partner of Year (Name corrected from Brynt Woodall)",
+      "retail_focus": "HIGH",
+      "decision_makers": [
+        {
+          "name": "Brynt Moggach",
+          "title": "Sales Director/GM ERP Consulting",
+          "linkedin_url": "linkedin.com/in/brynt"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 124,
+      "id": "au-124"
+    },
+    {
+      "company_name": "TeamBlueSky",
+      "country": "Australia",
+      "city": "Australia",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "Oracle NetSuite",
+        "JCurve"
+      ],
+      "priority": "MEDIUM",
+      "awards": "30+ years business management",
+      "retail_focus": "MEDIUM",
+      "decision_makers": [
+        {
+          "name": "Stephen Nankervis",
+          "title": "CEO & Founder",
+          "linkedin_url": "au.linkedin.com/company/team-blue-sky"
+        },
+        {
+          "name": "Henry Sack",
+          "title": "General Manager",
+          "linkedin_url": "linkedin.com/in/henry-sack-71213a149"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 125,
+      "id": "au-125"
+    },
+    {
+      "company_name": "Annexa",
+      "country": "Australia",
+      "city": "Port Melbourne, Sydney, NZ, Singapore, Malaysia",
+      "employees": "65 employees",
+      "erp_systems": [
+        "Oracle NetSuite"
+      ],
+      "priority": "HIGH",
+      "awards": "Top 10 global NetSuite partner, now Advisor",
+      "retail_focus": "HIGHEST - T2, Aesop, MAAP, Tiger Mist",
+      "decision_makers": [
+        {
+          "name": "Ross Spriggs",
+          "title": "Founder (Advisor to Board)",
+          "linkedin_url": "linkedin.com/in/ross-spriggs-15598113"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 126,
+      "id": "au-126"
+    },
+    {
+      "company_name": "Annexa",
+      "country": "Australia",
+      "city": "Port Melbourne",
+      "employees": "65 employees",
+      "erp_systems": [
+        "Oracle NetSuite"
+      ],
+      "priority": "HIGH",
+      "awards": "Current MD",
+      "retail_focus": "HIGHEST",
+      "decision_makers": [
+        {
+          "name": "Jarred Spriggs",
+          "title": "Managing Director",
+          "linkedin_url": "linkedin.com/in/jarredspriggs"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 127,
+      "id": "au-127"
+    },
+    {
+      "company_name": "DWR Consulting",
+      "country": "Australia",
+      "city": "Sydney (Chippendale), Melbourne",
+      "employees": "~17, 100% AU team, 200+ projects",
+      "erp_systems": [
+        "Oracle NetSuite"
+      ],
+      "priority": "HIGH",
+      "awards": "15+ years NetSuite, 250+ successful projects",
+      "retail_focus": "HIGHEST - Retail & Ecommerce focus",
+      "decision_makers": [
+        {
+          "name": "Nigel Wooden",
+          "title": "Managing Director/Founder",
+          "linkedin_url": "linkedin.com/in/dwrmd"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 128,
+      "id": "au-128"
+    },
+    {
+      "company_name": "DWR Consulting",
+      "country": "Australia",
+      "city": "Sydney",
+      "employees": "~17",
+      "erp_systems": [
+        "Oracle NetSuite"
+      ],
+      "priority": "HIGH",
+      "awards": "25+ years sales/marketing",
+      "retail_focus": "HIGHEST",
+      "decision_makers": [
+        {
+          "name": "Tiernan OConnor",
+          "title": "Director, Customer Engagement",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 129,
+      "id": "au-129"
+    },
+    {
+      "company_name": "OneKloudX",
+      "country": "Australia",
+      "city": "Melbourne",
+      "employees": "~25, 80+ clients",
+      "erp_systems": [
+        "Oracle NetSuite"
+      ],
+      "priority": "HIGH",
+      "awards": "NetSuite Rising Star of Year 2023, CRN Fast50 #3",
+      "retail_focus": "HIGH - Manufacturing, wholesale distribution",
+      "decision_makers": [
+        {
+          "name": "Robert Jurcec",
+          "title": "CEO/Founder",
+          "linkedin_url": "linkedin.com/in/robert-jurcec-6152108"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 130,
+      "id": "au-130"
+    },
+    {
+      "company_name": "Stratus Consulting Group",
+      "country": "Australia",
+      "city": "Sydney, Melbourne HQ, Perth, Brisbane",
+      "employees": "58 employees",
+      "erp_systems": [
+        "MYOB Acumatica",
+        "MS Dynamics",
+        "Wiise",
+        "Epicor",
+        "MYOB Exo"
+      ],
+      "priority": "HIGH",
+      "awards": "MYOB Partner of Year, Wiise Growth Partner 2024, Co-founded Horizon 2005",
+      "retail_focus": "HIGHEST - Retail, Wholesale",
+      "decision_makers": [
+        {
+          "name": "Michael Pendred",
+          "title": "Director, Sales/Customer Success",
+          "linkedin_url": "linkedin.com/in/michaelpendred"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 131,
+      "id": "au-131"
+    },
+    {
+      "company_name": "Stratus Consulting Group",
+      "country": "Australia",
+      "city": "Perth",
+      "employees": "58 employees",
+      "erp_systems": [
+        "MYOB Acumatica",
+        "MS Dynamics",
+        "Wiise",
+        "Epicor",
+        "MYOB Exo"
+      ],
+      "priority": "HIGH",
+      "awards": "Perth-based ERP specialist",
+      "retail_focus": "HIGHEST",
+      "decision_makers": [
+        {
+          "name": "Jonathan Goh",
+          "title": "Director of Consulting (Co-Founder)",
+          "linkedin_url": "au.linkedin.com/in/jonathan-goh-7b178042"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 132,
+      "id": "au-132"
+    },
+    {
+      "company_name": "Stratus Consulting Group",
+      "country": "Australia",
+      "city": "Melbourne",
+      "employees": "58 employees",
+      "erp_systems": [
+        "MYOB Acumatica",
+        "MS Dynamics",
+        "Wiise",
+        "Epicor",
+        "MYOB Exo"
+      ],
+      "priority": "HIGH",
+      "awards": "Lean Six Sigma certified",
+      "retail_focus": "HIGHEST",
+      "decision_makers": [
+        {
+          "name": "Mark Belkin",
+          "title": "Director of Growth",
+          "linkedin_url": "linkedin.com/in/bizproaustralia/"
+        },
+        {
+          "name": "Elise Webb",
+          "title": "Head of Customer Success",
+          "linkedin_url": "linkedin.com/in/elise-webb-au"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 133,
+      "id": "au-133"
+    },
+    {
+      "company_name": "Precise Business Solutions",
+      "country": "Australia",
+      "city": "Perth WA",
+      "employees": "50+ staff, 5 countries",
+      "erp_systems": [
+        "Epicor Kinetic ERP"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Epicor Worldwide Partner of Year",
+      "retail_focus": "MEDIUM - Manufacturing, Distribution",
+      "decision_makers": [
+        {
+          "name": "Mark Batina",
+          "title": "Founder & Managing Director",
+          "linkedin_url": "linkedin.com/in/markbatina/"
+        },
+        {
+          "name": "Kim Batina",
+          "title": "Operations Director (Co-Owner)",
+          "linkedin_url": "au.linkedin.com/in/kimbatina"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 134,
+      "id": "au-134"
+    },
+    {
+      "company_name": "BISCIT Pty Ltd",
+      "country": "Australia",
+      "city": "Newcastle/Hunter Region NSW",
+      "employees": "100+ years combined Epicor exp",
+      "erp_systems": [
+        "Epicor Kinetic ERP"
+      ],
+      "priority": "HIGH",
+      "awards": "International Partner Excellence Awards, Epicor Kinetic Warehouse product (1,000+ customers)",
+      "retail_focus": "HIGH - Manufacturing, POS integration",
+      "decision_makers": [
+        {
+          "name": "Greg Hyslop",
+          "title": "Founder & CEO",
+          "linkedin_url": "linkedin.com/in/greghyslop"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 135,
+      "id": "au-135"
+    },
+    {
+      "company_name": "Pronto Software",
+      "country": "Australia",
+      "city": "Melbourne (Forest Hill)",
+      "employees": "486 employees, 1,700+ customers",
+      "erp_systems": [
+        "Pronto Xi",
+        "Pronto iQ",
+        "Pronto Cloud"
+      ],
+      "priority": "HIGH",
+      "awards": "Founded 1976, ~$56M revenue",
+      "retail_focus": "HIGH - Retail, Wholesale, Fashion, F&B",
+      "decision_makers": [
+        {
+          "name": "Chad Gates",
+          "title": "Managing Director & CEO",
+          "linkedin_url": "au.linkedin.com/in/gateschad"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 136,
+      "id": "au-136"
+    },
+    {
+      "company_name": "Pronto Software",
+      "country": "Australia",
+      "city": "Melbourne",
+      "employees": "486 employees",
+      "erp_systems": [
+        "Pronto Xi",
+        "Pronto iQ",
+        "Pronto Cloud"
+      ],
+      "priority": "HIGH",
+      "awards": "Also Principal at Pyrmonte Group",
+      "retail_focus": "HIGH",
+      "decision_makers": [
+        {
+          "name": "Bobby Johnson",
+          "title": "Non-Executive Chairman",
+          "linkedin_url": "au.linkedin.com/in/bob-johnson-80716245"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 137,
+      "id": "au-137"
+    },
+    {
+      "company_name": "Wild Tech",
+      "country": "Australia",
+      "city": "Sydney, Malaysia",
+      "employees": "77 employees",
+      "erp_systems": [
+        "Microsoft Dynamics 365 (F&O",
+        "Business Central)",
+        "MS Copilot"
+      ],
+      "priority": "MEDIUM",
+      "awards": "",
+      "retail_focus": "HIGH - Wholesale, Retail & Consumer",
+      "decision_makers": [
+        {
+          "name": "Grant Wild",
+          "title": "CEO & Managing Director",
+          "linkedin_url": "linkedin.com/company/wild-tech-pty-ltd/"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 138,
+      "id": "au-138"
+    },
+    {
+      "company_name": "Wild Tech",
+      "country": "Australia",
+      "city": "Sydney",
+      "employees": "77 employees",
+      "erp_systems": [
+        "Microsoft Dynamics 365 (F&O",
+        "Business Central)",
+        "MS Copilot"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Ex-NetSuite Account Executive",
+      "retail_focus": "HIGH",
+      "decision_makers": [
+        {
+          "name": "Karl Jablonski",
+          "title": "Head of Business Development",
+          "linkedin_url": "linkedin.com/in/karl-jablonski"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 139,
+      "id": "au-139"
+    },
+    {
+      "company_name": "Apparel21",
+      "country": "Australia",
+      "city": "Melbourne",
+      "employees": "51-200 employees, ~$20.1M revenue",
+      "erp_systems": [
+        "Apparel21 (proprietary fashion ERP)"
+      ],
+      "priority": "HIGH",
+      "awards": "40+ years experience, 97% client retention",
+      "retail_focus": "HIGHEST - Fashion/apparel specialist",
+      "decision_makers": [
+        {
+          "name": "Daniel Broughton",
+          "title": "CEO",
+          "linkedin_url": "linkedin.com/in/daniel-broughton-a6ab01193"
+        },
+        {
+          "name": "Ajit Chandran",
+          "title": "Head of Business Development",
+          "linkedin_url": "linkedin.com/in/ajit-chandran-56b41a6"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 140,
+      "id": "au-140"
+    },
+    {
+      "company_name": "Deloitte Australia",
+      "country": "Australia",
+      "city": "National",
+      "employees": "250+ digital professionals",
+      "erp_systems": [
+        "SAP S",
+        "4HANA",
+        "Oracle Cloud",
+        "MS Dynamics",
+        "Workday"
+      ],
+      "priority": "LOWER",
+      "awards": "Retail, Government, Defence focus",
+      "retail_focus": "HIGH - Retail specialist",
+      "decision_makers": [
+        {
+          "name": "Adam Sandler",
+          "title": "Partner, Enhance & Operate Lead",
+          "linkedin_url": ""
+        },
+        {
+          "name": "David Phillips",
+          "title": "Partner, Clients & Industries Lead",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Leon Doyle",
+          "title": "National Lead Partner, Deloitte Digital",
+          "linkedin_url": "au.linkedin.com/in/doyleleon"
+        },
+        {
+          "name": "Robert Loughnane",
+          "title": "National Oracle Practice/Alliance Leader",
+          "linkedin_url": "linkedin.com/in/robert-loughnane-633a9959"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 141,
+      "id": "au-141"
+    },
+    {
+      "company_name": "Deloitte Australia",
+      "country": "Australia",
+      "city": "Melbourne",
+      "employees": "250+ digital professionals",
+      "erp_systems": [
+        "SAP S",
+        "4HANA",
+        "Oracle Cloud",
+        "MS Dynamics",
+        "Workday"
+      ],
+      "priority": "LOWER",
+      "awards": "Retail, Telco, Media",
+      "retail_focus": "HIGH",
+      "decision_makers": [
+        {
+          "name": "Leora Nevezie",
+          "title": "Partner, Customer Strategy Lead (Melb)",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 142,
+      "id": "au-142"
+    },
+    {
+      "company_name": "Accenture Australia",
+      "country": "Australia",
+      "city": "Australia",
+      "employees": "Large",
+      "erp_systems": [
+        "SAP S",
+        "4HANA",
+        "Oracle Cloud",
+        "MS Dynamics 365"
+      ],
+      "priority": "LOWER",
+      "awards": "Consumer goods, retail, manufacturing",
+      "retail_focus": "HIGH - Retail supply chain",
+      "decision_makers": [
+        {
+          "name": "Shankar Sribalachandran",
+          "title": "MD, Digital Supply Chain Transformation",
+          "linkedin_url": "linkedin.com/in/shankar-sribalachandran/"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 143,
+      "id": "au-143"
+    },
+    {
+      "company_name": "PwC Australia",
+      "country": "Australia",
+      "city": "National",
+      "employees": "14,000 global SAP resources",
+      "erp_systems": [
+        "SAP S",
+        "4HANA",
+        "MS Dynamics 365",
+        "Oracle Cloud",
+        "Salesforce",
+        "Workday"
+      ],
+      "priority": "LOWER",
+      "awards": "SAP Platinum Partner",
+      "retail_focus": "MEDIUM - Retail sector",
+      "decision_makers": [
+        {
+          "name": "Bradley Burt",
+          "title": "SAP Alliance Lead",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 144,
+      "id": "au-144"
+    },
+    {
+      "company_name": "PwC Australia",
+      "country": "Australia",
+      "city": "Sydney",
+      "employees": "Large",
+      "erp_systems": [
+        "SAP S",
+        "4HANA",
+        "MS Dynamics 365",
+        "Oracle Cloud",
+        "Salesforce",
+        "Workday"
+      ],
+      "priority": "LOWER",
+      "awards": "Tech/Cyber Assurance",
+      "retail_focus": "MEDIUM",
+      "decision_makers": [
+        {
+          "name": "Pravinesh Ram",
+          "title": "Partner, Enterprise Process & Technology",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Nicola Costello",
+          "title": "Partner, Digital/AI Trust Leader",
+          "linkedin_url": "linkedin.com/in/nicola-costello-65953065"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 145,
+      "id": "au-145"
+    },
+    {
+      "company_name": "PwC Australia",
+      "country": "Australia",
+      "city": "Melbourne",
+      "employees": "Large",
+      "erp_systems": [
+        "SAP S",
+        "4HANA",
+        "MS Dynamics 365",
+        "Oracle Cloud",
+        "Salesforce",
+        "Workday"
+      ],
+      "priority": "LOWER",
+      "awards": "",
+      "retail_focus": "MEDIUM",
+      "decision_makers": [
+        {
+          "name": "Shaun Ryan",
+          "title": "Partner, E2E Process Transformation",
+          "linkedin_url": "au.linkedin.com/in/spryan"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 146,
+      "id": "au-146"
+    },
+    {
+      "company_name": "Capgemini Australia",
+      "country": "Australia",
+      "city": "Sydney",
+      "employees": "100+ SAP specialists",
+      "erp_systems": [
+        "SAP S",
+        "4HANA",
+        "Oracle",
+        "MS Dynamics"
+      ],
+      "priority": "LOWER",
+      "awards": "NOTE: Capgemini, not Accenture as previously listed",
+      "retail_focus": "HIGH - Coles relationship",
+      "decision_makers": [
+        {
+          "name": "Olaf Pietschner",
+          "title": "CEO APAC",
+          "linkedin_url": "linkedin.com/in/olafpietschner"
+        },
+        {
+          "name": "Rod Taubman",
+          "title": "VP/SAP Practice Lead ANZ",
+          "linkedin_url": "linkedin.com/in/rodtaubman"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 147,
+      "id": "au-147"
+    },
+    {
+      "company_name": "Solution Minds Consulting (SMC)",
+      "country": "Australia",
+      "city": "Sydney, Melbourne HQ, Perth, Brisbane",
+      "employees": "750+ projects",
+      "erp_systems": [
+        "Vendor-agnostic: SAP",
+        "Oracle",
+        "MS",
+        "NetSuite",
+        "MYOB",
+        "Pronto",
+        "Infor"
+      ],
+      "priority": "HIGH",
+      "awards": "100% vendor-agnostic, no commissions",
+      "retail_focus": "HIGH - Joyce Group (Bedshed, Crave) client",
+      "decision_makers": [
+        {
+          "name": "Jamon Johnston",
+          "title": "CEO & Founder",
+          "linkedin_url": "linkedin.com/company/sm-c.com.au"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 148,
+      "id": "au-148"
+    },
+    {
+      "company_name": "Solution Minds Consulting (SMC)",
+      "country": "Australia",
+      "city": "Sydney",
+      "employees": "750+ projects",
+      "erp_systems": [
+        "Vendor-agnostic"
+      ],
+      "priority": "HIGH",
+      "awards": "25+ years CIO experience",
+      "retail_focus": "HIGH",
+      "decision_makers": [
+        {
+          "name": "Simon Ford",
+          "title": "Regional Director NSW",
+          "linkedin_url": "linkedin.com/in/simon-j-ford"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 149,
+      "id": "au-149"
+    },
+    {
+      "company_name": "Solution Minds Consulting (SMC)",
+      "country": "Australia",
+      "city": "Melbourne",
+      "employees": "750+ projects",
+      "erp_systems": [
+        "Vendor-agnostic"
+      ],
+      "priority": "HIGH",
+      "awards": "Ex-Syspro CEO APAC",
+      "retail_focus": "HIGH",
+      "decision_makers": [
+        {
+          "name": "Rob Stummer",
+          "title": "Director of Growth",
+          "linkedin_url": "au.linkedin.com/in/rob-stummer-3a220a3"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 150,
+      "id": "au-150"
+    },
+    {
+      "company_name": "CMC (Computer Management Consulting)",
+      "country": "Australia",
+      "city": "Australia",
+      "employees": "40+ years",
+      "erp_systems": [
+        "Vendor-agnostic: ERP",
+        "CRM",
+        "HCM",
+        "WMS",
+        "POS",
+        "eCommerce"
+      ],
+      "priority": "HIGH",
+      "awards": "PVH Brands (Calvin Klein, Tommy Hilfiger) client",
+      "retail_focus": "HIGHEST - Fashion retail expertise",
+      "decision_makers": [
+        {
+          "name": "Peter Goes",
+          "title": "Managing Director",
+          "linkedin_url": ""
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 151,
+      "id": "au-151"
+    },
+    {
+      "company_name": "Invictus Partners",
+      "country": "Australia",
+      "city": "Global (incl. Australia)",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP S",
+        "4HANA",
+        "RISE with SAP",
+        "Oracle Cloud",
+        "MS Dynamics"
+      ],
+      "priority": "LOWER",
+      "awards": "Does not resell or implement - purely advisory",
+      "retail_focus": "MEDIUM",
+      "decision_makers": [],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 152,
+      "id": "au-152"
+    },
+    {
+      "company_name": "Havi Technology",
+      "country": "Australia",
+      "city": "Sydney",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "Microsoft Dynamics 365 Business Central",
+        "Odoo"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Dual MS/Odoo partner, Peppol e-invoicing, retail/eCommerce focus",
+      "retail_focus": "HIGH - Retail, eCommerce",
+      "decision_makers": [
+        {
+          "name": "Carol Le",
+          "title": "Executive Director",
+          "linkedin_url": "linkedin.com/in/carol-le-havi"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 153,
+      "id": "au-153"
+    },
+    {
+      "company_name": "Walkerscott",
+      "country": "Australia",
+      "city": "NZ/AU",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "Microsoft Dynamics 365"
+      ],
+      "priority": "LOWER",
+      "awards": "MS Gold (5 certs), ISO 27001",
+      "retail_focus": "LIMITED - Gov/NFP",
+      "decision_makers": [
+        {
+          "name": "Blair Scott",
+          "title": "Co-Founder/MD NZ",
+          "linkedin_url": "linkedin.com/in/blairpscott"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 154,
+      "id": "au-154"
+    },
+    {
+      "company_name": "Ioppolo & Associates",
+      "country": "Australia",
+      "city": "Perth, Melbourne",
+      "employees": "35+ years",
+      "erp_systems": [
+        "Odoo",
+        "Oracle"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Fellow of CPA Australia, Oracle Gold + Odoo Silver",
+      "retail_focus": "MEDIUM - Manufacturing, retail",
+      "decision_makers": [
+        {
+          "name": "Guy Ioppolo",
+          "title": "Founder",
+          "linkedin_url": "linkedin.com/in/guy-ioppolo"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 155,
+      "id": "au-155"
+    },
+    {
+      "company_name": "WMSSoft",
+      "country": "Australia",
+      "city": "Melbourne (Clayton)",
+      "employees": "Small",
+      "erp_systems": [
+        "Odoo"
+      ],
+      "priority": "MEDIUM",
+      "awards": "42 projects, strong wholesale/retail focus",
+      "retail_focus": "HIGH - Wholesale, retail",
+      "decision_makers": [],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 156,
+      "id": "au-156"
+    },
+    {
+      "company_name": "Summer Technology",
+      "country": "Australia",
+      "city": "Melbourne (Mulgrave)",
+      "employees": "Small",
+      "erp_systems": [
+        "Odoo"
+      ],
+      "priority": "MEDIUM",
+      "awards": "29 projects, 96% retention rate",
+      "retail_focus": "HIGH - Retail",
+      "decision_makers": [],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 157,
+      "id": "au-157"
+    },
+    {
+      "company_name": "ComActivity (now Atturra)",
+      "country": "Australia",
+      "city": "Sydney",
+      "employees": "40-51 employees",
+      "erp_systems": [
+        "Infor M3",
+        "AgilyCom integration platform"
+      ],
+      "priority": "MEDIUM",
+      "awards": "Acquired by Atturra Dec 2024 for $9M, Lorna Jane client",
+      "retail_focus": "HIGH - Retail/manufacturing",
+      "decision_makers": [
+        {
+          "name": "Jason Levick",
+          "title": "Co-Founder",
+          "linkedin_url": "linkedin.com/in/jasonlevick"
+        },
+        {
+          "name": "Mats Gunnarsson",
+          "title": "Co-Founder",
+          "linkedin_url": "linkedin.com/in/matsgunnarsson"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 158,
+      "id": "au-158"
+    },
+    {
+      "company_name": "Tonic Technologies",
+      "country": "Australia",
+      "city": "Brisbane",
+      "employees": "Small",
+      "erp_systems": [
+        "MYOB Acumatica"
+      ],
+      "priority": "MEDIUM",
+      "awards": "20+ years, ex-MYOB/TechnologyOne",
+      "retail_focus": "MEDIUM - Construction, manufacturing, transport",
+      "decision_makers": [
+        {
+          "name": "James Wishart",
+          "title": "Co-Founder",
+          "linkedin_url": "linkedin.com/in/james-wishart-5a261430"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 159,
+      "id": "au-159"
+    },
+    {
+      "company_name": "Commerce Vision (now Advantive)",
+      "country": "Australia",
+      "city": "Brisbane",
+      "employees": "82 employees",
+      "erp_systems": [
+        "Lucy AI order processing",
+        "500+ ERP integrations"
+      ],
+      "priority": "HIGH",
+      "awards": "Acquired by Advantive March 2025, AI capabilities",
+      "retail_focus": "HIGH - B2B wholesale/distribution",
+      "decision_makers": [
+        {
+          "name": "David Brice",
+          "title": "CEO",
+          "linkedin_url": "linkedin.com/in/davidbrice"
+        },
+        {
+          "name": "John Farnea",
+          "title": "Founder",
+          "linkedin_url": "linkedin.com/in/johnfarnea"
+        }
+      ],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 160,
+      "id": "au-160"
+    },
+    {
+      "company_name": "MyIntegrator",
+      "country": "Australia",
+      "city": "Melbourne",
+      "employees": "Small",
+      "erp_systems": [
+        "BigCommerce",
+        "WooCommerce",
+        "Shopify",
+        "Magento + 10+ ERPs"
+      ],
+      "priority": "MEDIUM",
+      "awards": "20+ years, broadest ERP connectivity",
+      "retail_focus": "HIGH - Retail integration",
+      "decision_makers": [],
+      "data_source": "australian_erp_partners_updated.xlsx - All Partners.csv",
+      "rank": 161,
+      "id": "au-161"
+    }
+  ]
+}

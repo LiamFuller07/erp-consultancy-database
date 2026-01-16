@@ -1,0 +1,977 @@
+{
+  "schema_version": "1.0",
+  "region": "europe",
+  "last_updated": "2025-01-16T12:00:00Z",
+  "consultancies": [
+    {
+      "id": "eu-001",
+      "rank": 1,
+      "priority": "HIGH",
+      "company_name": "NoBlue2",
+      "country": "UK",
+      "city": "Nottingham/London",
+      "website": "https://noblue2.com",
+      "employees": "70",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "why_target": "EMEA Partner of Year 2025, SuiteCommerce specialist, retail/fashion",
+      "notable_clients": "Retail, fashion, wholesale",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-002",
+      "rank": 2,
+      "priority": "HIGH",
+      "company_name": "BlueBridge One",
+      "country": "UK",
+      "city": "UK/South Africa",
+      "website": "https://bluebridgeone.com",
+      "employees": "50-100",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "why_target": "3x Partner of Year, first UK NetSuite partner 2003, retail solutions",
+      "notable_clients": "400+ customers, 175+ UK distributors",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-003",
+      "rank": 3,
+      "priority": "HIGH",
+      "company_name": "MacroFin",
+      "country": "UK",
+      "city": "London",
+      "website": "https://macrofin.co.uk",
+      "employees": "40+",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "why_target": "6x Partner of Year, wholesale distribution expertise",
+      "notable_clients": "Retail, wholesale, fintech",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-004",
+      "rank": 4,
+      "priority": "HIGH",
+      "company_name": "Eureka Solutions",
+      "country": "UK",
+      "city": "East Kilbride, Scotland",
+      "website": "https://eurekasolutions.co.uk",
+      "employees": "58",
+      "erp_systems": [
+        "NetSuite",
+        "Sage 200"
+      ],
+      "why_target": "5-Star Partner, 5x Sage Developer of Year",
+      "notable_clients": "Loganair, Aberdeen FC",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-005",
+      "rank": 5,
+      "priority": "HIGH",
+      "company_name": "3EN Group",
+      "country": "UK",
+      "city": "Belfast/London",
+      "website": "https://3en.group",
+      "employees": "33",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "why_target": "Fastest-growing EMEA partner, wholesale distribution",
+      "notable_clients": "The Sports Edit",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-006",
+      "rank": 6,
+      "priority": "HIGH",
+      "company_name": "Catalyst ERP",
+      "country": "UK",
+      "city": "Leeds",
+      "website": "https://catalyst-erp.co.uk",
+      "employees": "51-200",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "why_target": "200+ implementations, FTSE 100 clients",
+      "notable_clients": "450+ customers",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-007",
+      "rank": 7,
+      "priority": "HIGH",
+      "company_name": "BlueHub",
+      "country": "UK",
+      "city": "UK-wide",
+      "website": "https://bluehub.co.uk",
+      "employees": "20-40",
+      "erp_systems": [
+        "Cin7"
+      ],
+      "why_target": "Leading UK Cin7 partner 7+ years, inventory specialist",
+      "notable_clients": "SMB to multinationals",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-008",
+      "rank": 8,
+      "priority": "HIGH",
+      "company_name": "Datel",
+      "country": "UK",
+      "city": "Warrington",
+      "website": "https://datel.info",
+      "employees": "200+",
+      "erp_systems": [
+        "Sage 200",
+        "Sage X3",
+        "Sage Intacct"
+      ],
+      "why_target": "UK largest Sage partner, 40+ years, retail clients",
+      "notable_clients": "Vimto, Boodles jewellers",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-009",
+      "rank": 9,
+      "priority": "HIGH",
+      "company_name": "Eurostop",
+      "country": "UK",
+      "city": "London",
+      "website": "https://eurostop.com",
+      "employees": "100+",
+      "erp_systems": [
+        "EPOS",
+        "Retail Management"
+      ],
+      "why_target": "30+ years, fashion/footwear specialist",
+      "notable_clients": "JD Sports, FatFace, M&S, Hugo Boss",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-010",
+      "rank": 10,
+      "priority": "MEDIUM",
+      "company_name": "RSM UK",
+      "country": "UK",
+      "city": "London (national)",
+      "website": "https://rsmuk.com",
+      "employees": "100+ NetSuite",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "why_target": "Largest global NetSuite partner, 10x Partner of Year",
+      "notable_clients": "PageGroup",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-011",
+      "rank": 11,
+      "priority": "MEDIUM",
+      "company_name": "SANSA Solutions",
+      "country": "UK",
+      "city": "London",
+      "website": "https://sansasolutions.com",
+      "employees": "47",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "why_target": "Customer Success Partner of Year 2025",
+      "notable_clients": "Various industries",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-012",
+      "rank": 12,
+      "priority": "MEDIUM",
+      "company_name": "Threadgold Consulting",
+      "country": "UK",
+      "city": "Haywards Heath",
+      "website": "https://threadgoldconsulting.com",
+      "employees": "10-49",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "why_target": "New UK Partner of Year 2025, manufacturing/retail",
+      "notable_clients": "Graham Manufacturing",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-013",
+      "rank": 13,
+      "priority": "MEDIUM",
+      "company_name": "Cofficient",
+      "country": "UK",
+      "city": "Glasgow",
+      "website": "https://cofficient.co.uk",
+      "employees": "<25",
+      "erp_systems": [
+        "NetSuite",
+        "SAP ByDesign"
+      ],
+      "why_target": "Employee-owned, first UK NetSuite partner 2002",
+      "notable_clients": "Wholesale, FMCG, Pharma",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-014",
+      "rank": 14,
+      "priority": "MEDIUM",
+      "company_name": "CloudTamers",
+      "country": "UK",
+      "city": "Cheltenham",
+      "website": "https://cloudtamers.com",
+      "employees": "20-40",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "why_target": "UK longest-standing partner since 2008, custom SuiteApps",
+      "notable_clients": "Global customers",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-015",
+      "rank": 15,
+      "priority": "MEDIUM",
+      "company_name": "Nolan Business Solutions",
+      "country": "UK",
+      "city": "UK/US/Canada",
+      "website": "https://nolanbusinesssolutions.co.uk",
+      "employees": "60+",
+      "erp_systems": [
+        "NetSuite",
+        "Dynamics GP"
+      ],
+      "why_target": "35+ years, manufacturing/retail",
+      "notable_clients": "Manufacturing, retail",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-016",
+      "rank": 16,
+      "priority": "MEDIUM",
+      "company_name": "CPiO",
+      "country": "UK",
+      "city": "Birmingham",
+      "website": "https://cpio.co.uk",
+      "employees": "51-200",
+      "erp_systems": [
+        "Sage 200",
+        "Sage X3",
+        "Sage Intacct"
+      ],
+      "why_target": "Strategic Sage Partner, 35+ years",
+      "notable_clients": "Healthcare, hospitality",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-017",
+      "rank": 17,
+      "priority": "MEDIUM",
+      "company_name": "Pinnacle",
+      "country": "UK",
+      "city": "8 UK offices",
+      "website": "https://pinnacle-online.com",
+      "employees": "180-200",
+      "erp_systems": [
+        "Sage 200",
+        "Sage Intacct"
+      ],
+      "why_target": "6x Sage Partner of Year, 2000+ SME customers",
+      "notable_clients": "Manufacturing, distribution",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-018",
+      "rank": 18,
+      "priority": "MEDIUM",
+      "company_name": "Mysoft",
+      "country": "UK",
+      "city": "Hampshire",
+      "website": "https://mysoftx3.com",
+      "employees": "50-94",
+      "erp_systems": [
+        "Sage X3",
+        "Sage Intacct"
+      ],
+      "why_target": "First UK Sage X3 partner since 2005",
+      "notable_clients": "Various industries",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-019",
+      "rank": 19,
+      "priority": "MEDIUM",
+      "company_name": "TNP (The 365 People)",
+      "country": "UK",
+      "city": "Reading",
+      "website": "https://the365people.com",
+      "employees": "100+",
+      "erp_systems": [
+        "Dynamics 365 BC",
+        "LS Retail"
+      ],
+      "why_target": "Leading UK retail ERP, 45+ retail customers",
+      "notable_clients": "45+ retail customers",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-020",
+      "rank": 20,
+      "priority": "MEDIUM",
+      "company_name": "Tecman",
+      "country": "UK",
+      "city": "Wolverhampton",
+      "website": "https://tecman.co.uk",
+      "employees": "170+",
+      "erp_systems": [
+        "Dynamics 365 BC"
+      ],
+      "why_target": "30+ years, manufacturing/distribution",
+      "notable_clients": "Manufacturing, distribution",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-021",
+      "rank": 21,
+      "priority": "MEDIUM",
+      "company_name": "MWC Partners",
+      "country": "UK",
+      "city": "Wallingford",
+      "website": "https://mwc-partners.com",
+      "employees": "20-40",
+      "erp_systems": [
+        "Cegid Retail POS"
+      ],
+      "why_target": "UK leading Cegid Retail vendor",
+      "notable_clients": "French Connection 15+ years",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-022",
+      "rank": 22,
+      "priority": "MEDIUM",
+      "company_name": "Epaccsys",
+      "country": "UK",
+      "city": "Leicester",
+      "website": "https://epaccsys.com",
+      "employees": "30+",
+      "erp_systems": [
+        "Epicor Kinetic"
+      ],
+      "why_target": "Most experienced Epicor partner Europe",
+      "notable_clients": "Manufacturing, NHS",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-023",
+      "rank": 23,
+      "priority": "MEDIUM",
+      "company_name": "Space 48",
+      "country": "UK",
+      "city": "Manchester",
+      "website": "https://space48.com",
+      "employees": "50+",
+      "erp_systems": [
+        "Shopify Plus",
+        "Magento"
+      ],
+      "why_target": "BigCommerce EMEA Agency Partner of Year",
+      "notable_clients": "Ordnance Survey, Richer Sounds",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-024",
+      "rank": 24,
+      "priority": "MEDIUM",
+      "company_name": "Eastside Co",
+      "country": "UK",
+      "city": "London",
+      "website": "https://eastsideco.com",
+      "employees": "70-80",
+      "erp_systems": [
+        "Shopify Plus"
+      ],
+      "why_target": "Original Shopify Plus Partner UK, 500+ sites",
+      "notable_clients": "Volkswagen, Unilever, Chelsea FC",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-025",
+      "rank": 25,
+      "priority": "MEDIUM",
+      "company_name": "blubolt",
+      "country": "UK",
+      "city": "Bath",
+      "website": "https://blubolt.com",
+      "employees": "30",
+      "erp_systems": [
+        "Shopify Plus"
+      ],
+      "why_target": "Fastest agency to Shopify Plus accreditation",
+      "notable_clients": "RIXO, Seasalt Cornwall",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-026",
+      "rank": 26,
+      "priority": "LOWER",
+      "company_name": "FinanSys",
+      "country": "UK",
+      "city": "London",
+      "website": "https://finansys.com",
+      "employees": "50+",
+      "erp_systems": [
+        "NetSuite",
+        "Infor SunSystems"
+      ],
+      "why_target": "25+ years, finance-focused",
+      "notable_clients": "SMEs to multinationals",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-027",
+      "rank": 27,
+      "priority": "LOWER",
+      "company_name": "Folio3",
+      "country": "UK",
+      "city": "Global/UK",
+      "website": "https://netsuite.folio3.com",
+      "employees": "150+",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "why_target": "1000+ implementations, apparel specialist",
+      "notable_clients": "Naked Wardrobe",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-028",
+      "rank": 28,
+      "priority": "LOWER",
+      "company_name": "Kinspeed",
+      "country": "UK",
+      "city": "Sheffield",
+      "website": "https://kinspeed.com",
+      "employees": "30-50",
+      "erp_systems": [
+        "Sage 200",
+        "NetSuite"
+      ],
+      "why_target": "35+ years, retail eCommerce",
+      "notable_clients": "Retail, wholesale",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-029",
+      "rank": 29,
+      "priority": "LOWER",
+      "company_name": "itas Solutions",
+      "country": "UK",
+      "city": "Denbigh, Wales",
+      "website": "https://itassolutions.co.uk",
+      "employees": "32",
+      "erp_systems": [
+        "Sage Intacct",
+        "Sage 200"
+      ],
+      "why_target": "Intacct Partner of Year 2024/25",
+      "notable_clients": "Various",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-030",
+      "rank": 30,
+      "priority": "LOWER",
+      "company_name": "Inixion",
+      "country": "UK",
+      "city": "High Wycombe",
+      "website": "https://inixion.com",
+      "employees": "15-25",
+      "erp_systems": [
+        "Sage X3"
+      ],
+      "why_target": "100% project success since 2006",
+      "notable_clients": "Various",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-031",
+      "rank": 31,
+      "priority": "LOWER",
+      "company_name": "Eventura",
+      "country": "UK",
+      "city": "Bolton",
+      "website": "https://eventura.com",
+      "employees": "40-60",
+      "erp_systems": [
+        "Sage 200",
+        "NetSuite"
+      ],
+      "why_target": "Manufacturing, warehouse, fashion",
+      "notable_clients": "Bolton Wanderers FC",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-032",
+      "rank": 32,
+      "priority": "LOWER",
+      "company_name": "Mercurius IT",
+      "country": "UK",
+      "city": "Milton Keynes",
+      "website": "https://mercuriusit.com",
+      "employees": "66-249",
+      "erp_systems": [
+        "Dynamics 365"
+      ],
+      "why_target": "92% client retention, 20+ years",
+      "notable_clients": "Various",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-033",
+      "rank": 33,
+      "priority": "LOWER",
+      "company_name": "m-hance",
+      "country": "UK",
+      "city": "Manchester",
+      "website": "https://mhance.com",
+      "employees": "100+",
+      "erp_systems": [
+        "Dynamics 365"
+      ],
+      "why_target": "Global Nonprofit Partner of Year 2023",
+      "notable_clients": "Oxfam, Christian Aid",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-034",
+      "rank": 34,
+      "priority": "LOWER",
+      "company_name": "Anthesis",
+      "country": "UK",
+      "city": "Congleton",
+      "website": "https://anthesisglobal.com",
+      "employees": "100-150",
+      "erp_systems": [
+        "Infor M3"
+      ],
+      "why_target": "UK largest Infor partner, food/beverage",
+      "notable_clients": "St Pierre Groupe",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-035",
+      "rank": 35,
+      "priority": "LOWER",
+      "company_name": "Vision33",
+      "country": "UK",
+      "city": "UK (Global)",
+      "website": "https://vision33.co.uk",
+      "employees": "500+ global",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "why_target": "SAP Gold Partner, 1500+ customers",
+      "notable_clients": "Manufacturing, distribution",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-036",
+      "rank": 36,
+      "priority": "HIGH",
+      "company_name": "HSO",
+      "country": "Netherlands",
+      "city": "Veenendaal",
+      "website": "https://hso.com",
+      "employees": "2200",
+      "erp_systems": [
+        "Dynamics 365"
+      ],
+      "why_target": "Won D365 Finance award 4x, EUR 1B valuation",
+      "notable_clients": "Manufacturing, retail",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-037",
+      "rank": 37,
+      "priority": "HIGH",
+      "company_name": "delaware",
+      "country": "Belgium",
+      "city": "Kortrijk",
+      "website": "https://delaware.pro",
+      "employees": "4600",
+      "erp_systems": [
+        "SAP",
+        "Microsoft"
+      ],
+      "why_target": "Global SAP Pinnacle Award, EMEA supply chain leader",
+      "notable_clients": "Manufacturing, retail",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-038",
+      "rank": 38,
+      "priority": "HIGH",
+      "company_name": "Columbus Global",
+      "country": "Denmark",
+      "city": "Copenhagen",
+      "website": "https://columbusglobal.com",
+      "employees": "1600-1800",
+      "erp_systems": [
+        "Dynamics 365",
+        "Infor M3"
+      ],
+      "why_target": "Microsoft Inner Circle, largest Infor M3 partner",
+      "notable_clients": "Manufacturing, retail, F&B",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-039",
+      "rank": 39,
+      "priority": "HIGH",
+      "company_name": "NTT DATA Business Solutions",
+      "country": "Germany",
+      "city": "Bielefeld",
+      "website": "https://nttdata-solutions.com",
+      "employees": "18300",
+      "erp_systems": [
+        "SAP"
+      ],
+      "why_target": "SAP Platinum Partner, 4 Pinnacle Awards 2025",
+      "notable_clients": "Manufacturing, retail",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-040",
+      "rank": 40,
+      "priority": "HIGH",
+      "company_name": "All for One Group",
+      "country": "Germany",
+      "city": "Filderstadt",
+      "website": "https://all-for-one.com",
+      "employees": "3000",
+      "erp_systems": [
+        "SAP",
+        "Microsoft"
+      ],
+      "why_target": "#1 German-speaking SAP market",
+      "notable_clients": "Mid-market manufacturing",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-041",
+      "rank": 41,
+      "priority": "HIGH",
+      "company_name": "Seidor",
+      "country": "Spain",
+      "city": "Barcelona",
+      "website": "https://seidor.com",
+      "employees": "10000+",
+      "erp_systems": [
+        "SAP"
+      ],
+      "why_target": "Top SAP partner Spain, EUR 1.125B revenue",
+      "notable_clients": "Multiple sectors",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-042",
+      "rank": 42,
+      "priority": "HIGH",
+      "company_name": "Pearl Group",
+      "country": "Norway",
+      "city": "Oslo",
+      "website": "https://pearlgroup.no",
+      "employees": "400",
+      "erp_systems": [
+        "SAP S/4HANA"
+      ],
+      "why_target": "Largest SAP partner Nordics",
+      "notable_clients": "Manufacturing, retail",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-043",
+      "rank": 43,
+      "priority": "HIGH",
+      "company_name": "Staria",
+      "country": "Finland",
+      "city": "Helsinki",
+      "website": "https://staria.com",
+      "employees": "100+",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "why_target": "Top European NetSuite partner, 300+ implementations",
+      "notable_clients": "Global growth companies",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-044",
+      "rank": 44,
+      "priority": "MEDIUM",
+      "company_name": "Sopra Steria",
+      "country": "France",
+      "city": "Paris",
+      "website": "https://soprasteria.com",
+      "employees": "51000-56000",
+      "erp_systems": [
+        "SAP"
+      ],
+      "why_target": "SAP Gold Partner, EUR 5.8B revenue",
+      "notable_clients": "Financial services, public sector",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-045",
+      "rank": 45,
+      "priority": "MEDIUM",
+      "company_name": "BearingPoint",
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "website": "https://bearingpoint.com",
+      "employees": "6000+",
+      "erp_systems": [
+        "SAP",
+        "IFS"
+      ],
+      "why_target": "EUR 1B revenue, serves 32 of 40 DAX companies",
+      "notable_clients": "Public sector, financial",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-046",
+      "rank": 46,
+      "priority": "MEDIUM",
+      "company_name": "Arcwide",
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "website": "https://arcwide.com",
+      "employees": "550+",
+      "erp_systems": [
+        "IFS Cloud"
+      ],
+      "why_target": "Largest IFS partner globally",
+      "notable_clients": "Asset-intensive, manufacturing",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-047",
+      "rank": 47,
+      "priority": "MEDIUM",
+      "company_name": "Avanade",
+      "country": "Europe-wide",
+      "city": "Multiple",
+      "website": "https://avanade.com",
+      "employees": "60000",
+      "erp_systems": [
+        "Dynamics 365"
+      ],
+      "why_target": "Accenture-Microsoft JV, D365 leader",
+      "notable_clients": "All major sectors",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-048",
+      "rank": 48,
+      "priority": "MEDIUM",
+      "company_name": "Prodware",
+      "country": "France",
+      "city": "Paris",
+      "website": "https://prodwaregroup.com",
+      "employees": "900+",
+      "erp_systems": [
+        "Dynamics 365"
+      ],
+      "why_target": "Leading EMEA Dynamics partner, Inner Circle",
+      "notable_clients": "Manufacturing, distribution",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-049",
+      "rank": 49,
+      "priority": "MEDIUM",
+      "company_name": "SNP Group",
+      "country": "Germany",
+      "city": "Heidelberg",
+      "website": "https://snpgroup.com",
+      "employees": "1600+",
+      "erp_systems": [
+        "SAP"
+      ],
+      "why_target": "SAP transformation specialist",
+      "notable_clients": "All sectors",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-050",
+      "rank": 50,
+      "priority": "MEDIUM",
+      "company_name": "Devoteam",
+      "country": "France",
+      "city": "Paris",
+      "website": "https://devoteam.com",
+      "employees": "11000+",
+      "erp_systems": [
+        "SAP"
+      ],
+      "why_target": "100% SAP-focused unit, EUR 1B revenue",
+      "notable_clients": "Multiple sectors",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-051",
+      "rank": 51,
+      "priority": "MEDIUM",
+      "company_name": "Visma",
+      "country": "Norway",
+      "city": "Oslo",
+      "website": "https://visma.com",
+      "employees": "16000-17500",
+      "erp_systems": [
+        "Visma ERP"
+      ],
+      "why_target": "Leading SaaS provider Nordics, 1.9M customers",
+      "notable_clients": "SMB market",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-052",
+      "rank": 52,
+      "priority": "MEDIUM",
+      "company_name": "Novacura",
+      "country": "Sweden",
+      "city": "Nordics",
+      "website": "https://novacura.com",
+      "employees": "200+",
+      "erp_systems": [
+        "IFS"
+      ],
+      "why_target": "IFS Channel Partner of Year 3x",
+      "notable_clients": "Manufacturing, energy",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-053",
+      "rank": 53,
+      "priority": "MEDIUM",
+      "company_name": "Rsult",
+      "country": "Netherlands",
+      "city": "Benelux",
+      "website": "https://rsult.com",
+      "employees": "50-100",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "why_target": "NetSuite Partner of Year Benelux 2024",
+      "notable_clients": "Various",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-054",
+      "rank": 54,
+      "priority": "MEDIUM",
+      "company_name": "INIWAVE",
+      "country": "France",
+      "city": "Paris",
+      "website": "https://iniwave.com",
+      "employees": "50-100",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "why_target": "NetSuite Partner of Year France 2024",
+      "notable_clients": "Various",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-055",
+      "rank": 55,
+      "priority": "MEDIUM",
+      "company_name": "Inplenion",
+      "country": "Germany",
+      "city": "Munich",
+      "website": "https://inplenion.com",
+      "employees": "50-100",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "why_target": "NetSuite Partner of Year Germany 2024",
+      "notable_clients": "Various",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-056",
+      "rank": 56,
+      "priority": "LOWER",
+      "company_name": "Capgemini",
+      "country": "France",
+      "city": "Paris",
+      "website": "https://capgemini.com",
+      "employees": "350000",
+      "erp_systems": [
+        "SAP",
+        "Oracle",
+        "Dynamics"
+      ],
+      "why_target": "Global Platinum SAP Partner",
+      "notable_clients": "All sectors",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-057",
+      "rank": 57,
+      "priority": "LOWER",
+      "company_name": "CGI",
+      "country": "Canada/Europe",
+      "city": "Multiple",
+      "website": "https://cgi.com",
+      "employees": "94000",
+      "erp_systems": [
+        "SAP",
+        "Oracle",
+        "Dynamics"
+      ],
+      "why_target": "40% contracts in Europe",
+      "notable_clients": "Financial, manufacturing",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-058",
+      "rank": 58,
+      "priority": "LOWER",
+      "company_name": "Atos",
+      "country": "France",
+      "city": "Paris",
+      "website": "https://atos.net",
+      "employees": "20000+",
+      "erp_systems": [
+        "SAP",
+        "Oracle",
+        "Dynamics"
+      ],
+      "why_target": "Long-standing SAP partner",
+      "notable_clients": "Manufacturing, energy",
+      "decision_makers": []
+    },
+    {
+      "id": "eu-059",
+      "rank": 59,
+      "priority": "LOWER",
+      "company_name": "TheValueChain",
+      "country": "Belgium",
+      "city": "Brussels",
+      "website": "https://thevaluechain.be",
+      "employees": "200+",
+      "erp_systems": [
+        "SAP"
+      ],
+      "why_target": "Trusted Benelux SAP partner",
+      "notable_clients": "Various",
+      "decision_makers": []
+    }
+  ]
+}

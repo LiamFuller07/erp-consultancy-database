@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ERP Consultancy Database</title>
+  <script src="https://cdn.jsdelivr.net/npm/ag-grid-enterprise@32.0.2/dist/ag-grid-enterprise.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/ag-charts-community@9.2.2/dist/umd/ag-charts-community.js"></script>
+  <style>
+    :root {
+      --ink: #111827;
+      --muted: #6b7280;
+      --bg: #f6f7fb;
+      --card: #ffffff;
+      --accent: #2563eb;
+      --accent-2: #059669;
+      --border: #e5e7eb;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      color: var(--ink);
+      background: linear-gradient(180deg, #f8fafc, #f0f4f9);
+    }
+
+    .app {
+      max-width: 1500px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .header {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 20px;
+    }
+
+    .title {
+      font-size: 26px;
+      font-weight: 700;
+    }
+
+    .title span { color: var(--accent); }
+
+    .stats {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .stat {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 14px;
+      min-width: 140px;
+      text-align: center;
+    }
+
+    .stat .num {
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    .stat .label {
+      font-size: 11px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 6px;
+      margin-bottom: 12px;
+    }
+
+    .tab {
+      border: 1px solid var(--border);
+      background: var(--card);
+      color: var(--muted);
+      border-radius: 999px;
+      padding: 10px 16px;
+      font-size: 13px;
+      cursor: pointer;
+    }
+
+    .tab.active {
+      border-color: var(--accent);
+      color: var(--accent);
+      box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.15);
+    }
+
+    .toolbar {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin: 12px 0 16px;
+    }
+
+    .toolbar input {
+      flex: 1;
+      min-width: 220px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 12px;
+      font-size: 14px;
+    }
+
+    .btn {
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--card);
+      padding: 10px 12px;
+      font-size: 13px;
+      cursor: pointer;
+    }
+
+    .btn.primary {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+
+    .btn.success {
+      background: var(--accent-2);
+      color: #fff;
+      border-color: var(--accent-2);
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+      overflow: hidden;
+    }
+
+    #grid {
+      width: 100%;
+      height: 640px;
+    }
+
+    .chart-panel {
+      margin-top: 16px;
+      padding: 12px;
+      border-top: 1px solid var(--border);
+    }
+
+    #chart {
+      width: 100%;
+      height: 320px;
+    }
+
+    .priority-badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+
+    .priority-HIGH { background: #fee2e2; color: #b91c1c; }
+    .priority-MEDIUM { background: #fef3c7; color: #b45309; }
+    .priority-LOWER { background: #dcfce7; color: #15803d; }
+
+    .detail-panel {
+      padding: 16px 18px;
+      background: #f8fafc;
+      border-left: 4px solid var(--accent);
+    }
+
+    .detail-grid {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .contact {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px;
+      min-width: 220px;
+    }
+
+    .contact .name { font-weight: 600; }
+    .contact .title { font-size: 12px; color: var(--muted); margin-top: 4px; }
+    .contact a { font-size: 12px; color: #0a66c2; text-decoration: none; }
+
+    .footer {
+      margin-top: 18px;
+      font-size: 12px;
+      color: var(--muted);
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <div class="header">
+      <div class="title">ERP Consultancy <span>Database</span></div>
+      <div class="stats">
+        <div class="stat"><div class="num" id="stat-total">0</div><div class="label">Total</div></div>
+        <div class="stat"><div class="num" id="stat-high">0</div><div class="label">High Priority</div></div>
+        <div class="stat"><div class="num" id="stat-contacts">0</div><div class="label">With Contacts</div></div>
+      </div>
+    </div>
+
+    <div class="tabs">
+      <button class="tab active" data-region="australasia">Australasia</button>
+      <button class="tab" data-region="north_america">North America</button>
+      <button class="tab" data-region="europe">Europe</button>
+    </div>
+
+    <div class="toolbar">
+      <input id="search" type="text" placeholder="Search companies, ERP systems, locations..." />
+      <button class="btn primary" id="btn-add">Add Row</button>
+      <button class="btn" id="btn-export">Export JSON</button>
+      <button class="btn success" id="btn-chart">Refresh Priority Chart</button>
+      <input id="file-import" type="file" accept=".json" style="display:none" />
+      <button class="btn" id="btn-import">Import JSON</button>
+    </div>
+
+    <div class="card">
+      <div id="grid" class="ag-theme-alpine"></div>
+      <div class="chart-panel">
+        <div id="chart"></div>
+      </div>
+    </div>
+
+    <div class="footer">Local-first database. Data saved in JSON per region.</div>
+  </div>
+
+  <script>
+    const DATA = {
+      australasia: { consultancies: [] },
+      north_america: { consultancies: [] },
+      europe: { consultancies: [] }
+    };
+
+    const REGION_FILES = {
+      australasia: './data/australasia.json',
+      north_america: './data/north_america.json',
+      europe: './data/europe.json'
+    };
+
+    const state = {
+      currentRegion: 'australasia',
+      gridApi: null
+    };
+
+    function priorityRenderer(params) {
+      if (!params.value) return '';
+      return `<span class="priority-badge priority-${params.value}">${params.value}</span>`;
+    }
+
+    function websiteRenderer(params) {
+      if (!params.value) return '';
+      let label = params.value;
+      try {
+        label = new URL(params.value).hostname.replace('www.', '');
+      } catch (e) {
+        label = params.value;
+      }
+      return `<a href="${params.value}" target="_blank">${label}</a>`;
+    }
+
+    function erpRenderer(params) {
+      if (!params.value) return '';
+      return Array.isArray(params.value) ? params.value.join(', ') : params.value;
+    }
+
+    function contactsRenderer(params) {
+      const count = params.data.decision_makers ? params.data.decision_makers.length : 0;
+      return count ? `${count} contact${count > 1 ? 's' : ''}` : '-';
+    }
+
+    const columnDefs = [
+      { field: 'rank', width: 80, sortable: true, filter: true, editable: true },
+      { field: 'priority', width: 120, cellRenderer: priorityRenderer, editable: true },
+      { field: 'company_name', headerName: 'Company', flex: 2, editable: true, cellRenderer: 'agGroupCellRenderer' },
+      { field: 'country', width: 120, editable: true },
+      { field: 'city', width: 160, editable: true },
+      { field: 'state', width: 80, editable: true },
+      { field: 'employees', width: 120, editable: true },
+      { field: 'erp_systems', headerName: 'ERP Systems', flex: 2, editable: true, cellRenderer: erpRenderer },
+      { field: 'website', headerName: 'Website', flex: 1, editable: true, cellRenderer: websiteRenderer },
+      { headerName: 'Contacts', width: 110, valueGetter: p => p.data.decision_makers?.length || 0, cellRenderer: contactsRenderer }
+    ];
+
+    class DetailRenderer {
+      init(params) {
+        this.eGui = document.createElement('div');
+        this.eGui.className = 'detail-panel';
+        const contacts = params.data.decision_makers || [];
+        if (!contacts.length) {
+          this.eGui.innerHTML = '<strong>Decision Makers</strong><p>No contacts available.</p>';
+          return;
+        }
+        const cards = contacts.map(c => {
+          const link = c.linkedin_url ? `<a href="${c.linkedin_url.startsWith('http') ? c.linkedin_url : 'https://' + c.linkedin_url}" target="_blank">LinkedIn</a>` : '<span>No LinkedIn</span>';
+          return `
+            <div class="contact">
+              <div class="name">${c.name || 'Unknown'}</div>
+              <div class="title">${c.title || ''}</div>
+              ${link}
+            </div>
+          `;
+        }).join('');
+        this.eGui.innerHTML = `
+          <strong>Decision Makers (${contacts.length})</strong>
+          <div class="detail-grid">${cards}</div>
+        `;
+      }
+      getGui() { return this.eGui; }
+      refresh() { return false; }
+    }
+
+    const gridOptions = {
+      columnDefs,
+      defaultColDef: { resizable: true, sortable: true, filter: true },
+      masterDetail: true,
+      detailCellRenderer: DetailRenderer,
+      detailRowHeight: 180,
+      animateRows: true,
+      enableCharts: true,
+      onGridReady: (params) => { state.gridApi = params.api; }
+    };
+
+    async function loadRegion(region) {
+      const response = await fetch(REGION_FILES[region]);
+      const json = await response.json();
+      DATA[region] = json;
+      return json.consultancies || [];
+    }
+
+    function refreshStats() {
+      const all = Object.values(DATA).flatMap(d => d.consultancies || []);
+      const high = all.filter(r => r.priority === 'HIGH').length;
+      const contacts = all.filter(r => (r.decision_makers || []).length > 0).length;
+      document.getElementById('stat-total').textContent = all.length;
+      document.getElementById('stat-high').textContent = high;
+      document.getElementById('stat-contacts').textContent = contacts;
+    }
+
+    function renderChart() {
+      const rows = DATA[state.currentRegion].consultancies || [];
+      const buckets = {};
+      rows.forEach(r => {
+        const key = r.priority || 'UNKNOWN';
+        buckets[key] = (buckets[key] || 0) + 1;
+      });
+      const data = Object.keys(buckets).map(key => ({ priority: key, count: buckets[key] }));
+      const options = {
+        container: document.getElementById('chart'),
+        data,
+        series: [{ type: 'pie', angleKey: 'count', labelKey: 'priority' }],
+        title: { text: `Priority Breakdown (${state.currentRegion.replace('_', ' ')})` }
+      };
+      agCharts.AgCharts.create(options);
+    }
+
+    function setGridData(region) {
+      const rows = DATA[region].consultancies || [];
+      state.gridApi.setGridOption('rowData', rows);
+    }
+
+    function addRow() {
+      const rows = DATA[state.currentRegion].consultancies || [];
+      const nextRank = rows.length + 1;
+      const row = {
+        id: `new-${Date.now()}`,
+        rank: nextRank,
+        priority: 'MEDIUM',
+        company_name: 'New Consultancy',
+        country: '',
+        city: '',
+        state: '',
+        employees: '',
+        erp_systems: [],
+        website: '',
+        decision_makers: []
+      };
+      state.gridApi.applyTransaction({ add: [row], addIndex: 0 });
+    }
+
+    function exportRegion() {
+      const data = DATA[state.currentRegion];
+      const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `${state.currentRegion}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+
+    async function init() {
+      const gridDiv = document.getElementById('grid');
+      agGrid.createGrid(gridDiv, gridOptions);
+
+      await Promise.all(Object.keys(REGION_FILES).map(loadRegion));
+      refreshStats();
+      setGridData(state.currentRegion);
+      renderChart();
+
+      document.querySelectorAll('.tab').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+          btn.classList.add('active');
+          state.currentRegion = btn.dataset.region;
+          setGridData(state.currentRegion);
+          renderChart();
+        });
+      });
+
+      document.getElementById('search').addEventListener('input', e => {
+        state.gridApi.setGridOption('quickFilterText', e.target.value);
+      });
+
+      document.getElementById('btn-add').addEventListener('click', addRow);
+      document.getElementById('btn-export').addEventListener('click', exportRegion);
+      document.getElementById('btn-chart').addEventListener('click', renderChart);
+
+      document.getElementById('btn-import').addEventListener('click', () => {
+        document.getElementById('file-import').click();
+      });
+
+      document.getElementById('file-import').addEventListener('change', async (e) => {
+        const file = e.target.files[0];
+        if (!file) return;
+        const text = await file.text();
+        const json = JSON.parse(text);
+        DATA[state.currentRegion] = json;
+        setGridData(state.currentRegion);
+        refreshStats();
+        renderChart();
+      });
+    }
+
+    init();
+  </script>
+</body>
+</html>

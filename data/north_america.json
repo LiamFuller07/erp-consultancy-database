@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T11:26:39.631Z",
+  "last_updated": "2026-01-16T11:26:48.057Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10411,6 +10411,24 @@
       "website": "houseblend.io",
       "decision_makers": [],
       "why_target": "Boutique NetSuite firm specializing in rescue missions for troubled implementations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768562808057",
+      "rank": 1021,
+      "priority": "HIGH",
+      "company_name": "CW Global Partners",
+      "country": "USA",
+      "city": "Miami",
+      "state": "FL",
+      "employees": "",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "website": "cwglobalpartners.com",
+      "decision_makers": [],
+      "why_target": "Founded 2012, 150+ NetSuite implementations",
       "notable_clients": "",
       "awards": ""
     }

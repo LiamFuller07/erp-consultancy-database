@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T18:00:43.710Z",
+  "last_updated": "2026-01-16T18:00:47.812Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10876,6 +10876,24 @@
       "website": "",
       "decision_makers": [],
       "why_target": "7x Sage Partner of the Year, President Club",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768586447812",
+      "rank": 1047,
+      "priority": "HIGH",
+      "company_name": "BrainSell",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Sage Intacct"
+      ],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Sage Platinum Partner",
       "notable_clients": "",
       "awards": ""
     }

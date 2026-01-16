@@ -112,22 +112,22 @@
 
     #grid {
       width: 100%;
-      height: 640px;
+      height: 760px;
     }
 
 
     .priority-badge {
       display: inline-block;
-      padding: 4px 10px;
-      border-radius: 999px;
+      padding: 0;
+      border-radius: 0;
       font-size: 11px;
       font-weight: 600;
       text-transform: uppercase;
     }
 
-    .priority-HIGH { background: #fee2e2; color: #b42318; }
-    .priority-MEDIUM { background: #fef3c7; color: #b54708; }
-    .priority-LOWER { background: #dcfce7; color: #047857; }
+    .priority-HIGH { color: #b42318; }
+    .priority-MEDIUM { color: #b54708; }
+    .priority-LOWER { color: #047857; }
 
     .detail-panel {
       padding: 16px 18px;
@@ -166,6 +166,8 @@
       --ag-row-hover-color: #f1f5ff;
       --ag-border-color: #e4e7ec;
       --ag-odd-row-background-color: #ffffff;
+      --ag-row-height: 32px;
+      --ag-header-height: 36px;
     }
   </style>
 </head>
@@ -236,13 +238,13 @@
     const columnDefs = [
       { field: 'rank', width: 80, sortable: true, filter: true, editable: true },
       { field: 'priority', width: 120, cellRenderer: priorityRenderer, editable: true },
-      { field: 'company_name', headerName: 'Company', flex: 2, editable: true, cellRenderer: 'agGroupCellRenderer' },
-      { field: 'country', width: 120, editable: true },
-      { field: 'city', width: 160, editable: true },
-      { field: 'state', width: 80, editable: true },
-      { field: 'employees', width: 120, editable: true },
-      { field: 'erp_systems', headerName: 'ERP Systems', flex: 2, editable: true, cellRenderer: erpRenderer },
-      { field: 'website', headerName: 'Website', flex: 1, editable: true, cellRenderer: websiteRenderer },
+      { field: 'company_name', headerName: 'Company', flex: 3, minWidth: 220, editable: true, cellRenderer: 'agGroupCellRenderer' },
+      { field: 'country', width: 130, editable: true },
+      { field: 'city', width: 180, editable: true },
+      { field: 'state', width: 90, editable: true },
+      { field: 'employees', width: 130, editable: true },
+      { field: 'erp_systems', headerName: 'ERP Systems', flex: 3, minWidth: 240, editable: true, cellRenderer: erpRenderer },
+      { field: 'website', headerName: 'Website', flex: 2, minWidth: 180, editable: true, cellRenderer: websiteRenderer },
       { headerName: 'Contacts', width: 110, valueGetter: p => p.data.decision_makers?.length || 0, cellRenderer: contactsRenderer }
     ];
 
@@ -276,7 +278,7 @@
 
     const gridOptions = {
       columnDefs,
-      defaultColDef: { resizable: true, sortable: true, filter: true },
+      defaultColDef: { resizable: true, sortable: true, filter: true, minWidth: 120 },
       masterDetail: true,
       detailCellRenderer: DetailRenderer,
       detailRowHeight: 180,

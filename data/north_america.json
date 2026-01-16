@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T11:25:42.145Z",
+  "last_updated": "2026-01-16T11:25:48.484Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10338,6 +10338,24 @@
       "website": "pcbennett.com",
       "decision_makers": [],
       "why_target": "Acumatica longest-tenured partner since 2002, Gold Certified",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768562748484",
+      "rank": 1017,
+      "priority": "HIGH",
+      "company_name": "WM Synergy",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "Acumatica"
+      ],
+      "website": "wm-synergy.com",
+      "decision_makers": [],
+      "why_target": "150+ professionals, Acumatica Manufacturing Partner of Year, 28 years",
       "notable_clients": "",
       "awards": ""
     }

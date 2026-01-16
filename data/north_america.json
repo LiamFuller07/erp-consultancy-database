@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T11:25:35.031Z",
+  "last_updated": "2026-01-16T11:25:42.145Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10320,6 +10320,24 @@
       "website": "microaccounting.com",
       "decision_makers": [],
       "why_target": "Sage Intacct implementation specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768562742145",
+      "rank": 1016,
+      "priority": "HIGH",
+      "company_name": "PC Bennett Solutions",
+      "country": "USA",
+      "city": "North Bend",
+      "state": "WA",
+      "employees": "",
+      "erp_systems": [
+        "Acumatica"
+      ],
+      "website": "pcbennett.com",
+      "decision_makers": [],
+      "why_target": "Acumatica longest-tenured partner since 2002, Gold Certified",
       "notable_clients": "",
       "awards": ""
     }

@@ -12,6 +12,18 @@ const PORT = Number(process.env.PORT || process.env.MCP_PORT || 3333);
 
 const REGION_SET = new Set(["australasia", "north_america", "europe"]);
 const PRIORITY_SET = new Set(["HIGH", "MEDIUM", "LOWER", "LOW", "HIGHEST"]);
+const REQUIRED_FIELDS = ["id", "rank", "priority", "company_name", "country"];
+const OPTIONAL_FIELDS = [
+  "city",
+  "state",
+  "employees",
+  "erp_systems",
+  "website",
+  "decision_makers",
+  "why_target",
+  "notable_clients",
+  "awards"
+];
 
 if (!TOKEN) {
   process.stderr.write("Missing GITHUB_TOKEN. Export it before running.\n");
@@ -131,19 +143,31 @@ function normalizeDecisionMakers(value) {
   }));
 }
 
-function validateRow(row, region) {
+function normalizeRow(row, region) {
   const errors = [];
-  if (!row.company_name) errors.push("company_name");
-  if (!row.country) errors.push("country");
-  if (row.rank === undefined || row.rank === null || row.rank === "") errors.push("rank");
-  if (!row.id) errors.push("id");
+  REQUIRED_FIELDS.forEach((field) => {
+    if (row[field] === undefined || row[field] === null || row[field] === "") {
+      errors.push(field);
+    }
+  });
   if (errors.length) {
     throw new Error(`Missing required fields (${region}): ${errors.join(", ")}`);
   }
   return {
-    ...row,
+    id: row.id,
+    rank: row.rank,
     priority: normalizePriority(row.priority),
-    decision_makers: normalizeDecisionMakers(row.decision_makers || [])
+    company_name: row.company_name,
+    country: row.country,
+    city: row.city || "",
+    state: row.state || "",
+    employees: row.employees || "",
+    erp_systems: Array.isArray(row.erp_systems) ? row.erp_systems : [],
+    website: row.website || "",
+    decision_makers: normalizeDecisionMakers(row.decision_makers || []),
+    why_target: row.why_target || "",
+    notable_clients: row.notable_clients || "",
+    awards: row.awards || ""
   };
 }
 
@@ -151,7 +175,7 @@ function normalizeDataset(region, data) {
   if (!data || !Array.isArray(data.consultancies)) {
     throw new Error("Dataset must include consultancies[]");
   }
-  const cleaned = data.consultancies.map((row) => validateRow(row, region));
+  const cleaned = data.consultancies.map((row) => normalizeRow(row, region));
   return { ...data, region, consultancies: cleaned };
 }
 
@@ -187,11 +211,11 @@ async function callTool(name, args) {
     const idx = findCompanyIndex(rows, id, company_name);
 
     if (idx >= 0) {
-      rows[idx] = validateRow({ ...rows[idx], ...patch }, region);
+      rows[idx] = normalizeRow({ ...rows[idx], ...patch }, region);
     } else {
       const newId = id || `${region}-new-${Date.now()}`;
       const nextRank = rows.reduce((max, r) => Math.max(max, Number(r.rank) || 0), 0) + 1;
-      const newRow = validateRow({
+      const newRow = normalizeRow({
         id: newId,
         rank: patch.rank ?? nextRank,
         priority: patch.priority ?? "MEDIUM",
@@ -209,18 +233,8 @@ async function callTool(name, args) {
 
   if (name === "get_schema") {
     return {
-      required_fields: ["id", "rank", "priority", "company_name", "country"],
-      optional_fields: [
-        "city",
-        "state",
-        "employees",
-        "erp_systems",
-        "website",
-        "decision_makers",
-        "why_target",
-        "notable_clients",
-        "awards"
-      ],
+      required_fields: REQUIRED_FIELDS,
+      optional_fields: OPTIONAL_FIELDS,
       priority_values: Array.from(PRIORITY_SET)
     };
   }

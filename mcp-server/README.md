@@ -29,6 +29,7 @@ npm start
 - All updates write to `data/{region}.json` in the repo.
 - Pages will rebuild automatically after updates.
 - Validation is enforced: each row must include `id`, `rank`, `priority`, `company_name`, `country`.
+- All optional fields are normalized and included in every row (empty string/array if missing).
 
 ## HTTP Bridge
 

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T11:23:03.511Z",
+  "last_updated": "2026-01-16T11:23:11.386Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10041,6 +10041,24 @@
       "website": "trenegy.com",
       "decision_makers": [],
       "why_target": "ERP selection and implementation consulting firm",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768562591385",
+      "rank": 1001,
+      "priority": "HIGHEST",
+      "company_name": "Consensus International",
+      "country": "USA",
+      "city": "Miami",
+      "state": "FL",
+      "employees": "",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "consensusintl.com",
+      "decision_makers": [],
+      "why_target": "Top 5 SAP B1 Reseller in USA, 900+ implementations, 33+ years experience",
       "notable_clients": "",
       "awards": ""
     }

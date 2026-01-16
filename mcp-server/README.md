@@ -12,6 +12,7 @@ export GITHUB_OWNER=LiamFuller07
 export GITHUB_REPO=erp-consultancy-database
 export GITHUB_BRANCH=main
 export MCP_PORT=3333
+export MCP_API_KEY=your_shared_key
 # Railway provides PORT automatically in production.
 npm start
 ```
@@ -57,4 +58,12 @@ POST http://localhost:3333/mcp
     \"patch\": { \"priority\": \"HIGH\" }
   }
 }
+```
+
+## Auth
+
+If `MCP_API_KEY` is set, clients must send:
+
+```
+X-Api-Key: your_shared_key
 ```

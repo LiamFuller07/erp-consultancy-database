@@ -24,7 +24,9 @@ npm start
 - `get_region_compact` `{ region }` -> `{ columns, rows }`
 - `get_region_text` `{ region }` -> `{ text }`
 - `search_region` `{ region, query, fields? }` -> `{ count, results }`
-- `get_instructions` `{}` -> `{ description, required_fields, optional_fields, priority_values, stats }`
+- `get_instructions` `{}` -> `{ description, required_fields, optional_fields, priority_values, stats, files, pages_url }`
+- `list_files` `{}` -> `{ files }`
+- `get_file` `{ path }` -> JSON (data/* only)
 - `replace_region` `{ region, data }`
 - `upsert_company` `{ region, id?, company_name?, patch }`
 - `get_schema` `{}` -> required/optional fields + valid priority values

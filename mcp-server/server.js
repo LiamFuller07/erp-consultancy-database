@@ -117,6 +117,10 @@ const searchRegionSchema = z.object({
 });
 
 const getInstructionsSchema = z.object({});
+const listFilesSchema = z.object({});
+const getFileSchema = z.object({
+  path: z.string()
+});
 
 function getRegionPath(region) {
   return `data/${region}.json`;
@@ -310,7 +314,13 @@ async function callTool(name, args) {
       required_fields: REQUIRED_FIELDS,
       optional_fields: OPTIONAL_FIELDS,
       priority_values: Array.from(PRIORITY_SET),
-      stats
+      stats,
+      files: [
+        `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/data/australasia.json`,
+        `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/data/north_america.json`,
+        `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/data/europe.json`
+      ],
+      pages_url: `https://${OWNER.toLowerCase()}.github.io/${REPO}/`
     };
   }
 
@@ -362,6 +372,25 @@ async function callTool(name, args) {
     };
   }
 
+  if (name === "list_files") {
+    return {
+      files: [
+        "data/australasia.json",
+        "data/north_america.json",
+        "data/europe.json"
+      ]
+    };
+  }
+
+  if (name === "get_file") {
+    const { path } = getFileSchema.parse(args);
+    if (!path.startsWith("data/")) {
+      throw new Error("Only data/* files are accessible.");
+    }
+    const { json } = await getJsonFile(path);
+    return json;
+  }
+
   throw new Error(`Unknown tool: ${name}`);
 }
 
@@ -397,6 +426,16 @@ server.setRequestHandler(ListToolsRequestSchema, async () => {
         name: "get_instructions",
         description: "Return MCP usage instructions, schema, and dataset stats.",
         inputSchema: getInstructionsSchema
+      },
+      {
+        name: "list_files",
+        description: "List available data files.",
+        inputSchema: listFilesSchema
+      },
+      {
+        name: "get_file",
+        description: "Fetch a data file (data/* only).",
+        inputSchema: getFileSchema
       },
       {
         name: "replace_region",

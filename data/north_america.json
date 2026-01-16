@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T11:24:59.560Z",
+  "last_updated": "2026-01-16T11:25:05.217Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10265,6 +10265,25 @@
       "website": "rpic.com",
       "decision_makers": [],
       "why_target": "25+ years Infor Lawson, Government and Healthcare specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768562705217",
+      "rank": 1013,
+      "priority": "HIGH",
+      "company_name": "Columbus Global",
+      "country": "USA",
+      "city": "Minneapolis",
+      "state": "MN",
+      "employees": "",
+      "erp_systems": [
+        "Infor M3",
+        "Microsoft Dynamics 365"
+      ],
+      "website": "columbusglobal.com",
+      "decision_makers": [],
+      "why_target": "Largest independent Infor M3 partner, 350+ clients",
       "notable_clients": "",
       "awards": ""
     }

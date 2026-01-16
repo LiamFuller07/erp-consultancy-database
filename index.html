@@ -195,9 +195,8 @@
     .priority-LOWER { color: #047857; }
 
     .detail-panel {
-      padding: 16px 18px;
-      background: #f8fafc;
-      border-left: 4px solid var(--accent);
+      padding: 12px 16px;
+      background: #ffffff;
     }
 
     .detail-grid {
@@ -207,14 +206,14 @@
     }
 
     .contact-table {
-      margin-top: 8px;
+      margin-top: 6px;
     }
 
     .contact-row {
       display: grid;
       grid-template-columns: 1.2fr 1.4fr 0.8fr;
       gap: 8px;
-      padding: 6px 2px;
+      padding: 6px 0;
       border-bottom: 1px solid var(--border);
     }
 
@@ -263,6 +262,20 @@
       --ag-odd-row-background-color: #ffffff;
       --ag-row-height: 32px;
       --ag-header-height: 36px;
+      --ag-selected-row-background-color: #ffffff;
+      --ag-range-selection-border-color: transparent;
+      --ag-range-selection-highlight-color: transparent;
+    }
+
+    .ag-row-focus,
+    .ag-cell-focus {
+      border: none !important;
+      outline: none !important;
+      box-shadow: none !important;
+    }
+
+    .ag-row-focus .ag-cell {
+      border-color: var(--ag-border-color);
     }
   </style>
 </head>
@@ -410,6 +423,8 @@
       detailCellRenderer: DetailRenderer,
       detailRowHeight: 180,
       animateRows: true,
+      rowSelection: 'none',
+      suppressCellFocus: true,
       enableCharts: true,
       onGridReady: (params) => { state.gridApi = params.api; }
     };

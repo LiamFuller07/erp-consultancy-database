@@ -293,7 +293,11 @@
         <input id="mcp-tool" type="text" value="upsert_company" />
         <button class="btn" id="mcp-snippet-copy">Copy Snippet</button>
       </div>
-      <textarea id="mcp-args">{\n  \"region\": \"north_america\",\n  \"company_name\": \"Example Co\",\n  \"patch\": { \"priority\": \"HIGH\" }\n}</textarea>
+      <textarea id="mcp-args">{
+  "region": "north_america",
+  "company_name": "Example Co",
+  "patch": { "priority": "HIGH" }
+}</textarea>
       <div class="snippet" id="mcp-snippet"></div>
       <div class="panel-actions">
         <button class="btn primary" id="mcp-send">Send</button>
@@ -493,7 +497,7 @@
         const status = document.getElementById('mcp-status');
         status.textContent = 'Sending...';
         try {
-          const args = argsText ? JSON.parse(argsText) : {};
+          const args = parseArgs(argsText);
           const res = await fetch(endpoint, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
@@ -521,8 +525,15 @@
         const endpoint = document.getElementById('mcp-endpoint').value.trim();
         const tool = document.getElementById('mcp-tool').value;
         const argsText = document.getElementById('mcp-args').value.trim();
-        const args = argsText ? argsText : '{}';
-        const snippet = `curl -s ${endpoint} \\\n  -H 'Content-Type: application/json' \\\n  -d '{\"tool\":\"${tool}\",\"arguments\":${args}}'`;
+        let args = {};
+        try {
+          args = parseArgs(argsText);
+        } catch (err) {
+          document.getElementById('mcp-snippet').textContent = `// Invalid JSON: ${err.message}`;
+          return;
+        }
+        const payload = JSON.stringify({ tool, arguments: args }, null, 2);
+        const snippet = `curl -s ${endpoint} \\\n  -H 'Content-Type: application/json' \\\n  -d '${payload.replace(/'/g, \"'\\\\''\")}'`;
         document.getElementById('mcp-snippet').textContent = snippet;
       };
 
@@ -542,6 +553,16 @@
       });
 
       updateSnippet();
+    }
+
+    function parseArgs(text) {
+      if (!text) return {};
+      try {
+        return JSON.parse(text);
+      } catch (err) {
+        const cleaned = text.replace(/\\\\n/g, '\\n').replace(/\\"/g, '\"');
+        return JSON.parse(cleaned);
+      }
     }
 
     init();

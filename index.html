@@ -321,6 +321,10 @@
         <button class="btn" id="mcp-copy">Copy</button>
       </div>
       <div class="panel-row">
+        <input id="mcp-key" type="text" placeholder="API key (optional)" />
+        <button class="btn" id="mcp-key-copy">Copy Key</button>
+      </div>
+      <div class="panel-row">
         <input id="mcp-tool" type="text" value="upsert_company" />
         <button class="btn" id="mcp-snippet-copy">Copy Snippet</button>
       </div>
@@ -583,9 +587,13 @@
         status.textContent = 'Sending...';
         try {
           const args = parseArgs(argsText);
+          const apiKey = document.getElementById('mcp-key').value.trim();
           const res = await fetch(endpoint, {
             method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
+            headers: {
+              'Content-Type': 'application/json',
+              ...(apiKey ? { 'X-Api-Key': apiKey } : {})
+            },
             body: JSON.stringify({ tool, arguments: args })
           });
           const json = await res.json();
@@ -606,6 +614,17 @@
         }
       });
 
+      document.getElementById('mcp-key-copy').addEventListener('click', async () => {
+        const key = document.getElementById('mcp-key').value.trim();
+        const status = document.getElementById('mcp-status');
+        try {
+          await navigator.clipboard.writeText(key);
+          status.textContent = 'Copied key';
+        } catch (err) {
+          status.textContent = 'Copy failed';
+        }
+      });
+
       const updateSnippet = () => {
         const endpoint = document.getElementById('mcp-endpoint').value.trim();
         const tool = document.getElementById('mcp-tool').value;
@@ -617,8 +636,10 @@
           document.getElementById('mcp-snippet').textContent = `// Invalid JSON: ${err.message}`;
           return;
         }
+        const apiKey = document.getElementById('mcp-key').value.trim();
         const payload = JSON.stringify({ tool, arguments: args }, null, 2);
-        const snippet = `curl -s ${endpoint} \\\n  -H 'Content-Type: application/json' \\\n  -d '${payload.replace(/'/g, "'\\\\''")}'`;
+        const authHeader = apiKey ? `  -H 'X-Api-Key: ${apiKey}' \\\n` : '';
+        const snippet = `curl -s ${endpoint} \\\n  -H 'Content-Type: application/json' \\\n${authHeader}  -d '${payload.replace(/'/g, "'\\\\''")}'`;
         document.getElementById('mcp-snippet').textContent = snippet;
       };
 
@@ -632,18 +653,22 @@
         }
       });
 
-      ['mcp-endpoint', 'mcp-tool', 'mcp-args'].forEach(id => {
+      ['mcp-endpoint', 'mcp-tool', 'mcp-args', 'mcp-key'].forEach(id => {
         document.getElementById(id).addEventListener('input', updateSnippet);
         document.getElementById(id).addEventListener('change', updateSnippet);
       });
 
       const loadInstructions = async () => {
         const endpoint = document.getElementById('mcp-endpoint').value.trim();
+        const apiKey = document.getElementById('mcp-key').value.trim();
         const info = document.getElementById('mcp-info');
         try {
           const res = await fetch(endpoint, {
             method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
+            headers: {
+              'Content-Type': 'application/json',
+              ...(apiKey ? { 'X-Api-Key': apiKey } : {})
+            },
             body: JSON.stringify({ tool: 'get_instructions', arguments: {} })
           });
           const json = await res.json();

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T13:56:33.932Z",
+  "last_updated": "2026-01-16T13:56:36.385Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10714,6 +10714,24 @@
       "website": "samaconsultinginc.com",
       "decision_makers": [],
       "why_target": "15+ years Infor experience, 150+ Infor LN projects, Fortune 500 implementations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768571796385",
+      "rank": 1038,
+      "priority": "HIGH",
+      "company_name": "Effective Computer Solutions",
+      "country": "USA",
+      "city": "Ponte Vedra",
+      "state": "FL",
+      "employees": "",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "ecs-online.com",
+      "decision_makers": [],
+      "why_target": "SAP Certified Gold Partner, nearly four decades experience",
       "notable_clients": "",
       "awards": ""
     }

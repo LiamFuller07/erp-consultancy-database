@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T18:01:26.369Z",
+  "last_updated": "2026-01-16T18:01:29.474Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -11021,6 +11021,24 @@
       "website": "certipro.com",
       "decision_makers": [],
       "why_target": "Sage 100 and Sage X3 specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768586489474",
+      "rank": 1055,
+      "priority": "HIGH",
+      "company_name": "Vrakas Blum Computer Consulting",
+      "country": "USA",
+      "city": "Brookfield",
+      "state": "WI",
+      "employees": "",
+      "erp_systems": [
+        "Sage 100"
+      ],
+      "website": "v-bcc.com",
+      "decision_makers": [],
+      "why_target": "300+ manufacturing implementations",
       "notable_clients": "",
       "awards": ""
     }

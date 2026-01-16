@@ -72,6 +72,58 @@
       margin: 14px 0 18px;
     }
 
+    .panel {
+      display: none;
+      margin-top: 12px;
+      padding: 12px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: var(--card);
+      box-shadow: var(--shadow);
+    }
+
+    .panel.active {
+      display: block;
+    }
+
+    .panel label {
+      font-size: 12px;
+      color: var(--muted);
+      display: block;
+      margin-bottom: 6px;
+    }
+
+    .panel input,
+    .panel select,
+    .panel textarea {
+      width: 100%;
+      padding: 8px 10px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font-family: "IBM Plex Sans", "Segoe UI", Arial, sans-serif;
+      font-size: 13px;
+    }
+
+    .panel textarea {
+      min-height: 120px;
+      resize: vertical;
+      font-family: "IBM Plex Sans", "Segoe UI", Arial, sans-serif;
+    }
+
+    .panel-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    .panel-actions {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      margin-top: 10px;
+    }
+
     .toolbar input {
       flex: 1;
       min-width: 220px;
@@ -177,6 +229,7 @@
       <button class="tab active" data-region="australasia">Australasia</button>
       <button class="tab" data-region="north_america">North America</button>
       <button class="tab" data-region="europe">Europe</button>
+      <button class="tab" data-region="mcp">MCP</button>
     </div>
 
     <div class="toolbar">
@@ -186,6 +239,32 @@
 
     <div class="card">
       <div id="grid" class="ag-theme-alpine"></div>
+    </div>
+
+    <div class="panel" id="mcp-panel">
+      <div class="panel-row">
+        <div>
+          <label for="mcp-endpoint">MCP Endpoint</label>
+          <input id="mcp-endpoint" type="text" value="http://localhost:3333/mcp" />
+        </div>
+        <div>
+          <label for="mcp-tool">Tool</label>
+          <select id="mcp-tool">
+            <option value="list_regions">list_regions</option>
+            <option value="get_region">get_region</option>
+            <option value="replace_region">replace_region</option>
+            <option value="upsert_company" selected>upsert_company</option>
+          </select>
+        </div>
+      </div>
+      <div>
+        <label for="mcp-args">Arguments (JSON)</label>
+        <textarea id="mcp-args">{\n  \"region\": \"north_america\",\n  \"company_name\": \"Example Co\",\n  \"patch\": { \"priority\": \"HIGH\" }\n}</textarea>
+      </div>
+      <div class="panel-actions">
+        <button class="btn primary" id="mcp-send">Send</button>
+        <span class="muted" id="mcp-status"></span>
+      </div>
     </div>
 
     <div class="footer">Local-first database. Data saved in JSON per region.</div>
@@ -339,6 +418,13 @@
           document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
           btn.classList.add('active');
           state.currentRegion = btn.dataset.region;
+          if (state.currentRegion === 'mcp') {
+            document.querySelector('.card').style.display = 'none';
+            document.getElementById('mcp-panel').classList.add('active');
+            return;
+          }
+          document.querySelector('.card').style.display = 'block';
+          document.getElementById('mcp-panel').classList.remove('active');
           setGridData(state.currentRegion);
         });
       });
@@ -348,6 +434,26 @@
       });
 
       document.getElementById('btn-add').addEventListener('click', addRow);
+
+      document.getElementById('mcp-send').addEventListener('click', async () => {
+        const endpoint = document.getElementById('mcp-endpoint').value.trim();
+        const tool = document.getElementById('mcp-tool').value;
+        const argsText = document.getElementById('mcp-args').value.trim();
+        const status = document.getElementById('mcp-status');
+        status.textContent = 'Sending...';
+        try {
+          const args = argsText ? JSON.parse(argsText) : {};
+          const res = await fetch(endpoint, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ tool, arguments: args })
+          });
+          const json = await res.json();
+          status.textContent = json.ok ? 'Success' : `Error: ${json.error}`;
+        } catch (err) {
+          status.textContent = `Error: ${err.message}`;
+        }
+      });
     }
 
     init();

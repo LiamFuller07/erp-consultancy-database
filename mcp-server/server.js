@@ -2,11 +2,13 @@ import { Server } from "@modelcontextprotocol/sdk/server/index.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import { CallToolRequestSchema, ListToolsRequestSchema } from "@modelcontextprotocol/sdk/types.js";
 import { z } from "zod";
+import http from "http";
 
 const OWNER = process.env.GITHUB_OWNER || "LiamFuller07";
 const REPO = process.env.GITHUB_REPO || "erp-consultancy-database";
 const BRANCH = process.env.GITHUB_BRANCH || "main";
 const TOKEN = process.env.GITHUB_TOKEN;
+const PORT = Number(process.env.MCP_PORT || 3333);
 
 const REGION_SET = new Set(["australasia", "north_america", "europe"]);
 
@@ -110,8 +112,51 @@ function findCompanyIndex(rows, id, name) {
   return -1;
 }
 
+async function callTool(name, args) {
+  if (name === "list_regions") {
+    return Array.from(REGION_SET);
+  }
+
+  if (name === "get_region") {
+    const { region } = getRegionSchema.parse(args);
+    const path = getRegionPath(region);
+    const { json } = await getJsonFile(path);
+    return json;
+  }
+
+  if (name === "replace_region") {
+    const { region, data } = replaceRegionSchema.parse(args);
+    const path = getRegionPath(region);
+    const { sha } = await getJsonFile(path);
+    const payload = { ...data, region, last_updated: new Date().toISOString() };
+    await putJsonFile(path, payload, `Replace ${region} dataset`, sha);
+    return { status: "ok", message: `Replaced ${region} dataset.` };
+  }
+
+  if (name === "upsert_company") {
+    const { region, id, company_name, patch } = upsertCompanySchema.parse(args);
+    const path = getRegionPath(region);
+    const { json, sha } = await getJsonFile(path);
+    const rows = Array.isArray(json.consultancies) ? json.consultancies : [];
+    const idx = findCompanyIndex(rows, id, company_name);
+
+    if (idx >= 0) {
+      rows[idx] = { ...rows[idx], ...patch };
+    } else {
+      const newId = id || `${region}-new-${Date.now()}`;
+      rows.push({ id: newId, company_name: company_name || "Unknown", ...patch });
+    }
+
+    const payload = { ...json, consultancies: rows, last_updated: new Date().toISOString() };
+    await putJsonFile(path, payload, `Upsert company in ${region}`, sha);
+    return { status: "ok", message: `Upserted company in ${region}.` };
+  }
+
+  throw new Error(`Unknown tool: ${name}`);
+}
+
 const server = new Server(
-  { name: "erp-consultancy-mcp", version: "0.1.0" },
+  { name: "erp-consultancy-mcp", version: "0.2.0" },
   { capabilities: { tools: {} } }
 );
 
@@ -144,48 +189,35 @@ server.setRequestHandler(ListToolsRequestSchema, async () => {
 
 server.setRequestHandler(CallToolRequestSchema, async (request) => {
   const { name, arguments: args } = request.params;
-
-  if (name === "list_regions") {
-    return { content: [{ type: "text", text: Array.from(REGION_SET).join(", ") }] };
-  }
-
-  if (name === "get_region") {
-    const { region } = getRegionSchema.parse(args);
-    const path = getRegionPath(region);
-    const { json } = await getJsonFile(path);
-    return { content: [{ type: "text", text: JSON.stringify(json, null, 2) }] };
-  }
-
-  if (name === "replace_region") {
-    const { region, data } = replaceRegionSchema.parse(args);
-    const path = getRegionPath(region);
-    const { sha } = await getJsonFile(path);
-    const payload = { ...data, region, last_updated: new Date().toISOString() };
-    await putJsonFile(path, payload, `Replace ${region} dataset`, sha);
-    return { content: [{ type: "text", text: `Replaced ${region} dataset.` }] };
-  }
-
-  if (name === "upsert_company") {
-    const { region, id, company_name, patch } = upsertCompanySchema.parse(args);
-    const path = getRegionPath(region);
-    const { json, sha } = await getJsonFile(path);
-    const rows = Array.isArray(json.consultancies) ? json.consultancies : [];
-    const idx = findCompanyIndex(rows, id, company_name);
-
-    if (idx >= 0) {
-      rows[idx] = { ...rows[idx], ...patch };
-    } else {
-      const newId = id || `${region}-new-${Date.now()}`;
-      rows.push({ id: newId, company_name: company_name || "Unknown", ...patch });
-    }
-
-    const payload = { ...json, consultancies: rows, last_updated: new Date().toISOString() };
-    await putJsonFile(path, payload, `Upsert company in ${region}`, sha);
-    return { content: [{ type: "text", text: `Upserted company in ${region}.` }] };
-  }
-
-  throw new Error(`Unknown tool: ${name}`);
+  const result = await callTool(name, args || {});
+  return { content: [{ type: "text", text: JSON.stringify(result, null, 2) }] };
 });
 
 const transport = new StdioServerTransport();
 await server.connect(transport);
+
+const httpServer = http.createServer(async (req, res) => {
+  if (req.method !== "POST" || req.url !== "/mcp") {
+    res.writeHead(404, { "Content-Type": "application/json" });
+    res.end(JSON.stringify({ error: "Not found" }));
+    return;
+  }
+
+  let body = "";
+  req.on("data", chunk => { body += chunk; });
+  req.on("end", async () => {
+    try {
+      const payload = JSON.parse(body || "{}");
+      const result = await callTool(payload.tool, payload.arguments || {});
+      res.writeHead(200, { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" });
+      res.end(JSON.stringify({ ok: true, result }));
+    } catch (err) {
+      res.writeHead(400, { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" });
+      res.end(JSON.stringify({ ok: false, error: err.message }));
+    }
+  });
+});
+
+httpServer.listen(PORT, () => {
+  process.stderr.write(`MCP HTTP bridge listening on http://localhost:${PORT}/mcp\n`);
+});

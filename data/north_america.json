@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T11:23:19.065Z",
+  "last_updated": "2026-01-16T11:23:25.521Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10078,6 +10078,25 @@
       "website": "decision.com",
       "decision_makers": [],
       "why_target": "#1 Gold Infor partner, 500+ manufacturing clients, 40+ years experience",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768562605521",
+      "rank": 1003,
+      "priority": "HIGHEST",
+      "company_name": "Godlan",
+      "country": "USA",
+      "city": "Clinton Township",
+      "state": "MI",
+      "employees": "",
+      "erp_systems": [
+        "Infor CloudSuite Industrial",
+        "SyteLine"
+      ],
+      "website": "godlan.com",
+      "decision_makers": [],
+      "why_target": "Largest dedicated CloudSuite Industrial partner, multiple Partner of Year awards",
       "notable_clients": "",
       "awards": ""
     }

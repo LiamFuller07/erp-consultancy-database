@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "europe",
-  "last_updated": "2025-01-16T12:00:00Z",
+  "last_updated": "2026-01-16T10:39:14.233Z",
   "consultancies": [
     {
       "id": "eu-001",
@@ -972,6 +972,22 @@
       "why_target": "Trusted Benelux SAP partner",
       "notable_clients": "Various",
       "decision_makers": []
+    },
+    {
+      "id": "eu-060",
+      "rank": 60,
+      "priority": "MEDIUM",
+      "company_name": "LLM Test Co",
+      "country": "UK",
+      "city": "London",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "",
+      "notable_clients": "",
+      "awards": ""
     }
   ]
 }

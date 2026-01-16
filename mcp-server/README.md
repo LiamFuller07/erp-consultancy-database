@@ -23,6 +23,7 @@ npm start
 - `get_region_compact` `{ region }` -> `{ columns, rows }`
 - `get_region_text` `{ region }` -> `{ text }`
 - `search_region` `{ region, query, fields? }` -> `{ count, results }`
+- `get_instructions` `{}` -> `{ description, required_fields, optional_fields, priority_values, stats }`
 - `replace_region` `{ region, data }`
 - `upsert_company` `{ region, id?, company_name?, patch }`
 - `get_schema` `{}` -> required/optional fields + valid priority values
@@ -33,6 +34,14 @@ npm start
 - Pages will rebuild automatically after updates.
 - Validation is enforced: each row must include `id`, `rank`, `priority`, `company_name`, `country`.
 - All optional fields are normalized and included in every row (empty string/array if missing).
+
+## Quick Test
+
+```bash
+curl -s https://mcp-server-production-fa25.up.railway.app/mcp \\
+  -H 'Content-Type: application/json' \\
+  -d '{\"tool\":\"get_instructions\",\"arguments\":{}}'
+```
 
 ## HTTP Bridge
 

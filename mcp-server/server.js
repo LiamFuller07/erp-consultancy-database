@@ -115,6 +115,8 @@ const searchRegionSchema = z.object({
   fields: z.array(z.string()).optional()
 });
 
+const getInstructionsSchema = z.object({});
+
 function getRegionPath(region) {
   return `data/${region}.json`;
 }
@@ -233,6 +235,16 @@ function toText(json) {
   }).join("\n");
 }
 
+function getStats(json) {
+  const rows = json.consultancies || [];
+  const ranks = rows.map((r) => Number(r.rank)).filter((r) => !Number.isNaN(r));
+  return {
+    count: rows.length,
+    min_rank: ranks.length ? Math.min(...ranks) : null,
+    max_rank: ranks.length ? Math.max(...ranks) : null
+  };
+}
+
 function rowMatches(row, query, fields) {
   const needle = String(query).toLowerCase();
   const searchFields = fields && fields.length ? fields : Object.keys(row);
@@ -282,6 +294,22 @@ async function callTool(name, args) {
     return {
       count: rows.length,
       results: rows
+    };
+  }
+
+  if (name === "get_instructions") {
+    const regions = Array.from(REGION_SET);
+    const stats = {};
+    for (const region of regions) {
+      const { json } = await getJsonFile(getRegionPath(region));
+      stats[region] = getStats(json);
+    }
+    return {
+      description: "ERP Consultancy MCP. Use tools to query and update regional JSON data that powers the GitHub Pages UI.",
+      required_fields: REQUIRED_FIELDS,
+      optional_fields: OPTIONAL_FIELDS,
+      priority_values: Array.from(PRIORITY_SET),
+      stats
     };
   }
 
@@ -363,6 +391,11 @@ server.setRequestHandler(ListToolsRequestSchema, async () => {
         name: "search_region",
         description: "Search a region dataset by query string.",
         inputSchema: searchRegionSchema
+      },
+      {
+        name: "get_instructions",
+        description: "Return MCP usage instructions, schema, and dataset stats.",
+        inputSchema: getInstructionsSchema
       },
       {
         name: "get_schema",

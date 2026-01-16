@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T11:23:57.915Z",
+  "last_updated": "2026-01-16T11:24:05.287Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10134,6 +10134,24 @@
       "website": "hitachi-solutions.com",
       "decision_makers": [],
       "why_target": "2025 Microsoft D365 Finance Partner of the Year",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768562645287",
+      "rank": 1006,
+      "priority": "HIGHEST",
+      "company_name": "HSO",
+      "country": "USA",
+      "city": "Chicago",
+      "state": "IL",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365 F&O"
+      ],
+      "website": "hso.com",
+      "decision_makers": [],
+      "why_target": "Inner Circle member 19 years, 2023 D365 Finance Partner of Year",
       "notable_clients": "",
       "awards": ""
     }

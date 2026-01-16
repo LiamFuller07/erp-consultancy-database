@@ -109,6 +109,12 @@ const getRegionCompactSchema = z.object({
   region: regionSchema
 });
 
+const searchRegionSchema = z.object({
+  region: regionSchema,
+  query: z.string(),
+  fields: z.array(z.string()).optional()
+});
+
 function getRegionPath(region) {
   return `data/${region}.json`;
 }
@@ -227,6 +233,21 @@ function toText(json) {
   }).join("\n");
 }
 
+function rowMatches(row, query, fields) {
+  const needle = String(query).toLowerCase();
+  const searchFields = fields && fields.length ? fields : Object.keys(row);
+  return searchFields.some((field) => {
+    const value = row[field];
+    if (Array.isArray(value)) {
+      return value.join(" ").toLowerCase().includes(needle);
+    }
+    if (typeof value === "object" && value !== null) {
+      return JSON.stringify(value).toLowerCase().includes(needle);
+    }
+    return String(value ?? "").toLowerCase().includes(needle);
+  });
+}
+
 async function callTool(name, args) {
   if (name === "list_regions") {
     return Array.from(REGION_SET);
@@ -251,6 +272,17 @@ async function callTool(name, args) {
     const path = getRegionPath(region);
     const { json } = await getJsonFile(path);
     return { text: toText(json) };
+  }
+
+  if (name === "search_region") {
+    const { region, query, fields } = searchRegionSchema.parse(args);
+    const path = getRegionPath(region);
+    const { json } = await getJsonFile(path);
+    const rows = (json.consultancies || []).filter((row) => rowMatches(row, query, fields));
+    return {
+      count: rows.length,
+      results: rows
+    };
   }
 
   if (name === "replace_region") {
@@ -326,6 +358,11 @@ server.setRequestHandler(ListToolsRequestSchema, async () => {
         name: "get_region_text",
         description: "Fetch a region dataset as text lines for LLMs.",
         inputSchema: getRegionCompactSchema
+      },
+      {
+        name: "search_region",
+        description: "Search a region dataset by query string.",
+        inputSchema: searchRegionSchema
       },
       {
         name: "get_schema",

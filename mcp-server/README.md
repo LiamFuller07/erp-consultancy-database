@@ -22,6 +22,7 @@ npm start
 - `get_region` `{ region }`
 - `get_region_compact` `{ region }` -> `{ columns, rows }`
 - `get_region_text` `{ region }` -> `{ text }`
+- `search_region` `{ region, query, fields? }` -> `{ count, results }`
 - `replace_region` `{ region, data }`
 - `upsert_company` `{ region, id?, company_name?, patch }`
 - `get_schema` `{}` -> required/optional fields + valid priority values

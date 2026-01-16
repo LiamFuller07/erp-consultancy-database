@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T12:06:06.090Z",
+  "last_updated": "2026-01-16T12:06:09.504Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10547,6 +10547,24 @@
       "website": "",
       "decision_makers": [],
       "why_target": "SYSPRO Premium Partner, manufacturing/distribution focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768565169504",
+      "rank": 1029,
+      "priority": "HIGH",
+      "company_name": "2W Technologies",
+      "country": "USA",
+      "city": "Milwaukee",
+      "state": "WI",
+      "employees": "",
+      "erp_systems": [
+        "Epicor Kinetic"
+      ],
+      "website": "2wtech.com",
+      "decision_makers": [],
+      "why_target": "Epicor Platinum partner",
       "notable_clients": "",
       "awards": ""
     }

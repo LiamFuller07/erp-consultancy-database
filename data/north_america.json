@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T11:27:48.935Z",
+  "last_updated": "2026-01-16T11:27:52.552Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10520,6 +10520,24 @@
       "website": "customis.com",
       "decision_makers": [],
       "why_target": "30+ years Microsoft Dynamics experience",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768562872552",
+      "rank": 1027,
+      "priority": "HIGH",
+      "company_name": "Aryo Consulting Group",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "ERP Implementation"
+      ],
+      "website": "aryocg.com",
+      "decision_makers": [],
+      "why_target": "ERP implementation and optimization",
       "notable_clients": "",
       "awards": ""
     }

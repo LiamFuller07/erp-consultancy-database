@@ -193,6 +193,41 @@
       flex-wrap: wrap;
     }
 
+    .contact-table {
+      margin-top: 10px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .contact-row {
+      display: grid;
+      grid-template-columns: 1.2fr 1.2fr 0.8fr;
+      gap: 8px;
+      padding: 8px 10px;
+      border-top: 1px solid var(--border);
+      background: #fff;
+    }
+
+    .contact-row:first-child {
+      border-top: none;
+    }
+
+    .contact-head {
+      background: #f8fafc;
+      font-weight: 600;
+    }
+
+    .contact-cell {
+      font-size: 12px;
+      color: var(--ink);
+    }
+
+    .contact-cell a {
+      color: #0a66c2;
+      text-decoration: none;
+    }
+
     .contact {
       background: #fff;
       border: 1px solid var(--border);
@@ -315,9 +350,10 @@
     }
 
     const columnDefs = [
+      { headerName: '', width: 52, cellRenderer: 'agGroupCellRenderer', valueGetter: () => '' },
       { field: 'rank', width: 80, sortable: true, filter: true, editable: true },
       { field: 'priority', width: 120, cellRenderer: priorityRenderer, editable: true },
-      { field: 'company_name', headerName: 'Company', flex: 3, minWidth: 220, editable: true, cellRenderer: 'agGroupCellRenderer' },
+      { field: 'company_name', headerName: 'Company', flex: 3, minWidth: 220, editable: true },
       { field: 'country', width: 130, editable: true },
       { field: 'city', width: 180, editable: true },
       { field: 'state', width: 90, editable: true },
@@ -336,19 +372,28 @@
           this.eGui.innerHTML = '<strong>Decision Makers</strong><p>No contacts available.</p>';
           return;
         }
-        const cards = contacts.map(c => {
-          const link = c.linkedin_url ? `<a href="${c.linkedin_url.startsWith('http') ? c.linkedin_url : 'https://' + c.linkedin_url}" target="_blank">LinkedIn</a>` : '<span>No LinkedIn</span>';
+        const rows = contacts.map(c => {
+          const link = c.linkedin_url
+            ? `<a href="${c.linkedin_url.startsWith('http') ? c.linkedin_url : 'https://' + c.linkedin_url}" target="_blank">LinkedIn</a>`
+            : '<span>-</span>';
           return `
-            <div class="contact">
-              <div class="name">${c.name || 'Unknown'}</div>
-              <div class="title">${c.title || ''}</div>
-              ${link}
+            <div class="contact-row">
+              <div class="contact-cell">${c.name || 'Unknown'}</div>
+              <div class="contact-cell">${c.title || ''}</div>
+              <div class="contact-cell">${link}</div>
             </div>
           `;
         }).join('');
         this.eGui.innerHTML = `
           <strong>Decision Makers (${contacts.length})</strong>
-          <div class="detail-grid">${cards}</div>
+          <div class="contact-table">
+            <div class="contact-row contact-head">
+              <div class="contact-cell">Name</div>
+              <div class="contact-cell">Title</div>
+              <div class="contact-cell">LinkedIn</div>
+            </div>
+            ${rows}
+          </div>
         `;
       }
       getGui() { return this.eGui; }

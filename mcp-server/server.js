@@ -11,6 +11,7 @@ const TOKEN = process.env.GITHUB_TOKEN;
 const PORT = Number(process.env.PORT || process.env.MCP_PORT || 3333);
 
 const REGION_SET = new Set(["australasia", "north_america", "europe"]);
+const PRIORITY_SET = new Set(["HIGH", "MEDIUM", "LOWER", "LOW", "HIGHEST"]);
 
 if (!TOKEN) {
   process.stderr.write("Missing GITHUB_TOKEN. Export it before running.\n");
@@ -112,6 +113,48 @@ function findCompanyIndex(rows, id, name) {
   return -1;
 }
 
+function normalizePriority(value) {
+  if (!value) return "MEDIUM";
+  const norm = String(value).trim().toUpperCase();
+  if (!PRIORITY_SET.has(norm)) {
+    throw new Error(`Invalid priority: ${value}`);
+  }
+  return norm;
+}
+
+function normalizeDecisionMakers(value) {
+  if (!Array.isArray(value)) return [];
+  return value.map((entry) => ({
+    name: entry?.name ? String(entry.name).trim() : "",
+    title: entry?.title ? String(entry.title).trim() : "",
+    linkedin_url: entry?.linkedin_url ? String(entry.linkedin_url).trim() : ""
+  }));
+}
+
+function validateRow(row, region) {
+  const errors = [];
+  if (!row.company_name) errors.push("company_name");
+  if (!row.country) errors.push("country");
+  if (row.rank === undefined || row.rank === null || row.rank === "") errors.push("rank");
+  if (!row.id) errors.push("id");
+  if (errors.length) {
+    throw new Error(`Missing required fields (${region}): ${errors.join(", ")}`);
+  }
+  return {
+    ...row,
+    priority: normalizePriority(row.priority),
+    decision_makers: normalizeDecisionMakers(row.decision_makers || [])
+  };
+}
+
+function normalizeDataset(region, data) {
+  if (!data || !Array.isArray(data.consultancies)) {
+    throw new Error("Dataset must include consultancies[]");
+  }
+  const cleaned = data.consultancies.map((row) => validateRow(row, region));
+  return { ...data, region, consultancies: cleaned };
+}
+
 async function callTool(name, args) {
   if (name === "list_regions") {
     return Array.from(REGION_SET);
@@ -128,7 +171,10 @@ async function callTool(name, args) {
     const { region, data } = replaceRegionSchema.parse(args);
     const path = getRegionPath(region);
     const { sha } = await getJsonFile(path);
-    const payload = { ...data, region, last_updated: new Date().toISOString() };
+    const payload = normalizeDataset(region, {
+      ...data,
+      last_updated: new Date().toISOString()
+    });
     await putJsonFile(path, payload, `Replace ${region} dataset`, sha);
     return { status: "ok", message: `Replaced ${region} dataset.` };
   }
@@ -141,15 +187,42 @@ async function callTool(name, args) {
     const idx = findCompanyIndex(rows, id, company_name);
 
     if (idx >= 0) {
-      rows[idx] = { ...rows[idx], ...patch };
+      rows[idx] = validateRow({ ...rows[idx], ...patch }, region);
     } else {
       const newId = id || `${region}-new-${Date.now()}`;
-      rows.push({ id: newId, company_name: company_name || "Unknown", ...patch });
+      const nextRank = rows.reduce((max, r) => Math.max(max, Number(r.rank) || 0), 0) + 1;
+      const newRow = validateRow({
+        id: newId,
+        rank: patch.rank ?? nextRank,
+        priority: patch.priority ?? "MEDIUM",
+        company_name: company_name || patch.company_name,
+        country: patch.country,
+        ...patch
+      }, region);
+      rows.push(newRow);
     }
 
     const payload = { ...json, consultancies: rows, last_updated: new Date().toISOString() };
     await putJsonFile(path, payload, `Upsert company in ${region}`, sha);
     return { status: "ok", message: `Upserted company in ${region}.` };
+  }
+
+  if (name === "get_schema") {
+    return {
+      required_fields: ["id", "rank", "priority", "company_name", "country"],
+      optional_fields: [
+        "city",
+        "state",
+        "employees",
+        "erp_systems",
+        "website",
+        "decision_makers",
+        "why_target",
+        "notable_clients",
+        "awards"
+      ],
+      priority_values: Array.from(PRIORITY_SET)
+    };
   }
 
   throw new Error(`Unknown tool: ${name}`);
@@ -167,6 +240,11 @@ server.setRequestHandler(ListToolsRequestSchema, async () => {
         name: "get_region",
         description: "Fetch a region JSON dataset from GitHub.",
         inputSchema: getRegionSchema
+      },
+      {
+        name: "get_schema",
+        description: "Return required/optional fields and valid priority values.",
+        inputSchema: z.object({})
       },
       {
         name: "replace_region",

@@ -22,11 +22,13 @@ npm start
 - `get_region` `{ region }`
 - `replace_region` `{ region, data }`
 - `upsert_company` `{ region, id?, company_name?, patch }`
+- `get_schema` `{}` -> required/optional fields + valid priority values
 
 ## Notes
 
 - All updates write to `data/{region}.json` in the repo.
 - Pages will rebuild automatically after updates.
+- Validation is enforced: each row must include `id`, `rank`, `priority`, `company_name`, `country`.
 
 ## HTTP Bridge
 

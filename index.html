@@ -167,6 +167,12 @@
       border-color: var(--accent-2);
     }
 
+    .btn.tiny {
+      padding: 6px 10px;
+      font-size: 11px;
+      border-radius: 999px;
+    }
+
     .card {
       background: var(--card);
       border: 1px solid var(--border);
@@ -291,6 +297,7 @@
     <div class="toolbar">
       <input id="search" type="text" placeholder="Search companies, ERP systems, locations..." />
       <button class="btn primary" id="btn-add">Add Row</button>
+      <button class="btn tiny" id="toggle-expand">Expand all</button>
     </div>
 
     <div class="card">
@@ -336,8 +343,12 @@
 
     const state = {
       currentRegion: 'australasia',
-      gridApi: null
+      gridApi: null,
+      expandedAll: false,
+      searchQuery: ''
     };
+
+    const STOP_WORDS = new Set(['the', 'and', 'or', 'of', 'for', 'with', 'in', 'to', 'a', 'an']);
 
     function priorityRenderer(params) {
       if (!params.value) return '';
@@ -363,6 +374,41 @@
     function contactsRenderer(params) {
       const count = params.data.decision_makers ? params.data.decision_makers.length : 0;
       return count ? `${count} contact${count > 1 ? 's' : ''}` : '-';
+    }
+
+    function buildSearchBlob(row) {
+      const dm = (row.decision_makers || [])
+        .map(d => `${d.name || ''} ${d.title || ''} ${d.linkedin_url || ''}`)
+        .join(' ');
+      const parts = [
+        row.company_name,
+        row.priority,
+        row.country,
+        row.city,
+        row.state,
+        row.employees,
+        Array.isArray(row.erp_systems) ? row.erp_systems.join(' ') : row.erp_systems,
+        row.website,
+        row.why_target,
+        row.notable_clients,
+        row.awards,
+        dm
+      ];
+      return parts.filter(Boolean).join(' ').toLowerCase();
+    }
+
+    function tokenize(query) {
+      return query
+        .toLowerCase()
+        .split(/[^a-z0-9]+/)
+        .filter(token => token && !STOP_WORDS.has(token));
+    }
+
+    function rowMatchesQuery(row, query) {
+      const tokens = tokenize(query);
+      if (!tokens.length) return true;
+      const blob = buildSearchBlob(row);
+      return tokens.every(token => blob.includes(token));
     }
 
     const columnDefs = [
@@ -426,6 +472,8 @@
       rowSelection: 'none',
       suppressCellFocus: true,
       enableCharts: true,
+      isExternalFilterPresent: () => state.searchQuery.length > 0,
+      doesExternalFilterPass: node => rowMatchesQuery(node.data || {}, state.searchQuery),
       onGridReady: (params) => { state.gridApi = params.api; }
     };
 
@@ -448,6 +496,9 @@
     function setGridData(region) {
       const rows = DATA[region].consultancies || [];
       state.gridApi.setGridOption('rowData', rows);
+      if (state.expandedAll) {
+        state.gridApi.forEachNode(node => node.setExpanded(true));
+      }
     }
 
     function applyRegionColumns(region) {
@@ -500,10 +551,17 @@
       });
 
       document.getElementById('search').addEventListener('input', e => {
-        state.gridApi.setGridOption('quickFilterText', e.target.value);
+        state.searchQuery = e.target.value.trim().toLowerCase();
+        state.gridApi.onFilterChanged();
       });
 
       document.getElementById('btn-add').addEventListener('click', addRow);
+
+      document.getElementById('toggle-expand').addEventListener('click', () => {
+        state.expandedAll = !state.expandedAll;
+        document.getElementById('toggle-expand').textContent = state.expandedAll ? 'Collapse all' : 'Expand all';
+        state.gridApi.forEachNode(node => node.setExpanded(state.expandedAll));
+      });
 
       document.getElementById('mcp-send').addEventListener('click', async () => {
         const endpoint = document.getElementById('mcp-endpoint').value.trim();

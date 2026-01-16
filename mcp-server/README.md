@@ -12,6 +12,7 @@ export GITHUB_OWNER=LiamFuller07
 export GITHUB_REPO=erp-consultancy-database
 export GITHUB_BRANCH=main
 export MCP_PORT=3333
+# Railway provides PORT automatically in production.
 npm start
 ```
 

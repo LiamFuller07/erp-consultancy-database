@@ -112,7 +112,7 @@
 
     .panel-row {
       display: grid;
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1.2fr 0.9fr auto;
       gap: 10px;
       margin-bottom: 10px;
     }
@@ -280,7 +280,7 @@
       <div class="panel-row">
         <div>
           <label for="mcp-endpoint">MCP Endpoint</label>
-          <input id="mcp-endpoint" type="text" value="http://localhost:3333/mcp" />
+          <input id="mcp-endpoint" type="text" value="https://mcp-server-production-fa25.up.railway.app/mcp" />
         </div>
         <div>
           <label for="mcp-tool">Tool</label>
@@ -290,6 +290,10 @@
             <option value="replace_region">replace_region</option>
             <option value="upsert_company" selected>upsert_company</option>
           </select>
+        </div>
+        <div>
+          <label>&nbsp;</label>
+          <button class="btn" id="mcp-copy">Copy</button>
         </div>
       </div>
       <div>
@@ -504,6 +508,17 @@
           status.textContent = json.ok ? 'Success' : `Error: ${json.error}`;
         } catch (err) {
           status.textContent = `Error: ${err.message}`;
+        }
+      });
+
+      document.getElementById('mcp-copy').addEventListener('click', async () => {
+        const endpoint = document.getElementById('mcp-endpoint').value.trim();
+        const status = document.getElementById('mcp-status');
+        try {
+          await navigator.clipboard.writeText(endpoint);
+          status.textContent = 'Copied endpoint';
+        } catch (err) {
+          status.textContent = 'Copy failed';
         }
       });
     }

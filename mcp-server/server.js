@@ -8,7 +8,7 @@ const OWNER = process.env.GITHUB_OWNER || "LiamFuller07";
 const REPO = process.env.GITHUB_REPO || "erp-consultancy-database";
 const BRANCH = process.env.GITHUB_BRANCH || "main";
 const TOKEN = process.env.GITHUB_TOKEN;
-const PORT = Number(process.env.MCP_PORT || 3333);
+const PORT = Number(process.env.PORT || process.env.MCP_PORT || 3333);
 
 const REGION_SET = new Set(["australasia", "north_america", "europe"]);
 

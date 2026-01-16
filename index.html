@@ -112,9 +112,10 @@
 
     .panel-row {
       display: grid;
-      grid-template-columns: 1.2fr 0.9fr auto;
+      grid-template-columns: 1fr auto;
       gap: 10px;
       margin-bottom: 10px;
+      align-items: center;
     }
 
     .panel-actions {
@@ -285,32 +286,14 @@
 
     <div class="panel" id="mcp-panel">
       <div class="panel-row">
-        <div>
-          <label for="mcp-endpoint">MCP Endpoint</label>
-          <input id="mcp-endpoint" type="text" value="https://mcp-server-production-fa25.up.railway.app/mcp" />
-        </div>
-        <div>
-          <label for="mcp-tool">Tool</label>
-          <select id="mcp-tool">
-            <option value="list_regions">list_regions</option>
-            <option value="get_region">get_region</option>
-            <option value="replace_region">replace_region</option>
-            <option value="upsert_company" selected>upsert_company</option>
-          </select>
-        </div>
-        <div>
-          <label>&nbsp;</label>
-          <button class="btn" id="mcp-copy">Copy</button>
-        </div>
+        <input id="mcp-endpoint" type="text" value="https://mcp-server-production-fa25.up.railway.app/mcp" />
+        <button class="btn" id="mcp-copy">Copy</button>
       </div>
-      <div>
-        <label for="mcp-args">Arguments (JSON)</label>
-        <textarea id="mcp-args">{\n  \"region\": \"north_america\",\n  \"company_name\": \"Example Co\",\n  \"patch\": { \"priority\": \"HIGH\" }\n}</textarea>
-      </div>
-      <div class="panel-actions">
+      <div class="panel-row">
+        <input id="mcp-tool" type="text" value="upsert_company" />
         <button class="btn" id="mcp-snippet-copy">Copy Snippet</button>
-        <span class="muted">Paste into another LLM or terminal.</span>
       </div>
+      <textarea id="mcp-args">{\n  \"region\": \"north_america\",\n  \"company_name\": \"Example Co\",\n  \"patch\": { \"priority\": \"HIGH\" }\n}</textarea>
       <div class="snippet" id="mcp-snippet"></div>
       <div class="panel-actions">
         <button class="btn primary" id="mcp-send">Send</button>

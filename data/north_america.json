@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T11:24:12.216Z",
+  "last_updated": "2026-01-16T11:24:18.476Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10173,6 +10173,24 @@
       "website": "stoneridgesoftware.com",
       "decision_makers": [],
       "why_target": "Inner Circle member, D365/AX/NAV/GP upgrades specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768562658476",
+      "rank": 1008,
+      "priority": "HIGHEST",
+      "company_name": "AIM Solutions",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Acumatica"
+      ],
+      "website": "aimsolutionsinc.com",
+      "decision_makers": [],
+      "why_target": "5x Acumatica Partner of the Year, Gold Certified, President Club",
       "notable_clients": "",
       "awards": ""
     }

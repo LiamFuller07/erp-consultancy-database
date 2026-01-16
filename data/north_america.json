@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T11:23:11.386Z",
+  "last_updated": "2026-01-16T11:23:19.065Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10059,6 +10059,25 @@
       "website": "consensusintl.com",
       "decision_makers": [],
       "why_target": "Top 5 SAP B1 Reseller in USA, 900+ implementations, 33+ years experience",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768562599065",
+      "rank": 1002,
+      "priority": "HIGHEST",
+      "company_name": "Decision Resources (DRI)",
+      "country": "USA",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "employees": "",
+      "erp_systems": [
+        "Infor CloudSuite Industrial",
+        "SyteLine"
+      ],
+      "website": "decision.com",
+      "decision_makers": [],
+      "why_target": "#1 Gold Infor partner, 500+ manufacturing clients, 40+ years experience",
       "notable_clients": "",
       "awards": ""
     }

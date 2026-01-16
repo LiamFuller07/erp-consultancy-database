@@ -431,7 +431,7 @@
 
     async function loadRegion(region) {
       try {
-        const response = await fetch(REGION_FILES[region]);
+        const response = await fetch(`${REGION_FILES[region]}?v=${Date.now()}`);
         if (!response.ok) {
           DATA[region] = { consultancies: [] };
           return [];

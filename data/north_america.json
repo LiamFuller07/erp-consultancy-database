@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T11:27:03.818Z",
+  "last_updated": "2026-01-16T11:27:13.471Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10465,6 +10465,24 @@
       "website": "centraldata.com",
       "decision_makers": [],
       "why_target": "50+ years, North American Partner of Year 2020, 200+ implementations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768562833471",
+      "rank": 1024,
+      "priority": "HIGH",
+      "company_name": "Consultare",
+      "country": "USA",
+      "city": "Miami",
+      "state": "FL",
+      "employees": "",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "consultare.net",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner since 2013, multilingual team",
       "notable_clients": "",
       "awards": ""
     }

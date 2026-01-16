@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T18:00:52.999Z",
+  "last_updated": "2026-01-16T18:00:56.660Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10930,6 +10930,24 @@
       "website": "ethosystems.com",
       "decision_makers": [],
       "why_target": "Construction/Real Estate specialist, acquired by Evergreen",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768586456660",
+      "rank": 1050,
+      "priority": "HIGH",
+      "company_name": "JMT Consulting",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Sage Intacct"
+      ],
+      "website": "jmtconsulting.com",
+      "decision_makers": [],
+      "why_target": "Nonprofit-exclusive Sage partner since 1991",
       "notable_clients": "",
       "awards": ""
     }

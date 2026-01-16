@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T18:00:47.812Z",
+  "last_updated": "2026-01-16T18:00:50.458Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10894,6 +10894,24 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Sage Platinum Partner",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768586450458",
+      "rank": 1048,
+      "priority": "HIGH",
+      "company_name": "BT Partners",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Sage Intacct"
+      ],
+      "website": "btpartners.com",
+      "decision_makers": [],
+      "why_target": "Nonprofit & family office specialist",
       "notable_clients": "",
       "awards": ""
     }

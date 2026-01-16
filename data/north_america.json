@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T12:35:02.828Z",
+  "last_updated": "2026-01-16T12:35:05.877Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10641,6 +10641,25 @@
       "website": "copleycg.com",
       "decision_makers": [],
       "why_target": "30 years Infor Gold Channel Partner, Food & Beverage specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768566905877",
+      "rank": 1034,
+      "priority": "HIGH",
+      "company_name": "HyBridge Solutions",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Infor",
+        "UKG"
+      ],
+      "website": "hybridgesolutions.com",
+      "decision_makers": [],
+      "why_target": "200+ client partnerships, 50+ cloud engagements",
       "notable_clients": "",
       "awards": ""
     }

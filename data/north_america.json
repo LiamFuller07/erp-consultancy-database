@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T13:56:36.385Z",
+  "last_updated": "2026-01-16T13:56:39.919Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10732,6 +10732,24 @@
       "website": "ecs-online.com",
       "decision_makers": [],
       "why_target": "SAP Certified Gold Partner, nearly four decades experience",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768571799919",
+      "rank": 1039,
+      "priority": "HIGH",
+      "company_name": "Sierra-Cedar",
+      "country": "USA",
+      "city": "Alpharetta",
+      "state": "GA",
+      "employees": "",
+      "erp_systems": [
+        "Oracle, AWS, PeopleSoft"
+      ],
+      "website": "sierra-cedar.com",
+      "decision_makers": [],
+      "why_target": "25+ years experience",
       "notable_clients": "",
       "awards": ""
     }

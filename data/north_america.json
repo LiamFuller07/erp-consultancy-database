@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T13:56:42.747Z",
+  "last_updated": "2026-01-16T13:56:45.899Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -10768,6 +10768,24 @@
       "website": "phoenixteam.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner since 2019, 27+ years experience, global presence",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768571805899",
+      "rank": 1041,
+      "priority": "HIGH",
+      "company_name": "Apps Associates",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Oracle ERP"
+      ],
+      "website": "appsassociates.com",
+      "decision_makers": [],
+      "why_target": "700+ cloud projects, 20+ years",
       "notable_clients": "",
       "awards": ""
     }

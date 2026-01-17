@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:24:19.546Z",
+  "last_updated": "2026-01-17T02:24:24.290Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10103,6 +10103,25 @@
       "website": "archerpoint.com",
       "decision_makers": [],
       "why_target": "[NEW] Business Central & NAV upgrades - acquired by Cherry Bekaert",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616664290",
+      "rank": 1107,
+      "priority": "HIGH",
+      "company_name": "360 Visibility",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics Business Central",
+        "GP"
+      ],
+      "website": "360visibility.com",
+      "decision_makers": [],
+      "why_target": "[NEW] Tier 1 Cloud Solutions Partner for BC, GP/NAV migrations",
       "notable_clients": "",
       "awards": ""
     }

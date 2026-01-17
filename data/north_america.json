@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:44:40.979Z",
+  "last_updated": "2026-01-17T02:44:44.669Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10845,6 +10845,24 @@
       "website": "cwglobalpartners.com",
       "decision_makers": [],
       "why_target": "Founded 2012, 150+ NetSuite implementations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617884669",
+      "rank": 1147,
+      "priority": "HIGH",
+      "company_name": "[NEW] Total Dynamics",
+      "country": "USA",
+      "city": "Charlotte",
+      "state": "NC",
+      "employees": "",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "website": "total-dyn.com",
+      "decision_makers": [],
+      "why_target": "Charlotte and Raleigh NetSuite consulting firm",
       "notable_clients": "",
       "awards": ""
     }

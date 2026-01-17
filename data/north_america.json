@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:50:27.552Z",
+  "last_updated": "2026-01-17T02:50:34.195Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10543,8 +10543,8 @@
       "priority": "HIGH",
       "company_name": "[NEW] RPI Consultants",
       "country": "USA",
-      "city": "Baltimore",
-      "state": "MD",
+      "city": "USA",
+      "state": "National",
       "employees": "",
       "erp_systems": [
         "Infor Lawson",
@@ -10552,7 +10552,7 @@
       ],
       "website": "rpic.com",
       "decision_makers": [],
-      "why_target": "25+ years Infor Lawson, Government and Healthcare specialist",
+      "why_target": "25+ years Infor Lawson since 1999, Government & Healthcare focus",
       "notable_clients": "",
       "awards": ""
     },

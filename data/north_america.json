@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:44:17.692Z",
+  "last_updated": "2026-01-17T02:44:20.964Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10735,6 +10735,24 @@
       "website": "phoenixteam.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner since 2019, 27+ years experience, global presence",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617860964",
+      "rank": 1141,
+      "priority": "HIGH",
+      "company_name": "[NEW] Central Data",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Infor Distribution"
+      ],
+      "website": "centraldata.com",
+      "decision_makers": [],
+      "why_target": "50+ years, North American Partner of Year 2020, 200+ implementations",
       "notable_clients": "",
       "awards": ""
     }

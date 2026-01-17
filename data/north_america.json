@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:18:55.126Z",
+  "last_updated": "2026-01-17T02:18:59.854Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9994,6 +9994,24 @@
       "website": "rsystems.com",
       "decision_makers": [],
       "why_target": "Certified Infor Alliance Partner, manufacturing/distribution/retail",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616339854",
+      "rank": 1101,
+      "priority": "HIGH",
+      "company_name": "NSA Professional Services",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Infor"
+      ],
+      "website": "nsacom.com",
+      "decision_makers": [],
+      "why_target": "Infor Alliance and Channel Partner, distribution software",
       "notable_clients": "",
       "awards": ""
     }

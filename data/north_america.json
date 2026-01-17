@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:17:29.502Z",
+  "last_updated": "2026-01-17T02:17:37.802Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9771,6 +9771,24 @@
       "website": "nwaretech.com",
       "decision_makers": [],
       "why_target": "SAP B1 Gold Partner, ERP/WMS/BI/E-Commerce for SMBs",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616257802",
+      "rank": 1089,
+      "priority": "HIGH",
+      "company_name": "Atlas Precision Consulting",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Epicor Prophet 21"
+      ],
+      "website": "atlasprecon.com",
+      "decision_makers": [],
+      "why_target": "Epicor Certified Partner, Prophet 21 specialist",
       "notable_clients": "",
       "awards": ""
     }

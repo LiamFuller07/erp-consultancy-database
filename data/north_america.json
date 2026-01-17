@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:14:19.935Z",
+  "last_updated": "2026-01-17T02:14:32.045Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9333,6 +9333,24 @@
       "website": "ennvee.com",
       "decision_makers": [],
       "why_target": "Oracle Fusion Cloud specialist, 20+ years",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616072044",
+      "rank": 1065,
+      "priority": "HIGH",
+      "company_name": "Brij",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "JD Edwards"
+      ],
+      "website": "brij.net",
+      "decision_makers": [],
+      "why_target": "JD Edwards Gold Partner, 30+ years experience",
       "notable_clients": "",
       "awards": ""
     }

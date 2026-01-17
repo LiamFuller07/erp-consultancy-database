@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:57:37.922Z",
+  "last_updated": "2026-01-17T02:57:43.979Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11760,6 +11760,25 @@
       "website": "cargas.com",
       "decision_makers": [],
       "why_target": "Acumatica Gold Partner, also Microsoft partner",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618663978",
+      "rank": 1196,
+      "priority": "HIGH",
+      "company_name": "[NEW] Advantive (Kerridge)",
+      "country": "USA",
+      "city": "Huntersville",
+      "state": "NC",
+      "employees": "",
+      "erp_systems": [
+        "Kerridge K8",
+        "Distribution One"
+      ],
+      "website": "advantive.com",
+      "decision_makers": [],
+      "why_target": "Distribution ERP specialist, 350+ customers",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:58:11.158Z",
+  "last_updated": "2026-01-17T02:58:16.609Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10961,19 +10961,19 @@
     {
       "id": "north_america-new-1768617938194",
       "rank": 1153,
-      "priority": "HIGH",
+      "priority": "HIGHEST",
       "company_name": "[NEW] Alithya",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
+      "country": "Canada",
+      "city": "Montreal",
+      "state": "QC",
       "employees": "",
       "erp_systems": [
         "Microsoft Dynamics 365",
-        "Power Platform"
+        "Oracle"
       ],
       "website": "alithya.com",
       "decision_makers": [],
-      "why_target": "2200+ professionals, 30 years experience, D365 specialist",
+      "why_target": "3000+ employees, major Microsoft and Oracle partner",
       "notable_clients": "",
       "awards": ""
     },

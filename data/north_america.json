@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:13:31.282Z",
+  "last_updated": "2026-01-17T03:13:38.654Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -13302,6 +13302,24 @@
       "website": "terrcon.com",
       "decision_makers": [],
       "why_target": "Great Plains since 1989, CPA-led, NC/SC/GA/FL focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619618654",
+      "rank": 1278,
+      "priority": "HIGH",
+      "company_name": "[NEW] Strategies Group",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "Acumatica"
+      ],
+      "website": "strategiesgroup.com",
+      "decision_makers": [],
+      "why_target": "Acumatica 2025 Construction VAR Award finalist",
       "notable_clients": "",
       "awards": ""
     }

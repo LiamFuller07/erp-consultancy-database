@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:11:42.686Z",
+  "last_updated": "2026-01-17T03:11:50.053Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -13134,6 +13134,25 @@
       "website": "arbourgroup.com",
       "decision_makers": [],
       "why_target": "Pre-packaged NetSuite ERP validation for life sciences",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619510053",
+      "rank": 1269,
+      "priority": "HIGH",
+      "company_name": "[NEW] BatchMaster Software",
+      "country": "USA",
+      "city": "Laguna Hills",
+      "state": "CA",
+      "employees": "",
+      "erp_systems": [
+        "SAP Business One",
+        "Microsoft Dynamics GP"
+      ],
+      "website": "batchmaster.com",
+      "decision_makers": [],
+      "why_target": "Process manufacturing ERP, pharma/nutraceutical specialist",
       "notable_clients": "",
       "awards": ""
     }

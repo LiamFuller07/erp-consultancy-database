@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:46:26.829Z",
+  "last_updated": "2026-01-17T02:46:30.629Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11084,6 +11084,24 @@
       "website": "perficient.com",
       "decision_makers": [],
       "why_target": "Oracle Platinum Partner with 15 specializations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617990629",
+      "rank": 1160,
+      "priority": "HIGH",
+      "company_name": "[NEW] Brij",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "JD Edwards"
+      ],
+      "website": "brij.net",
+      "decision_makers": [],
+      "why_target": "JD Edwards Gold Partner, 30+ years experience",
       "notable_clients": "",
       "awards": ""
     }

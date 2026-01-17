@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:59:57.791Z",
+  "last_updated": "2026-01-17T03:00:03.322Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12031,6 +12031,25 @@
       "website": "korcomptenz.com",
       "decision_makers": [],
       "why_target": "Microsoft Gold Partner, D365 and Power Platform",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618803322",
+      "rank": 1210,
+      "priority": "HIGH",
+      "company_name": "[NEW] Oakwood Systems",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics GP",
+        "Business Central"
+      ],
+      "website": "oakwoodsys.com",
+      "decision_makers": [],
+      "why_target": "GP-to-BC migration specialist, 500+ customers",
       "notable_clients": "",
       "awards": ""
     }

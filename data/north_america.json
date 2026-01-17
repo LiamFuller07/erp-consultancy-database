@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:53:21.481Z",
+  "last_updated": "2026-01-17T02:53:27.643Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11286,6 +11286,25 @@
       "website": "houseblend.io",
       "decision_makers": [],
       "why_target": "Boutique NetSuite firm specializing in rescue missions for troubled implementations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618407643",
+      "rank": 1171,
+      "priority": "HIGH",
+      "company_name": "[NEW] Protiviti ERP",
+      "country": "USA",
+      "city": "Menlo Park",
+      "state": "CA",
+      "employees": "",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "Oracle ERP Cloud"
+      ],
+      "website": "protiviti.com",
+      "decision_makers": [],
+      "why_target": "Global consulting firm with strong ERP practice, 5000+ consultants",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-16T23:46:49.342Z",
+  "last_updated": "2026-01-17T01:02:13.615Z",
   "consultancies": [
     {
       "company_name": "1218 Global",
@@ -11091,6 +11091,24 @@
       "website": "https://example.com",
       "decision_makers": [],
       "why_target": "",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768611733614",
+      "rank": 1059,
+      "priority": "LOW",
+      "company_name": "Demo MCP Co",
+      "country": "USA",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "website": "https://example.com",
+      "decision_makers": [],
+      "why_target": "MCP demo entry",
       "notable_clients": "",
       "awards": ""
     }

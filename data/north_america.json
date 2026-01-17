@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:42:03.142Z",
+  "last_updated": "2026-01-17T02:42:06.406Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10441,6 +10441,24 @@
       "website": "aktion.com",
       "decision_makers": [],
       "why_target": "Largest Infor Distribution partner in US, Acumatica President Club",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617726405",
+      "rank": 1125,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] AIM Solutions",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Acumatica"
+      ],
+      "website": "aimsolutionsinc.com",
+      "decision_makers": [],
+      "why_target": "5x Acumatica Partner of the Year, Gold Certified",
       "notable_clients": "",
       "awards": ""
     }

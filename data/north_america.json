@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:59:00.705Z",
+  "last_updated": "2026-01-17T02:59:06.222Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11916,6 +11916,26 @@
       "website": "grantthornton.com",
       "decision_makers": [],
       "why_target": "Top 6 accounting firm with ERP consulting practice",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618746222",
+      "rank": 1204,
+      "priority": "HIGH",
+      "company_name": "[NEW] Navisite (Accenture)",
+      "country": "USA",
+      "city": "Andover",
+      "state": "MA",
+      "employees": "",
+      "erp_systems": [
+        "SAP",
+        "Oracle",
+        "Microsoft"
+      ],
+      "website": "navisite.com",
+      "decision_makers": [],
+      "why_target": "ERP managed services, now part of Accenture",
       "notable_clients": "",
       "awards": ""
     }

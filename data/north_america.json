@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:36:14.955Z",
+  "last_updated": "2026-01-17T02:36:18.398Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10329,6 +10329,25 @@
       "website": "consensusintl.com",
       "decision_makers": [],
       "why_target": "Top 5 SAP B1 Reseller in USA, 900+ implementations, 33+ years",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617378398",
+      "rank": 1119,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] Decision Resources",
+      "country": "USA",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "employees": "",
+      "erp_systems": [
+        "Infor CloudSuite Industrial",
+        "SyteLine"
+      ],
+      "website": "decision.com",
+      "decision_makers": [],
+      "why_target": "#1 Gold Infor partner, 500+ manufacturing clients, 40+ years",
       "notable_clients": "",
       "awards": ""
     }

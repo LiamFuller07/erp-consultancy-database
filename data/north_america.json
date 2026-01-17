@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:07:15.209Z",
+  "last_updated": "2026-01-17T03:07:23.780Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12686,6 +12686,24 @@
       "website": "invisors.com",
       "decision_makers": [],
       "why_target": "Boutique Workday consulting, Fortune Best Workplaces 2025",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619243780",
+      "rank": 1245,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] TopBloc",
+      "country": "USA",
+      "city": "Chicago",
+      "state": "IL",
+      "employees": "",
+      "erp_systems": [
+        "Workday"
+      ],
+      "website": "topbloc.com",
+      "decision_makers": [],
+      "why_target": "2025 Workday Partner of Year, 300+ implementations, acquired for $340M",
       "notable_clients": "",
       "awards": ""
     }

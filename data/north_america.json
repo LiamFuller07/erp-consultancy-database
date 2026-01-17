@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:50:56.181Z",
+  "last_updated": "2026-01-17T02:51:20.059Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10533,7 +10533,7 @@
       ],
       "website": "stoneridgesoftware.com",
       "decision_makers": [],
-      "why_target": "Microsoft Inner Circle member, D365/AX/NAV/GP specialist",
+      "why_target": "Inner Circle member, D365/AX/NAV/GP upgrades specialist",
       "notable_clients": "",
       "awards": ""
     },

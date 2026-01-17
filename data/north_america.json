@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:08:35.601Z",
+  "last_updated": "2026-01-17T03:09:01.967Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12814,6 +12814,24 @@
       "website": "solsyst.com",
       "decision_makers": [],
       "why_target": "Milwaukee top Microsoft manufacturing partner, 35+ years",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619341966",
+      "rank": 1252,
+      "priority": "HIGH",
+      "company_name": "[NEW] MAGI ERP",
+      "country": "USA",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "employees": "",
+      "erp_systems": [
+        "WinMAGI"
+      ],
+      "website": "magierp.com",
+      "decision_makers": [],
+      "why_target": "Manufacturing ERP developer since 1985, aerospace/automotive",
       "notable_clients": "",
       "awards": ""
     }

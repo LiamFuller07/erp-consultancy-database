@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:18:49.698Z",
+  "last_updated": "2026-01-17T02:18:55.126Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9976,6 +9976,24 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Certified Infor Channel Partner for Distribution ERP and WMS",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616335126",
+      "rank": 1100,
+      "priority": "HIGH",
+      "company_name": "R Systems",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Infor"
+      ],
+      "website": "rsystems.com",
+      "decision_makers": [],
+      "why_target": "Certified Infor Alliance Partner, manufacturing/distribution/retail",
       "notable_clients": "",
       "awards": ""
     }

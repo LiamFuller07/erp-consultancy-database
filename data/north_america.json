@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:57:32.749Z",
+  "last_updated": "2026-01-17T02:57:37.922Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11741,6 +11741,25 @@
       "website": "fayebsg.com",
       "decision_makers": [],
       "why_target": "Multi-ERP consultant, CRM/ERP integrator",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618657922",
+      "rank": 1195,
+      "priority": "HIGH",
+      "company_name": "[NEW] Cargas Systems",
+      "country": "USA",
+      "city": "Lancaster",
+      "state": "PA",
+      "employees": "",
+      "erp_systems": [
+        "Acumatica",
+        "Microsoft Dynamics"
+      ],
+      "website": "cargas.com",
+      "decision_makers": [],
+      "why_target": "Acumatica Gold Partner, also Microsoft partner",
       "notable_clients": "",
       "awards": ""
     }

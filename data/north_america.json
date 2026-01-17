@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:25:23.818Z",
+  "last_updated": "2026-01-17T02:25:29.287Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10158,6 +10158,24 @@
       "website": "peoplesenseerp.com",
       "decision_makers": [],
       "why_target": "[NEW] 20+ years Acumatica, manufacturing/distribution, Cloud Adoption finalist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616729287",
+      "rank": 1110,
+      "priority": "HIGH",
+      "company_name": "K&R Consulting Group",
+      "country": "USA",
+      "city": "Johnston",
+      "state": "IA",
+      "employees": "",
+      "erp_systems": [
+        "Acumatica"
+      ],
+      "website": "krcginc.com",
+      "decision_makers": [],
+      "why_target": "[NEW] Acumatica partner for manufacturing, distribution, field service, construction",
       "notable_clients": "",
       "awards": ""
     }

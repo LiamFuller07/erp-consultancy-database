@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:57:15.153Z",
+  "last_updated": "2026-01-17T02:57:20.452Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11686,6 +11686,24 @@
       "website": "websan.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner, 20+ years, 800+ implementations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618640452",
+      "rank": 1192,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] Kensium Solutions",
+      "country": "USA",
+      "city": "Downers Grove",
+      "state": "IL",
+      "employees": "",
+      "erp_systems": [
+        "Acumatica"
+      ],
+      "website": "kensiumsolutions.com",
+      "decision_makers": [],
+      "why_target": "Acumatica Partner of Year 2023, also Adobe/BigCommerce integrations",
       "notable_clients": "",
       "awards": ""
     }

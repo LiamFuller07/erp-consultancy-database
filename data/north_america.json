@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:09:01.967Z",
+  "last_updated": "2026-01-17T03:09:09.461Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12832,6 +12832,24 @@
       "website": "magierp.com",
       "decision_makers": [],
       "why_target": "Manufacturing ERP developer since 1985, aerospace/automotive",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619349460",
+      "rank": 1253,
+      "priority": "HIGH",
+      "company_name": "[NEW] Parallel Solutions",
+      "country": "USA",
+      "city": "Cleveland",
+      "state": "OH",
+      "employees": "",
+      "erp_systems": [
+        "Acumatica"
+      ],
+      "website": "parallelsolutions4u.com",
+      "decision_makers": [],
+      "why_target": "Acumatica Gold Partner since 1995, Customer Success 2025",
       "notable_clients": "",
       "awards": ""
     }

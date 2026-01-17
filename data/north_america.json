@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:16:08.483Z",
+  "last_updated": "2026-01-17T02:16:13.699Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9591,6 +9591,24 @@
       "website": "",
       "decision_makers": [],
       "why_target": "ERP consulting & IT staff augmentation since 1991",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616173699",
+      "rank": 1079,
+      "priority": "HIGH",
+      "company_name": "Neos Consulting",
+      "country": "USA",
+      "city": "Austin",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "ERP Consulting"
+      ],
+      "website": "neosconsulting.com",
+      "decision_makers": [],
+      "why_target": "IT Staffing & ERP, government focus since 2003",
       "notable_clients": "",
       "awards": ""
     }

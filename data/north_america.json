@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:01:43.645Z",
+  "last_updated": "2026-01-17T03:01:52.583Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12200,6 +12200,24 @@
       "website": "quisitive.com",
       "decision_makers": [],
       "why_target": "Microsoft Inner Circle, 500+ employees, public company",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618912583",
+      "rank": 1219,
+      "priority": "HIGH",
+      "company_name": "[NEW] Sabre Limited",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365"
+      ],
+      "website": "sabrelimited.com",
+      "decision_makers": [],
+      "why_target": "D365 for financial services and professional services",
       "notable_clients": "",
       "awards": ""
     }

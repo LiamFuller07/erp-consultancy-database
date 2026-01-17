@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:43:27.061Z",
+  "last_updated": "2026-01-17T02:43:30.825Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10644,6 +10644,24 @@
       "website": "houseblend.io",
       "decision_makers": [],
       "why_target": "Boutique NetSuite firm specializing in rescue missions for troubled implementations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617810825",
+      "rank": 1136,
+      "priority": "HIGH",
+      "company_name": "[NEW] EpiCenter ERP",
+      "country": "USA",
+      "city": "Westfield",
+      "state": "MA",
+      "employees": "",
+      "erp_systems": [
+        "Epicor Kinetic"
+      ],
+      "website": "epicentererp.com",
+      "decision_makers": [],
+      "why_target": "Epicor Platinum partner, manufacturing focus",
       "notable_clients": "",
       "awards": ""
     }

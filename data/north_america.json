@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:13:58.932Z",
+  "last_updated": "2026-01-17T02:14:03.765Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9258,6 +9258,25 @@
       "website": "aspiresys.com",
       "decision_makers": [],
       "why_target": "Oracle Platinum Partner, AI-driven Cloud Implementation",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616043765",
+      "rank": 1061,
+      "priority": "HIGH",
+      "company_name": "The Hackett Group",
+      "country": "USA",
+      "city": "Miami",
+      "state": "FL",
+      "employees": "",
+      "erp_systems": [
+        "Oracle EPM",
+        "ERP"
+      ],
+      "website": "thehackettgroup.com",
+      "decision_makers": [],
+      "why_target": "Oracle Platinum Partner for EPM and ERP",
       "notable_clients": "",
       "awards": ""
     }

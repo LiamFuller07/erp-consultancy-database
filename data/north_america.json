@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:46:30.629Z",
+  "last_updated": "2026-01-17T02:46:33.909Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11102,6 +11102,24 @@
       "website": "brij.net",
       "decision_makers": [],
       "why_target": "JD Edwards Gold Partner, 30+ years experience",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617993909",
+      "rank": 1161,
+      "priority": "HIGH",
+      "company_name": "[NEW] Apps Associates",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Oracle ERP"
+      ],
+      "website": "appsassociates.com",
+      "decision_makers": [],
+      "why_target": "700+ Oracle cloud projects, 20+ years experience",
       "notable_clients": "",
       "awards": ""
     }

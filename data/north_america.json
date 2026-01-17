@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:10:43.729Z",
+  "last_updated": "2026-01-17T03:11:09.107Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -13042,6 +13042,25 @@
       "website": "sisn.com",
       "decision_makers": [],
       "why_target": "ONLY D365 partner 100% dedicated to construction",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619469107",
+      "rank": 1264,
+      "priority": "HIGH",
+      "company_name": "[NEW] REdirect Consulting",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "",
+      "erp_systems": [
+        "Yardi",
+        "MRI Software"
+      ],
+      "website": "redirectconsulting.com",
+      "decision_makers": [],
+      "why_target": "Real estate tech consulting, 22+ years avg consultant experience",
       "notable_clients": "",
       "awards": ""
     }

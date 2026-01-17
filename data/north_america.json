@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:59:46.655Z",
+  "last_updated": "2026-01-17T02:59:51.998Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10282,16 +10282,15 @@
       "priority": "HIGH",
       "company_name": "[NEW] ArcherPoint",
       "country": "USA",
-      "city": "Lawrenceville",
-      "state": "GA",
+      "city": "Minneapolis",
+      "state": "MN",
       "employees": "",
       "erp_systems": [
-        "Microsoft Dynamics Business Central",
-        "NAV"
+        "Microsoft Dynamics 365 Business Central"
       ],
       "website": "archerpoint.com",
       "decision_makers": [],
-      "why_target": "Business Central & NAV upgrades - acquired by Cherry Bekaert",
+      "why_target": "Microsoft Inner Circle, BC implementation specialist",
       "notable_clients": "",
       "awards": ""
     },

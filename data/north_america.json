@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:45:35.740Z",
+  "last_updated": "2026-01-17T02:45:38.194Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10954,6 +10954,25 @@
       "website": "adssglobal.net",
       "decision_makers": [],
       "why_target": "Founded 1981, 80+ certified Sage professionals",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617938194",
+      "rank": 1153,
+      "priority": "HIGH",
+      "company_name": "[NEW] Alithya",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365",
+        "Power Platform"
+      ],
+      "website": "alithya.com",
+      "decision_makers": [],
+      "why_target": "2200+ professionals, 30 years experience, D365 specialist",
       "notable_clients": "",
       "awards": ""
     }

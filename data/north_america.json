@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:54:42.430Z",
+  "last_updated": "2026-01-17T02:54:48.351Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11002,15 +11002,16 @@
       "priority": "HIGH",
       "company_name": "[NEW] Enavate",
       "country": "USA",
-      "city": "USA",
-      "state": "National",
+      "city": "Denver",
+      "state": "CO",
       "employees": "",
       "erp_systems": [
-        "Microsoft Dynamics 365"
+        "Microsoft Dynamics 365",
+        "Business Central"
       ],
       "website": "enavate.com",
       "decision_makers": [],
-      "why_target": "D365 implementation, migration, managed services",
+      "why_target": "Global Microsoft partner, 500+ D365 implementations",
       "notable_clients": "",
       "awards": ""
     },

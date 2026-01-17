@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:42:10.078Z",
+  "last_updated": "2026-01-17T02:42:14.682Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10477,6 +10477,24 @@
       "website": "hso.com",
       "decision_makers": [],
       "why_target": "Inner Circle member 19 years, 2023 D365 Finance Partner of Year",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617734682",
+      "rank": 1127,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] Six S Partners",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Epicor Kinetic"
+      ],
+      "website": "sixspartners.com",
+      "decision_makers": [],
+      "why_target": "Epicor Platinum Elite partner, training and consulting",
       "notable_clients": "",
       "awards": ""
     }

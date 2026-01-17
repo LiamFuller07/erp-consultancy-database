@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:44:33.946Z",
+  "last_updated": "2026-01-17T02:44:37.650Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10809,6 +10809,24 @@
       "website": "cinntra.com",
       "decision_makers": [],
       "why_target": "CMMI Level-3 certified SAP B1 partner",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617877650",
+      "rank": 1145,
+      "priority": "HIGH",
+      "company_name": "[NEW] MicroAccounting",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "Sage Intacct"
+      ],
+      "website": "microaccounting.com",
+      "decision_makers": [],
+      "why_target": "Dallas Sage Intacct implementation specialist",
       "notable_clients": "",
       "awards": ""
     }

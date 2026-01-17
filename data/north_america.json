@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:10:36.584Z",
+  "last_updated": "2026-01-17T03:10:43.729Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -13024,6 +13024,24 @@
       "website": "hingepoint.com",
       "decision_makers": [],
       "why_target": "Procore Development Partner, custom integration specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619443728",
+      "rank": 1263,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] SIS Construction Software",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365"
+      ],
+      "website": "sisn.com",
+      "decision_makers": [],
+      "why_target": "ONLY D365 partner 100% dedicated to construction",
       "notable_clients": "",
       "awards": ""
     }

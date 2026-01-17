@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:53:33.645Z",
+  "last_updated": "2026-01-17T02:53:40.317Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10249,11 +10249,12 @@
       "state": "NC",
       "employees": "",
       "erp_systems": [
-        "Microsoft Dynamics 365 F&O"
+        "Microsoft Dynamics 365",
+        "JD Edwards"
       ],
       "website": "sunriseconsult.com",
       "decision_makers": [],
-      "why_target": "D365 F&O specialist for manufacturing, retail, distribution - 20+ years",
+      "why_target": "Supply chain and manufacturing focused, Microsoft Inner Circle",
       "notable_clients": "",
       "awards": ""
     },

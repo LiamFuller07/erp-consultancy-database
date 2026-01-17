@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:53:40.317Z",
+  "last_updated": "2026-01-17T02:53:46.310Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11324,6 +11324,26 @@
       "website": "avanade.com",
       "decision_makers": [],
       "why_target": "Accenture/Microsoft joint venture, 60000+ professionals worldwide",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618426310",
+      "rank": 1173,
+      "priority": "HIGH",
+      "company_name": "[NEW] Plante Moran",
+      "country": "USA",
+      "city": "Southfield",
+      "state": "MI",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics",
+        "NetSuite",
+        "Sage"
+      ],
+      "website": "plantemoran.com",
+      "decision_makers": [],
+      "why_target": "Top 15 US CPA firm with ERP consulting practice",
       "notable_clients": "",
       "awards": ""
     }

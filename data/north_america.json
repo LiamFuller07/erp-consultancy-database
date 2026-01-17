@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:04:43.971Z",
+  "last_updated": "2026-01-17T03:04:53.844Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12540,6 +12540,26 @@
       "website": "360visibility.com",
       "decision_makers": [],
       "why_target": "Microsoft Inner Circle, BC specialist for project-based",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619093843",
+      "rank": 1237,
+      "priority": "HIGH",
+      "company_name": "[NEW] Cleo Integration",
+      "country": "USA",
+      "city": "Rockford",
+      "state": "IL",
+      "employees": "",
+      "erp_systems": [
+        "SAP",
+        "Oracle",
+        "Microsoft Dynamics"
+      ],
+      "website": "cleo.com",
+      "decision_makers": [],
+      "why_target": "EDI and ERP integration platform and services",
       "notable_clients": "",
       "awards": ""
     }

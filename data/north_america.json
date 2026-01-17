@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:19:10.058Z",
+  "last_updated": "2026-01-17T02:24:07.323Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10048,6 +10048,24 @@
       "website": "clientsfirst-us.com",
       "decision_makers": [],
       "why_target": "Specializes in rescuing complex failed SAP B1 implementations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616647322",
+      "rank": 1104,
+      "priority": "HIGH",
+      "company_name": "Sunrise Technologies",
+      "country": "USA",
+      "city": "Winston-Salem",
+      "state": "NC",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365 F&O"
+      ],
+      "website": "sunriseconsult.com",
+      "decision_makers": [],
+      "why_target": "[NEW] D365 F&O specialist for manufacturing, retail, distribution - 20+ years",
       "notable_clients": "",
       "awards": ""
     }

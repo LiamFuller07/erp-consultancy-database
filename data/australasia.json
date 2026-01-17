@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-16T10:04:57.755Z",
+  "last_updated": "2026-01-17T01:58:00.728Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -3670,6 +3670,24 @@
       "website": "",
       "decision_makers": [],
       "why_target": "",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "australasia-new-1768615080728",
+      "rank": 162,
+      "priority": "LOW",
+      "company_name": "Auto Deploy Test Co",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "website": "https://example.com/auto-deploy-test",
+      "decision_makers": [],
+      "why_target": "Auto deploy hook test",
       "notable_clients": "",
       "awards": ""
     }

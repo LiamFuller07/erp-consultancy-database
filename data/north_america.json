@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:41:59.403Z",
+  "last_updated": "2026-01-17T02:42:03.142Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10422,6 +10422,25 @@
       "website": "accttwo.com",
       "decision_makers": [],
       "why_target": "7x Sage Partner of the Year, President Club member",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617723141",
+      "rank": 1124,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] Aktion Associates",
+      "country": "USA",
+      "city": "Toledo",
+      "state": "OH",
+      "employees": "",
+      "erp_systems": [
+        "Infor Distribution",
+        "Acumatica"
+      ],
+      "website": "aktion.com",
+      "decision_makers": [],
+      "why_target": "Largest Infor Distribution partner in US, Acumatica President Club",
       "notable_clients": "",
       "awards": ""
     }

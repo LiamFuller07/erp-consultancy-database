@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:04:02.516Z",
+  "last_updated": "2026-01-17T03:04:08.756Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12466,6 +12466,24 @@
       "website": "lighthousecs.com",
       "decision_makers": [],
       "why_target": "Epicor Gold partner, 30+ years, manufacturing",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619048756",
+      "rank": 1233,
+      "priority": "HIGH",
+      "company_name": "[NEW] ElevatIQ",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "ERP Selection Consulting"
+      ],
+      "website": "elevatiq.com",
+      "decision_makers": [],
+      "why_target": "Independent ERP selection advisory firm",
       "notable_clients": "",
       "awards": ""
     }

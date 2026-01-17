@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:56:33.502Z",
+  "last_updated": "2026-01-17T02:56:40.530Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11612,6 +11612,24 @@
       "website": "swktech.com",
       "decision_makers": [],
       "why_target": "Sage Elite Partner, also Acumatica Gold, 30+ years",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618600529",
+      "rank": 1188,
+      "priority": "HIGH",
+      "company_name": "[NEW] GoldFinch Solutions",
+      "country": "USA",
+      "city": "San Francisco",
+      "state": "CA",
+      "employees": "",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "website": "goldfinchsolutions.com",
+      "decision_makers": [],
+      "why_target": "NetSuite Alliance Partner, CPQ and manufacturing focus",
       "notable_clients": "",
       "awards": ""
     }

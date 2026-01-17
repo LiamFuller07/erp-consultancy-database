@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:13:38.654Z",
+  "last_updated": "2026-01-17T03:13:47.020Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -13320,6 +13320,24 @@
       "website": "strategiesgroup.com",
       "decision_makers": [],
       "why_target": "Acumatica 2025 Construction VAR Award finalist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619627020",
+      "rank": 1279,
+      "priority": "HIGH",
+      "company_name": "[NEW] Cetas Tech",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365"
+      ],
+      "website": "cetastech.com",
+      "decision_makers": [],
+      "why_target": "Certified Microsoft Partner, 15+ years, 24x7 D365 support",
       "notable_clients": "",
       "awards": ""
     }

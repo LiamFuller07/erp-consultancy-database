@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:36:28.781Z",
+  "last_updated": "2026-01-17T02:41:59.403Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10404,6 +10404,24 @@
       "website": "hitachi-solutions.com",
       "decision_makers": [],
       "why_target": "2025 Microsoft D365 Finance Partner of the Year",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617719403",
+      "rank": 1123,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] AcctTwo",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "Sage Intacct"
+      ],
+      "website": "accttwo.com",
+      "decision_makers": [],
+      "why_target": "7x Sage Partner of the Year, President Club member",
       "notable_clients": "",
       "awards": ""
     }

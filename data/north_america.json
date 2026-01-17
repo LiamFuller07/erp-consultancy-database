@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:04:08.756Z",
+  "last_updated": "2026-01-17T03:04:31.819Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12484,6 +12484,24 @@
       "website": "elevatiq.com",
       "decision_makers": [],
       "why_target": "Independent ERP selection advisory firm",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619071819",
+      "rank": 1234,
+      "priority": "HIGH",
+      "company_name": "[NEW] Panorama Consulting Group",
+      "country": "USA",
+      "city": "Denver",
+      "state": "CO",
+      "employees": "",
+      "erp_systems": [
+        "ERP Selection Advisory"
+      ],
+      "website": "panorama-consulting.com",
+      "decision_makers": [],
+      "why_target": "Independent ERP selection and implementation advisory",
       "notable_clients": "",
       "awards": ""
     }

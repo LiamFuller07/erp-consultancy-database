@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:02:07.974Z",
+  "last_updated": "2026-01-17T03:02:15.970Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12257,6 +12257,25 @@
       "website": "armaninollp.com",
       "decision_makers": [],
       "why_target": "Top 25 CPA firm, major multi-ERP consulting practice",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618935970",
+      "rank": 1222,
+      "priority": "HIGH",
+      "company_name": "[NEW] BerganKDV",
+      "country": "USA",
+      "city": "Minneapolis",
+      "state": "MN",
+      "employees": "",
+      "erp_systems": [
+        "Sage Intacct",
+        "Microsoft Dynamics"
+      ],
+      "website": "bergankdv.com",
+      "decision_makers": [],
+      "why_target": "Top 75 CPA firm with tech consulting",
       "notable_clients": "",
       "awards": ""
     }

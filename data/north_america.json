@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:45:25.894Z",
+  "last_updated": "2026-01-17T02:45:29.575Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10900,6 +10900,24 @@
       "website": "brainsell.net",
       "decision_makers": [],
       "why_target": "Sage Platinum Partner, CRM+ERP integration specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617929575",
+      "rank": 1150,
+      "priority": "HIGH",
+      "company_name": "[NEW] BT Partners",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Sage Intacct"
+      ],
+      "website": "btpartners.com",
+      "decision_makers": [],
+      "why_target": "Nonprofit & family office Sage Intacct specialist",
       "notable_clients": "",
       "awards": ""
     }

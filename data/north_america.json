@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:59:51.998Z",
+  "last_updated": "2026-01-17T02:59:57.791Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12012,6 +12012,25 @@
       "website": "consultcsg.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner, process manufacturing focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618797791",
+      "rank": 1209,
+      "priority": "HIGH",
+      "company_name": "[NEW] Korcomptenz",
+      "country": "USA",
+      "city": "East Brunswick",
+      "state": "NJ",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365",
+        "Power Platform"
+      ],
+      "website": "korcomptenz.com",
+      "decision_makers": [],
+      "why_target": "Microsoft Gold Partner, D365 and Power Platform",
       "notable_clients": "",
       "awards": ""
     }

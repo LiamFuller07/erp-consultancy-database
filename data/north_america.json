@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:59:23.921Z",
+  "last_updated": "2026-01-17T02:59:46.655Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11994,6 +11994,25 @@
       "website": "digitalroute.com",
       "decision_makers": [],
       "why_target": "Usage-based billing and ERP integration specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618786655",
+      "rank": 1208,
+      "priority": "HIGH",
+      "company_name": "[NEW] CSG Consulting",
+      "country": "USA",
+      "city": "Phoenix",
+      "state": "AZ",
+      "employees": "",
+      "erp_systems": [
+        "SAP Business One",
+        "SAP Business ByDesign"
+      ],
+      "website": "consultcsg.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner, process manufacturing focus",
       "notable_clients": "",
       "awards": ""
     }

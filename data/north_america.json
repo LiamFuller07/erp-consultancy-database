@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:05:09.870Z",
+  "last_updated": "2026-01-17T03:06:41.875Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12596,6 +12596,24 @@
       "website": "datalane.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner, life sciences and pharma",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619201875",
+      "rank": 1240,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] Open Source Integrators",
+      "country": "USA",
+      "city": "Gilbert",
+      "state": "AZ",
+      "employees": "",
+      "erp_systems": [
+        "Odoo"
+      ],
+      "website": "opensourceintegrators.com",
+      "decision_makers": [],
+      "why_target": "North Americas first Odoo Gold Partner, 3x Partner of Year",
       "notable_clients": "",
       "awards": ""
     }

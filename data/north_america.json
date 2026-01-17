@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:45:42.050Z",
+  "last_updated": "2026-01-17T02:45:45.813Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10992,6 +10992,24 @@
       "website": "catapulterp.com",
       "decision_makers": [],
       "why_target": "#1 Business Central partner for midsized companies",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617945808",
+      "rank": 1155,
+      "priority": "HIGH",
+      "company_name": "[NEW] Enavate",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365"
+      ],
+      "website": "enavate.com",
+      "decision_makers": [],
+      "why_target": "D365 implementation, migration, managed services",
       "notable_clients": "",
       "awards": ""
     }

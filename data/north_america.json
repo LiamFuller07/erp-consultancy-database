@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:46:33.909Z",
+  "last_updated": "2026-01-17T02:46:36.880Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11120,6 +11120,24 @@
       "website": "appsassociates.com",
       "decision_makers": [],
       "why_target": "700+ Oracle cloud projects, 20+ years experience",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617996880",
+      "rank": 1162,
+      "priority": "HIGH",
+      "company_name": "[NEW] SpearMC",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Oracle PeopleSoft"
+      ],
+      "website": "spearmc.com",
+      "decision_makers": [],
+      "why_target": "PeopleSoft Experts, 20+ years - now part of Mythics",
       "notable_clients": "",
       "awards": ""
     }

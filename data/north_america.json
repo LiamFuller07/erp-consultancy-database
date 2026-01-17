@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:14:42.239Z",
+  "last_updated": "2026-01-17T02:14:46.866Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9388,6 +9388,25 @@
       "website": "alithya.com",
       "decision_makers": [],
       "why_target": "2200+ professionals, 30 years experience",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616086866",
+      "rank": 1068,
+      "priority": "HIGH",
+      "company_name": "Catapult ERP",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics Business Central",
+        "CRM"
+      ],
+      "website": "catapulterp.com",
+      "decision_makers": [],
+      "why_target": "#1 BC partner for midsized companies",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:18:40.003Z",
+  "last_updated": "2026-01-17T02:18:45.175Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9939,6 +9939,24 @@
       "website": "confiz.com",
       "decision_makers": [],
       "why_target": "18 years, 250+ D365 consultants, Fortune 100 clients",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616325175",
+      "rank": 1098,
+      "priority": "HIGH",
+      "company_name": "GP Support North",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics GP"
+      ],
+      "website": "gpsupportnorth.com",
+      "decision_makers": [],
+      "why_target": "Microsoft Dynamics GP specialist since 1989",
       "notable_clients": "",
       "awards": ""
     }

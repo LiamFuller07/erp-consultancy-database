@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:17:52.031Z",
+  "last_updated": "2026-01-17T02:17:57.284Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9846,6 +9846,25 @@
       "website": "clearbusinessoutcome.com",
       "decision_makers": [],
       "why_target": "Epicor Premium Partner for Kinetic",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616277284",
+      "rank": 1093,
+      "priority": "HIGH",
+      "company_name": "PracticalTek",
+      "country": "USA",
+      "city": "Ohio",
+      "state": "OH",
+      "employees": "",
+      "erp_systems": [
+        "Epicor Kinetic",
+        "Vantage"
+      ],
+      "website": "practicaltek.com",
+      "decision_makers": [],
+      "why_target": "Independent Epicor Services Provider for Kinetic/Vantage",
       "notable_clients": "",
       "awards": ""
     }

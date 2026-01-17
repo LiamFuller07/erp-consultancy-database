@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:58:05.821Z",
+  "last_updated": "2026-01-17T02:58:11.158Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11798,6 +11798,25 @@
       "website": "clientsfirst-us.com",
       "decision_makers": [],
       "why_target": "Microsoft Gold Partner, construction and field service",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618691158",
+      "rank": 1198,
+      "priority": "HIGH",
+      "company_name": "[NEW] CAL Business Solutions",
+      "country": "USA",
+      "city": "Harwinton",
+      "state": "CT",
+      "employees": "",
+      "erp_systems": [
+        "Acumatica",
+        "Sage 100"
+      ],
+      "website": "cabortiont.cabortiont.calbusiness.com",
+      "decision_makers": [],
+      "why_target": "Acumatica Gold Partner, manufacturing specialist",
       "notable_clients": "",
       "awards": ""
     }

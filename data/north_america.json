@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:43:14.704Z",
+  "last_updated": "2026-01-17T02:43:18.797Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10589,6 +10589,24 @@
       "website": "wm-synergy.com",
       "decision_makers": [],
       "why_target": "150+ professionals, Acumatica Manufacturing Partner of Year, 28 years",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617798797",
+      "rank": 1133,
+      "priority": "HIGH",
+      "company_name": "[NEW] Third Wave Business Systems",
+      "country": "USA",
+      "city": "Wayne",
+      "state": "NJ",
+      "employees": "",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "twbs.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner since 2006, CPG/Life Sciences/Manufacturing focus",
       "notable_clients": "",
       "awards": ""
     }

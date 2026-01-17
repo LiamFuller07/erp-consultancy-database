@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:55:11.420Z",
+  "last_updated": "2026-01-17T02:55:33.957Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11459,6 +11459,25 @@
       "website": "intelli-tech.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner since 2004, mid-market specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618533957",
+      "rank": 1180,
+      "priority": "HIGH",
+      "company_name": "[NEW] Innovia Consulting",
+      "country": "USA",
+      "city": "Minneapolis",
+      "state": "MN",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics NAV",
+        "Business Central"
+      ],
+      "website": "innovia.com",
+      "decision_makers": [],
+      "why_target": "Top Microsoft NAV/BC partner, Inner Circle member",
       "notable_clients": "",
       "awards": ""
     }

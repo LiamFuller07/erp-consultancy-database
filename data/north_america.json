@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:03:02.798Z",
+  "last_updated": "2026-01-17T03:03:08.986Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12352,6 +12352,24 @@
       "website": "protelligent.com",
       "decision_makers": [],
       "why_target": "D365 and Salesforce integration specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618988986",
+      "rank": 1227,
+      "priority": "HIGH",
+      "company_name": "[NEW] ASAR Digital",
+      "country": "USA",
+      "city": "Chicago",
+      "state": "IL",
+      "employees": "",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "asardigital.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner, professional services focus",
       "notable_clients": "",
       "awards": ""
     }

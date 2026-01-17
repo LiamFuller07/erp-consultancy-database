@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:18:45.175Z",
+  "last_updated": "2026-01-17T02:18:49.698Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9957,6 +9957,25 @@
       "website": "gpsupportnorth.com",
       "decision_makers": [],
       "why_target": "Microsoft Dynamics GP specialist since 1989",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616329698",
+      "rank": 1099,
+      "priority": "HIGH",
+      "company_name": "Sequoia Group",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Infor Distribution",
+        "WMS"
+      ],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Certified Infor Channel Partner for Distribution ERP and WMS",
       "notable_clients": "",
       "awards": ""
     }

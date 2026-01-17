@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:56:40.530Z",
+  "last_updated": "2026-01-17T02:56:46.930Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11630,6 +11630,25 @@
       "website": "goldfinchsolutions.com",
       "decision_makers": [],
       "why_target": "NetSuite Alliance Partner, CPQ and manufacturing focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618606930",
+      "rank": 1189,
+      "priority": "HIGH",
+      "company_name": "[NEW] Ryvit",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Sage 300 CRE",
+        "Viewpoint"
+      ],
+      "website": "ryvit.com",
+      "decision_makers": [],
+      "why_target": "Construction ERP integration specialist",
       "notable_clients": "",
       "awards": ""
     }

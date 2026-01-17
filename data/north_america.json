@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:11:17.451Z",
+  "last_updated": "2026-01-17T03:11:26.195Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -13079,6 +13079,25 @@
       "website": "clarkstonconsulting.com",
       "decision_makers": [],
       "why_target": "First SAP implementation in North America, Pfizer/Moderna/Gilead clients",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619486195",
+      "rank": 1266,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] NTT DATA Business Solutions",
+      "country": "USA",
+      "city": "Plano",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP ATTP"
+      ],
+      "website": "nttdata-solutions.com",
+      "decision_makers": [],
+      "why_target": "SAP Platinum Partner, 30+ years life sciences, 10000+ consultants",
       "notable_clients": "",
       "awards": ""
     }

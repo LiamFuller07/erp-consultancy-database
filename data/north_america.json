@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:13:55.725Z",
+  "last_updated": "2026-01-17T03:14:04.439Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -13356,6 +13356,24 @@
       "website": "clouderpsoftware.com",
       "decision_makers": [],
       "why_target": "Acumatica MVP Partner, 350 implementations, 18+ years",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619644439",
+      "rank": 1281,
+      "priority": "HIGH",
+      "company_name": "[NEW] Slingshot Pharma",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Multi-platform ERP Integration"
+      ],
+      "website": "slingshotpharma.com",
+      "decision_makers": [],
+      "why_target": "30+ years pharma ERP, FDA 21 CFR Part 11 compliance built-in",
       "notable_clients": "",
       "awards": ""
     }

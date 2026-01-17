@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:44:44.669Z",
+  "last_updated": "2026-01-17T02:45:22.007Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10863,6 +10863,24 @@
       "website": "total-dyn.com",
       "decision_makers": [],
       "why_target": "Charlotte and Raleigh NetSuite consulting firm",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617922007",
+      "rank": 1148,
+      "priority": "HIGH",
+      "company_name": "[NEW] JMT Consulting",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Sage Intacct"
+      ],
+      "website": "jmtconsulting.com",
+      "decision_makers": [],
+      "why_target": "Nonprofit-exclusive Sage partner since 1991",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:46:46.456Z",
+  "last_updated": "2026-01-17T02:49:15.285Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10790,7 +10790,7 @@
       ],
       "website": "trenegy.com",
       "decision_makers": [],
-      "why_target": "ERP selection and implementation consulting firm, vendor-agnostic",
+      "why_target": "ERP selection & implementation consulting firm",
       "notable_clients": "",
       "awards": ""
     },

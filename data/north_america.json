@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:24:14.540Z",
+  "last_updated": "2026-01-17T02:24:19.546Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10084,6 +10084,25 @@
       "website": "ellipsesolutions.com",
       "decision_makers": [],
       "why_target": "[NEW] D365 Business Central migrations specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616659546",
+      "rank": 1106,
+      "priority": "HIGH",
+      "company_name": "ArcherPoint",
+      "country": "USA",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics Business Central",
+        "NAV"
+      ],
+      "website": "archerpoint.com",
+      "decision_makers": [],
+      "why_target": "[NEW] Business Central & NAV upgrades - acquired by Cherry Bekaert",
       "notable_clients": "",
       "awards": ""
     }

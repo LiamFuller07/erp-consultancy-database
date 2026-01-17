@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:16:13.699Z",
+  "last_updated": "2026-01-17T02:16:18.311Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9609,6 +9609,24 @@
       "website": "neosconsulting.com",
       "decision_makers": [],
       "why_target": "IT Staffing & ERP, government focus since 2003",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616178311",
+      "rank": 1080,
+      "priority": "MEDIUM",
+      "company_name": "Novobi",
+      "country": "USA",
+      "city": "Austin",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "Odoo"
+      ],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Odoo partner, retail/wholesale/eCommerce focus",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:25:34.176Z",
+  "last_updated": "2026-01-17T02:25:38.714Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -8875,11 +8875,13 @@
       "state": "GA",
       "employees": "",
       "erp_systems": [
-        "Oracle, AWS, PeopleSoft"
+        "Oracle",
+        "AWS",
+        "PeopleSoft"
       ],
       "website": "sierra-cedar.com",
       "decision_makers": [],
-      "why_target": "25+ years experience",
+      "why_target": "[NEW] Oracle, AWS, PeopleSoft specialist - 25+ years experience",
       "notable_clients": "",
       "awards": ""
     },

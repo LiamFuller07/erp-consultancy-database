@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:02:15.970Z",
+  "last_updated": "2026-01-17T03:02:40.678Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12276,6 +12276,25 @@
       "website": "bergankdv.com",
       "decision_makers": [],
       "why_target": "Top 75 CPA firm with tech consulting",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618960678",
+      "rank": 1223,
+      "priority": "HIGH",
+      "company_name": "[NEW] KTL Solutions",
+      "country": "USA",
+      "city": "Lancaster",
+      "state": "PA",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics GP",
+        "Business Central"
+      ],
+      "website": "ktlsolutions.com",
+      "decision_makers": [],
+      "why_target": "Microsoft Gold Partner, manufacturing and distribution",
       "notable_clients": "",
       "awards": ""
     }

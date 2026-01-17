@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:17:18.720Z",
+  "last_updated": "2026-01-17T02:17:23.347Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9735,6 +9735,24 @@
       "website": "supportone.us",
       "decision_makers": [],
       "why_target": "SAP B1 Gold Partner, 15+ years, fixed-fee implementations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616243347",
+      "rank": 1087,
+      "priority": "HIGH",
+      "company_name": "Innovapte",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "innovapte.com",
+      "decision_makers": [],
+      "why_target": "SAP Silver Partner, 20+ years leadership, 25 professionals",
       "notable_clients": "",
       "awards": ""
     }

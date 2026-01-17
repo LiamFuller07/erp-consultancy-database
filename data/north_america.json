@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:53:52.103Z",
+  "last_updated": "2026-01-17T02:54:42.430Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11364,6 +11364,25 @@
       "website": "marcumllp.com",
       "decision_makers": [],
       "why_target": "Top 15 accounting firm with dedicated tech consulting division",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618482430",
+      "rank": 1175,
+      "priority": "HIGH",
+      "company_name": "[NEW] NexGen Business Solutions",
+      "country": "USA",
+      "city": "Philadelphia",
+      "state": "PA",
+      "employees": "",
+      "erp_systems": [
+        "Sage 100",
+        "Sage X3"
+      ],
+      "website": "nexgenbiz.com",
+      "decision_makers": [],
+      "why_target": "25+ years Sage expertise, manufacturing specialist",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:51:53.312Z",
+  "last_updated": "2026-01-17T02:52:02.678Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10698,7 +10698,7 @@
       ],
       "website": "consultare.net",
       "decision_makers": [],
-      "why_target": "SAP Gold Partner since 2013, multilingual team, South Florida specialist",
+      "why_target": "SAP Gold Partner since 2013, multilingual team",
       "notable_clients": "",
       "awards": ""
     },

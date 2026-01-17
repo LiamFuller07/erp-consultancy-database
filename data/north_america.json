@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:55:01.377Z",
+  "last_updated": "2026-01-17T02:55:06.267Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11422,6 +11422,24 @@
       "website": "illumiti.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner, 500+ implementations in North America",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618506267",
+      "rank": 1178,
+      "priority": "HIGH",
+      "company_name": "[NEW] Domain 6",
+      "country": "USA",
+      "city": "Washington",
+      "state": "DC",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365"
+      ],
+      "website": "domain6.com",
+      "decision_makers": [],
+      "why_target": "D365 specialist for associations and nonprofits",
       "notable_clients": "",
       "awards": ""
     }

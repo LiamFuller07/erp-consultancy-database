@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:04:37.708Z",
+  "last_updated": "2026-01-17T03:04:43.971Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12522,6 +12522,24 @@
       "website": "aptean.com",
       "decision_makers": [],
       "why_target": "Aptean ERP implementation partner network",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619083971",
+      "rank": 1236,
+      "priority": "HIGH",
+      "company_name": "[NEW] 360 Visibility",
+      "country": "Canada",
+      "city": "Vancouver",
+      "state": "BC",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365 Business Central"
+      ],
+      "website": "360visibility.com",
+      "decision_makers": [],
+      "why_target": "Microsoft Inner Circle, BC specialist for project-based",
       "notable_clients": "",
       "awards": ""
     }

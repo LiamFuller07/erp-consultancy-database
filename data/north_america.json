@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:03:08.986Z",
+  "last_updated": "2026-01-17T03:03:30.490Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12370,6 +12370,25 @@
       "website": "asardigital.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner, professional services focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619010490",
+      "rank": 1228,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] ECI Solutions",
+      "country": "USA",
+      "city": "Fort Worth",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "ECI M1",
+        "JobBOSS"
+      ],
+      "website": "ecisolutions.com",
+      "decision_makers": [],
+      "why_target": "ERP vendor with 25000+ customers, job shop manufacturing",
       "notable_clients": "",
       "awards": ""
     }

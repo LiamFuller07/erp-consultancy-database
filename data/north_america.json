@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:10:29.538Z",
+  "last_updated": "2026-01-17T03:10:36.584Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -13003,6 +13003,27 @@
       "website": "ethosystems.com",
       "decision_makers": [],
       "why_target": "40+ years construction ERP exclusively, Sage Customer Excellence",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619436583",
+      "rank": 1262,
+      "priority": "HIGH",
+      "company_name": "[NEW] HingePoint",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "Procore",
+        "Yardi",
+        "Sage",
+        "Microsoft Dynamics"
+      ],
+      "website": "hingepoint.com",
+      "decision_makers": [],
+      "why_target": "Procore Development Partner, custom integration specialist",
       "notable_clients": "",
       "awards": ""
     }

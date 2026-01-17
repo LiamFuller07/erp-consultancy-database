@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:11:09.107Z",
+  "last_updated": "2026-01-17T03:11:17.451Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -13061,6 +13061,24 @@
       "website": "redirectconsulting.com",
       "decision_makers": [],
       "why_target": "Real estate tech consulting, 22+ years avg consultant experience",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619477451",
+      "rank": 1265,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] Clarkston Consulting",
+      "country": "USA",
+      "city": "Durham",
+      "state": "NC",
+      "employees": "",
+      "erp_systems": [
+        "SAP S/4HANA"
+      ],
+      "website": "clarkstonconsulting.com",
+      "decision_makers": [],
+      "why_target": "First SAP implementation in North America, Pfizer/Moderna/Gilead clients",
       "notable_clients": "",
       "awards": ""
     }

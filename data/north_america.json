@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:53:27.643Z",
+  "last_updated": "2026-01-17T02:53:33.645Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11305,6 +11305,24 @@
       "website": "protiviti.com",
       "decision_makers": [],
       "why_target": "Global consulting firm with strong ERP practice, 5000+ consultants",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618413645",
+      "rank": 1172,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] Avanade",
+      "country": "USA",
+      "city": "Seattle",
+      "state": "WA",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365"
+      ],
+      "website": "avanade.com",
+      "decision_makers": [],
+      "why_target": "Accenture/Microsoft joint venture, 60000+ professionals worldwide",
       "notable_clients": "",
       "awards": ""
     }

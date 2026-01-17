@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:06:49.566Z",
+  "last_updated": "2026-01-17T03:06:57.425Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12632,6 +12632,24 @@
       "website": "captivea.com",
       "decision_makers": [],
       "why_target": "Global Odoo leader, aerospace/defense/government contracting",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619217425",
+      "rank": 1242,
+      "priority": "HIGH",
+      "company_name": "[NEW] Novobi",
+      "country": "USA",
+      "city": "Austin",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "Odoo"
+      ],
+      "website": "novobi.com",
+      "decision_makers": [],
+      "why_target": "Odoo Gold Partner, 100% go-live success, CMMI Level-3",
       "notable_clients": "",
       "awards": ""
     }

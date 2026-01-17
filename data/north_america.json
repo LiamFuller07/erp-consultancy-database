@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:00:09.326Z",
+  "last_updated": "2026-01-17T03:00:15.996Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12050,6 +12050,25 @@
       "website": "oakwoodsys.com",
       "decision_makers": [],
       "why_target": "GP-to-BC migration specialist, 500+ customers",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618815996",
+      "rank": 1211,
+      "priority": "HIGH",
+      "company_name": "[NEW] Sage IT",
+      "country": "USA",
+      "city": "Reston",
+      "state": "VA",
+      "employees": "",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP ECC"
+      ],
+      "website": "sageitinc.com",
+      "decision_makers": [],
+      "why_target": "SAP partner, federal government contractor",
       "notable_clients": "",
       "awards": ""
     }

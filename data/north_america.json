@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:14:13.793Z",
+  "last_updated": "2026-01-17T02:14:19.935Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9315,6 +9315,24 @@
       "website": "chainsys.com",
       "decision_makers": [],
       "why_target": "23+ years Oracle, SAP, Salesforce experience",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616059935",
+      "rank": 1064,
+      "priority": "HIGH",
+      "company_name": "ennVee",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Oracle Fusion Cloud"
+      ],
+      "website": "ennvee.com",
+      "decision_makers": [],
+      "why_target": "Oracle Fusion Cloud specialist, 20+ years",
       "notable_clients": "",
       "awards": ""
     }

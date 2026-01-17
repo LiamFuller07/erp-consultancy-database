@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:46:43.527Z",
+  "last_updated": "2026-01-17T02:46:46.456Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11175,6 +11175,25 @@
       "website": "iccg.com",
       "decision_makers": [],
       "why_target": "CloudSuite Food & Beverage, Infor M3, Infor Optiva PLM specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618006455",
+      "rank": 1165,
+      "priority": "HIGH",
+      "company_name": "[NEW] Progent",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Infor CloudSuite Industrial",
+        "SyteLine"
+      ],
+      "website": "progent.com",
+      "decision_makers": [],
+      "why_target": "Infor SyteLine platform specialist, 20+ years",
       "notable_clients": "",
       "awards": ""
     }

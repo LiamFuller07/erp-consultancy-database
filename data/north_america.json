@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:55:50.792Z",
+  "last_updated": "2026-01-17T02:55:56.276Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11516,6 +11516,25 @@
       "website": "datixinc.com",
       "decision_makers": [],
       "why_target": "Epicor Platinum partner, 25+ years, manufacturing focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618556276",
+      "rank": 1183,
+      "priority": "HIGH",
+      "company_name": "[NEW] Turnkey Technologies",
+      "country": "USA",
+      "city": "Atlanta",
+      "state": "GA",
+      "employees": "",
+      "erp_systems": [
+        "Infor CloudSuite Industrial",
+        "SyteLine"
+      ],
+      "website": "turnkeytec.com",
+      "decision_makers": [],
+      "why_target": "Infor Gold Channel Partner, Southeast focus",
       "notable_clients": "",
       "awards": ""
     }

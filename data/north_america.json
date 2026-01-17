@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:49:23.771Z",
+  "last_updated": "2026-01-17T02:49:30.115Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10826,7 +10826,7 @@
       ],
       "website": "microaccounting.com",
       "decision_makers": [],
-      "why_target": "Dallas Sage Intacct implementation specialist",
+      "why_target": "Sage Intacct implementation specialist",
       "notable_clients": "",
       "awards": ""
     },

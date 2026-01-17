@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:57:43.979Z",
+  "last_updated": "2026-01-17T02:58:05.821Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11779,6 +11779,25 @@
       "website": "advantive.com",
       "decision_makers": [],
       "why_target": "Distribution ERP specialist, 350+ customers",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618685821",
+      "rank": 1197,
+      "priority": "HIGH",
+      "company_name": "[NEW] Clients First Business Solutions",
+      "country": "USA",
+      "city": "Phoenix",
+      "state": "AZ",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365",
+        "Business Central"
+      ],
+      "website": "clientsfirst-us.com",
+      "decision_makers": [],
+      "why_target": "Microsoft Gold Partner, construction and field service",
       "notable_clients": "",
       "awards": ""
     }

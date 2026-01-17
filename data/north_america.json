@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:04:31.819Z",
+  "last_updated": "2026-01-17T03:04:37.708Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12502,6 +12502,26 @@
       "website": "panorama-consulting.com",
       "decision_makers": [],
       "why_target": "Independent ERP selection and implementation advisory",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619077708",
+      "rank": 1235,
+      "priority": "HIGH",
+      "company_name": "[NEW] Aptean Partners Network",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Aptean Ross",
+        "Aptean Food",
+        "Aptean Industrial"
+      ],
+      "website": "aptean.com",
+      "decision_makers": [],
+      "why_target": "Aptean ERP implementation partner network",
       "notable_clients": "",
       "awards": ""
     }

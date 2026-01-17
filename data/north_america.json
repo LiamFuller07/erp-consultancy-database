@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:59:06.222Z",
+  "last_updated": "2026-01-17T02:59:12.158Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11936,6 +11936,25 @@
       "website": "navisite.com",
       "decision_makers": [],
       "why_target": "ERP managed services, now part of Accenture",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618752158",
+      "rank": 1205,
+      "priority": "HIGH",
+      "company_name": "[NEW] Simplus (Infosys)",
+      "country": "USA",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "employees": "",
+      "erp_systems": [
+        "Salesforce CPQ",
+        "NetSuite"
+      ],
+      "website": "simplus.com",
+      "decision_makers": [],
+      "why_target": "Salesforce Platinum partner with ERP integration",
       "notable_clients": "",
       "awards": ""
     }

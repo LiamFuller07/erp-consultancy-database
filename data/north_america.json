@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:52:59.581Z",
+  "last_updated": "2026-01-17T02:53:21.481Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10844,7 +10844,7 @@
       ],
       "website": "cwglobalpartners.com",
       "decision_makers": [],
-      "why_target": "Founded 2012, 150+ NetSuite implementations",
+      "why_target": "Founded 2012, 150+ implementations",
       "notable_clients": "",
       "awards": ""
     },

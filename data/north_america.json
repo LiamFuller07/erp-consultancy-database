@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:58:28.852Z",
+  "last_updated": "2026-01-17T02:58:34.632Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11856,6 +11856,26 @@
       "website": "syntax.com",
       "decision_makers": [],
       "why_target": "Multi-ERP managed services, 800+ customers, $400M revenue",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618714632",
+      "rank": 1201,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] KPMG Consulting",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "",
+      "erp_systems": [
+        "SAP",
+        "Oracle",
+        "Microsoft Dynamics"
+      ],
+      "website": "kpmg.com",
+      "decision_makers": [],
+      "why_target": "Big 4 firm with major ERP practice, global reach",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:16:28.213Z",
+  "last_updated": "2026-01-17T02:17:03.771Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9663,6 +9663,24 @@
       "website": "",
       "decision_makers": [],
       "why_target": "NetSuite cloud ERP specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616223771",
+      "rank": 1083,
+      "priority": "HIGH",
+      "company_name": "Indus Novateur",
+      "country": "USA",
+      "city": "Hoffman Estates",
+      "state": "IL",
+      "employees": "",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "indusnovateur.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner, 450+ SAP-trained professionals, 7+ delivery centers",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:09:09.461Z",
+  "last_updated": "2026-01-17T03:09:16.618Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12850,6 +12850,25 @@
       "website": "parallelsolutions4u.com",
       "decision_makers": [],
       "why_target": "Acumatica Gold Partner since 1995, Customer Success 2025",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619356618",
+      "rank": 1254,
+      "priority": "HIGH",
+      "company_name": "[NEW] DWD Tech Group",
+      "country": "USA",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "employees": "",
+      "erp_systems": [
+        "Sage 100",
+        "Sage Intacct"
+      ],
+      "website": "dwdtechgroup.com",
+      "decision_makers": [],
+      "why_target": "Midwest Sage consultants with CPA expertise",
       "notable_clients": "",
       "awards": ""
     }

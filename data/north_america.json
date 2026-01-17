@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:15:34.538Z",
+  "last_updated": "2026-01-17T02:15:40.730Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9480,6 +9480,24 @@
       "website": "birlasoft.com",
       "decision_makers": [],
       "why_target": "15+ years Infor M3 practice, Center of Excellence since 2005",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616140730",
+      "rank": 1073,
+      "priority": "HIGH",
+      "company_name": "Sailotech",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Infor LN"
+      ],
+      "website": "sailotech.com",
+      "decision_makers": [],
+      "why_target": "Certified Infor Partner, Infor LN consultants",
       "notable_clients": "",
       "awards": ""
     }

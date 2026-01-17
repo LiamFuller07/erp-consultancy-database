@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:36:21.964Z",
+  "last_updated": "2026-01-17T02:36:25.448Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10367,6 +10367,25 @@
       "website": "godlan.com",
       "decision_makers": [],
       "why_target": "Largest dedicated CloudSuite Industrial partner, multiple Partner of Year awards",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617385448",
+      "rank": 1121,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] ComTec Solutions",
+      "country": "USA",
+      "city": "Rochester",
+      "state": "NY",
+      "employees": "",
+      "erp_systems": [
+        "Epicor Kinetic",
+        "Prophet 21"
+      ],
+      "website": "comtecsolutions.com",
+      "decision_makers": [],
+      "why_target": "Epicor Global Partner of the Year 2023",
       "notable_clients": "",
       "awards": ""
     }

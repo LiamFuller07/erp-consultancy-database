@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:35:46.096Z",
+  "last_updated": "2026-01-17T02:35:49.868Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10291,6 +10291,26 @@
       "website": "archerpoint.com",
       "decision_makers": [],
       "why_target": "Business Central & NAV upgrades - acquired by Cherry Bekaert",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617349868",
+      "rank": 1117,
+      "priority": "HIGH",
+      "company_name": "[NEW] Elire Consulting",
+      "country": "USA",
+      "city": "Minneapolis",
+      "state": "MN",
+      "employees": "",
+      "erp_systems": [
+        "Oracle PeopleSoft",
+        "Oracle Cloud",
+        "EPM"
+      ],
+      "website": "elire.com",
+      "decision_makers": [],
+      "why_target": "PeopleSoft & Oracle Cloud EPM specialist, 475+ clients",
       "notable_clients": "",
       "awards": ""
     }

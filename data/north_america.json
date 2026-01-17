@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:25:43.282Z",
+  "last_updated": "2026-01-17T02:35:30.913Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10216,6 +10216,26 @@
       "website": "spearmc.com",
       "decision_makers": [],
       "why_target": "[NEW] PeopleSoft Experts, 20+ years - now part of Mythics",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617330913",
+      "rank": 1113,
+      "priority": "HIGH",
+      "company_name": "[NEW] Sierra-Cedar",
+      "country": "USA",
+      "city": "Alpharetta",
+      "state": "GA",
+      "employees": "",
+      "erp_systems": [
+        "Oracle",
+        "AWS",
+        "PeopleSoft"
+      ],
+      "website": "sierra-cedar.com",
+      "decision_makers": [],
+      "why_target": "Oracle, AWS, PeopleSoft specialist - 25+ years experience",
       "notable_clients": "",
       "awards": ""
     }

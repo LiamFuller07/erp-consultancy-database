@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:50:40.856Z",
+  "last_updated": "2026-01-17T02:50:48.274Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11250,6 +11250,24 @@
       "website": "decision.com",
       "decision_makers": [],
       "why_target": "#1 Gold Infor partner, 500+ manufacturing clients, 40+ years",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618248273",
+      "rank": 1169,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] Hitachi Solutions",
+      "country": "USA",
+      "city": "Irvine",
+      "state": "CA",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365"
+      ],
+      "website": "hitachi-solutions.com",
+      "decision_makers": [],
+      "why_target": "2025 Microsoft D365 Finance Partner of the Year",
       "notable_clients": "",
       "awards": ""
     }

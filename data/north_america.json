@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:24:29.010Z",
+  "last_updated": "2026-01-17T02:25:23.818Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10140,6 +10140,24 @@
       "website": "encorebusiness.com",
       "decision_makers": [],
       "why_target": "[NEW] Business Central for finance, non-profit, construction",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616723818",
+      "rank": 1109,
+      "priority": "HIGH",
+      "company_name": "PeopleSense",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Acumatica"
+      ],
+      "website": "peoplesenseerp.com",
+      "decision_makers": [],
+      "why_target": "[NEW] 20+ years Acumatica, manufacturing/distribution, Cloud Adoption finalist",
       "notable_clients": "",
       "awards": ""
     }

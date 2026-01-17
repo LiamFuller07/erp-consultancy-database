@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:49:53.378Z",
+  "last_updated": "2026-01-17T02:50:17.851Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10357,8 +10357,8 @@
       "priority": "HIGHEST",
       "company_name": "[NEW] Godlan",
       "country": "USA",
-      "city": "Clinton Township",
-      "state": "MI",
+      "city": "USA",
+      "state": "National",
       "employees": "",
       "erp_systems": [
         "Infor CloudSuite Industrial",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:19:04.827Z",
+  "last_updated": "2026-01-17T02:19:10.058Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10030,6 +10030,24 @@
       "website": "smartsi.com",
       "decision_makers": [],
       "why_target": "Infor CloudSuite software and integration",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616350058",
+      "rank": 1103,
+      "priority": "HIGH",
+      "company_name": "Clients First Business Systems",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "clientsfirst-us.com",
+      "decision_makers": [],
+      "why_target": "Specializes in rescuing complex failed SAP B1 implementations",
       "notable_clients": "",
       "awards": ""
     }

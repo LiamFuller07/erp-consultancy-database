@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:11:34.700Z",
+  "last_updated": "2026-01-17T03:11:42.686Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -13116,6 +13116,24 @@
       "website": "sycor-group.com",
       "decision_makers": [],
       "why_target": "MedTech365 ISV solution for medical device companies",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619502686",
+      "rank": 1268,
+      "priority": "HIGH",
+      "company_name": "[NEW] Arbour Group",
+      "country": "USA",
+      "city": "Woburn",
+      "state": "MA",
+      "employees": "",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "website": "arbourgroup.com",
+      "decision_makers": [],
+      "why_target": "Pre-packaged NetSuite ERP validation for life sciences",
       "notable_clients": "",
       "awards": ""
     }

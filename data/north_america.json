@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:01:09.047Z",
+  "last_updated": "2026-01-17T03:01:35.485Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12182,6 +12182,24 @@
       "website": "approyo.com",
       "decision_makers": [],
       "why_target": "SAP HANA specialist, cloud migrations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618895485",
+      "rank": 1218,
+      "priority": "HIGH",
+      "company_name": "[NEW] Quisitive",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365"
+      ],
+      "website": "quisitive.com",
+      "decision_makers": [],
+      "why_target": "Microsoft Inner Circle, 500+ employees, public company",
       "notable_clients": "",
       "awards": ""
     }

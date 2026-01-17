@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:01:02.212Z",
+  "last_updated": "2026-01-17T03:01:09.047Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12163,6 +12163,25 @@
       "website": "lumensolutions.com",
       "decision_makers": [],
       "why_target": "Oracle partner, federal and commercial sectors",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618869046",
+      "rank": 1217,
+      "priority": "HIGH",
+      "company_name": "[NEW] Approyo",
+      "country": "USA",
+      "city": "Milwaukee",
+      "state": "WI",
+      "employees": "",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP HANA"
+      ],
+      "website": "approyo.com",
+      "decision_makers": [],
+      "why_target": "SAP HANA specialist, cloud migrations",
       "notable_clients": "",
       "awards": ""
     }

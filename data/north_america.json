@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:13:47.020Z",
+  "last_updated": "2026-01-17T03:13:55.725Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -13338,6 +13338,24 @@
       "website": "cetastech.com",
       "decision_makers": [],
       "why_target": "Certified Microsoft Partner, 15+ years, 24x7 D365 support",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619635725",
+      "rank": 1280,
+      "priority": "HIGH",
+      "company_name": "[NEW] Advanced Solutions & Consulting",
+      "country": "USA",
+      "city": "San Diego",
+      "state": "CA",
+      "employees": "",
+      "erp_systems": [
+        "Acumatica"
+      ],
+      "website": "clouderpsoftware.com",
+      "decision_makers": [],
+      "why_target": "Acumatica MVP Partner, 350 implementations, 18+ years",
       "notable_clients": "",
       "awards": ""
     }

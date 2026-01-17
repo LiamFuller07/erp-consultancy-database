@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:44:30.155Z",
+  "last_updated": "2026-01-17T02:44:33.946Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10791,6 +10791,24 @@
       "website": "trenegy.com",
       "decision_makers": [],
       "why_target": "ERP selection and implementation consulting firm, vendor-agnostic",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617873946",
+      "rank": 1144,
+      "priority": "HIGH",
+      "company_name": "[NEW] Cinntra",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "cinntra.com",
+      "decision_makers": [],
+      "why_target": "CMMI Level-3 certified SAP B1 partner",
       "notable_clients": "",
       "awards": ""
     }

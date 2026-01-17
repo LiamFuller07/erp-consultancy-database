@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:51:26.738Z",
+  "last_updated": "2026-01-17T02:51:33.835Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10570,7 +10570,7 @@
       ],
       "website": "pcbennett.com",
       "decision_makers": [],
-      "why_target": "Acumatica longest-tenured partner since 2002, Gold Certified",
+      "why_target": "Acumaticas longest-tenured partner since 2002, Gold Certified",
       "notable_clients": "",
       "awards": ""
     },

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:44:37.650Z",
+  "last_updated": "2026-01-17T02:44:40.979Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10827,6 +10827,24 @@
       "website": "microaccounting.com",
       "decision_makers": [],
       "why_target": "Dallas Sage Intacct implementation specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617880979",
+      "rank": 1146,
+      "priority": "HIGH",
+      "company_name": "[NEW] CW Global Partners",
+      "country": "USA",
+      "city": "Miami",
+      "state": "FL",
+      "employees": "",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "website": "cwglobalpartners.com",
+      "decision_makers": [],
+      "why_target": "Founded 2012, 150+ NetSuite implementations",
       "notable_clients": "",
       "awards": ""
     }

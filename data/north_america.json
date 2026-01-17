@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:03:46.991Z",
+  "last_updated": "2026-01-17T03:03:56.073Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12427,6 +12427,26 @@
       "website": "dimensiondata.com",
       "decision_makers": [],
       "why_target": "NTT subsidiary, enterprise ERP services",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619036073",
+      "rank": 1231,
+      "priority": "HIGH",
+      "company_name": "[NEW] BlueFletch",
+      "country": "USA",
+      "city": "Atlanta",
+      "state": "GA",
+      "employees": "",
+      "erp_systems": [
+        "SAP",
+        "Oracle",
+        "Microsoft"
+      ],
+      "website": "bluefletch.com",
+      "decision_makers": [],
+      "why_target": "Mobile ERP specialist, warehouse and field service",
       "notable_clients": "",
       "awards": ""
     }

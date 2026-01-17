@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:52:34.221Z",
+  "last_updated": "2026-01-17T02:52:40.664Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10494,7 +10494,7 @@
       ],
       "website": "sixspartners.com",
       "decision_makers": [],
-      "why_target": "Epicor Platinum Elite partner, training and consulting",
+      "why_target": "Epicor Platinum Elite partner",
       "notable_clients": "",
       "awards": ""
     },

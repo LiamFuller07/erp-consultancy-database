@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:17:47.570Z",
+  "last_updated": "2026-01-17T02:17:52.031Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9828,6 +9828,24 @@
       "website": "mis-c.com",
       "decision_makers": [],
       "why_target": "Epicor Gold Partner",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616272031",
+      "rank": 1092,
+      "priority": "HIGH",
+      "company_name": "Clear Business Outcome",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Epicor Kinetic"
+      ],
+      "website": "clearbusinessoutcome.com",
+      "decision_makers": [],
+      "why_target": "Epicor Premium Partner for Kinetic",
       "notable_clients": "",
       "awards": ""
     }

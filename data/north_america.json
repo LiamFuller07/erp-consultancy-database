@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:43:00.346Z",
+  "last_updated": "2026-01-17T02:43:04.535Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10513,6 +10513,27 @@
       "website": "westerncomputer.com",
       "decision_makers": [],
       "why_target": "35 years experience, 1000+ implementations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617784535",
+      "rank": 1129,
+      "priority": "HIGH",
+      "company_name": "[NEW] Stoneridge Software",
+      "country": "USA",
+      "city": "Minneapolis",
+      "state": "MN",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365",
+        "AX",
+        "NAV",
+        "GP"
+      ],
+      "website": "stoneridgesoftware.com",
+      "decision_makers": [],
+      "why_target": "Microsoft Inner Circle member, D365/AX/NAV/GP specialist",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:12:14.936Z",
+  "last_updated": "2026-01-17T03:12:21.954Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -13171,6 +13171,25 @@
       "website": "adroitna.com",
       "decision_makers": [],
       "why_target": "Aptean alliance partner, food processing/distribution specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619541954",
+      "rank": 1271,
+      "priority": "HIGH",
+      "company_name": "[NEW] Vicinity Software",
+      "country": "USA",
+      "city": "Portland",
+      "state": "OR",
+      "employees": "",
+      "erp_systems": [
+        "VicinityFood",
+        "Microsoft Dynamics 365 BC"
+      ],
+      "website": "vicinitysoftware.com",
+      "decision_makers": [],
+      "why_target": "Formula-based food manufacturing ERP since 2001",
       "notable_clients": "",
       "awards": ""
     }

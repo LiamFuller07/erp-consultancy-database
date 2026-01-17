@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:08:19.109Z",
+  "last_updated": "2026-01-17T03:08:26.839Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12777,6 +12777,25 @@
       "website": "hermesmanufacturing.com",
       "decision_makers": [],
       "why_target": "Midwest Epicor specialist, WI/MI/Milwaukee focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619306839",
+      "rank": 1250,
+      "priority": "HIGH",
+      "company_name": "[NEW] Turning Point Consulting",
+      "country": "USA",
+      "city": "Twin Cities",
+      "state": "MN",
+      "employees": "",
+      "erp_systems": [
+        "Epicor Kinetic",
+        "Epicor Prophet 21"
+      ],
+      "website": "turningpointconsulting.com",
+      "decision_makers": [],
+      "why_target": "Only firm dual-certified Kinetic+P21, 95% success rate",
       "notable_clients": "",
       "awards": ""
     }

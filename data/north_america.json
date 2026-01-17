@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:03:56.073Z",
+  "last_updated": "2026-01-17T03:04:02.516Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12447,6 +12447,25 @@
       "website": "bluefletch.com",
       "decision_makers": [],
       "why_target": "Mobile ERP specialist, warehouse and field service",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619042516",
+      "rank": 1232,
+      "priority": "HIGH",
+      "company_name": "[NEW] Lighthouse Computer Services",
+      "country": "USA",
+      "city": "Cranberry Township",
+      "state": "PA",
+      "employees": "",
+      "erp_systems": [
+        "Epicor",
+        "Microsoft Dynamics"
+      ],
+      "website": "lighthousecs.com",
+      "decision_makers": [],
+      "why_target": "Epicor Gold partner, 30+ years, manufacturing",
       "notable_clients": "",
       "awards": ""
     }

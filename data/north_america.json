@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:15:55.281Z",
+  "last_updated": "2026-01-17T02:16:03.210Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9555,6 +9555,24 @@
       "website": "thegforce.com",
       "decision_makers": [],
       "why_target": "Infor Lawson Version 10, CloudSuite Financials specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616163210",
+      "rank": 1077,
+      "priority": "HIGH",
+      "company_name": "Kastech Software Solutions",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "Oracle PeopleSoft"
+      ],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "450+ employees, Oracle PeopleSoft specialist",
       "notable_clients": "",
       "awards": ""
     }

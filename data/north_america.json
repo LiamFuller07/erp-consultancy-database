@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:45:22.007Z",
+  "last_updated": "2026-01-17T02:45:25.894Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10881,6 +10881,25 @@
       "website": "jmtconsulting.com",
       "decision_makers": [],
       "why_target": "Nonprofit-exclusive Sage partner since 1991",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617925894",
+      "rank": 1149,
+      "priority": "HIGH",
+      "company_name": "[NEW] BrainSell",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Sage Intacct",
+        "Salesforce"
+      ],
+      "website": "brainsell.net",
+      "decision_makers": [],
+      "why_target": "Sage Platinum Partner, CRM+ERP integration specialist",
       "notable_clients": "",
       "awards": ""
     }

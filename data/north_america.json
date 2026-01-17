@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:10:14.717Z",
+  "last_updated": "2026-01-17T03:10:22.201Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12963,6 +12963,26 @@
       "website": "percipiogroup.com",
       "decision_makers": [],
       "why_target": "20+ years PNW, Fortune 100 to startups, footwear/apparel/energy",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619422201",
+      "rank": 1260,
+      "priority": "HIGH",
+      "company_name": "[NEW] GoISM",
+      "country": "USA",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "employees": "",
+      "erp_systems": [
+        "Sage 100",
+        "Sage X3",
+        "Acumatica"
+      ],
+      "website": "goism.com",
+      "decision_makers": [],
+      "why_target": "Phoenix top Sage/Acumatica provider, AZ regional leader",
       "notable_clients": "",
       "awards": ""
     }

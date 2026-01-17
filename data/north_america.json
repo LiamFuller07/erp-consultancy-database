@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:14:32.045Z",
+  "last_updated": "2026-01-17T02:14:37.148Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9351,6 +9351,24 @@
       "website": "brij.net",
       "decision_makers": [],
       "why_target": "JD Edwards Gold Partner, 30+ years experience",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616077148",
+      "rank": 1066,
+      "priority": "HIGH",
+      "company_name": "Briteskies",
+      "country": "USA",
+      "city": "Cleveland",
+      "state": "OH",
+      "employees": "",
+      "erp_systems": [
+        "JD Edwards"
+      ],
+      "website": "briteskies.com",
+      "decision_makers": [],
+      "why_target": "JD Edwards Functional & Technical Support",
       "notable_clients": "",
       "awards": ""
     }

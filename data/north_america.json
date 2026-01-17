@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:17:37.802Z",
+  "last_updated": "2026-01-17T02:17:42.828Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9789,6 +9789,26 @@
       "website": "atlasprecon.com",
       "decision_makers": [],
       "why_target": "Epicor Certified Partner, Prophet 21 specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616262828",
+      "rank": 1090,
+      "priority": "HIGH",
+      "company_name": "Teccweb",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "",
+      "erp_systems": [
+        "Epicor Kinetic",
+        "Prophet 21",
+        "DocStar"
+      ],
+      "website": "teccweb.com",
+      "decision_makers": [],
+      "why_target": "Epicor Certified Services Partner for Kinetic, P21, DocStar",
       "notable_clients": "",
       "awards": ""
     }

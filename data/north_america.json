@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:35:36.536Z",
+  "last_updated": "2026-01-17T02:35:41.191Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10254,6 +10254,24 @@
       "website": "sunriseconsult.com",
       "decision_makers": [],
       "why_target": "D365 F&O specialist for manufacturing, retail, distribution - 20+ years",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617341191",
+      "rank": 1115,
+      "priority": "HIGH",
+      "company_name": "[NEW] Ellipse Solutions",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics Business Central"
+      ],
+      "website": "ellipsesolutions.com",
+      "decision_makers": [],
+      "why_target": "D365 Business Central migrations specialist",
       "notable_clients": "",
       "awards": ""
     }

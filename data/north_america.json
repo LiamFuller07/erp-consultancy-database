@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:46:36.880Z",
+  "last_updated": "2026-01-17T02:46:40.267Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11138,6 +11138,24 @@
       "website": "spearmc.com",
       "decision_makers": [],
       "why_target": "PeopleSoft Experts, 20+ years - now part of Mythics",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618000267",
+      "rank": 1163,
+      "priority": "HIGH",
+      "company_name": "[NEW] Birlasoft",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Infor M3"
+      ],
+      "website": "birlasoft.com",
+      "decision_makers": [],
+      "why_target": "15+ years Infor M3 practice, Center of Excellence since 2005",
       "notable_clients": "",
       "awards": ""
     }

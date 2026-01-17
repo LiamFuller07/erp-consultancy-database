@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:49:38.446Z",
+  "last_updated": "2026-01-17T02:49:46.794Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11212,6 +11212,25 @@
       "website": "madkenadvisors.com",
       "decision_makers": [],
       "why_target": "Cloud-based ERP consultancy",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618186794",
+      "rank": 1167,
+      "priority": "HIGH",
+      "company_name": "[NEW] Custom Information Services",
+      "country": "USA",
+      "city": "San Antonio",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics GP",
+        "Dynamics 365 BC"
+      ],
+      "website": "customis.com",
+      "decision_makers": [],
+      "why_target": "30+ years Microsoft Dynamics experience",
       "notable_clients": "",
       "awards": ""
     }

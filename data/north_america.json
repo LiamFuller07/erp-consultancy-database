@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:55:33.957Z",
+  "last_updated": "2026-01-17T02:55:39.011Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11478,6 +11478,25 @@
       "website": "innovia.com",
       "decision_makers": [],
       "why_target": "Top Microsoft NAV/BC partner, Inner Circle member",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618539011",
+      "rank": 1181,
+      "priority": "HIGH",
+      "company_name": "[NEW] BKD Technologies",
+      "country": "USA",
+      "city": "Springfield",
+      "state": "MO",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics",
+        "Sage Intacct"
+      ],
+      "website": "bkd.com",
+      "decision_makers": [],
+      "why_target": "Top 15 CPA firm with dedicated tech consulting arm",
       "notable_clients": "",
       "awards": ""
     }

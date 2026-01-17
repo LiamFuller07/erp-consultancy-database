@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:56:28.029Z",
+  "last_updated": "2026-01-17T02:56:33.502Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11592,6 +11592,26 @@
       "website": "compudata.com",
       "decision_makers": [],
       "why_target": "45+ years in business, Sage Master Developer",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618593502",
+      "rank": 1187,
+      "priority": "HIGH",
+      "company_name": "[NEW] SWK Technologies",
+      "country": "USA",
+      "city": "Livingston",
+      "state": "NJ",
+      "employees": "",
+      "erp_systems": [
+        "Sage 100",
+        "Sage X3",
+        "Acumatica"
+      ],
+      "website": "swktech.com",
+      "decision_makers": [],
+      "why_target": "Sage Elite Partner, also Acumatica Gold, 30+ years",
       "notable_clients": "",
       "awards": ""
     }

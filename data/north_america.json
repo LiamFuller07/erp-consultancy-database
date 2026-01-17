@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:46:17.255Z",
+  "last_updated": "2026-01-17T02:46:20.837Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11029,6 +11029,24 @@
       "website": "kalypso.com",
       "decision_makers": [],
       "why_target": "Rockwell Automation company, Oracle Cloud and PLM specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617980837",
+      "rank": 1157,
+      "priority": "HIGH",
+      "company_name": "[NEW] Aspire Systems",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Oracle ERP"
+      ],
+      "website": "aspiresys.com",
+      "decision_makers": [],
+      "why_target": "Oracle Platinum Partner, AI-driven Cloud Implementation",
       "notable_clients": "",
       "awards": ""
     }

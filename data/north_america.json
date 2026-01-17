@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:18:02.452Z",
+  "last_updated": "2026-01-17T02:18:07.023Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9884,6 +9884,25 @@
       "website": "butiq.io",
       "decision_makers": [],
       "why_target": "Epicor Kinetic and D365 consulting partner",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616287023",
+      "rank": 1095,
+      "priority": "HIGH",
+      "company_name": "EC Solutions",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Epicor Kinetic",
+        "Prophet 21"
+      ],
+      "website": "e-c-solutions.com",
+      "decision_makers": [],
+      "why_target": "Epicor Gold Partner for Kinetic and P21",
       "notable_clients": "",
       "awards": ""
     }

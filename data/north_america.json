@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:49:30.115Z",
+  "last_updated": "2026-01-17T02:49:38.446Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11194,6 +11194,24 @@
       "website": "progent.com",
       "decision_makers": [],
       "why_target": "Infor SyteLine platform specialist, 20+ years",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618178445",
+      "rank": 1166,
+      "priority": "HIGH",
+      "company_name": "[NEW] Madken Advisors",
+      "country": "USA",
+      "city": "Fort Worth",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "Sage Intacct"
+      ],
+      "website": "madkenadvisors.com",
+      "decision_makers": [],
+      "why_target": "Cloud-based ERP consultancy",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:09:41.999Z",
+  "last_updated": "2026-01-17T03:10:07.752Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12923,6 +12923,27 @@
       "website": "kabeerconsulting.com",
       "decision_makers": [],
       "why_target": "Trusted SAP B1 Partner in NJ and NY",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619407752",
+      "rank": 1258,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] Slalom Consulting",
+      "country": "USA",
+      "city": "Seattle",
+      "state": "WA",
+      "employees": "",
+      "erp_systems": [
+        "Salesforce",
+        "SAP",
+        "Oracle",
+        "Microsoft Dynamics"
+      ],
+      "website": "slalom.com",
+      "decision_makers": [],
+      "why_target": "Seattle HQ, strong AWS/Salesforce partnerships, agile methodology",
       "notable_clients": "",
       "awards": ""
     }

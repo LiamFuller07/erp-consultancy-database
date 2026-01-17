@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:14:56.329Z",
+  "last_updated": "2026-01-17T02:15:29.640Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9443,6 +9443,25 @@
       "website": "atqor.com",
       "decision_makers": [],
       "why_target": "D365 end-to-end services, 20+ years",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616129640",
+      "rank": 1071,
+      "priority": "HIGH",
+      "company_name": "Progent",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Infor CloudSuite Industrial",
+        "SyteLine"
+      ],
+      "website": "progent.com",
+      "decision_makers": [],
+      "why_target": "Infor SyteLine platform specialist, 20+ years",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:43:30.825Z",
+  "last_updated": "2026-01-17T02:43:34.681Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10662,6 +10662,25 @@
       "website": "epicentererp.com",
       "decision_makers": [],
       "why_target": "Epicor Platinum partner, manufacturing focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617814681",
+      "rank": 1137,
+      "priority": "HIGH",
+      "company_name": "[NEW] Columbus Global",
+      "country": "USA",
+      "city": "Minneapolis",
+      "state": "MN",
+      "employees": "",
+      "erp_systems": [
+        "Infor M3",
+        "Microsoft Dynamics 365"
+      ],
+      "website": "columbusglobal.com",
+      "decision_makers": [],
+      "why_target": "Largest independent Infor M3 partner, 350+ clients, Inner Circle 20+ years",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:02:47.081Z",
+  "last_updated": "2026-01-17T03:02:52.594Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12296,6 +12296,25 @@
       "website": "ktlsolutions.com",
       "decision_makers": [],
       "why_target": "Microsoft Gold Partner, manufacturing and distribution",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618972594",
+      "rank": 1224,
+      "priority": "HIGH",
+      "company_name": "[NEW] Solventure",
+      "country": "USA",
+      "city": "Chicago",
+      "state": "IL",
+      "employees": "",
+      "erp_systems": [
+        "SAP IBP",
+        "SAP S/4HANA"
+      ],
+      "website": "solventure.us",
+      "decision_makers": [],
+      "why_target": "SAP supply chain planning specialist",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:05:02.003Z",
+  "last_updated": "2026-01-17T03:05:09.870Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12578,6 +12578,24 @@
       "website": "k3btg.com",
       "decision_makers": [],
       "why_target": "D365 for fashion, retail, manufacturing",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619109870",
+      "rank": 1239,
+      "priority": "HIGH",
+      "company_name": "[NEW] DataLane Inc",
+      "country": "USA",
+      "city": "San Diego",
+      "state": "CA",
+      "employees": "",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "datalane.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner, life sciences and pharma",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:50:48.274Z",
+  "last_updated": "2026-01-17T02:50:56.181Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10468,8 +10468,8 @@
       "priority": "HIGHEST",
       "company_name": "[NEW] HSO",
       "country": "USA",
-      "city": "Chicago",
-      "state": "IL",
+      "city": "USA",
+      "state": "National",
       "employees": "",
       "erp_systems": [
         "Microsoft Dynamics 365 F&O"

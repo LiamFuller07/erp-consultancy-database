@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:12:38.899Z",
+  "last_updated": "2026-01-17T03:12:48.094Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -13226,6 +13226,25 @@
       "website": "nextlevelis.com",
       "decision_makers": [],
       "why_target": "Tampa Bay Acumatica partner, 20+ years mid-market",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619568094",
+      "rank": 1274,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] Barry-Wehmiller International",
+      "country": "USA",
+      "city": "Atlanta",
+      "state": "GA",
+      "employees": "",
+      "erp_systems": [
+        "Infor CloudSuite Industrial",
+        "Infor XA"
+      ],
+      "website": "bwi-intl.com",
+      "decision_makers": [],
+      "why_target": "Infor Gold Partner 25+ years, 400 implementations, 2500+ users",
       "notable_clients": "",
       "awards": ""
     }

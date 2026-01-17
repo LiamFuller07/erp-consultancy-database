@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:56:46.930Z",
+  "last_updated": "2026-01-17T02:56:53.917Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11649,6 +11649,24 @@
       "website": "ryvit.com",
       "decision_makers": [],
       "why_target": "Construction ERP integration specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618613917",
+      "rank": 1190,
+      "priority": "HIGH",
+      "company_name": "[NEW] NuSoft Solutions",
+      "country": "USA",
+      "city": "Cleveland",
+      "state": "OH",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365"
+      ],
+      "website": "nusoftsolutions.com",
+      "decision_makers": [],
+      "why_target": "Microsoft Gold Partner, manufacturing and distribution",
       "notable_clients": "",
       "awards": ""
     }

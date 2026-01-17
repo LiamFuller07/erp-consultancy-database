@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "europe",
-  "last_updated": "2026-01-16T10:39:14.233Z",
+  "last_updated": "2026-01-17T02:06:02.890Z",
   "consultancies": [
     {
       "id": "eu-001",
@@ -986,6 +986,24 @@
       "website": "",
       "decision_makers": [],
       "why_target": "",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "europe-new-1768615562890",
+      "rank": 61,
+      "priority": "LOW",
+      "company_name": "LLM Remote Test Co",
+      "country": "France",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [
+        "SAP"
+      ],
+      "website": "https://example.com/llm-remote-test",
+      "decision_makers": [],
+      "why_target": "Remote LLM write test",
       "notable_clients": "",
       "awards": ""
     }

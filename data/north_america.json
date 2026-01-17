@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:44:25.520Z",
+  "last_updated": "2026-01-17T02:44:30.155Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10772,6 +10772,25 @@
       "website": "copleycg.com",
       "decision_makers": [],
       "why_target": "30 years Infor Gold Channel Partner, Food & Beverage specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617870155",
+      "rank": 1143,
+      "priority": "HIGH",
+      "company_name": "[NEW] Trenegy",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "",
+      "erp_systems": [
+        "ERP Selection",
+        "Implementation Consulting"
+      ],
+      "website": "trenegy.com",
+      "decision_makers": [],
+      "why_target": "ERP selection and implementation consulting firm, vendor-agnostic",
       "notable_clients": "",
       "awards": ""
     }

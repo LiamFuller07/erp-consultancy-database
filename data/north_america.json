@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:24:24.290Z",
+  "last_updated": "2026-01-17T02:24:29.010Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10122,6 +10122,24 @@
       "website": "360visibility.com",
       "decision_makers": [],
       "why_target": "[NEW] Tier 1 Cloud Solutions Partner for BC, GP/NAV migrations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616669009",
+      "rank": 1108,
+      "priority": "HIGH",
+      "company_name": "Encore Business Solutions",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics Business Central"
+      ],
+      "website": "encorebusiness.com",
+      "decision_makers": [],
+      "why_target": "[NEW] Business Central for finance, non-profit, construction",
       "notable_clients": "",
       "awards": ""
     }

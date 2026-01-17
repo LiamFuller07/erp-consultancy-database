@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:17:42.828Z",
+  "last_updated": "2026-01-17T02:17:47.570Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9809,6 +9809,25 @@
       "website": "teccweb.com",
       "decision_makers": [],
       "why_target": "Epicor Certified Services Partner for Kinetic, P21, DocStar",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616267570",
+      "rank": 1091,
+      "priority": "HIGH",
+      "company_name": "MIS Consulting & Sales",
+      "country": "USA",
+      "city": "Beaverton",
+      "state": "OR",
+      "employees": "",
+      "erp_systems": [
+        "Epicor Kinetic",
+        "Epicor Enterprise"
+      ],
+      "website": "mis-c.com",
+      "decision_makers": [],
+      "why_target": "Epicor Gold Partner",
       "notable_clients": "",
       "awards": ""
     }

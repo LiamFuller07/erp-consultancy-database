@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:12:48.094Z",
+  "last_updated": "2026-01-17T03:12:56.759Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -13245,6 +13245,27 @@
       "website": "bwi-intl.com",
       "decision_makers": [],
       "why_target": "Infor Gold Partner 25+ years, 400 implementations, 2500+ users",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768619576759",
+      "rank": 1275,
+      "priority": "HIGH",
+      "company_name": "[NEW] Healthcare IT Leaders",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "",
+      "erp_systems": [
+        "Infor CloudSuite",
+        "Infor Lawson",
+        "UKG",
+        "Oracle"
+      ],
+      "website": "healthcareitleaders.com",
+      "decision_makers": [],
+      "why_target": "Infor Alliance Partner, health systems specialist",
       "notable_clients": "",
       "awards": ""
     }

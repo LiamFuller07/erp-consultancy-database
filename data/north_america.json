@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:15:45.454Z",
+  "last_updated": "2026-01-17T02:15:50.736Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9516,6 +9516,25 @@
       "website": "crossroadsrmc.com",
       "decision_makers": [],
       "why_target": "Infor LN consulting and support services",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616150736",
+      "rank": 1075,
+      "priority": "HIGH",
+      "company_name": "ICCG",
+      "country": "USA",
+      "city": "Warminster",
+      "state": "PA",
+      "employees": "",
+      "erp_systems": [
+        "Infor CloudSuite Food & Beverage",
+        "Infor M3"
+      ],
+      "website": "iccg.com",
+      "decision_makers": [],
+      "why_target": "CloudSuite Food & Beverage, Infor M3, Infor Optiva PLM specialist",
       "notable_clients": "",
       "awards": ""
     }

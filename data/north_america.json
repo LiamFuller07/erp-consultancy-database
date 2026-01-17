@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:01:52.583Z",
+  "last_updated": "2026-01-17T03:01:58.625Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12218,6 +12218,25 @@
       "website": "sabrelimited.com",
       "decision_makers": [],
       "why_target": "D365 for financial services and professional services",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618918625",
+      "rank": 1220,
+      "priority": "HIGH",
+      "company_name": "[NEW] Socius",
+      "country": "USA",
+      "city": "Chicago",
+      "state": "IL",
+      "employees": "",
+      "erp_systems": [
+        "Sage Intacct",
+        "Salesforce"
+      ],
+      "website": "socius1.com",
+      "decision_makers": [],
+      "why_target": "Sage Intacct Partner of Year, nonprofit specialist",
       "notable_clients": "",
       "awards": ""
     }

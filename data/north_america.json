@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:25:29.287Z",
+  "last_updated": "2026-01-17T02:25:34.176Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10176,6 +10176,26 @@
       "website": "krcginc.com",
       "decision_makers": [],
       "why_target": "[NEW] Acumatica partner for manufacturing, distribution, field service, construction",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616734175",
+      "rank": 1111,
+      "priority": "HIGH",
+      "company_name": "Elire Consulting",
+      "country": "USA",
+      "city": "Minneapolis",
+      "state": "MN",
+      "employees": "",
+      "erp_systems": [
+        "Oracle PeopleSoft",
+        "Oracle Cloud",
+        "EPM"
+      ],
+      "website": "elire.com",
+      "decision_makers": [],
+      "why_target": "[NEW] PeopleSoft & Oracle Cloud EPM specialist, 475+ clients",
       "notable_clients": "",
       "awards": ""
     }

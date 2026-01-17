@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:53:46.310Z",
+  "last_updated": "2026-01-17T02:53:52.103Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -11344,6 +11344,26 @@
       "website": "plantemoran.com",
       "decision_makers": [],
       "why_target": "Top 15 US CPA firm with ERP consulting practice",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618432103",
+      "rank": 1174,
+      "priority": "HIGH",
+      "company_name": "[NEW] Marcum Technology",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "",
+      "erp_systems": [
+        "NetSuite",
+        "Microsoft Dynamics",
+        "Sage Intacct"
+      ],
+      "website": "marcumllp.com",
+      "decision_makers": [],
+      "why_target": "Top 15 accounting firm with dedicated tech consulting division",
       "notable_clients": "",
       "awards": ""
     }

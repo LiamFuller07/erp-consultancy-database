@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:17:57.284Z",
+  "last_updated": "2026-01-17T02:18:02.452Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9865,6 +9865,25 @@
       "website": "practicaltek.com",
       "decision_makers": [],
       "why_target": "Independent Epicor Services Provider for Kinetic/Vantage",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768616282452",
+      "rank": 1094,
+      "priority": "HIGH",
+      "company_name": "Butiq",
+      "country": "USA",
+      "city": "Birmingham",
+      "state": "AL",
+      "employees": "",
+      "erp_systems": [
+        "Epicor Kinetic",
+        "Microsoft Dynamics 365"
+      ],
+      "website": "butiq.io",
+      "decision_makers": [],
+      "why_target": "Epicor Kinetic and D365 consulting partner",
       "notable_clients": "",
       "awards": ""
     }

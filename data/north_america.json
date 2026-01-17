@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T02:36:25.448Z",
+  "last_updated": "2026-01-17T02:36:28.781Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10386,6 +10386,24 @@
       "website": "comtecsolutions.com",
       "decision_makers": [],
       "why_target": "Epicor Global Partner of the Year 2023",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768617388781",
+      "rank": 1122,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] Hitachi Solutions America",
+      "country": "USA",
+      "city": "Irvine",
+      "state": "CA",
+      "employees": "",
+      "erp_systems": [
+        "Microsoft Dynamics 365"
+      ],
+      "website": "hitachi-solutions.com",
+      "decision_makers": [],
+      "why_target": "2025 Microsoft D365 Finance Partner of the Year",
       "notable_clients": "",
       "awards": ""
     }

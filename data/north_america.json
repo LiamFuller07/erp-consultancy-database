@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:01:58.625Z",
+  "last_updated": "2026-01-17T03:02:07.974Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -12237,6 +12237,26 @@
       "website": "socius1.com",
       "decision_makers": [],
       "why_target": "Sage Intacct Partner of Year, nonprofit specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "north_america-new-1768618927974",
+      "rank": 1221,
+      "priority": "HIGHEST",
+      "company_name": "[NEW] Armanino (enlarged)",
+      "country": "USA",
+      "city": "San Ramon",
+      "state": "CA",
+      "employees": "",
+      "erp_systems": [
+        "Sage Intacct",
+        "NetSuite",
+        "Microsoft Dynamics"
+      ],
+      "website": "armaninollp.com",
+      "decision_makers": [],
+      "why_target": "Top 25 CPA firm, major multi-ERP consulting practice",
       "notable_clients": "",
       "awards": ""
     }

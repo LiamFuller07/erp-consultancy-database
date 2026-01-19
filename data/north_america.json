@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:58:25.200Z",
+  "last_updated": "2026-01-19T07:59:13.874Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -4548,13 +4548,23 @@
       "decision_makers": [
         {
           "name": "Karan Yaramada",
-          "title": "Founder & CEO",
-          "linkedin_url": "linkedin.com/in/karanyaramada/"
+          "title": "CEO & Founder",
+          "linkedin_url": ""
         },
         {
-          "name": "Durga Prakash Kone",
-          "title": "SVP Strategic Alliances",
-          "linkedin_url": "linkedin.com/in/durgaprakashkone/"
+          "name": "Raja Sekhar",
+          "title": "Senior VP & Head of Enterprise Cloud Apps",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Arun Menon",
+          "title": "Senior Vice President, Global Delivery Operations",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Sudipta Bhattacharjee",
+          "title": "Executive VP of Client Services",
+          "linkedin_url": ""
         }
       ],
       "why_target": "",

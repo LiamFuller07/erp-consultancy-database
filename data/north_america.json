@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:01:41.127Z",
+  "last_updated": "2026-01-19T08:01:45.823Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9031,7 +9031,28 @@
         "SAP Business ByDesign"
       ],
       "website": "nbs-us.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Chris Nielsen",
+          "title": "President & Chief Executive Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Grant Fraser",
+          "title": "Founder and Board Member",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Russell DeLapp",
+          "title": "Executive Vice President of Services and Support",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Ralph Hess",
+          "title": "Executive Vice President of Sales & Marketing",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "SAP Gold Partner, 300+ implementations, 20+ years",
       "notable_clients": "",
       "awards": ""

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:53:34.845Z",
+  "last_updated": "2026-01-19T07:53:39.048Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -1690,12 +1690,12 @@
         {
           "name": "Scott Curry",
           "title": "Managing Partner & Co-Founder",
-          "linkedin_url": "linkedin.com/in/scottcurry"
+          "linkedin_url": ""
         },
         {
-          "name": "Bryan Rhody",
-          "title": "Tech Solutions Leader",
-          "linkedin_url": "linkedin.com/in/bryanrhody"
+          "name": "C. Panico",
+          "title": "President & CEO",
+          "linkedin_url": ""
         }
       ],
       "why_target": "",

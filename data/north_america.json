@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:00:45.528Z",
+  "last_updated": "2026-01-19T08:00:50.014Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -6788,7 +6788,28 @@
         "NetSuite Managed Services"
       ],
       "website": "servicerocket.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Rob Castaneda",
+          "title": "Founder & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Colleen Blake",
+          "title": "Chief Operating Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kharisma Moraski",
+          "title": "VP, Partner and Customer Solutions",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Adam May",
+          "title": "VP, Services",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""

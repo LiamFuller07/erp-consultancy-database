@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:56:48.564Z",
+  "last_updated": "2026-01-19T07:56:53.711Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -2110,7 +2110,23 @@
         "Oracle NetSuite"
       ],
       "website": "circularedge.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Sachin Choudhari",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Andy Chase",
+          "title": "VP Sales, Marketing & Business Development",
+          "linkedin_url": ""
+        },
+        {
+          "name": "RJ Linehan",
+          "title": "Managing Director of Finance and EPM",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:51:13.823Z",
+  "last_updated": "2026-01-19T07:51:38.677Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9327,7 +9327,23 @@
         "Sage 300"
       ],
       "website": "acumenfl.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Scott Halliday",
+          "title": "Co-Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Nick Nabozny",
+          "title": "Co-Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Jennifer McGraw",
+          "title": "Senior Account Manager",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "Diamond Partner, 500+ implementations",
       "notable_clients": "",
       "awards": ""

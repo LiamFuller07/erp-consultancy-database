@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:01:45.823Z",
+  "last_updated": "2026-01-19T08:01:49.988Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9309,7 +9309,28 @@
         "SyteLine"
       ],
       "website": "copleycg.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Martin E. Judge III",
+          "title": "Chief Executive Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "John Battaglia",
+          "title": "President and Chief Technology Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Rob Rosenbaum",
+          "title": "Director of Professional Services",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Jim Reilly",
+          "title": "Executive Vice President",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "30 years Infor Gold Channel Partner, Food & Beverage specialist",
       "notable_clients": "",
       "awards": ""

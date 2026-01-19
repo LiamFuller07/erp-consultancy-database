@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:59:17.810Z",
+  "last_updated": "2026-01-19T07:59:23.143Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -4753,7 +4753,18 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Carlos Zumaeta",
+          "title": "Founder & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Edgard Carpio Munante",
+          "title": "Vice President of Operations",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""

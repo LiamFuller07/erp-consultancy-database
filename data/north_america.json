@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:49:48.704Z",
+  "last_updated": "2026-01-19T07:49:52.790Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -8923,7 +8923,28 @@
         "PeopleSoft"
       ],
       "website": "sierra-cedar.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Cal Yonker",
+          "title": "Founder & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Mark Kelly",
+          "title": "CFO / Board Member",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Peter Kislowski",
+          "title": "Vice President of Commercial Sales",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Marlene Smith",
+          "title": "Vice President, Human Resources",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "[NEW] Oracle, AWS, PeopleSoft specialist - 25+ years experience",
       "notable_clients": "",
       "awards": ""

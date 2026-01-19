@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:53:39.048Z",
+  "last_updated": "2026-01-19T07:54:57.956Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -1759,7 +1759,23 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Gary Klintworth",
+          "title": "Co-Founder & Senior Managing Director",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Jim Loughmiller",
+          "title": "Co-Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Lisa Ricardo",
+          "title": "Managing Director",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""

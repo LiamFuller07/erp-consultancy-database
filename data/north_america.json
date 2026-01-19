@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:03:01.434Z",
+  "last_updated": "2026-01-19T08:03:05.964Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9124,7 +9124,28 @@
         "Infor Distribution"
       ],
       "website": "centraldata.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Joe Davidson",
+          "title": "President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Shane Doyle",
+          "title": "Head of Sales and Marketing",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Daryl Ziegelman",
+          "title": "Chief Technology Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Julie Zindle",
+          "title": "Consulting Services Manager",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "50+ years, North American Partner of Year 2020, 200+ implementations",
       "notable_clients": "",
       "awards": ""

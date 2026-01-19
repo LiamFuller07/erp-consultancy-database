@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:49:56.310Z",
+  "last_updated": "2026-01-19T07:50:24.420Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -8991,7 +8991,33 @@
         "Oracle ERP"
       ],
       "website": "appsassociates.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Adrian King",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Paul Vian",
+          "title": "Chief Revenue Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Lydie Roman Fox",
+          "title": "Chief People Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kshitij Kumar",
+          "title": "Global VP and CTO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Chandru",
+          "title": "Vice President of India Operations",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "700+ cloud projects, 20+ years",
       "notable_clients": "",
       "awards": ""

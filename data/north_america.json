@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:51:00.650Z",
+  "last_updated": "2026-01-19T07:51:05.402Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9215,7 +9215,28 @@
         "Sage Intacct"
       ],
       "website": "ethosystems.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Manuel Moreno",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Dominic Pernai",
+          "title": "Company Director and Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Michael Pernai",
+          "title": "Vice President of Sales",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Tony Merry",
+          "title": "Practice Director",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "Construction/Real Estate specialist, acquired by Evergreen",
       "notable_clients": "",
       "awards": ""

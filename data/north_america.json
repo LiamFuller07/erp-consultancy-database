@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:58:19.927Z",
+  "last_updated": "2026-01-19T07:58:25.200Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -3672,12 +3672,7 @@
       "decision_makers": [
         {
           "name": "Serge Ybanez",
-          "title": "Managing Partner & Founder",
-          "linkedin_url": "linkedin.com/in/serge-ybanez-94a7313/"
-        },
-        {
-          "name": "Kate Arbois",
-          "title": "COO & Co-Founder",
+          "title": "Founder, Managing Partner",
           "linkedin_url": ""
         }
       ],

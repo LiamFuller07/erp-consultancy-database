@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:50:31.707Z",
+  "last_updated": "2026-01-19T07:50:35.715Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9116,7 +9116,23 @@
         "Acumatica"
       ],
       "website": "info-sourcing.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Harsha Sarjapur",
+          "title": "Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Harrison Kumar",
+          "title": "Head of Support and Professional Services",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Muralidharan Ramakrishnan",
+          "title": "Director of ERP Implementation",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "Gold Certified since 2012, 8x MVP",
       "notable_clients": "",
       "awards": ""

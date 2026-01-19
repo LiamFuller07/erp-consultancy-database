@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:51:05.402Z",
+  "last_updated": "2026-01-19T07:51:09.629Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9254,7 +9254,33 @@
         "Sage Intacct"
       ],
       "website": "jmtconsulting.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Jacki Tiso",
+          "title": "CEO & Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Robert Johnson",
+          "title": "Chief Revenue Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Tom Thornton",
+          "title": "Chief Operating Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "John Francis",
+          "title": "Exec VP of Business Development",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Stan Hellman",
+          "title": "Executive VP, Services",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "Nonprofit-exclusive Sage partner since 1991",
       "notable_clients": "",
       "awards": ""

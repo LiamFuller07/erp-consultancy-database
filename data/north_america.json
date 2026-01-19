@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:50:24.420Z",
+  "last_updated": "2026-01-19T07:50:28.283Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9035,7 +9035,28 @@
         "Oracle ERP, HCM, EPM"
       ],
       "website": "tangenz.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Amit Bansal",
+          "title": "President, CTO and Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Navneet Raja",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Nivedita Biswas-Bansal",
+          "title": "Director Operations and Data Science",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Naveen Jd",
+          "title": "Director of Sales",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "Inc. 5000 company",
       "notable_clients": "",
       "awards": ""

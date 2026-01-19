@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:58:05.135Z",
+  "last_updated": "2026-01-19T07:58:10.304Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -3450,12 +3450,22 @@
       "decision_makers": [
         {
           "name": "Erica Burles",
-          "title": "President & Founder",
-          "linkedin_url": "linkedin.com/in/ericaburles/"
+          "title": "President, Co-Founder",
+          "linkedin_url": ""
         },
         {
           "name": "Darby Schafer",
-          "title": "VP Client Services",
+          "title": "Vice President of Client Services, Co-Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Effie Paek",
+          "title": "Customer Success Strategic Director",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Shauna Noon",
+          "title": "Director of Professional Services",
           "linkedin_url": ""
         }
       ],

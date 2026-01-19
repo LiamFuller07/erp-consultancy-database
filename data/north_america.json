@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:58:15.120Z",
+  "last_updated": "2026-01-19T07:58:19.927Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -3561,7 +3561,23 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Mark Rhyman",
+          "title": "Founder, Managing Partner",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Serghino Felix",
+          "title": "Partner, Global Professional Services",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Marcus Dallacqua",
+          "title": "USA Partner",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""

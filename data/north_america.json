@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:01:49.988Z",
+  "last_updated": "2026-01-19T08:01:54.131Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9233,7 +9233,28 @@
         "Epicor Kinetic"
       ],
       "website": "2wtech.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Mark Jamieson",
+          "title": "President & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Alan Winegar",
+          "title": "Chief Operations Officer (COO)",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Tom Geairn",
+          "title": "Chief Technology Officer (CTO)",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Samuel Plumer",
+          "title": "Director, Epicor ERP Consulting Practice",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "Epicor Platinum partner",
       "notable_clients": "",
       "awards": ""

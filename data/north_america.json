@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:50:28.283Z",
+  "last_updated": "2026-01-19T07:50:31.707Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9074,7 +9074,13 @@
         "Acumatica"
       ],
       "website": "stellarone.io",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Richard Sellar",
+          "title": "CEO and Founder",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "Gold Certified, offers free implementation",
       "notable_clients": "",
       "awards": ""

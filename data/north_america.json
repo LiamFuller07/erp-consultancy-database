@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:51:51.925Z",
+  "last_updated": "2026-01-19T07:52:07.880Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9477,7 +9477,13 @@
         "Sage X3"
       ],
       "website": "lucidconsulting.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Jason Alexander",
+          "title": "Owner",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "Manufacturing/distribution/healthcare specialist",
       "notable_clients": "",
       "awards": ""

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:53:16.629Z",
+  "last_updated": "2026-01-19T07:53:21.341Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -1462,7 +1462,18 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Alec Epstein",
+          "title": "CEO & Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Cassius Kellogg",
+          "title": "Executive Leadership",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "Miami Marlins, LI-COR Biotechnology",
       "awards": "5 Spotlight Awards Winter 2024; Breakthrough Alliance Partner 2022"

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:51:38.677Z",
+  "last_updated": "2026-01-19T07:51:43.257Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9361,7 +9361,38 @@
         "Sage 300"
       ],
       "website": "adssglobal.net",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Jim Campbell",
+          "title": "Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Robert Campbell",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Peter Kaufman",
+          "title": "President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Carol Openhym",
+          "title": "Managing Partner",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Julie Bold",
+          "title": "Managing Partner, NY Office",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Ed McCarthy",
+          "title": "VP-Sales",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "Founded 1981, 80+ certified professionals",
       "notable_clients": "",
       "awards": ""

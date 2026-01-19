@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:00:31.044Z",
+  "last_updated": "2026-01-19T08:00:36.061Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -6322,8 +6322,23 @@
       "website": "riveron.com",
       "decision_makers": [
         {
-          "name": "Brent Fisher",
-          "title": "Managing Director",
+          "name": "Sam Shaw",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kreg Nichols",
+          "title": "Chief Operating Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Linda Orton",
+          "title": "Chief Marketing Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Jaideep Bajaj",
+          "title": "Chairman of the Board",
           "linkedin_url": ""
         }
       ],

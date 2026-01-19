@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:01:54.131Z",
+  "last_updated": "2026-01-19T08:01:58.884Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9197,7 +9197,13 @@
         "ERP Implementation"
       ],
       "website": "aryocg.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Justin Abrams",
+          "title": "Founder and Chief Executive Officer",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "ERP implementation and optimization",
       "notable_clients": "",
       "awards": ""

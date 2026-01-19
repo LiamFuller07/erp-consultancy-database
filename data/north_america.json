@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:00:40.479Z",
+  "last_updated": "2026-01-19T08:00:45.528Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -6824,7 +6824,23 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Christopher Geier",
+          "title": "Chairman & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Marc J.M. Moss",
+          "title": "Chief Legal Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Jamey Loupe",
+          "title": "Principal, GRC Service Line Leader",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": "NA Solution Provider Partner of Year 2022, 2025"

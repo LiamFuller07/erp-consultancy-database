@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:57:13.801Z",
+  "last_updated": "2026-01-19T07:57:59.696Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -3239,7 +3239,28 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Clancy Fossum",
+          "title": "Chief Executive Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Paul Allen",
+          "title": "Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Adam Olsen",
+          "title": "Senior Managing Director, FAS",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Camilo Caballero",
+          "title": "Senior Managing Director, BT",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""

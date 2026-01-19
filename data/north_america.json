@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:01:36.651Z",
+  "last_updated": "2026-01-19T08:01:41.127Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -8973,7 +8973,28 @@
         "Acumatica"
       ],
       "website": "wm-synergy.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Paul Tedford",
+          "title": "Chief Executive Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Michael Medved",
+          "title": "Chief Operating Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Gene Caiola",
+          "title": "Chairman of the Board and Chief Financial Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Brent Blackmon",
+          "title": "Executive Vice President of VISUAL Product & Professional Services",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "150+ professionals, Acumatica Manufacturing Partner of Year, 28 years",
       "notable_clients": "",
       "awards": ""

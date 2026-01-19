@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:59:32.122Z",
+  "last_updated": "2026-01-19T07:59:36.548Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -5291,8 +5291,23 @@
       "website": "netatwork.com",
       "decision_makers": [
         {
-          "name": "Alexander Solomon",
+          "name": "Edward Solomon",
           "title": "Co-Founder & Co-CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Alex Solomon",
+          "title": "Co-Founder & Co-CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Nancy Teixeira",
+          "title": "Executive Vice President, Corporate Development",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Will Cureton",
+          "title": "Chief Financial Officer",
           "linkedin_url": ""
         }
       ],

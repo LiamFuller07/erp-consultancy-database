@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:57:04.172Z",
+  "last_updated": "2026-01-19T07:57:08.972Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -3084,7 +3084,33 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "John Signa",
+          "title": "Leadership",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Scott Marrone",
+          "title": "Senior Managing Director",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Dan Stankey",
+          "title": "Managing Director",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Garrett Rizk",
+          "title": "Managing Director",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kristy Thomas",
+          "title": "VP of Enterprise Solutions",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""

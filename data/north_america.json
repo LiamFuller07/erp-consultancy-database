@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:49:44.342Z",
+  "last_updated": "2026-01-19T07:49:48.704Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -8887,7 +8887,23 @@
         "SAP Business One"
       ],
       "website": "ecs-online.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Darran Vayhinger",
+          "title": "President and CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Dan Macferran",
+          "title": "VP of Sales and Marketing",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Jonathan Bryant",
+          "title": "Vice President of Systems and Support",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "SAP Certified Gold Partner, nearly four decades experience",
       "notable_clients": "",
       "awards": ""

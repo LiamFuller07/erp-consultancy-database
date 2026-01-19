@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:53:29.877Z",
+  "last_updated": "2026-01-19T07:53:34.845Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -1628,13 +1628,8 @@
       "decision_makers": [
         {
           "name": "Nem Bajra",
-          "title": "CEO & Founder",
-          "linkedin_url": "linkedin.com/in/nem-bajra-67b61717/"
-        },
-        {
-          "name": "Bo Shao",
-          "title": "Director",
-          "linkedin_url": "linkedin.com/in/bo-shao-b1361816/"
+          "title": "CEO, President & Founder",
+          "linkedin_url": ""
         }
       ],
       "why_target": "",

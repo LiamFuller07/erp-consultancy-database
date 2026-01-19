@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:55:42.359Z",
+  "last_updated": "2026-01-19T07:56:48.564Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -2058,7 +2058,23 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Atal Bansal",
+          "title": "Founder & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Michelle Ogden",
+          "title": "VP Global Sales",
+          "linkedin_url": ""
+        },
+        {
+          "name": "William Dawsey",
+          "title": "VP Finance & Payments Services",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""

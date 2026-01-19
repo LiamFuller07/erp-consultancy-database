@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:56:59.449Z",
+  "last_updated": "2026-01-19T07:57:04.172Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -3023,11 +3023,16 @@
       "decision_makers": [
         {
           "name": "Dustin Domerese",
-          "title": "Founder",
-          "linkedin_url": "linkedin.com/in/dustin-domerese-a0039011/"
+          "title": "Managing Partner, CEO",
+          "linkedin_url": ""
         },
         {
-          "name": "Josh Santiago",
+          "name": "Ron Kane",
+          "title": "Chief Operating Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Josh",
           "title": "Chief Strategy Officer",
           "linkedin_url": ""
         }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:00:50.014Z",
+  "last_updated": "2026-01-19T08:01:36.651Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -8880,7 +8880,28 @@
         "Microsoft Dynamics 365"
       ],
       "website": "columbusglobal.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Chris Mean",
+          "title": "CEO for Columbus UK and Columbus US",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Lena Ridström",
+          "title": "Head of Data & Analytics globally",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Tina Algkvist",
+          "title": "Business Line Executive for M3",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kapil",
+          "title": "Head of Columbus Global Delivery",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "Largest independent Infor M3 partner, 350+ clients",
       "notable_clients": "",
       "awards": ""

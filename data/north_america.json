@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:03:05.964Z",
+  "last_updated": "2026-01-19T08:03:10.665Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -5423,12 +5423,22 @@
       "decision_makers": [
         {
           "name": "Eric Frank",
-          "title": "CEO & Co-Founder",
-          "linkedin_url": "linkedin.com/in/eric-frank-13981422/"
+          "title": "Co-Founder & CEO",
+          "linkedin_url": ""
         },
         {
           "name": "Alan Subel",
-          "title": "Co-Founder & VP",
+          "title": "Co-Founder & Vice President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Russell Harper",
+          "title": "Co-Founder & CMO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Chris Farrell",
+          "title": "Vice President, Sage X3",
           "linkedin_url": ""
         }
       ],

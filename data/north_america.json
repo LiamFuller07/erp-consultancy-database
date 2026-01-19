@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:02:51.390Z",
+  "last_updated": "2026-01-19T08:02:56.809Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9304,7 +9304,23 @@
         "Kinetic"
       ],
       "website": "scaledsolutionsgroup.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Mike Pereda",
+          "title": "Founder and CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Carly Thompson",
+          "title": "Head of Finance and HR",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Robert Destromp",
+          "title": "ERP and Business Process Expert",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "Epicor Platinum partner for P21",
       "notable_clients": "",
       "awards": ""

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:53:25.768Z",
+  "last_updated": "2026-01-19T07:53:29.877Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -1566,12 +1566,42 @@
       "decision_makers": [
         {
           "name": "Matt Matthews",
-          "title": "CEO & Founder",
+          "title": "Principal, Founder & CEO",
           "linkedin_url": ""
         },
         {
           "name": "Steve Martin",
-          "title": "CFO & Founder",
+          "title": "Principal, Founder & CFO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Sean Moore",
+          "title": "Principal & VP Sales",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Lauree Oden",
+          "title": "Principal & VP Accelerate Apps",
+          "linkedin_url": ""
+        },
+        {
+          "name": "John Findel",
+          "title": "Principal & VP Manufacturing Apps",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Carl Sujo",
+          "title": "Principal & VP Distribution Apps",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Adam Hart",
+          "title": "Principal & CTO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Brandy Leyba",
+          "title": "Principal & VP Financial Apps",
           "linkedin_url": ""
         }
       ],

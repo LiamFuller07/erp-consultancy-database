@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:57:08.972Z",
+  "last_updated": "2026-01-19T07:57:13.801Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -3128,7 +3128,28 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Jeremy Hauk",
+          "title": "Managing Partner, CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Laura Srsich",
+          "title": "Chair of the Board of Directors",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Karla Wilson",
+          "title": "CFO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Jason Delles",
+          "title": "Chief Growth Officer",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": "NA Partner of Year 2017-2023 (6 consecutive); Worldwide Solution Provider Partner of Year (prior)"

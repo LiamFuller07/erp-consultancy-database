@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:56:53.711Z",
+  "last_updated": "2026-01-19T07:56:59.449Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -2992,13 +2992,13 @@
       "decision_makers": [
         {
           "name": "Ken Farmer",
-          "title": "President & CEO",
-          "linkedin_url": "linkedin.com/in/kenfarmer"
+          "title": "President, CEO",
+          "linkedin_url": ""
         },
         {
           "name": "Mark Abes",
           "title": "Vice President",
-          "linkedin_url": "linkedin.com/in/markabes/"
+          "linkedin_url": ""
         }
       ],
       "why_target": "",

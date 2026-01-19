@@ -17,6 +17,17 @@ const API_KEY = process.env.MCP_API_KEY || "";
 const OAUTH_CLIENT_ID = process.env.OAUTH_CLIENT_ID || "erp-mcp-client";
 const OAUTH_CLIENT_SECRET = process.env.OAUTH_CLIENT_SECRET || "";
 const OAUTH_REDIRECT_URIS = (process.env.OAUTH_REDIRECT_URIS || "https://claude.ai/oauth/callback").split(",").map(s => s.trim());
+
+// Allow any claude.ai redirect URI for flexibility
+function isValidRedirectUri(uri) {
+  if (OAUTH_REDIRECT_URIS.includes(uri)) return true;
+  try {
+    const parsed = new URL(uri);
+    return parsed.hostname === "claude.ai" || parsed.hostname.endsWith(".claude.ai");
+  } catch {
+    return false;
+  }
+}
 const BASE_URL = process.env.BASE_URL || `http://localhost:${PORT}`;
 
 // In-memory token storage (use Redis/DB in production for multiple instances)
@@ -594,7 +605,7 @@ const httpServer = http.createServer(async (req, res) => {
     }
 
     // Validate redirect_uri
-    if (!redirectUri || !OAUTH_REDIRECT_URIS.includes(redirectUri)) {
+    if (!redirectUri || !isValidRedirectUri(redirectUri)) {
       sendJson(res, 400, { error: "invalid_request", error_description: "Invalid redirect_uri" });
       return;
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:59:13.874Z",
+  "last_updated": "2026-01-19T07:59:17.810Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -4703,13 +4703,18 @@
       "website": "kodella.com",
       "decision_makers": [
         {
-          "name": "Eric (Erez) Bibi",
-          "title": "Co-Founder & Group CEO",
-          "linkedin_url": "linkedin.com/in/eric-bibi/"
+          "name": "Eric Bibi",
+          "title": "Group CEO & Co-Founder",
+          "linkedin_url": ""
         },
         {
           "name": "Chris Heath",
           "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Ryan Albretsen",
+          "title": "Chief Customer Officer & Co-Founder",
           "linkedin_url": ""
         }
       ],

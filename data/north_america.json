@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:58:10.304Z",
+  "last_updated": "2026-01-19T07:58:15.120Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -3486,7 +3486,28 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Shawn Windle",
+          "title": "Founder, Managing Principal",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Erica Windle",
+          "title": "Principal, Operations",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Quentin DeWitt",
+          "title": "Director",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Ryan Baca",
+          "title": "Director",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""

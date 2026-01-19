@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:57:59.696Z",
+  "last_updated": "2026-01-19T07:58:05.135Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -3314,7 +3314,18 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Jim Baggerly",
+          "title": "Founding Partner",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Sonia Haslam",
+          "title": "Founding Partner",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": "SuiteSuccess certified"

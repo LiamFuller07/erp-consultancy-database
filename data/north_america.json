@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:59:27.715Z",
+  "last_updated": "2026-01-19T07:59:32.122Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -5212,7 +5212,28 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Mark Myers",
+          "title": "CEO & Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Knute Holum",
+          "title": "Co-Founder & Executive Vice President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "David Chu",
+          "title": "Chief Technology Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Elaine Chin",
+          "title": "Chief Financial Officer",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": "Alliance Partner of Year 2023, 2024, 2025; Multiple Spotlight Awards"

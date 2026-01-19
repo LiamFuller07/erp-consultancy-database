@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:59:23.143Z",
+  "last_updated": "2026-01-19T07:59:27.715Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -4990,7 +4990,28 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Kevin McManus",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Michael Kaviani",
+          "title": "Founder & COO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Blake Duggan",
+          "title": "Vice President & Co-Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Scott Schlesinger",
+          "title": "Chief Data and Innovation Officer",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""

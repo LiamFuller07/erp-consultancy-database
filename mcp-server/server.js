@@ -3,6 +3,8 @@ import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js"
 import { CallToolRequestSchema, ListToolsRequestSchema } from "@modelcontextprotocol/sdk/types.js";
 import { z } from "zod";
 import http from "http";
+import crypto from "crypto";
+import { URL } from "url";
 
 const OWNER = process.env.GITHUB_OWNER || "LiamFuller07";
 const REPO = process.env.GITHUB_REPO || "erp-consultancy-database";
@@ -10,6 +12,63 @@ const BRANCH = process.env.GITHUB_BRANCH || "main";
 const TOKEN = process.env.GITHUB_TOKEN;
 const PORT = Number(process.env.PORT || process.env.MCP_PORT || 3333);
 const API_KEY = process.env.MCP_API_KEY || "";
+
+// OAuth 2.0 Configuration
+const OAUTH_CLIENT_ID = process.env.OAUTH_CLIENT_ID || "erp-mcp-client";
+const OAUTH_CLIENT_SECRET = process.env.OAUTH_CLIENT_SECRET || "";
+const OAUTH_REDIRECT_URIS = (process.env.OAUTH_REDIRECT_URIS || "https://claude.ai/oauth/callback").split(",").map(s => s.trim());
+const BASE_URL = process.env.BASE_URL || `http://localhost:${PORT}`;
+
+// In-memory token storage (use Redis/DB in production for multiple instances)
+const authCodes = new Map(); // code -> { clientId, redirectUri, expiresAt }
+const accessTokens = new Map(); // token -> { clientId, expiresAt }
+
+const AUTH_CODE_TTL = 5 * 60 * 1000; // 5 minutes
+const ACCESS_TOKEN_TTL = 24 * 60 * 60 * 1000; // 24 hours
+
+function generateToken() {
+  return crypto.randomBytes(32).toString("hex");
+}
+
+function cleanExpiredTokens() {
+  const now = Date.now();
+  for (const [code, data] of authCodes) {
+    if (data.expiresAt < now) authCodes.delete(code);
+  }
+  for (const [token, data] of accessTokens) {
+    if (data.expiresAt < now) accessTokens.delete(token);
+  }
+}
+
+// Clean expired tokens every 5 minutes
+setInterval(cleanExpiredTokens, 5 * 60 * 1000);
+
+function validateBearerToken(authHeader) {
+  if (!authHeader || !authHeader.startsWith("Bearer ")) return false;
+  const token = authHeader.slice(7);
+  const data = accessTokens.get(token);
+  if (!data) return false;
+  if (data.expiresAt < Date.now()) {
+    accessTokens.delete(token);
+    return false;
+  }
+  return true;
+}
+
+function isAuthorized(req) {
+  // Check Bearer token first (OAuth)
+  const authHeader = req.headers["authorization"];
+  if (authHeader && validateBearerToken(authHeader)) {
+    return true;
+  }
+  // Fall back to API key (legacy)
+  if (API_KEY) {
+    const provided = req.headers["x-api-key"];
+    return provided === API_KEY;
+  }
+  // If no auth configured, allow (for development)
+  return !OAUTH_CLIENT_SECRET && !API_KEY;
+}
 
 const REGION_SET = new Set(["australasia", "north_america", "europe"]);
 const PRIORITY_SET = new Set(["HIGH", "MEDIUM", "LOWER", "LOW", "HIGHEST"]);
@@ -470,57 +529,198 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
 const transport = new StdioServerTransport();
 await server.connect(transport);
 
+function parseBody(req) {
+  return new Promise((resolve, reject) => {
+    let body = "";
+    req.on("data", chunk => { body += chunk; });
+    req.on("end", () => resolve(body));
+    req.on("error", reject);
+  });
+}
+
+function sendJson(res, status, data, cors = true) {
+  const headers = { "Content-Type": "application/json" };
+  if (cors) headers["Access-Control-Allow-Origin"] = "*";
+  res.writeHead(status, headers);
+  res.end(JSON.stringify(data));
+}
+
+function sendRedirect(res, url) {
+  res.writeHead(302, { "Location": url });
+  res.end();
+}
+
 const httpServer = http.createServer(async (req, res) => {
-  if (req.method !== "POST" || req.url !== "/mcp") {
-    if (req.method === "GET" && req.url === "/mcp") {
-      if (API_KEY) {
-        const provided = req.headers["x-api-key"];
-        if (provided !== API_KEY) {
-          res.writeHead(401, { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" });
-          res.end(JSON.stringify({ ok: false, error: "Unauthorized" }));
-          return;
-        }
-      }
-      try {
-        const result = await callTool("get_instructions", {});
-        res.writeHead(200, { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" });
-        res.end(JSON.stringify({ ok: true, result }));
-        return;
-      } catch (err) {
-        res.writeHead(500, { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" });
-        res.end(JSON.stringify({ ok: false, error: err.message }));
-        return;
-      }
-    }
-    res.writeHead(404, { "Content-Type": "application/json" });
-    res.end(JSON.stringify({ error: "Not found" }));
+  const parsedUrl = new URL(req.url, `http://${req.headers.host}`);
+  const pathname = parsedUrl.pathname;
+
+  // CORS preflight
+  if (req.method === "OPTIONS") {
+    res.writeHead(204, {
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+      "Access-Control-Allow-Headers": "Content-Type, Authorization, X-Api-Key"
+    });
+    res.end();
     return;
   }
 
-  if (API_KEY) {
-    const provided = req.headers["x-api-key"];
-    if (provided !== API_KEY) {
-      res.writeHead(401, { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" });
-      res.end(JSON.stringify({ ok: false, error: "Unauthorized" }));
-      return;
-    }
+  // OAuth: Discovery endpoint
+  if (req.method === "GET" && pathname === "/.well-known/oauth-authorization-server") {
+    const baseUrl = process.env.BASE_URL || `https://${req.headers.host}`;
+    sendJson(res, 200, {
+      issuer: baseUrl,
+      authorization_endpoint: `${baseUrl}/oauth/authorize`,
+      token_endpoint: `${baseUrl}/oauth/token`,
+      response_types_supported: ["code"],
+      grant_types_supported: ["authorization_code"],
+      token_endpoint_auth_methods_supported: ["client_secret_post"],
+      code_challenge_methods_supported: ["S256"]
+    });
+    return;
   }
 
-  let body = "";
-  req.on("data", chunk => { body += chunk; });
-  req.on("end", async () => {
+  // OAuth: Authorization endpoint
+  if (req.method === "GET" && pathname === "/oauth/authorize") {
+    const clientId = parsedUrl.searchParams.get("client_id");
+    const redirectUri = parsedUrl.searchParams.get("redirect_uri");
+    const state = parsedUrl.searchParams.get("state");
+    const responseType = parsedUrl.searchParams.get("response_type");
+
+    // Validate client_id
+    if (clientId !== OAUTH_CLIENT_ID) {
+      sendJson(res, 400, { error: "invalid_client", error_description: "Unknown client_id" });
+      return;
+    }
+
+    // Validate redirect_uri
+    if (!redirectUri || !OAUTH_REDIRECT_URIS.includes(redirectUri)) {
+      sendJson(res, 400, { error: "invalid_request", error_description: "Invalid redirect_uri" });
+      return;
+    }
+
+    // Validate response_type
+    if (responseType !== "code") {
+      sendRedirect(res, `${redirectUri}?error=unsupported_response_type&state=${state || ""}`);
+      return;
+    }
+
+    // Generate auth code and redirect back
+    const code = generateToken();
+    authCodes.set(code, {
+      clientId,
+      redirectUri,
+      expiresAt: Date.now() + AUTH_CODE_TTL
+    });
+
+    const callbackUrl = new URL(redirectUri);
+    callbackUrl.searchParams.set("code", code);
+    if (state) callbackUrl.searchParams.set("state", state);
+    sendRedirect(res, callbackUrl.toString());
+    return;
+  }
+
+  // OAuth: Token endpoint
+  if (req.method === "POST" && pathname === "/oauth/token") {
+    const body = await parseBody(req);
+    const params = new URLSearchParams(body);
+    const grantType = params.get("grant_type");
+    const code = params.get("code");
+    const clientId = params.get("client_id");
+    const clientSecret = params.get("client_secret");
+    const redirectUri = params.get("redirect_uri");
+
+    // Validate grant type
+    if (grantType !== "authorization_code") {
+      sendJson(res, 400, { error: "unsupported_grant_type" });
+      return;
+    }
+
+    // Validate client credentials
+    if (clientId !== OAUTH_CLIENT_ID) {
+      sendJson(res, 400, { error: "invalid_client" });
+      return;
+    }
+
+    if (OAUTH_CLIENT_SECRET && clientSecret !== OAUTH_CLIENT_SECRET) {
+      sendJson(res, 400, { error: "invalid_client", error_description: "Invalid client_secret" });
+      return;
+    }
+
+    // Validate auth code
+    const authCode = authCodes.get(code);
+    if (!authCode) {
+      sendJson(res, 400, { error: "invalid_grant", error_description: "Invalid or expired code" });
+      return;
+    }
+
+    if (authCode.expiresAt < Date.now()) {
+      authCodes.delete(code);
+      sendJson(res, 400, { error: "invalid_grant", error_description: "Code expired" });
+      return;
+    }
+
+    if (authCode.clientId !== clientId || authCode.redirectUri !== redirectUri) {
+      sendJson(res, 400, { error: "invalid_grant", error_description: "Code mismatch" });
+      return;
+    }
+
+    // Consume auth code
+    authCodes.delete(code);
+
+    // Generate access token
+    const accessToken = generateToken();
+    accessTokens.set(accessToken, {
+      clientId,
+      expiresAt: Date.now() + ACCESS_TOKEN_TTL
+    });
+
+    sendJson(res, 200, {
+      access_token: accessToken,
+      token_type: "Bearer",
+      expires_in: Math.floor(ACCESS_TOKEN_TTL / 1000)
+    });
+    return;
+  }
+
+  // MCP endpoint - GET for instructions
+  if (req.method === "GET" && pathname === "/mcp") {
+    if (!isAuthorized(req)) {
+      sendJson(res, 401, { ok: false, error: "Unauthorized" });
+      return;
+    }
     try {
+      const result = await callTool("get_instructions", {});
+      sendJson(res, 200, { ok: true, result });
+    } catch (err) {
+      sendJson(res, 500, { ok: false, error: err.message });
+    }
+    return;
+  }
+
+  // MCP endpoint - POST for tool calls
+  if (req.method === "POST" && pathname === "/mcp") {
+    if (!isAuthorized(req)) {
+      sendJson(res, 401, { ok: false, error: "Unauthorized" });
+      return;
+    }
+    try {
+      const body = await parseBody(req);
       const payload = JSON.parse(body || "{}");
       const result = await callTool(payload.tool, payload.arguments || {});
-      res.writeHead(200, { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" });
-      res.end(JSON.stringify({ ok: true, result }));
+      sendJson(res, 200, { ok: true, result });
     } catch (err) {
-      res.writeHead(400, { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" });
-      res.end(JSON.stringify({ ok: false, error: err.message }));
+      sendJson(res, 400, { ok: false, error: err.message });
     }
-  });
+    return;
+  }
+
+  // Not found
+  sendJson(res, 404, { error: "Not found" });
 });
 
 httpServer.listen(PORT, () => {
   process.stderr.write(`MCP HTTP bridge listening on http://localhost:${PORT}/mcp\n`);
+  process.stderr.write(`OAuth endpoints: /oauth/authorize, /oauth/token\n`);
+  process.stderr.write(`Discovery: /.well-known/oauth-authorization-server\n`);
 });

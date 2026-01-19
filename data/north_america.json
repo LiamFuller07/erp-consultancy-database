@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:00:36.061Z",
+  "last_updated": "2026-01-19T08:00:40.479Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -6445,7 +6445,28 @@
         "NetSuite Alliance Partner"
       ],
       "website": "rsmus.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Brian Becker",
+          "title": "Managing Partner & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Joe Adams",
+          "title": "Global Strategy Advisor, Chairperson of RSM International Board",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Bill Kracunas",
+          "title": "Consulting Industry and Growth Leader",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Rick Shriner",
+          "title": "Service Line Leader, Management Consulting",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""

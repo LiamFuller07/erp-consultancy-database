@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:55:36.827Z",
+  "last_updated": "2026-01-19T07:55:42.359Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -2008,13 +2008,18 @@
       "website": "cbh.com",
       "decision_makers": [
         {
-          "name": "Dave Kerr",
-          "title": "CEO (Kerr Division)",
+          "name": "Michelle Thompson",
+          "title": "Firm Managing Partner & CEO",
           "linkedin_url": ""
         },
         {
-          "name": "Dixie McCurley",
-          "title": "Partner",
+          "name": "Roy Nicholson",
+          "title": "Growth & Digital Services Leader",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kristen Jenei",
+          "title": "Managing Director, Advisory Services",
           "linkedin_url": ""
         }
       ],

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:02:56.809Z",
+  "last_updated": "2026-01-19T08:03:01.434Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9160,7 +9160,18 @@
         "Sage Intacct"
       ],
       "website": "madkenadvisors.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "David Lear",
+          "title": "Founder and President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Lane Johnson",
+          "title": "Principal",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "Cloud-based ERP consultancy",
       "notable_clients": "",
       "awards": ""

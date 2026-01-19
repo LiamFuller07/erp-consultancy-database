@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-17T03:14:04.439Z",
+  "last_updated": "2026-01-19T07:49:14.984Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -8806,7 +8806,13 @@
         "Microsoft Dynamics 365"
       ],
       "website": "dynamicssquare.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Gaurav G",
+          "title": "Founder & CEO",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "D365 F&O and Business Central specialist, 12+ years, 500+ clients",
       "notable_clients": "",
       "awards": ""

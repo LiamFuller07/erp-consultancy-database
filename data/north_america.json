@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:49:52.790Z",
+  "last_updated": "2026-01-19T07:49:56.310Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -8962,7 +8962,18 @@
         "SAP Business One"
       ],
       "website": "phoenixteam.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Michael R. Zimmerman",
+          "title": "Leadership Team Member",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Loyd W. Hawkins",
+          "title": "Leadership Team Member",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "SAP Gold Partner since 2019, 27+ years experience, global presence",
       "notable_clients": "",
       "awards": ""

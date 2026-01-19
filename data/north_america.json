@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:55:26.272Z",
+  "last_updated": "2026-01-19T07:55:31.512Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -1882,7 +1882,28 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Larry English",
+          "title": "CEO & Co-Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Dave Rosevelt",
+          "title": "Co-Founder (Former CEO)",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Eric Van Luven",
+          "title": "VP Operational Analytics & Co-Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Greg Klem",
+          "title": "VP Strategy",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""

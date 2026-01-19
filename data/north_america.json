@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:51:43.257Z",
+  "last_updated": "2026-01-19T07:51:47.368Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9411,7 +9411,13 @@
         "Sage X3"
       ],
       "website": "certipro.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Simon Quinn",
+          "title": "Director of Sales and Business Development",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "Sage 100 and Sage X3 specialist",
       "notable_clients": "",
       "awards": ""

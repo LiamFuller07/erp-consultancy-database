@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:03:10.665Z",
+  "last_updated": "2026-01-19T08:03:15.389Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -5544,13 +5544,13 @@
       "website": "nsight-inc.com",
       "decision_makers": [
         {
-          "name": "Kul Chandra",
-          "title": "President & Founder",
-          "linkedin_url": "linkedin.com/in/kul-chandra-25672116/"
-        },
-        {
           "name": "Anudeep Bhatia",
           "title": "Co-Founder & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kul Chandra",
+          "title": "Founder & President",
           "linkedin_url": ""
         }
       ],

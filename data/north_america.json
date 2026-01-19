@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:55:11.214Z",
+  "last_updated": "2026-01-19T07:55:26.272Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -1835,7 +1835,18 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Jan Arendtsz",
+          "title": "Founder & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Scott Henderson",
+          "title": "Co-Founder & CTO",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": "2024 SuiteCloud Partner of Year; #1 G2 iPaaS 5 quarters"

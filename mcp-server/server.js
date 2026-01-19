@@ -33,6 +33,7 @@ const BASE_URL = process.env.BASE_URL || `http://localhost:${PORT}`;
 // In-memory token storage (use Redis/DB in production for multiple instances)
 const authCodes = new Map(); // code -> { clientId, redirectUri, expiresAt }
 const accessTokens = new Map(); // token -> { clientId, expiresAt }
+const registeredClients = new Map(); // clientId -> { clientSecret, redirectUris, ... }
 
 const AUTH_CODE_TTL = 5 * 60 * 1000; // 5 minutes
 const ACCESS_TOKEN_TTL = 24 * 60 * 60 * 1000; // 24 hours
@@ -64,6 +65,44 @@ function validateBearerToken(authHeader) {
     return false;
   }
   return true;
+}
+
+// DCR: Validate client (static or dynamic)
+function validateClient(clientId, clientSecret, redirectUri) {
+  // Check static client first
+  if (clientId === OAUTH_CLIENT_ID) {
+    if (OAUTH_CLIENT_SECRET && clientSecret !== OAUTH_CLIENT_SECRET) {
+      return { valid: false, error: "invalid_client_secret" };
+    }
+    if (redirectUri && !isValidRedirectUri(redirectUri)) {
+      return { valid: false, error: "invalid_redirect_uri" };
+    }
+    return { valid: true };
+  }
+
+  // Check dynamically registered clients
+  const client = registeredClients.get(clientId);
+  if (!client) {
+    return { valid: false, error: "unknown_client" };
+  }
+
+  if (clientSecret && client.client_secret !== clientSecret) {
+    return { valid: false, error: "invalid_client_secret" };
+  }
+
+  if (redirectUri && !client.redirect_uris.includes(redirectUri) && !isValidRedirectUri(redirectUri)) {
+    return { valid: false, error: "invalid_redirect_uri" };
+  }
+
+  return { valid: true, client };
+}
+
+// DCR: Generate client credentials
+function generateClientCredentials() {
+  return {
+    client_id: `dyn-${crypto.randomBytes(16).toString("hex")}`,
+    client_secret: crypto.randomBytes(32).toString("base64url")
+  };
 }
 
 function isAuthorized(req) {
@@ -583,12 +622,74 @@ const httpServer = http.createServer(async (req, res) => {
       issuer: baseUrl,
       authorization_endpoint: `${baseUrl}/oauth/authorize`,
       token_endpoint: `${baseUrl}/oauth/token`,
+      registration_endpoint: `${baseUrl}/oauth/register`,
       response_types_supported: ["code"],
       grant_types_supported: ["authorization_code"],
       token_endpoint_auth_methods_supported: ["client_secret_post"],
       code_challenge_methods_supported: ["S256"]
     });
     return;
+  }
+
+  // OAuth: Protected Resource Metadata (RFC 8707)
+  if (req.method === "GET" && pathname === "/.well-known/oauth-protected-resource") {
+    const baseUrl = process.env.BASE_URL || `https://${req.headers.host}`;
+    sendJson(res, 200, {
+      resource: `${baseUrl}/mcp`,
+      authorization_servers: [baseUrl],
+      bearer_methods_supported: ["header"],
+      scopes_supported: ["mcp:read", "mcp:write"]
+    });
+    return;
+  }
+
+  // OAuth: Dynamic Client Registration (RFC 7591)
+  if (req.method === "POST" && pathname === "/oauth/register") {
+    try {
+      const body = await parseBody(req);
+      const registration = JSON.parse(body || "{}");
+
+      // Generate client credentials
+      const creds = generateClientCredentials();
+      const client_id = creds.client_id;
+      const client_secret = creds.client_secret;
+
+      // Extract redirect URIs (required)
+      const redirect_uris = registration.redirect_uris || [];
+      if (!Array.isArray(redirect_uris) || redirect_uris.length === 0) {
+        sendJson(res, 400, { error: "invalid_request", error_description: "redirect_uris required" });
+        return;
+      }
+
+      // Store registered client
+      const clientData = {
+        client_id,
+        client_secret,
+        redirect_uris,
+        client_name: registration.client_name || "Dynamic Client",
+        grant_types: ["authorization_code"],
+        response_types: ["code"],
+        token_endpoint_auth_method: "client_secret_post",
+        created_at: Date.now()
+      };
+      registeredClients.set(client_id, clientData);
+
+      // Return registration response
+      sendJson(res, 201, {
+        client_id,
+        client_secret,
+        client_secret_expires_at: 0, // Never expires
+        redirect_uris,
+        client_name: clientData.client_name,
+        grant_types: clientData.grant_types,
+        response_types: clientData.response_types,
+        token_endpoint_auth_method: clientData.token_endpoint_auth_method
+      });
+      return;
+    } catch (err) {
+      sendJson(res, 400, { error: "invalid_request", error_description: err.message });
+      return;
+    }
   }
 
   // OAuth: Authorization endpoint
@@ -598,15 +699,22 @@ const httpServer = http.createServer(async (req, res) => {
     const state = parsedUrl.searchParams.get("state");
     const responseType = parsedUrl.searchParams.get("response_type");
 
-    // Validate client_id
-    if (clientId !== OAUTH_CLIENT_ID) {
-      sendJson(res, 400, { error: "invalid_client", error_description: "Unknown client_id" });
-      return;
+    // Validate client (static or dynamic)
+    const clientValidation = validateClient(clientId, null, redirectUri);
+    if (!clientValidation.valid) {
+      if (clientValidation.error === "unknown_client") {
+        sendJson(res, 400, { error: "invalid_client", error_description: "Unknown client_id" });
+        return;
+      }
+      if (clientValidation.error === "invalid_redirect_uri") {
+        sendJson(res, 400, { error: "invalid_request", error_description: "Invalid redirect_uri" });
+        return;
+      }
     }
 
-    // Validate redirect_uri
-    if (!redirectUri || !isValidRedirectUri(redirectUri)) {
-      sendJson(res, 400, { error: "invalid_request", error_description: "Invalid redirect_uri" });
+    // Validate redirect_uri exists
+    if (!redirectUri) {
+      sendJson(res, 400, { error: "invalid_request", error_description: "redirect_uri required" });
       return;
     }
 
@@ -647,14 +755,10 @@ const httpServer = http.createServer(async (req, res) => {
       return;
     }
 
-    // Validate client credentials
-    if (clientId !== OAUTH_CLIENT_ID) {
-      sendJson(res, 400, { error: "invalid_client" });
-      return;
-    }
-
-    if (OAUTH_CLIENT_SECRET && clientSecret !== OAUTH_CLIENT_SECRET) {
-      sendJson(res, 400, { error: "invalid_client", error_description: "Invalid client_secret" });
+    // Validate client (static or dynamic)
+    const clientValidation = validateClient(clientId, clientSecret, null);
+    if (!clientValidation.valid) {
+      sendJson(res, 400, { error: "invalid_client", error_description: clientValidation.error });
       return;
     }
 

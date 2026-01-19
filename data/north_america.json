@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:01:58.884Z",
+  "last_updated": "2026-01-19T08:02:51.390Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9279,7 +9279,13 @@
         "Prophet 21"
       ],
       "website": "turningpointconsulting.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Dave Brady",
+          "title": "Founder, President and CEO",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "Epicor Certified Services Partner for both Manufacturing and Distribution",
       "notable_clients": "",
       "awards": ""

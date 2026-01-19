@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:53:21.341Z",
+  "last_updated": "2026-01-19T07:53:25.768Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -1491,7 +1491,23 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Kimberly Berneck",
+          "title": "President & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Tom Schoen",
+          "title": "Chief Strategy Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Andy Huynh",
+          "title": "Founder & CTO",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "Red Wing Shoes, Perry Ellis, Custom Ink",
       "awards": "Summer 2023 Alliance Partner Spotlight—Retail"

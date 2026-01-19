@@ -74,9 +74,10 @@ function validateBearerToken(authHeader) {
   return true;
 }
 
-function validateClient(clientId, clientSecret, redirectUri) {
+function validateClient(clientId, clientSecret, redirectUri, requireSecret = false) {
   if (clientId === OAUTH_CLIENT_ID) {
-    if (OAUTH_CLIENT_SECRET && clientSecret !== OAUTH_CLIENT_SECRET) {
+    // Only check secret if explicitly required (token endpoint)
+    if (requireSecret && OAUTH_CLIENT_SECRET && clientSecret !== OAUTH_CLIENT_SECRET) {
       return { valid: false, error: "invalid_client_secret" };
     }
     if (redirectUri && !isValidRedirectUri(redirectUri)) {
@@ -86,7 +87,8 @@ function validateClient(clientId, clientSecret, redirectUri) {
   }
   const client = registeredClients.get(clientId);
   if (!client) return { valid: false, error: "unknown_client" };
-  if (clientSecret && client.client_secret !== clientSecret) {
+  // Only check secret if explicitly required (token endpoint)
+  if (requireSecret && clientSecret !== client.client_secret) {
     return { valid: false, error: "invalid_client_secret" };
   }
   if (redirectUri && !client.redirect_uris.includes(redirectUri) && !isValidRedirectUri(redirectUri)) {
@@ -511,7 +513,7 @@ const httpServer = http.createServer(async (req, res) => {
       sendJson(res, 400, { error: "unsupported_grant_type" });
       return;
     }
-    const clientValidation = validateClient(clientId, clientSecret, null);
+    const clientValidation = validateClient(clientId, clientSecret, null, true);  // requireSecret=true for token endpoint
     if (!clientValidation.valid) {
       sendJson(res, 400, { error: "invalid_client", error_description: clientValidation.error });
       return;

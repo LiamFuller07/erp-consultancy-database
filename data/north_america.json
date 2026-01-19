@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:59:36.548Z",
+  "last_updated": "2026-01-19T08:00:26.506Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -5995,7 +5995,28 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Joe Tarantino",
+          "title": "President & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Cory Gunderson",
+          "title": "Chief Operating Officer & EVP",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Michael Brauneis",
+          "title": "EVP, Global Industry & Client Programmes",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kurt Underwood",
+          "title": "Managing Director, Global Head of Managed Technology Solutions",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""

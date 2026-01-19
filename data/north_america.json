@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:54:57.956Z",
+  "last_updated": "2026-01-19T07:55:11.214Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -1814,8 +1814,8 @@
       "decision_makers": [
         {
           "name": "Zabe Siddique",
-          "title": "CEO & Founder",
-          "linkedin_url": "linkedin.com/in/zabesiddique"
+          "title": "Founder",
+          "linkedin_url": ""
         }
       ],
       "why_target": "",

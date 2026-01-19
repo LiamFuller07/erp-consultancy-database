@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:52:07.880Z",
+  "last_updated": "2026-01-19T07:53:16.629Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -1433,7 +1433,18 @@
         "NetSuite"
       ],
       "website": "",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Omar Palacios",
+          "title": "CEO & Co-Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Herman Hanssen",
+          "title": "Chief Financial Officer",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": "Inc. 5000 4 consecutive years; Alliance Partner of Year Iberia 2024"

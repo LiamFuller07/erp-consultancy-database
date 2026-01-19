@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:49:14.984Z",
+  "last_updated": "2026-01-19T07:49:44.342Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -8848,7 +8848,28 @@
         "Infor LN"
       ],
       "website": "samaconsultinginc.com",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Madhu Nair",
+          "title": "Managing Partner",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Madhu Meir",
+          "title": "President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Justin Cummins",
+          "title": "Principal",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Tony Vengel",
+          "title": "Owner",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "15+ years Infor experience, 150+ Infor LN projects, Fortune 500 implementations",
       "notable_clients": "",
       "awards": ""

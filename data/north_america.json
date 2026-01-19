@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:00:26.506Z",
+  "last_updated": "2026-01-19T08:00:31.044Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -6127,6 +6127,11 @@
       "website": "randgroup.com",
       "decision_makers": [
         {
+          "name": "Ron Rand",
+          "title": "President & CEO",
+          "linkedin_url": ""
+        },
+        {
           "name": "Heather Harris",
           "title": "Chief Revenue Officer",
           "linkedin_url": ""
@@ -6134,6 +6139,16 @@
         {
           "name": "Andrew King",
           "title": "Chief Operating Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Jennifer McNamara",
+          "title": "Chief Marketing Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Rick Marshall",
+          "title": "Chief Financial Officer",
           "linkedin_url": ""
         }
       ],

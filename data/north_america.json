@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T07:55:31.512Z",
+  "last_updated": "2026-01-19T07:55:36.827Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -1922,7 +1922,18 @@
         "Tech Companies)"
       ],
       "website": "cfotools.net",
-      "decision_makers": [],
+      "decision_makers": [
+        {
+          "name": "Joel Chesterman",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Paul Chesterman",
+          "title": "Founder",
+          "linkedin_url": ""
+        }
+      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""

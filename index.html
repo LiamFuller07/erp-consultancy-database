@@ -198,6 +198,18 @@
     }
 
 
+    .checkbox-cell {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .checkbox-cell input {
+      width: 14px;
+      height: 14px;
+      cursor: pointer;
+    }
+
     .priority-badge {
       display: inline-block;
       padding: 0;
@@ -393,6 +405,55 @@
       return count ? `${count} contact${count > 1 ? 's' : ''}` : '-';
     }
 
+    function checkboxRenderer(params) {
+      const input = document.createElement('input');
+      input.type = 'checkbox';
+      input.checked = Boolean(params.data && params.data.checked);
+      input.setAttribute('aria-label', 'Send row to bottom');
+      input.addEventListener('click', (event) => {
+        event.stopPropagation();
+      });
+      input.addEventListener('change', () => {
+        if (params.data) {
+          params.data.checked = input.checked;
+        }
+        applyCheckedOrdering();
+      });
+      return input;
+    }
+
+    function reorderRowsByChecked(rows) {
+      const unchecked = [];
+      const checked = [];
+      rows.forEach((row) => {
+        if (row && row.checked) {
+          checked.push(row);
+        } else {
+          unchecked.push(row);
+        }
+      });
+      return unchecked.concat(checked);
+    }
+
+    function getGridRows() {
+      const rows = [];
+      if (!state.gridApi) return rows;
+      state.gridApi.forEachNode(node => {
+        if (node.data) rows.push(node.data);
+      });
+      return rows;
+    }
+
+    function applyCheckedOrdering() {
+      if (!state.gridApi) return;
+      const rows = reorderRowsByChecked(getGridRows());
+      DATA[state.currentRegion] = { ...DATA[state.currentRegion], consultancies: rows };
+      state.gridApi.setGridOption('rowData', rows);
+      if (state.expandedAll) {
+        state.gridApi.forEachNode(node => node.setExpanded(true));
+      }
+    }
+
     function buildSearchBlob(row) {
       const dm = (row.decision_makers || [])
         .map(d => `${d.name || ''} ${d.title || ''} ${d.linkedin_url || ''}`)
@@ -430,6 +491,17 @@
 
     const columnDefs = [
       { headerName: '', width: 52, cellRenderer: 'agGroupCellRenderer', valueGetter: () => '' },
+      {
+        headerName: '',
+        width: 44,
+        maxWidth: 44,
+        resizable: false,
+        sortable: false,
+        filter: false,
+        suppressMenu: true,
+        cellClass: 'checkbox-cell',
+        cellRenderer: checkboxRenderer
+      },
       { field: 'rank', width: 80, sortable: true, filter: true, editable: true },
       { field: 'priority', width: 120, cellRenderer: priorityRenderer, editable: true },
       { field: 'company_name', headerName: 'Company', flex: 3, minWidth: 220, editable: true },
@@ -511,7 +583,8 @@
     }
 
     function setGridData(region) {
-      const rows = DATA[region].consultancies || [];
+      const rows = reorderRowsByChecked(DATA[region].consultancies || []);
+      DATA[region] = { ...DATA[region], consultancies: rows };
       state.gridApi.setGridOption('rowData', rows);
       if (state.expandedAll) {
         state.gridApi.forEachNode(node => node.setExpanded(true));
@@ -537,7 +610,8 @@
         employees: '',
         erp_systems: [],
         website: '',
-        decision_makers: []
+        decision_makers: [],
+        checked: false
       };
       state.gridApi.applyTransaction({ add: [row], addIndex: 0 });
     }

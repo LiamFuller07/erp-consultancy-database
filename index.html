@@ -309,6 +309,7 @@
       <input id="search" type="text" placeholder="Search companies, ERP systems, locations..." />
       <button class="btn primary" id="btn-add">Add Row</button>
       <button class="btn tiny" id="toggle-expand">Expand all</button>
+      <button class="btn" id="btn-download">Download JSON</button>
     </div>
 
     <div class="card">
@@ -577,6 +578,24 @@
         state.expandedAll = !state.expandedAll;
         document.getElementById('toggle-expand').textContent = state.expandedAll ? 'Collapse all' : 'Expand all';
         state.gridApi.forEachNode(node => node.setExpanded(state.expandedAll));
+      });
+
+      document.getElementById('btn-download').addEventListener('click', () => {
+        const region = state.currentRegion;
+        if (region === 'mcp') return;
+
+        const data = DATA[region];
+        const filename = `${region}.json`;
+
+        const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = filename;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
       });
 
       document.getElementById('mcp-send').addEventListener('click', async () => {

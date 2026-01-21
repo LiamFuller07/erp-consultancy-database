@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:47:46.398Z",
+  "last_updated": "2026-01-21T07:47:49.511Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4022,6 +4022,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Greentree hosting partner",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-180",
+      "rank": 180,
+      "priority": "MEDIUM",
+      "company_name": "Primacc",
+      "country": "New Zealand",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Platinum Greentree Partner serving ANZ",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:57:02.308Z",
+  "last_updated": "2026-01-21T07:57:05.312Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5767,6 +5767,22 @@
         }
       ],
       "why_target": "Retail dashboards, IBP, S&OP, Inventory optimization app",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-274",
+      "rank": 274,
+      "priority": "HIGH",
+      "company_name": "White Box Analytics",
+      "country": "Australia",
+      "city": "Sydney",
+      "state": "NSW",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Sales/distribution focus",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:49:08.929Z",
+  "last_updated": "2026-01-21T07:49:11.410Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4325,6 +4325,33 @@
         }
       ],
       "why_target": "Retail inventory specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-195",
+      "rank": 195,
+      "priority": "HIGH",
+      "company_name": "PKF Digital",
+      "country": "Australia",
+      "city": "Sydney",
+      "state": "NSW",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Don Mclean",
+          "title": "Contact",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Craig Traub",
+          "title": "Contact",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "",
       "notable_clients": "",
       "awards": ""
     }

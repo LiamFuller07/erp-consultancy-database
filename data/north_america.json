@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:15:30.730Z",
+  "last_updated": "2026-01-21T09:15:34.536Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15202,6 +15202,25 @@
       "awards": [
         "DELMIAWorks Partner of the Year 2023"
       ]
+    },
+    {
+      "id": "na-1308",
+      "rank": 1308,
+      "priority": "MEDIUM",
+      "company_name": "mVerve",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "20-50",
+      "erp_systems": [
+        "Plex ERP",
+        "Plex API Integrations"
+      ],
+      "website": "mverve.com",
+      "decision_makers": [],
+      "why_target": "Plex Services Partner, API integrations specialist, rapid prototyping (2 weeks), solutions in 6 weeks",
+      "notable_clients": [],
+      "awards": []
     }
   ]
 }

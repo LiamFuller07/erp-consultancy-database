@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:22:08.402Z",
+  "last_updated": "2026-01-21T10:22:11.915Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16275,6 +16275,30 @@
       "why_target": "Founded 1981. One of largest Sage partners globally. 80+ certified professionals. Offices in North America, Europe, Caribbean",
       "notable_clients": "Small to large businesses globally",
       "awards": "Sage CEO Circle, Sage President's Circle"
+    },
+    {
+      "id": "na-1341",
+      "rank": 1341,
+      "priority": "HIGHEST",
+      "company_name": "Cumula 3 Group",
+      "country": "USA",
+      "city": "Frisco",
+      "state": "TX",
+      "employees": "50-100",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "website": "cumula3.com",
+      "decision_makers": [
+        {
+          "name": "Lantz Nefflen",
+          "title": "CEO/CRO & Co-Founder",
+          "linkedin_url": "https://www.linkedin.com/in/nefflen/"
+        }
+      ],
+      "why_target": "Top-selling NetSuite-Only Partner globally. #3 overall in Global Solution Provider Program. 19 years NetSuite focus. 5-Star Partner. Medical devices, manufacturing, wholesale specialist",
+      "notable_clients": "Medical devices, manufacturing, wholesale distribution",
+      "awards": "NetSuite 5-Star Partner, Top NetSuite-Only Partner"
     }
   ]
 }

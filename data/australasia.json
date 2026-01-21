@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:47:52.013Z",
+  "last_updated": "2026-01-21T07:47:54.718Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4054,6 +4054,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "WooCommerce-Attaché integration specialist, HIGH retail relevance",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-182",
+      "rank": 182,
+      "priority": "HIGH",
+      "company_name": "Adaptify Digital",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Magento/Shopify-Attaché integration, HIGH eCommerce relevance",
       "notable_clients": "",
       "awards": ""
     }

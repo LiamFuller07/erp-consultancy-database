@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:09:00.529Z",
+  "last_updated": "2026-01-21T10:12:04.383Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15908,6 +15908,35 @@
       "why_target": "B Corp Certified consulting firm. Founded 2014, rapid growth. Offices in Montreal, Paris, Toronto, USA, London, Mauritius. Multi-platform expertise",
       "notable_clients": "Enterprises of all sizes globally",
       "awards": "NetSuite 4-Star Award (3 consecutive years)"
+    },
+    {
+      "id": "na-1330",
+      "rank": 1330,
+      "priority": "HIGH",
+      "company_name": "Conveyance Solutions",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "25",
+      "erp_systems": [
+        "Epicor Prophet 21"
+      ],
+      "website": "conveyance365.com",
+      "decision_makers": [
+        {
+          "name": "Andrew Taylor",
+          "title": "Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Allie Taylor",
+          "title": "Founder",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Largest independent Prophet 21 firm. Epicor Platinum Elite Partner 2025. Founded 2018. Clients from $20M to $1B+ revenue",
+      "notable_clients": "Industrial distributors, Private Equity portfolio companies",
+      "awards": "Epicor Platinum Elite Partner (Distribution)"
     }
   ]
 }

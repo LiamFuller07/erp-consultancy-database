@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:12:12.979Z",
+  "last_updated": "2026-01-21T10:12:16.912Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16014,6 +16014,46 @@
       "why_target": "Largest independent Microsoft Dynamics partner globally. Microsoft Inner Circle 19 consecutive years. Founded 1987. 2,500+ projects, 1,200 clients, 26 Partner of Year Awards",
       "notable_clients": "1,400+ customers in 30 countries",
       "awards": "Microsoft Inner Circle (19 consecutive years), 26 Partner of the Year Awards"
+    },
+    {
+      "id": "na-1333",
+      "rank": 1333,
+      "priority": "HIGH",
+      "company_name": "Sikich LLP",
+      "country": "USA",
+      "city": "Naperville",
+      "state": "IL",
+      "employees": "1504",
+      "erp_systems": [
+        "Microsoft Dynamics 365",
+        "Dynamics 365 Business Central"
+      ],
+      "website": "sikich.com",
+      "decision_makers": [
+        {
+          "name": "Christopher Geier",
+          "title": "CEO & Managing Partner",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Ryan Spohn",
+          "title": "CFO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Ray Beste",
+          "title": "CTO & Partner",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Thomas P. Luken",
+          "title": "Partner & COO",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Major professional services firm with Dynamics 365 practice. 1,500+ employees. Combines accounting/advisory with technology services. Manufacturing, distribution, healthcare focus",
+      "notable_clients": "Manufacturing, distribution, healthcare",
+      "awards": ""
     }
   ]
 }

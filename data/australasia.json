@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:52:06.890Z",
+  "last_updated": "2026-01-21T07:52:09.592Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4793,6 +4793,24 @@
       "why_target": "500+ logistics companies including AustraCold",
       "notable_clients": [
         "AustraCold"
+      ],
+      "awards": ""
+    },
+    {
+      "id": "au-220",
+      "rank": 220,
+      "priority": "MEDIUM",
+      "company_name": "Infocomm",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "30+ years experience, serves SeaRoad",
+      "notable_clients": [
+        "SeaRoad"
       ],
       "awards": ""
     }

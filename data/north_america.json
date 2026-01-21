@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:15:34.536Z",
+  "last_updated": "2026-01-21T09:15:38.452Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15221,6 +15221,42 @@
       "why_target": "Plex Services Partner, API integrations specialist, rapid prototyping (2 weeks), solutions in 6 weeks",
       "notable_clients": [],
       "awards": []
+    },
+    {
+      "id": "na-1309",
+      "rank": 1309,
+      "priority": "HIGH",
+      "company_name": "BAASS Business Solutions",
+      "country": "Canada",
+      "city": "Thornhill",
+      "state": "ON",
+      "employees": "51-200",
+      "erp_systems": [
+        "Sage 300",
+        "Sage X3",
+        "Sage Intacct",
+        "NetSuite"
+      ],
+      "website": "baass.com",
+      "decision_makers": [
+        {
+          "name": "Joe Arnone",
+          "title": "President & Co-Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Sam Cangialosi",
+          "title": "Operations Manager Canada",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Founded 1988, Sage Partner of the Year, Bob Scott Top 100 VARs, CRN Solution Provider 500 (#450), comprehensive ERP across Canada",
+      "notable_clients": [],
+      "awards": [
+        "Sage Partner of the Year",
+        "Bob Scott Top 100 VARs",
+        "CRN Solution Provider 500"
+      ]
     }
   ]
 }

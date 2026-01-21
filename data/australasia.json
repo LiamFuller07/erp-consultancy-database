@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:52:34.094Z",
+  "last_updated": "2026-01-21T07:52:36.916Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4957,6 +4957,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Community pharmacy specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-229",
+      "rank": 229,
+      "priority": "MEDIUM",
+      "company_name": "Z Software",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Affordable all-in-one pharmacy solution",
       "notable_clients": "",
       "awards": ""
     }

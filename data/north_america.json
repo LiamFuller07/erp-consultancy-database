@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:15:06.468Z",
+  "last_updated": "2026-01-21T09:15:10.599Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14997,6 +14997,40 @@
         "SYSPRO Top Global Sales Partner 2023",
         "Bob Scott Top 100 VARs"
       ]
+    },
+    {
+      "id": "na-1302",
+      "rank": 1302,
+      "priority": "HIGH",
+      "company_name": "Lonehill Systems",
+      "country": "USA",
+      "city": "Orlando",
+      "state": "FL",
+      "employees": "50-100",
+      "erp_systems": [
+        "SYSPRO ERP"
+      ],
+      "website": "lonehill.com",
+      "decision_makers": [
+        {
+          "name": "John Edgar",
+          "title": "President, Owner & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kim Nel",
+          "title": "President",
+          "linkedin_url": "linkedin.com/in/lonehillsystemskimnel/"
+        },
+        {
+          "name": "Joe Loughman",
+          "title": "VP of Support",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "SYSPRO Premium Partner since 1978, 320+ customers, largest single SYSPRO site in USA, mixed-mode manufacturing specialist",
+      "notable_clients": [],
+      "awards": []
     }
   ]
 }

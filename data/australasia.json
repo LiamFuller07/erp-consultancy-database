@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:47:17.236Z",
+  "last_updated": "2026-01-21T07:47:46.398Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4008,6 +4008,22 @@
       "awards": [
         "Innovation Partner of Year 2024"
       ]
+    },
+    {
+      "id": "au-179",
+      "rank": 179,
+      "priority": "MEDIUM",
+      "company_name": "Cymax",
+      "country": "Australia",
+      "city": "Eight Mile Plains",
+      "state": "QLD",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Greentree hosting partner",
+      "notable_clients": "",
+      "awards": ""
     }
   ]
 }

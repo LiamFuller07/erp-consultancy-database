@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:54:46.840Z",
+  "last_updated": "2026-01-21T07:54:49.704Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5437,6 +5437,22 @@
         "Telstra",
         "Woolworths"
       ],
+      "awards": ""
+    },
+    {
+      "id": "au-256",
+      "rank": 256,
+      "priority": "HIGH",
+      "company_name": "SPS Commerce",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "500,000+ users globally",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "#1 EDI by Capterra",
+      "notable_clients": "",
       "awards": ""
     }
   ]

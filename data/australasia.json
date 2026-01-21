@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:46:02.381Z",
+  "last_updated": "2026-01-21T07:46:05.550Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -3780,6 +3780,22 @@
         }
       ],
       "why_target": "Government/Local Council focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-168",
+      "rank": 168,
+      "priority": "MEDIUM",
+      "company_name": "Lánluas Consulting",
+      "country": "Australia",
+      "city": "Sydney",
+      "state": "NSW",
+      "employees": "SME",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Local Government specialist, 250+ clients",
       "notable_clients": "",
       "awards": ""
     }

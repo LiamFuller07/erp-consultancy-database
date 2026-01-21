@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:17.114Z",
+  "last_updated": "2026-01-21T07:50:19.991Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4473,6 +4473,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Microsoft specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-202",
+      "rank": 202,
+      "priority": "LOW",
+      "company_name": "2PM Services",
+      "country": "Australia",
+      "city": "Hobart",
+      "state": "TAS",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Award-winning Tasmanian business advisory",
       "notable_clients": "",
       "awards": ""
     }

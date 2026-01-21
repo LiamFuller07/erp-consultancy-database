@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:48:38.248Z",
+  "last_updated": "2026-01-21T07:48:40.939Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4206,6 +4206,28 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Full-service Brightpearl agency (UK/Global ANZ)",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-190",
+      "rank": 190,
+      "priority": "MEDIUM",
+      "company_name": "Doshii",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Justin O'Donnell",
+          "title": "CEO",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Hospitality middleware integration",
       "notable_clients": "",
       "awards": ""
     }

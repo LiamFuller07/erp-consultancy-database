@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:58:24.566Z",
+  "last_updated": "2026-01-21T07:58:28.640Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -6070,6 +6070,22 @@
         }
       ],
       "why_target": "Class A Business Excellence methodology",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-290",
+      "rank": 290,
+      "priority": "HIGH",
+      "company_name": "Logistics Bureau",
+      "country": "Australia",
+      "city": "Sydney",
+      "state": "NSW",
+      "employees": "$23.2M revenue",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "26 countries, multi-office presence",
       "notable_clients": "",
       "awards": ""
     }

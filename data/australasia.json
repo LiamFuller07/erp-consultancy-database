@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:48:43.137Z",
+  "last_updated": "2026-01-21T07:48:45.709Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4253,6 +4253,30 @@
       "notable_clients": "",
       "awards": [
         "Platinum Partner"
+      ]
+    },
+    {
+      "id": "au-192",
+      "rank": 192,
+      "priority": "MEDIUM",
+      "company_name": "Ebiz Solutions",
+      "country": "Australia",
+      "city": "Bunbury",
+      "state": "WA",
+      "employees": "Boutique",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Rob Marshall",
+          "title": "Contact",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Partner of Year 2011",
+      "notable_clients": "",
+      "awards": [
+        "Partner of Year 2011"
       ]
     }
   ]

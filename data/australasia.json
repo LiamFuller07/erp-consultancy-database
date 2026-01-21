@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:55:56.680Z",
+  "last_updated": "2026-01-21T07:55:59.812Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5607,6 +5607,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Preferred Partner with Sydney/Melbourne/Perth presence, B2B/B2C accelerators",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-266",
+      "rank": 266,
+      "priority": "HIGH",
+      "company_name": "ZELLIS",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Platinum Agency Partner, 40+ marketplace integrations, automotive specialist",
       "notable_clients": "",
       "awards": ""
     }

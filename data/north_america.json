@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:08:32.897Z",
+  "last_updated": "2026-01-21T10:08:37.309Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15712,6 +15712,24 @@
       "why_target": "Infor Gold Channel Partner since 1994. 300+ implementations. Manufacturing and service industry specialist since 1993",
       "notable_clients": "Manufacturing, distribution, service companies",
       "awards": "Infor Gold Channel Partner"
+    },
+    {
+      "id": "na-1323",
+      "rank": 1323,
+      "priority": "MEDIUM",
+      "company_name": "Milestone Information Solutions (Milestone IS)",
+      "country": "USA",
+      "city": "Seattle",
+      "state": "WA",
+      "employees": "20-50",
+      "erp_systems": [
+        "Acumatica"
+      ],
+      "website": "milestoneis.com",
+      "decision_makers": [],
+      "why_target": "Pacific Northwest Acumatica specialist. 30+ years ERP experience. Serves construction, manufacturing, distribution in WA, OR, ID",
+      "notable_clients": "Construction, manufacturing, distribution in Pacific Northwest",
+      "awards": ""
     }
   ]
 }

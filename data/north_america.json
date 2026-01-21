@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:15:10.599Z",
+  "last_updated": "2026-01-21T09:15:15.179Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15031,6 +15031,43 @@
       "why_target": "SYSPRO Premium Partner since 1978, 320+ customers, largest single SYSPRO site in USA, mixed-mode manufacturing specialist",
       "notable_clients": [],
       "awards": []
+    },
+    {
+      "id": "na-1303",
+      "rank": 1303,
+      "priority": "HIGHEST",
+      "company_name": "Cumulus Consulting",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "50-100",
+      "erp_systems": [
+        "Plex Smart Manufacturing Platform",
+        "Plex ERP"
+      ],
+      "website": "cumulus-erp.com",
+      "decision_makers": [
+        {
+          "name": "David Chidsey",
+          "title": "President & Managing Partner",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Jason Delozier",
+          "title": "Managing Partner",
+          "linkedin_url": "linkedin.com/in/jasondelozier/"
+        },
+        {
+          "name": "Matt Parowski",
+          "title": "Director of Professional Services",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "2024 Plex Partner of the Year, only partner accredited for all Plex services, 100+ implementations, 10+ years Plex experience",
+      "notable_clients": [],
+      "awards": [
+        "Plex Partner of the Year 2024"
+      ]
     }
   ]
 }

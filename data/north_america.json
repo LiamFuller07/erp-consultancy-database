@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:11:01.918Z",
+  "last_updated": "2026-01-21T09:11:05.796Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14781,6 +14781,36 @@
         }
       ],
       "why_target": "Only firm in North America with both full ERP & Field Service Management capabilities, 50+ IFS consultants, IFS Services Partner since 2018",
+      "notable_clients": [],
+      "awards": []
+    },
+    {
+      "id": "na-1295",
+      "rank": 1295,
+      "priority": "HIGH",
+      "company_name": "Kognitiv Inc.",
+      "country": "USA",
+      "city": "Newton",
+      "state": "MA",
+      "employees": "200+",
+      "erp_systems": [
+        "Workday HCM",
+        "Workday Financials"
+      ],
+      "website": "kognitivinc.com",
+      "decision_makers": [
+        {
+          "name": "Luke Switkowski",
+          "title": "Co-Founder & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Mark Grignon",
+          "title": "President & Co-Founder",
+          "linkedin_url": "linkedin.com/in/workdaysupport/"
+        }
+      ],
+      "why_target": "On-demand Workday support specialist, 200+ Workday experts, founded by former Workday employees, proprietary Rooster scheduling tool",
       "notable_clients": [],
       "awards": []
     }

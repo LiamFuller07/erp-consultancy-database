@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:57:37.007Z",
+  "last_updated": "2026-01-21T07:57:40.501Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5983,6 +5983,24 @@
       ],
       "why_target": "Official Board Partner since 2021",
       "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-285",
+      "rank": 285,
+      "priority": "HIGH",
+      "company_name": "Zooss Consulting",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Certified Partner, 2 Master Anaplanners, Wesfarmers Health PMR project",
+      "notable_clients": [
+        "Wesfarmers Health"
+      ],
       "awards": ""
     }
   ]

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:58:28.640Z",
+  "last_updated": "2026-01-21T07:58:32.543Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -6086,6 +6086,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "26 countries, multi-office presence",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-291",
+      "rank": 291,
+      "priority": "MEDIUM",
+      "company_name": "Dawson Consulting",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "SME-focused ($5-50M revenue companies)",
       "notable_clients": "",
       "awards": ""
     }

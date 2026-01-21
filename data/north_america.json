@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:03:09.502Z",
+  "last_updated": "2026-01-21T10:03:12.820Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15613,6 +15613,54 @@
       "why_target": "SAP Gold Partner since 1998. Founded by former SAP Consultants and Big-4 alumni. 27+ years SAP experience. Offices in FL, CA, India, Canada",
       "notable_clients": "Public sector, commercial industries",
       "awards": "SAP Gold Partner"
+    },
+    {
+      "id": "na-1320",
+      "rank": 1320,
+      "priority": "HIGH",
+      "company_name": "Rand Group",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "100-200",
+      "erp_systems": [
+        "Microsoft Dynamics 365",
+        "Business Central",
+        "NetSuite",
+        "Dynamics GP",
+        "Dynamics NAV"
+      ],
+      "website": "randgroup.com",
+      "decision_makers": [
+        {
+          "name": "Ron Rand",
+          "title": "President & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Heather Harris",
+          "title": "Chief Revenue Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Daniel Owen",
+          "title": "Vice President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Reagan Jones",
+          "title": "Vice President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kevin De Pree",
+          "title": "Vice President",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Microsoft Inner Circle member (top 1% globally). 20+ years in Texas market. Offices in Houston, Dallas, Vancouver. Strong in oil & gas, construction, distribution",
+      "notable_clients": "Oil & gas, manufacturing, distribution, construction in Texas/South Central US",
+      "awards": "Microsoft Inner Circle (top 1% global experts)"
     }
   ]
 }

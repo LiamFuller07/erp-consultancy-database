@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:36.150Z",
+  "last_updated": "2026-01-21T07:50:38.830Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4603,6 +4603,22 @@
         }
       ],
       "why_target": "Retail/eCommerce focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-209",
+      "rank": 209,
+      "priority": "MEDIUM",
+      "company_name": "Dynamic Business IT",
+      "country": "Australia",
+      "city": "Brisbane",
+      "state": "QLD",
+      "employees": "Boutique",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Retail, e-Retail focus",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:00:08.863Z",
+  "last_updated": "2026-01-21T10:00:12.416Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15432,6 +15432,37 @@
       "why_target": "SAP Platinum Partner (1 of 11 globally), Gartner recognized for SAP S/4HANA, RISE with SAP Validated Partner (1 of 12). Strong A&D vertical",
       "notable_clients": "Aerospace & Defense, Automotive, General Manufacturing",
       "awards": "SAP Pinnacle Award Customer Success, RISE with SAP Validated Partner, Gartner SAP S/4HANA Magic Quadrant (3 years)"
+    },
+    {
+      "id": "na-1315",
+      "rank": 1315,
+      "priority": "HIGH",
+      "company_name": "IPM (Integrated Project Management)",
+      "country": "USA",
+      "city": "Chicago",
+      "state": "IL",
+      "employees": "263",
+      "erp_systems": [
+        "NetSuite",
+        "Tier 1 ERP",
+        "Tier 2 ERP"
+      ],
+      "website": "ipmcinc.com",
+      "decision_makers": [
+        {
+          "name": "C. Richard Panico",
+          "title": "Founder, President & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Harry Georgiades",
+          "title": "Managing Director (LA/SF)",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Malcolm Baldrige National Quality Award 2018. NetSuite Alliance Partner. 500+ clients, 5000+ projects, 100K+ hours in ERP implementations since 2012",
+      "notable_clients": "Food & beverage, life sciences, healthcare, consumer products",
+      "awards": "Malcolm Baldrige National Quality Award 2018, Forbes 25 Best Small Companies, Great Place to Work"
     }
   ]
 }

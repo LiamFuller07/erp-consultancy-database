@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:08:41.098Z",
+  "last_updated": "2026-01-21T10:08:45.172Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15755,6 +15755,41 @@
       "why_target": "ONLY Sage Intacct partner working exclusively with nonprofits. Since 1991. More nonprofit Sage Intacct implementations than any other partner",
       "notable_clients": "Nonprofit organizations exclusively",
       "awards": "Sage Intacct President's Club 2019, Abila Presidents Circle, City & State Nonprofit Trailblazer (CEO)"
+    },
+    {
+      "id": "na-1325",
+      "rank": 1325,
+      "priority": "HIGH",
+      "company_name": "Guide Technologies",
+      "country": "USA",
+      "city": "Cincinnati",
+      "state": "OH",
+      "employees": "50-100",
+      "erp_systems": [
+        "Infor CloudSuite Industrial",
+        "Infor SyteLine"
+      ],
+      "website": "guidetechnologies.com",
+      "decision_makers": [
+        {
+          "name": "Todd Moritz",
+          "title": "Managing Partner & CFO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Shane Barger",
+          "title": "Vice President of Consulting",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Rick Altenau",
+          "title": "Vice President of Business Development",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Infor Gold Channel Partner since 2011. Founded by Fred Cramer and Doug Bulla. Manufacturing specialist with global implementation experience in 20 countries",
+      "notable_clients": "Discrete manufacturers, including largest independent transformer manufacturer in USA",
+      "awards": "Infor Gold Channel Partner"
     }
   ]
 }

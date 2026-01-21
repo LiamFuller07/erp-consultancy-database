@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:06:48.019Z",
+  "last_updated": "2026-01-21T09:06:51.894Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14597,6 +14597,45 @@
       "why_target": "25+ years Infor Distribution expertise, CloudSuite Distribution specialist since 1998",
       "notable_clients": [],
       "awards": []
+    },
+    {
+      "id": "na-1290",
+      "rank": 1290,
+      "priority": "HIGH",
+      "company_name": "LBMC Technology Solutions",
+      "country": "USA",
+      "city": "Nashville",
+      "state": "TN",
+      "employees": "600+",
+      "erp_systems": [
+        "Sage Intacct",
+        "Sage 100",
+        "Sage X3"
+      ],
+      "website": "lbmctech.com",
+      "decision_makers": [
+        {
+          "name": "Bryan Wilton",
+          "title": "President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "David Reynolds",
+          "title": "Chief Technical Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Brandy Neely",
+          "title": "Chief Operating Officer",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Sage Premier Partner, 15-year Sage Intacct Platinum partner, largest professional services firm in Tennessee",
+      "notable_clients": [],
+      "awards": [
+        "Sage Intacct VAR Growth Partner of the Year",
+        "Sage Intacct Platinum Partner"
+      ]
     }
   ]
 }

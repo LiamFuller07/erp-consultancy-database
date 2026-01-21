@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:02:57.757Z",
+  "last_updated": "2026-01-21T10:03:01.283Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15504,6 +15504,47 @@
       "why_target": "Boutique JDE/SAP specialist since 2011 with automotive Tier 1/2 expertise. Staff with 15+ years senior-level experience. Offices in NY, Indianapolis, Orlando, Denver",
       "notable_clients": "Industrial Manufacturing, Consumer Products, Automotive Tier 1/2 suppliers",
       "awards": ""
+    },
+    {
+      "id": "na-1317",
+      "rank": 1317,
+      "priority": "HIGHEST",
+      "company_name": "Terillium",
+      "country": "USA",
+      "city": "Cincinnati",
+      "state": "OH",
+      "employees": "222-250",
+      "erp_systems": [
+        "Oracle JD Edwards",
+        "Oracle Fusion Cloud",
+        "Oracle NetSuite"
+      ],
+      "website": "terillium.com",
+      "decision_makers": [
+        {
+          "name": "Warren Bach",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Dave Woodworth",
+          "title": "President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Steve May",
+          "title": "VP, NetSuite Practice",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Chris Garrity",
+          "title": "VP",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Largest JD Edwards consultancy in USA. 30+ years experience, 700+ clients, 250 consultants. 15 Oracle Excellence Awards",
+      "notable_clients": "700+ businesses across industries",
+      "awards": "15 Oracle Excellence Awards, 19 Oracle Partner Awards"
     }
   ]
 }

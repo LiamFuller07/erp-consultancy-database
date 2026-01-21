@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:54:28.696Z",
+  "last_updated": "2026-01-21T07:54:31.386Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5327,6 +5327,24 @@
       "decision_makers": [],
       "why_target": "ERMHA overtime solution in <4 weeks",
       "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-250",
+      "rank": 250,
+      "priority": "MEDIUM",
+      "company_name": "Ingenuity Partners",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "YHA Australia project - 63% membership growth",
+      "notable_clients": [
+        "YHA Australia"
+      ],
       "awards": ""
     }
   ]

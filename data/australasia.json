@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:53:59.481Z",
+  "last_updated": "2026-01-21T07:54:02.429Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5154,6 +5154,24 @@
       "why_target": "Premier Celigo Partner with Global APAC presence",
       "notable_clients": "",
       "awards": ""
+    },
+    {
+      "id": "au-240",
+      "rank": 240,
+      "priority": "HIGHEST",
+      "company_name": "Atturra",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "175+ consultants",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "4x Partner of Year APJ, 1,250+ integration projects, Australian-owned",
+      "notable_clients": "",
+      "awards": [
+        "4x Partner of Year APJ"
+      ]
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:11:20.649Z",
+  "last_updated": "2026-01-21T09:11:24.781Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14930,6 +14930,41 @@
       "awards": [
         "Unit4 Elite Partner"
       ]
+    },
+    {
+      "id": "na-1300",
+      "rank": 1300,
+      "priority": "HIGH",
+      "company_name": "Global Shop Solutions",
+      "country": "USA",
+      "city": "The Woodlands",
+      "state": "TX",
+      "employees": "320+",
+      "erp_systems": [
+        "Global Shop Solutions ERP",
+        "Manufacturing ERP/MRP"
+      ],
+      "website": "globalshopsolutions.com",
+      "decision_makers": [
+        {
+          "name": "Dusty Alexander",
+          "title": "President & CEO",
+          "linkedin_url": "linkedin.com/in/dustyalexander/"
+        },
+        {
+          "name": "Mike Melzer",
+          "title": "VP Operations & Service",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Trent Maynard",
+          "title": "Director of Product & Engineering",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Family-owned manufacturing ERP company, 35+ years under current CEO, no debt/no outside investment, serves 25+ industries in 30 countries",
+      "notable_clients": [],
+      "awards": []
     }
   ]
 }

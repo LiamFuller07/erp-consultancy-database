@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:15:26.952Z",
+  "last_updated": "2026-01-21T09:15:30.730Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15169,6 +15169,38 @@
       "notable_clients": [],
       "awards": [
         "Odoo Gold Partner"
+      ]
+    },
+    {
+      "id": "na-1307",
+      "rank": 1307,
+      "priority": "HIGH",
+      "company_name": "Arisoft Global",
+      "country": "Canada",
+      "city": "Richmond Hill",
+      "state": "ON",
+      "employees": "50-100",
+      "erp_systems": [
+        "DELMIAworks",
+        "IQMS"
+      ],
+      "website": "arisoftglobal.com",
+      "decision_makers": [
+        {
+          "name": "Imtiaz Lodhi",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Rajesh Kochar",
+          "title": "Director",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "DELMIAWorks Partner of the Year 2023, 70+ global clients, 100+ combined years ERP expertise, manufacturing ERP specialist",
+      "notable_clients": [],
+      "awards": [
+        "DELMIAWorks Partner of the Year 2023"
       ]
     }
   ]

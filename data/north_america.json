@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:25:05.165Z",
+  "last_updated": "2026-01-21T10:25:09.222Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16406,6 +16406,24 @@
       "why_target": "Acumatica Gold Certified Partner for 10+ years. 8 consecutive years Acumatica MVP. Print and promotional industry specialist. Since 1998",
       "notable_clients": "Print and promotional businesses",
       "awards": "Acumatica Most Valuable Professional (8 consecutive years), 2x Hackathon Winner"
+    },
+    {
+      "id": "na-1346",
+      "rank": 1346,
+      "priority": "MEDIUM",
+      "company_name": "Revive ERP",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "20-50",
+      "erp_systems": [
+        "Acumatica"
+      ],
+      "website": "reviveerp.com",
+      "decision_makers": [],
+      "why_target": "Acumatica-only partner. Focus on professional services firms. Presidents Club member. Specializes in Acumatica Professional Services Edition",
+      "notable_clients": "Professional services firms",
+      "awards": "Acumatica Presidents Club, Partner of Year Finalist 2025"
     }
   ]
 }

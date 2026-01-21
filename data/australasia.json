@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:46.330Z",
+  "last_updated": "2026-01-21T07:50:49.151Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4679,6 +4679,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Distribution specialist - HIGH retail relevance",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-213",
+      "rank": 213,
+      "priority": "LOW",
+      "company_name": "TJ Microsystems",
+      "country": "Australia",
+      "city": "Cairns",
+      "state": "QLD",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "",
       "notable_clients": "",
       "awards": ""
     }

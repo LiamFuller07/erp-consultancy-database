@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:12:04.383Z",
+  "last_updated": "2026-01-21T10:12:08.483Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15937,6 +15937,41 @@
       "why_target": "Largest independent Prophet 21 firm. Epicor Platinum Elite Partner 2025. Founded 2018. Clients from $20M to $1B+ revenue",
       "notable_clients": "Industrial distributors, Private Equity portfolio companies",
       "awards": "Epicor Platinum Elite Partner (Distribution)"
+    },
+    {
+      "id": "na-1331",
+      "rank": 1331,
+      "priority": "HIGH",
+      "company_name": "EstesGroup",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "50-100",
+      "erp_systems": [
+        "Epicor Kinetic",
+        "Epicor Prophet 21"
+      ],
+      "website": "estesgrp.com",
+      "decision_makers": [
+        {
+          "name": "Bruce Grant",
+          "title": "Founder & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Brad Feakes",
+          "title": "President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Ben Nixon",
+          "title": "VP, Enterprise Technology",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "20+ years Epicor consulting. Founded 2004. US-based senior consultants only. Also provides managed IT and cloud hosting",
+      "notable_clients": "Manufacturers and distributors",
+      "awards": ""
     }
   ]
 }

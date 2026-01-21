@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:54:40.353Z",
+  "last_updated": "2026-01-21T07:54:43.818Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5392,6 +5392,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "First APAC Certified Zapier Expert, 10+ years experience",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-254",
+      "rank": 254,
+      "priority": "MEDIUM",
+      "company_name": "In Cahoots Co",
+      "country": "Australia",
+      "city": "Brisbane",
+      "state": "QLD",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "",
       "notable_clients": "",
       "awards": ""
     }

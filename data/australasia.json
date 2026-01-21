@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:54:55.351Z",
+  "last_updated": "2026-01-21T07:54:58.694Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5484,6 +5484,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Industry body for standards certification",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-259",
+      "rank": 259,
+      "priority": "HIGH",
+      "company_name": "TrueCommerce",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Enterprise EDI with ERP integration",
       "notable_clients": "",
       "awards": ""
     }

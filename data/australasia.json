@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:53:00.186Z",
+  "last_updated": "2026-01-21T07:53:56.529Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5121,6 +5121,22 @@
       "notable_clients": [
         "Western ITM"
       ],
+      "awards": ""
+    },
+    {
+      "id": "au-238",
+      "rank": 238,
+      "priority": "HIGH",
+      "company_name": "PointStar Consulting",
+      "country": "Australia",
+      "city": "Sydney",
+      "state": "NSW",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Celigo Partner serving APAC",
+      "notable_clients": "",
       "awards": ""
     }
   ]

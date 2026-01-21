@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:25:00.863Z",
+  "last_updated": "2026-01-21T10:25:05.165Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16382,6 +16382,30 @@
       "why_target": "40+ years experience. Oracle Cloud specialist for public sector. Leading Oracle Cloud implementer",
       "notable_clients": "Public sector, government agencies",
       "awards": "Oracle North American Innovation Partner of Year 2017 & 2018"
+    },
+    {
+      "id": "na-1345",
+      "rank": 1345,
+      "priority": "MEDIUM",
+      "company_name": "InfoSourcing Inc",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "20-50",
+      "erp_systems": [
+        "Acumatica"
+      ],
+      "website": "info-sourcing.com",
+      "decision_makers": [
+        {
+          "name": "Harsha Sarjapur",
+          "title": "Founder",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Acumatica Gold Certified Partner for 10+ years. 8 consecutive years Acumatica MVP. Print and promotional industry specialist. Since 1998",
+      "notable_clients": "Print and promotional businesses",
+      "awards": "Acumatica Most Valuable Professional (8 consecutive years), 2x Hackathon Winner"
     }
   ]
 }

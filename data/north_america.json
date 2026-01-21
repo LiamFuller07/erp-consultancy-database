@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T08:58:19.651Z",
+  "last_updated": "2026-01-21T08:58:23.237Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14412,6 +14412,27 @@
       "awards": [
         "Microsoft President's Club - Top 5% worldwide"
       ]
+    },
+    {
+      "id": "na-1285",
+      "rank": 1285,
+      "priority": "MEDIUM",
+      "company_name": "Evolvous",
+      "country": "Canada",
+      "city": "Calgary",
+      "state": "Alberta",
+      "employees": "101-250",
+      "erp_systems": [
+        "ERP",
+        "CRM",
+        "RPA",
+        "Business Analytics"
+      ],
+      "website": "evolvous.com",
+      "decision_makers": [],
+      "why_target": "Multidisciplinary IT consultant in Canada, serves Toronto, Vancouver, Ottawa, Montreal. Cloud ERP & CRM consulting for over a decade",
+      "notable_clients": "",
+      "awards": ""
     }
   ]
 }

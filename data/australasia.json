@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:56:09.049Z",
+  "last_updated": "2026-01-21T07:56:11.896Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5672,6 +5672,36 @@
       "decision_makers": [],
       "why_target": "API development, Klaviyo/Mailchimp integrations",
       "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-270",
+      "rank": 270,
+      "priority": "HIGHEST",
+      "company_name": "Marketplacer",
+      "country": "Australia",
+      "city": "Melbourne",
+      "state": "VIC",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Jason Wyatt",
+          "title": "CEO/Co-founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Sam Salter",
+          "title": "Co-founder",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Powers Woolworths Everyday Market, Myer",
+      "notable_clients": [
+        "Woolworths Everyday Market",
+        "Myer"
+      ],
       "awards": ""
     }
   ]

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:15:38.452Z",
+  "last_updated": "2026-01-21T09:15:41.602Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15257,6 +15257,25 @@
         "Bob Scott Top 100 VARs",
         "CRN Solution Provider 500"
       ]
+    },
+    {
+      "id": "na-1310",
+      "rank": 1310,
+      "priority": "MEDIUM",
+      "company_name": "Tamir Consulting",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "10-20",
+      "erp_systems": [
+        "DELMIAworks",
+        "IQMS"
+      ],
+      "website": "tamirconsulting.com",
+      "decision_makers": [],
+      "why_target": "DELMIAworks/IQMS specialist, ISO 9001/13485 compliance expertise, Quality Modules specialist",
+      "notable_clients": [],
+      "awards": []
     }
   ]
 }

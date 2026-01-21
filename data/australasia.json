@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:58:21.302Z",
+  "last_updated": "2026-01-21T07:58:24.566Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -6048,6 +6048,28 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Demand planning specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-289",
+      "rank": 289,
+      "priority": "HIGH",
+      "company_name": "Oliver Wight Asia Pacific",
+      "country": "Australia",
+      "city": "Melbourne",
+      "state": "VIC",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Stuart Harman",
+          "title": "Partner",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Class A Business Excellence methodology",
       "notable_clients": "",
       "awards": ""
     }

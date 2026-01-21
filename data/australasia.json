@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:52:42.727Z",
+  "last_updated": "2026-01-21T07:52:46.199Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5010,6 +5010,22 @@
         "SPAR",
         "Foodworks"
       ],
+      "awards": ""
+    },
+    {
+      "id": "au-232",
+      "rank": 232,
+      "priority": "HIGH",
+      "company_name": "RetailCare",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Grocery and hospitality focus",
+      "notable_clients": "",
       "awards": ""
     }
   ]

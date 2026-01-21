@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:56:06.061Z",
+  "last_updated": "2026-01-21T07:56:09.049Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5655,6 +5655,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Design partner specializing in B2B wholesale stores",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-269",
+      "rank": 269,
+      "priority": "MEDIUM",
+      "company_name": "Keetrax",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "API development, Klaviyo/Mailchimp integrations",
       "notable_clients": "",
       "awards": ""
     }

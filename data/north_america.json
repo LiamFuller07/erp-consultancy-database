@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:22:19.984Z",
+  "last_updated": "2026-01-21T10:25:00.863Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16352,6 +16352,36 @@
       "why_target": "Nashville-based Microsoft Partner. CEO is Microsoft MVP. 23+ years Dynamics experience, 400+ implementation projects. Healthcare specialty packages. Staff avg 18 years experience",
       "notable_clients": "Healthcare, professional sports, financial services, banks",
       "awards": "Microsoft MVP (CEO Shannon Mullins)"
+    },
+    {
+      "id": "na-1344",
+      "rank": 1344,
+      "priority": "HIGH",
+      "company_name": "CherryRoad Technologies",
+      "country": "USA",
+      "city": "Morris Plains",
+      "state": "NJ",
+      "employees": "30+",
+      "erp_systems": [
+        "Oracle Cloud",
+        "Oracle ERP"
+      ],
+      "website": "cherryroad.com",
+      "decision_makers": [
+        {
+          "name": "Jeremy Gulban",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Tom Heldt",
+          "title": "EVP Sales",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "40+ years experience. Oracle Cloud specialist for public sector. Leading Oracle Cloud implementer",
+      "notable_clients": "Public sector, government agencies",
+      "awards": "Oracle North American Innovation Partner of Year 2017 & 2018"
     }
   ]
 }

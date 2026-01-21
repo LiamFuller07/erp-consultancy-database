@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:56:03.041Z",
+  "last_updated": "2026-01-21T07:56:06.061Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5639,6 +5639,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-268",
+      "rank": 268,
+      "priority": "MEDIUM",
+      "company_name": "Rainstorm Studio",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Design partner specializing in B2B wholesale stores",
       "notable_clients": "",
       "awards": ""
     }

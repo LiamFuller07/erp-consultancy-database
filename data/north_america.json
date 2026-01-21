@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:08:52.880Z",
+  "last_updated": "2026-01-21T10:08:56.722Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15848,6 +15848,32 @@
       "why_target": "Independent mid-market ERP developer since 1978. Proprietary S2K platform with 300+ enhancements. 1,500+ companies using software. 100% US-based support",
       "notable_clients": "Distribution, manufacturing, retail, food, pharmaceutical industries",
       "awards": "Northwell Health recognition for Long Island technology contributions"
+    },
+    {
+      "id": "na-1328",
+      "rank": 1328,
+      "priority": "HIGH",
+      "company_name": "RKL eSolutions",
+      "country": "USA",
+      "city": "Lancaster",
+      "state": "PA",
+      "employees": "123",
+      "erp_systems": [
+        "Sage 100",
+        "Sage X3",
+        "Sage Intacct"
+      ],
+      "website": "rklesolutions.com",
+      "decision_makers": [
+        {
+          "name": "Joe Noll",
+          "title": "President",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Authorized Sage Partner since 2001. Part of Reinsel Kuntz Lesher LLP accounting firm. Recently acquired Rebdev (Pittsburgh Sage X3 partner)",
+      "notable_clients": "Mid-market companies across industries",
+      "awards": "Award-winning national leader in Sage ERP consulting"
     }
   ]
 }

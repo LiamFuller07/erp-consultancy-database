@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:55:42.674Z",
+  "last_updated": "2026-01-21T07:55:45.673Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5542,6 +5542,22 @@
         "Yamaha Motors",
         "Olympus"
       ],
+      "awards": ""
+    },
+    {
+      "id": "au-262",
+      "rank": 262,
+      "priority": "MEDIUM",
+      "company_name": "Swanky Agency",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "International agency with ANZ presence",
+      "notable_clients": "",
       "awards": ""
     }
   ]

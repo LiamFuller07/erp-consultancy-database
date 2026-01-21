@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:12:08.483Z",
+  "last_updated": "2026-01-21T10:12:12.979Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15972,6 +15972,48 @@
       "why_target": "20+ years Epicor consulting. Founded 2004. US-based senior consultants only. Also provides managed IT and cloud hosting",
       "notable_clients": "Manufacturers and distributors",
       "awards": ""
+    },
+    {
+      "id": "na-1332",
+      "rank": 1332,
+      "priority": "HIGHEST",
+      "company_name": "HSO",
+      "country": "USA",
+      "city": "Chicago",
+      "state": "IL",
+      "employees": "1000+",
+      "erp_systems": [
+        "Microsoft Dynamics 365",
+        "Dynamics 365 Business Central",
+        "Power Platform",
+        "Azure"
+      ],
+      "website": "hso.com",
+      "decision_makers": [
+        {
+          "name": "Peter J. ter Maaten",
+          "title": "Global Founder & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Jonathan Summers",
+          "title": "Co-President, HSO US",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Alan Kahn",
+          "title": "Co-President, HSO US",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kostas Tzigizis",
+          "title": "EVP Sales, US",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Largest independent Microsoft Dynamics partner globally. Microsoft Inner Circle 19 consecutive years. Founded 1987. 2,500+ projects, 1,200 clients, 26 Partner of Year Awards",
+      "notable_clients": "1,400+ customers in 30 countries",
+      "awards": "Microsoft Inner Circle (19 consecutive years), 26 Partner of the Year Awards"
     }
   ]
 }

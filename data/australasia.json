@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:48:08.439Z",
+  "last_updated": "2026-01-21T07:48:35.514Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4168,6 +4168,28 @@
       "website": "",
       "decision_makers": [],
       "why_target": "eCommerce integration specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-188",
+      "rank": 188,
+      "priority": "HIGH",
+      "company_name": "ATOM Digital",
+      "country": "Australia",
+      "city": "Bayside",
+      "state": "VIC",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Patrick O'Sullivan",
+          "title": "Founder",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Custom Zapier integration, 10+ years Brightpearl expertise",
       "notable_clients": "",
       "awards": ""
     }

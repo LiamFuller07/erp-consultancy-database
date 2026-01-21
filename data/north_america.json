@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:06:51.894Z",
+  "last_updated": "2026-01-21T09:06:55.289Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14635,6 +14635,48 @@
       "awards": [
         "Sage Intacct VAR Growth Partner of the Year",
         "Sage Intacct Platinum Partner"
+      ]
+    },
+    {
+      "id": "na-1291",
+      "rank": 1291,
+      "priority": "HIGH",
+      "company_name": "i-Tech Support Inc.",
+      "country": "USA",
+      "city": "Tampa/Orlando",
+      "state": "FL",
+      "employees": "50-100",
+      "erp_systems": [
+        "Acumatica Cloud ERP"
+      ],
+      "website": "i-techsupport.com",
+      "decision_makers": [
+        {
+          "name": "Michael Augello",
+          "title": "Chairman & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Daniel Stockman",
+          "title": "President & COO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kurt Bauer",
+          "title": "Executive VP, Software & Consulting",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Anna Crean",
+          "title": "VP of Growth, ERP Division",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Gold Certified Acumatica Partner since 1999, Fast 50 & Golden 100 company, Florida market leader",
+      "notable_clients": [],
+      "awards": [
+        "Orlando Business Journal Fast 50",
+        "Golden 100"
       ]
     }
   ]

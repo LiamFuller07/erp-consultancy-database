@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-17T01:58:00.728Z",
+  "last_updated": "2026-01-21T07:45:32.190Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -3688,6 +3688,28 @@
       "website": "https://example.com/auto-deploy-test",
       "decision_makers": [],
       "why_target": "Auto deploy hook test",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-163",
+      "rank": 163,
+      "priority": "HIGH",
+      "company_name": "DyFlex Solutions",
+      "country": "Australia",
+      "city": "Perth",
+      "state": "WA",
+      "employees": "180+ employees",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Peter Lander",
+          "title": "Group MD/Founder",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "$5B+ Accel-KKR backing (2024), serves mining, manufacturing, distribution across all states",
       "notable_clients": "",
       "awards": ""
     }

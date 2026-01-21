@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:47:14.489Z",
+  "last_updated": "2026-01-21T07:47:17.236Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -3990,6 +3990,24 @@
       "why_target": "Multi-platform expertise, Distribution focus",
       "notable_clients": "",
       "awards": ""
+    },
+    {
+      "id": "au-178",
+      "rank": 178,
+      "priority": "HIGH",
+      "company_name": "IBT",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "Established",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Innovation Partner of Year 2024",
+      "notable_clients": "",
+      "awards": [
+        "Innovation Partner of Year 2024"
+      ]
     }
   ]
 }

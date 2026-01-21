@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:51:54.192Z",
+  "last_updated": "2026-01-21T07:51:57.170Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4727,6 +4727,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Recipe management, perishables specialist for F&B",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-216",
+      "rank": 216,
+      "priority": "HIGHEST",
+      "company_name": "Klugo",
+      "country": "Australia",
+      "city": "Melbourne",
+      "state": "VIC",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Largest dedicated NetSuite partner in APAC, wholesale distribution focus",
       "notable_clients": "",
       "awards": ""
     }

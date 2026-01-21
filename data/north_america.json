@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:08:37.309Z",
+  "last_updated": "2026-01-21T10:08:41.098Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15730,6 +15730,31 @@
       "why_target": "Pacific Northwest Acumatica specialist. 30+ years ERP experience. Serves construction, manufacturing, distribution in WA, OR, ID",
       "notable_clients": "Construction, manufacturing, distribution in Pacific Northwest",
       "awards": ""
+    },
+    {
+      "id": "na-1324",
+      "rank": 1324,
+      "priority": "HIGH",
+      "company_name": "JMT Consulting",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "50-100",
+      "erp_systems": [
+        "Sage Intacct",
+        "Abila"
+      ],
+      "website": "jmtconsulting.com",
+      "decision_makers": [
+        {
+          "name": "Jacqueline Tiso",
+          "title": "Founder & CEO",
+          "linkedin_url": "https://www.linkedin.com/in/jacki-tiso-6987598/"
+        }
+      ],
+      "why_target": "ONLY Sage Intacct partner working exclusively with nonprofits. Since 1991. More nonprofit Sage Intacct implementations than any other partner",
+      "notable_clients": "Nonprofit organizations exclusively",
+      "awards": "Sage Intacct President's Club 2019, Abila Presidents Circle, City & State Nonprofit Trailblazer (CEO)"
     }
   ]
 }

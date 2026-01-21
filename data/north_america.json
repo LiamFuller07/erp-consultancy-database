@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:00:12.416Z",
+  "last_updated": "2026-01-21T10:02:57.757Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15463,6 +15463,47 @@
       "why_target": "Malcolm Baldrige National Quality Award 2018. NetSuite Alliance Partner. 500+ clients, 5000+ projects, 100K+ hours in ERP implementations since 2012",
       "notable_clients": "Food & beverage, life sciences, healthcare, consumer products",
       "awards": "Malcolm Baldrige National Quality Award 2018, Forbes 25 Best Small Companies, Great Place to Work"
+    },
+    {
+      "id": "na-1316",
+      "rank": 1316,
+      "priority": "HIGH",
+      "company_name": "C&A Technology (CAT)",
+      "country": "USA",
+      "city": "Indianapolis",
+      "state": "IN",
+      "employees": "32",
+      "erp_systems": [
+        "JD Edwards",
+        "SAP",
+        "Acumatica"
+      ],
+      "website": "catechnology.com",
+      "decision_makers": [
+        {
+          "name": "Craig Hill",
+          "title": "Co-Founder, EVP Industry Strategy & Service Delivery",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Aubrey Evens",
+          "title": "Co-Founder, EVP Sales & Marketing",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Jeff Copper",
+          "title": "Partner, CTO, EVP JD Edwards & Managed Services Practice Leader",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Don Mackenzie",
+          "title": "Partner, EVP SAP Practice Leadership",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Boutique JDE/SAP specialist since 2011 with automotive Tier 1/2 expertise. Staff with 15+ years senior-level experience. Offices in NY, Indianapolis, Orlando, Denver",
+      "notable_clients": "Industrial Manufacturing, Consumer Products, Automotive Tier 1/2 suppliers",
+      "awards": ""
     }
   ]
 }

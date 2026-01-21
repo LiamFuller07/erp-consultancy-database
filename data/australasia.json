@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:57:24.190Z",
+  "last_updated": "2026-01-21T07:57:27.509Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5897,6 +5897,31 @@
         "Pillow Talk",
         "Opal",
         "Groupe SEB"
+      ],
+      "awards": ""
+    },
+    {
+      "id": "au-281",
+      "rank": 281,
+      "priority": "HIGH",
+      "company_name": "Notitia",
+      "country": "Australia",
+      "city": "Melbourne",
+      "state": "VIC",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Alex Avery",
+          "title": "MD/Founder",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Partner serving Foodbank Victoria, Fyna Foods",
+      "notable_clients": [
+        "Foodbank Victoria",
+        "Fyna Foods"
       ],
       "awards": ""
     }

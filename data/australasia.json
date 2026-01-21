@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:52:09.592Z",
+  "last_updated": "2026-01-21T07:52:12.072Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4812,6 +4812,22 @@
       "notable_clients": [
         "SeaRoad"
       ],
+      "awards": ""
+    },
+    {
+      "id": "au-221",
+      "rank": 221,
+      "priority": "HIGH",
+      "company_name": "SCSI",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Large FMCG retailers APAC",
+      "notable_clients": "",
       "awards": ""
     }
   ]

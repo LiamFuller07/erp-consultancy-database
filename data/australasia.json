@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:56:11.896Z",
+  "last_updated": "2026-01-21T07:56:14.838Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5701,6 +5701,32 @@
       "notable_clients": [
         "Woolworths Everyday Market",
         "Myer"
+      ],
+      "awards": ""
+    },
+    {
+      "id": "au-271",
+      "rank": 271,
+      "priority": "HIGHEST",
+      "company_name": "Amblique",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "90+ experts",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Stephanie Byrne",
+          "title": "CEO",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Wave Champion (Top Tier) Fluent Partner",
+      "notable_clients": [
+        "T2 Tea",
+        "Munro Footwear",
+        "Super Retail Group"
       ],
       "awards": ""
     }

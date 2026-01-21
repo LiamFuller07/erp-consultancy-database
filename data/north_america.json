@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T08:58:11.232Z",
+  "last_updated": "2026-01-21T08:58:15.867Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14337,6 +14337,41 @@
       "awards": [
         "Epicor Certified Platinum Partner"
       ]
+    },
+    {
+      "id": "na-1283",
+      "rank": 1283,
+      "priority": "HIGH",
+      "company_name": "EstesGroup",
+      "country": "USA",
+      "city": "Loveland",
+      "state": "CO",
+      "employees": "33",
+      "erp_systems": [
+        "Epicor Kinetic",
+        "Epicor Prophet 21"
+      ],
+      "website": "estesgrp.com",
+      "decision_makers": [
+        {
+          "name": "Bruce Grant",
+          "title": "Founder & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Brad Feakes",
+          "title": "President, Partner",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Michael Bittner",
+          "title": "Principal / Senior Management Advisor",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Only US partner certified for both Epicor ERP, Prophet 21 and Epicor Managed Hosting. Founded 2004, 17+ years experience",
+      "notable_clients": "",
+      "awards": ""
     }
   ]
 }

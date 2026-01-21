@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:58:17.273Z",
+  "last_updated": "2026-01-21T07:58:21.302Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -6032,6 +6032,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Global ANZ presence for demand planning",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-288",
+      "rank": 288,
+      "priority": "HIGH",
+      "company_name": "SCCG",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Demand planning specialist",
       "notable_clients": "",
       "awards": ""
     }

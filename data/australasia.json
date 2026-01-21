@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:54:19.460Z",
+  "last_updated": "2026-01-21T07:54:22.317Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5276,6 +5276,24 @@
       "why_target": "eCommerce/POS integration specialist",
       "notable_clients": "",
       "awards": ""
+    },
+    {
+      "id": "au-247",
+      "rank": 247,
+      "priority": "HIGH",
+      "company_name": "Intercede Solutions",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Implementation Partner of Year ANZ, business process automation",
+      "notable_clients": "",
+      "awards": [
+        "Implementation Partner of Year ANZ"
+      ]
     }
   ]
 }

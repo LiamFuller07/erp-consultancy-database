@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:51.961Z",
+  "last_updated": "2026-01-21T07:51:54.192Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4711,6 +4711,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-215",
+      "rank": 215,
+      "priority": "HIGH",
+      "company_name": "Folio3 FoodTech",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Recipe management, perishables specialist for F&B",
       "notable_clients": "",
       "awards": ""
     }

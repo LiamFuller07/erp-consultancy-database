@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:45:32.190Z",
+  "last_updated": "2026-01-21T07:45:34.841Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -3710,6 +3710,22 @@
         }
       ],
       "why_target": "$5B+ Accel-KKR backing (2024), serves mining, manufacturing, distribution across all states",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-164",
+      "rank": 164,
+      "priority": "MEDIUM",
+      "company_name": "GLOSAP Technologies",
+      "country": "Australia",
+      "city": "Rowville",
+      "state": "VIC",
+      "employees": "SME",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "",
       "notable_clients": "",
       "awards": ""
     }

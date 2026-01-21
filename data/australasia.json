@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:46:05.550Z",
+  "last_updated": "2026-01-21T07:46:09.023Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -3796,6 +3796,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Local Government specialist, 250+ clients",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-169",
+      "rank": 169,
+      "priority": "MEDIUM",
+      "company_name": "Exent",
+      "country": "Australia",
+      "city": "Sydney",
+      "state": "NSW",
+      "employees": "SME",
+      "erp_systems": [],
+      "website": "exent.co",
+      "decision_makers": [],
+      "why_target": "First national SaaS+ deployment",
       "notable_clients": "",
       "awards": ""
     }

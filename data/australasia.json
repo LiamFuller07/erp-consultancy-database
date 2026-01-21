@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:54:31.386Z",
+  "last_updated": "2026-01-21T07:54:34.026Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5345,6 +5345,22 @@
       "notable_clients": [
         "YHA Australia"
       ],
+      "awards": ""
+    },
+    {
+      "id": "au-251",
+      "rank": 251,
+      "priority": "HIGH",
+      "company_name": "The Joinary",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Only Zapier Premier Experts in Australia",
+      "notable_clients": "",
       "awards": ""
     }
   ]

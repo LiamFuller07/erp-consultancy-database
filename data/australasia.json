@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:46:43.492Z",
+  "last_updated": "2026-01-21T07:47:09.591Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -3917,6 +3917,32 @@
       "why_target": "F&B industry accelerators",
       "notable_clients": "",
       "awards": ""
+    },
+    {
+      "id": "au-175",
+      "rank": 175,
+      "priority": "HIGHEST",
+      "company_name": "Momentum Software Solutions",
+      "country": "Australia",
+      "city": "Maroochydore",
+      "state": "QLD",
+      "employees": "20-40+",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Alistair Emery",
+          "title": "Managing Director",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Diamond/Elite partner status, Manufacturing & Retail focus, multiple Partner of Year awards",
+      "notable_clients": "",
+      "awards": [
+        "Diamond Partner",
+        "Elite Partner",
+        "Partner of Year awards"
+      ]
     }
   ]
 }

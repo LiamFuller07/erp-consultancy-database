@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:25:09.222Z",
+  "last_updated": "2026-01-21T10:25:14.345Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16424,6 +16424,32 @@
       "why_target": "Acumatica-only partner. Focus on professional services firms. Presidents Club member. Specializes in Acumatica Professional Services Edition",
       "notable_clients": "Professional services firms",
       "awards": "Acumatica Presidents Club, Partner of Year Finalist 2025"
+    },
+    {
+      "id": "na-1347",
+      "rank": 1347,
+      "priority": "HIGH",
+      "company_name": "Bryant Park Consulting",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "50-100",
+      "erp_systems": [
+        "NetSuite",
+        "NetSuite Planning & Budgeting",
+        "NetSuite Analytics Warehouse"
+      ],
+      "website": "bryantparkconsulting.com",
+      "decision_makers": [
+        {
+          "name": "Alec Epstein",
+          "title": "Founder & CEO",
+          "linkedin_url": "https://www.linkedin.com/in/alecvicariepstein/"
+        }
+      ],
+      "why_target": "Top NetSuite Alliance Partner in NA, Australia, LATAM. Founded 2021. Focus on NetSuite implementations, AI, Change Management. Former Oracle NetSuite professional services consultant",
+      "notable_clients": "Large and midmarket organizations",
+      "awards": "NetSuite Alliance Partner Spotlight Award Winter 2024 (5 categories)"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:49:11.410Z",
+  "last_updated": "2026-01-21T07:50:03.537Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4352,6 +4352,28 @@
         }
       ],
       "why_target": "",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-196",
+      "rank": 196,
+      "priority": "HIGH",
+      "company_name": "Integral Management Systems",
+      "country": "Australia",
+      "city": "Perth",
+      "state": "WA",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Harshana Etampawala",
+          "title": "Managing Director",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Level 25, 1 Spring St Perth - HIGH Retail/Wholesale relevance",
       "notable_clients": "",
       "awards": ""
     }

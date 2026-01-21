@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:54:22.317Z",
+  "last_updated": "2026-01-21T07:54:25.243Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5293,6 +5293,24 @@
       "notable_clients": "",
       "awards": [
         "Implementation Partner of Year ANZ"
+      ]
+    },
+    {
+      "id": "au-248",
+      "rank": 248,
+      "priority": "HIGH",
+      "company_name": "Experieco",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "ANZ Partner of Year 2022, low-code development",
+      "notable_clients": "",
+      "awards": [
+        "ANZ Partner of Year 2022"
       ]
     }
   ]

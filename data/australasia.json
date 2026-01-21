@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:54:52.178Z",
+  "last_updated": "2026-01-21T07:54:55.351Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5468,6 +5468,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Cloud EDI for SMBs in ANZ",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-258",
+      "rank": 258,
+      "priority": "MEDIUM",
+      "company_name": "GS1 Australia",
+      "country": "Australia",
+      "city": "Melbourne",
+      "state": "VIC",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Industry body for standards certification",
       "notable_clients": "",
       "awards": ""
     }

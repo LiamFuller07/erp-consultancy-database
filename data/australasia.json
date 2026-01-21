@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:54:08.811Z",
+  "last_updated": "2026-01-21T07:54:11.794Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5212,6 +5212,22 @@
       "awards": [
         "Partner of Year A/NZ 2021"
       ]
+    },
+    {
+      "id": "au-243",
+      "rank": 243,
+      "priority": "HIGH",
+      "company_name": "MakeSense Pty Ltd",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Preferred MuleSoft Partner Australia, 100% certified consultants, pure-play MuleSoft",
+      "notable_clients": "",
+      "awards": ""
     }
   ]
 }

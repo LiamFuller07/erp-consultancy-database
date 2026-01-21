@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:46:40.400Z",
+  "last_updated": "2026-01-21T07:46:43.492Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -3899,6 +3899,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Complex supply chains specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-174",
+      "rank": 174,
+      "priority": "MEDIUM",
+      "company_name": "Turnaround Services Global",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "SME",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "F&B industry accelerators",
       "notable_clients": "",
       "awards": ""
     }

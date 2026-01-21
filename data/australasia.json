@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:38.830Z",
+  "last_updated": "2026-01-21T07:50:40.963Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4619,6 +4619,28 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Retail, e-Retail focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-210",
+      "rank": 210,
+      "priority": "LOW",
+      "company_name": "Synergy Group Australia",
+      "country": "Australia",
+      "city": "Canberra",
+      "state": "ACT",
+      "employees": "200+ employees",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Robert Kennedy",
+          "title": "CEO",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Government focus",
       "notable_clients": "",
       "awards": ""
     }

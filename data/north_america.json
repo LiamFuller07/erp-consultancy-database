@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:06:40.573Z",
+  "last_updated": "2026-01-21T09:06:44.652Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14526,6 +14526,37 @@
         "Microsoft Dynamics Partner of Year (11x)",
         "Microsoft Inner Circle (11 years)"
       ]
+    },
+    {
+      "id": "na-1288",
+      "rank": 1288,
+      "priority": "HIGH",
+      "company_name": "ClearSky Consulting",
+      "country": "USA",
+      "city": "Atlanta",
+      "state": "GA",
+      "employees": "17",
+      "erp_systems": [
+        "Infor HCM",
+        "Infor CloudSuite",
+        "Infor Lawson"
+      ],
+      "website": "clearskyerp.com",
+      "decision_makers": [
+        {
+          "name": "Rowan Hinton",
+          "title": "Managing Director",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Bryan Waters",
+          "title": "Senior Consultant, Solution Management",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Infor HCM Alliance & CloudSuite Specialized Partner, Lawson expertise globally",
+      "notable_clients": [],
+      "awards": []
     }
   ]
 }

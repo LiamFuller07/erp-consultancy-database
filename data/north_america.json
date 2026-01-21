@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T08:58:23.237Z",
+  "last_updated": "2026-01-21T08:58:27.096Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14433,6 +14433,44 @@
       "why_target": "Multidisciplinary IT consultant in Canada, serves Toronto, Vancouver, Ottawa, Montreal. Cloud ERP & CRM consulting for over a decade",
       "notable_clients": "",
       "awards": ""
+    },
+    {
+      "id": "na-1286",
+      "rank": 1286,
+      "priority": "HIGHEST",
+      "company_name": "Applexus Technologies",
+      "country": "USA",
+      "city": "Seattle",
+      "state": "WA",
+      "employees": "",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP BW/4HANA",
+        "SAP Business One"
+      ],
+      "website": "applexus.com",
+      "decision_makers": [
+        {
+          "name": "Sam Mathew",
+          "title": "Founder & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Norb Brumbergs",
+          "title": "SVP, SAP Delivery",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Chris Couch",
+          "title": "VP Sales and Marketing",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "SAP Gold Partner since 2005, specializes in retail, fashion, consumer and high tech. Global presence in North America, UK, Middle East, India. Acquired Absoft to expand European presence",
+      "notable_clients": "",
+      "awards": [
+        "SAP Gold Partner"
+      ]
     }
   ]
 }

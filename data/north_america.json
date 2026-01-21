@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:15:15.179Z",
+  "last_updated": "2026-01-21T09:15:19.075Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15067,6 +15067,39 @@
       "notable_clients": [],
       "awards": [
         "Plex Partner of the Year 2024"
+      ]
+    },
+    {
+      "id": "na-1304",
+      "rank": 1304,
+      "priority": "HIGH",
+      "company_name": "Revolution Group",
+      "country": "USA",
+      "city": "Columbus/Westerville",
+      "state": "OH",
+      "employees": "100",
+      "erp_systems": [
+        "Plex Smart Manufacturing Platform"
+      ],
+      "website": "revolutiongroup.com",
+      "decision_makers": [
+        {
+          "name": "Rick Snide",
+          "title": "Co-Founder & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Pat Welsh",
+          "title": "Managing Director, Manufacturing ERP Services",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Plex Partner of the Year, Fortune 5000 company, Columbus Best Places to Work, F&B and transportation specialists",
+      "notable_clients": [],
+      "awards": [
+        "Plex Partner of the Year",
+        "Fortune 5000",
+        "Columbus Fast 50"
       ]
     }
   ]

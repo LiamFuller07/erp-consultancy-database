@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:11:05.796Z",
+  "last_updated": "2026-01-21T09:11:09.607Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14813,6 +14813,38 @@
       "why_target": "On-demand Workday support specialist, 200+ Workday experts, founded by former Workday employees, proprietary Rooster scheduling tool",
       "notable_clients": [],
       "awards": []
+    },
+    {
+      "id": "na-1296",
+      "rank": 1296,
+      "priority": "HIGH",
+      "company_name": "Syssero",
+      "country": "USA",
+      "city": "Remote-First",
+      "state": "National",
+      "employees": "100+",
+      "erp_systems": [
+        "Workday HCM",
+        "Workday Financials"
+      ],
+      "website": "syssero.com",
+      "decision_makers": [
+        {
+          "name": "Amber Lowry",
+          "title": "CEO & Founder",
+          "linkedin_url": "linkedin.com/in/amberlowry/"
+        },
+        {
+          "name": "Ryan Massie",
+          "title": "Co-Founder & Co-CEO",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Only employee-owned Workday firm, 90% consultants are former Workday end-clients, Workday Services Partner, remote-first since 2016",
+      "notable_clients": [],
+      "awards": [
+        "Inc Magazine Best Workplaces 2023"
+      ]
     }
   ]
 }

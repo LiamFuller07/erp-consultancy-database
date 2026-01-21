@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:03:05.212Z",
+  "last_updated": "2026-01-21T10:03:09.502Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15570,6 +15570,49 @@
       "why_target": "NetSuite Alliance Partner specializing in Twin Cities manufacturing. 95%+ success rate, zero data loss across implementations",
       "notable_clients": "Twin Cities manufacturing companies",
       "awards": ""
+    },
+    {
+      "id": "na-1319",
+      "rank": 1319,
+      "priority": "HIGH",
+      "company_name": "Phoenix Business Consulting",
+      "country": "USA",
+      "city": "Sarasota",
+      "state": "FL",
+      "employees": "100-200",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Business One",
+        "SAP SuccessFactors",
+        "SAP Ariba",
+        "SAP Concur"
+      ],
+      "website": "phoenixteam.com",
+      "decision_makers": [
+        {
+          "name": "Hanif Sarangi",
+          "title": "CEO & President",
+          "linkedin_url": "https://www.linkedin.com/in/hanifsarangi/"
+        },
+        {
+          "name": "V. Prasad",
+          "title": "Executive Vice President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Klaus Schottenhamel",
+          "title": "VP, Head of Commercial Industries",
+          "linkedin_url": "https://www.linkedin.com/in/klausschottenhamel/"
+        },
+        {
+          "name": "Joe Thompson",
+          "title": "Director, S4 HANA Solution & Integration Architect",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "SAP Gold Partner since 1998. Founded by former SAP Consultants and Big-4 alumni. 27+ years SAP experience. Offices in FL, CA, India, Canada",
+      "notable_clients": "Public sector, commercial industries",
+      "awards": "SAP Gold Partner"
     }
   ]
 }

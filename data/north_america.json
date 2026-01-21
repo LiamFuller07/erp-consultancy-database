@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-19T08:03:15.389Z",
+  "last_updated": "2026-01-21T08:58:11.232Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14306,6 +14306,37 @@
       "why_target": "30+ years pharma ERP, FDA 21 CFR Part 11 compliance built-in",
       "notable_clients": "",
       "awards": ""
+    },
+    {
+      "id": "na-1282",
+      "rank": 1282,
+      "priority": "HIGH",
+      "company_name": "Cambia Advisors",
+      "country": "USA",
+      "city": "Minneapolis",
+      "state": "MN",
+      "employees": "",
+      "erp_systems": [
+        "Epicor Kinetic"
+      ],
+      "website": "cambiaadvisors.com",
+      "decision_makers": [
+        {
+          "name": "Craig Thompson",
+          "title": "Co-Founder & Managing Director",
+          "linkedin_url": "linkedin.com/in/craigwilliamthompson"
+        },
+        {
+          "name": "Brian Clark",
+          "title": "Managing Director, Optimizations",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Epicor Certified Platinum Partner, 100+ years combined ERP implementation expertise, exclusive Epicor focus",
+      "notable_clients": "",
+      "awards": [
+        "Epicor Certified Platinum Partner"
+      ]
     }
   ]
 }

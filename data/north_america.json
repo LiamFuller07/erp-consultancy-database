@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:21:59.572Z",
+  "last_updated": "2026-01-21T10:22:03.493Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16207,6 +16207,36 @@
       "why_target": "ONLY employee-owned Workday firm in industry. Founded 2016. 90% of consultants are former Workday end-clients. Consultants avg 7+ years Workday experience",
       "notable_clients": "Enterprise Workday customers",
       "awards": "Inc Best Workplace 2023, Inc 5000 Fastest-Growing"
+    },
+    {
+      "id": "na-1339",
+      "rank": 1339,
+      "priority": "HIGH",
+      "company_name": "Kognitiv Inc",
+      "country": "USA",
+      "city": "Newton",
+      "state": "MA",
+      "employees": "200+",
+      "erp_systems": [
+        "Workday HCM",
+        "Workday Financials"
+      ],
+      "website": "kognitivinc.com",
+      "decision_makers": [
+        {
+          "name": "Luke Switkowski",
+          "title": "CEO & Co-Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Mark Grignon",
+          "title": "President & Co-Founder",
+          "linkedin_url": "https://www.linkedin.com/in/workdaysupport/"
+        }
+      ],
+      "why_target": "Founded 2016 by ex-Meteorix/IBM Workday team. 200+ Workday experts across NA, Europe, India. Bootstrapped growth, no outside investment. Acquired ClouDevOps 2025",
+      "notable_clients": "Fortune 500 companies",
+      "awards": ""
     }
   ]
 }

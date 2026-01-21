@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:52:57.451Z",
+  "last_updated": "2026-01-21T07:53:00.186Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5103,6 +5103,24 @@
       "decision_makers": [],
       "why_target": "Natbuild endorsed 22+ years",
       "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-237",
+      "rank": 237,
+      "priority": "MEDIUM",
+      "company_name": "DMSi (Sterland Frameworks)",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Western ITM (20+ year customer)",
+      "notable_clients": [
+        "Western ITM"
+      ],
       "awards": ""
     }
   ]

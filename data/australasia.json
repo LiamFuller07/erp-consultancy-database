@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:30.536Z",
+  "last_updated": "2026-01-21T07:50:33.314Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4559,6 +4559,28 @@
       "website": "",
       "decision_makers": [],
       "why_target": "",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-207",
+      "rank": 207,
+      "priority": "LOW",
+      "company_name": "Radical Systems",
+      "country": "Australia",
+      "city": "Darwin",
+      "state": "NT",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Adam Whitehead",
+          "title": "Tech Director",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Level 9, 9-11 Cavenagh St",
       "notable_clients": "",
       "awards": ""
     }

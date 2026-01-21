@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:52:51.696Z",
+  "last_updated": "2026-01-21T07:52:54.608Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5071,6 +5071,22 @@
       "notable_clients": [
         "Burson Auto Parts"
       ],
+      "awards": ""
+    },
+    {
+      "id": "au-235",
+      "rank": 235,
+      "priority": "MEDIUM",
+      "company_name": "Autoinfo (OSCAR)",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Industry standard automotive catalogue",
+      "notable_clients": "",
       "awards": ""
     }
   ]

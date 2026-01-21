@@ -501,7 +501,7 @@
       const input = document.createElement('input');
       input.type = 'checkbox';
       input.checked = Boolean(params.data && params.data.checked);
-      input.setAttribute('aria-label', 'Send row to bottom');
+      input.setAttribute('aria-label', 'Mark as contacted');
       input.addEventListener('click', (event) => {
         event.stopPropagation();
       });
@@ -510,7 +510,7 @@
           params.data.checked = input.checked;
           scheduleUpsert(params.data);
         }
-        applyCheckedOrdering();
+        // No longer reorder - keep items in place
       });
       return input;
     }

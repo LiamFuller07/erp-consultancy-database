@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T08:58:15.867Z",
+  "last_updated": "2026-01-21T08:58:19.651Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14372,6 +14372,46 @@
       "why_target": "Only US partner certified for both Epicor ERP, Prophet 21 and Epicor Managed Hosting. Founded 2004, 17+ years experience",
       "notable_clients": "",
       "awards": ""
+    },
+    {
+      "id": "na-1284",
+      "rank": 1284,
+      "priority": "HIGHEST",
+      "company_name": "Endeavour Solutions",
+      "country": "Canada",
+      "city": "Toronto",
+      "state": "Ontario",
+      "employees": "1,200+ clients",
+      "erp_systems": [
+        "Microsoft Dynamics 365 Business Central",
+        "Dynamics NAV",
+        "Dynamics GP",
+        "Dynamics CRM",
+        "PowerApps"
+      ],
+      "website": "endeavoursolutions.ca",
+      "decision_makers": [
+        {
+          "name": "Terry Sunderland",
+          "title": "Founder, President & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "David Shimoni",
+          "title": "President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Steve Ewing",
+          "title": "Director",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Top Microsoft Dynamics partner in Canada, 36 years in business, multi-year Microsoft President's Club (top 5% worldwide), offices in Toronto, Halifax, Vancouver, Montreal, Edmonton, Chicago, San Antonio",
+      "notable_clients": "",
+      "awards": [
+        "Microsoft President's Club - Top 5% worldwide"
+      ]
     }
   ]
 }

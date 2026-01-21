@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:47:57.373Z",
+  "last_updated": "2026-01-21T07:48:00.433Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4086,6 +4086,28 @@
       "website": "",
       "decision_makers": [],
       "why_target": "B2B eCommerce specialist, Wholesale focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-184",
+      "rank": 184,
+      "priority": "MEDIUM",
+      "company_name": "T3 Partners",
+      "country": "Australia",
+      "city": "",
+      "state": "NSW/QLD",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Coralie Kemp",
+          "title": "Contact",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Advanced inventory specialist",
       "notable_clients": "",
       "awards": ""
     }

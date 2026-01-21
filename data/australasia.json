@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:22.559Z",
+  "last_updated": "2026-01-21T07:50:25.116Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4505,6 +4505,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Change management specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-204",
+      "rank": 204,
+      "priority": "LOW",
+      "company_name": "IT Strategic",
+      "country": "Australia",
+      "city": "Hobart/Melbourne",
+      "state": "TAS/VIC",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "",
       "notable_clients": "",
       "awards": ""
     }

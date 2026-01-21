@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:48:03.089Z",
+  "last_updated": "2026-01-21T07:48:05.819Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4130,6 +4130,28 @@
         }
       ],
       "why_target": "API/Add-ons specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-186",
+      "rank": 186,
+      "priority": "MEDIUM",
+      "company_name": "Fintech Business Solutions",
+      "country": "Australia",
+      "city": "Como",
+      "state": "WA",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Steve Neal",
+          "title": "Contact",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Training specialist",
       "notable_clients": "",
       "awards": ""
     }

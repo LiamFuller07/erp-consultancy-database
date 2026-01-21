@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:22:03.493Z",
+  "last_updated": "2026-01-21T10:22:08.402Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16237,6 +16237,44 @@
       "why_target": "Founded 2016 by ex-Meteorix/IBM Workday team. 200+ Workday experts across NA, Europe, India. Bootstrapped growth, no outside investment. Acquired ClouDevOps 2025",
       "notable_clients": "Fortune 500 companies",
       "awards": ""
+    },
+    {
+      "id": "na-1340",
+      "rank": 1340,
+      "priority": "HIGH",
+      "company_name": "ADSS Global",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "80+",
+      "erp_systems": [
+        "Sage 300",
+        "Sage 100",
+        "Sage CRM",
+        "Sage HRMS",
+        "Sage Fixed Assets"
+      ],
+      "website": "adssglobal.net",
+      "decision_makers": [
+        {
+          "name": "Robert Campbell",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Peter Kaufman",
+          "title": "President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Jim Campbell",
+          "title": "Vice President",
+          "linkedin_url": "https://www.linkedin.com/in/jim-campbell-68787a4/"
+        }
+      ],
+      "why_target": "Founded 1981. One of largest Sage partners globally. 80+ certified professionals. Offices in North America, Europe, Caribbean",
+      "notable_clients": "Small to large businesses globally",
+      "awards": "Sage CEO Circle, Sage President's Circle"
     }
   ]
 }

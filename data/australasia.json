@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:52:30.226Z",
+  "last_updated": "2026-01-21T07:52:34.094Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4942,6 +4942,22 @@
         "Capital Chemist",
         "Blooms"
       ],
+      "awards": ""
+    },
+    {
+      "id": "au-228",
+      "rank": 228,
+      "priority": "MEDIUM",
+      "company_name": "Mountaintop Systems",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Community pharmacy specialist",
+      "notable_clients": "",
       "awards": ""
     }
   ]

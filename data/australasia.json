@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:57:27.509Z",
+  "last_updated": "2026-01-21T07:57:29.796Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5923,6 +5923,22 @@
         "Foodbank Victoria",
         "Fyna Foods"
       ],
+      "awards": ""
+    },
+    {
+      "id": "au-282",
+      "rank": 282,
+      "priority": "MEDIUM",
+      "company_name": "Qurious Solutions",
+      "country": "Australia",
+      "city": "Perth",
+      "state": "WA",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "WA Qlik specialist",
+      "notable_clients": "",
       "awards": ""
     }
   ]

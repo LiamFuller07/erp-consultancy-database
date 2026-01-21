@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:15:41.602Z",
+  "last_updated": "2026-01-21T09:59:56.226Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15276,6 +15276,33 @@
       "why_target": "DELMIAworks/IQMS specialist, ISO 9001/13485 compliance expertise, Quality Modules specialist",
       "notable_clients": [],
       "awards": []
+    },
+    {
+      "id": "na-1311",
+      "rank": 1311,
+      "priority": "HIGHEST",
+      "company_name": "Premier Consulting & Integration (PCI)",
+      "country": "USA",
+      "city": "Red Bank",
+      "state": "NJ",
+      "employees": "50-149",
+      "erp_systems": [
+        "Deltek Costpoint",
+        "Deltek Vantagepoint",
+        "Deltek Unionpoint",
+        "Deltek WorkBook"
+      ],
+      "website": "pci.us",
+      "decision_makers": [
+        {
+          "name": "Martin McGann III",
+          "title": "Founder & CEO",
+          "linkedin_url": "https://www.linkedin.com/in/martin-mcgann-iii-4aa49714/"
+        }
+      ],
+      "why_target": "Deltek GovCon Partner of Year 2022, Americas Partner of Year 2023 - 5x award winner. 900+ Costpoint implementations for government contractors",
+      "notable_clients": "Government contractors, marketing agencies, professional services firms",
+      "awards": "Deltek GovCon Partner of Year 2022, Deltek Americas Partner of Year 2023, Jersey's Best Top Workplaces 2025 #15"
     }
   ]
 }

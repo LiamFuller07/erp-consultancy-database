@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:51:57.170Z",
+  "last_updated": "2026-01-21T07:51:59.968Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4743,6 +4743,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Largest dedicated NetSuite partner in APAC, wholesale distribution focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-217",
+      "rank": 217,
+      "priority": "HIGH",
+      "company_name": "Foresiight",
+      "country": "Australia",
+      "city": "Brisbane",
+      "state": "QLD",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Australian wholesale software since 1981, IHG integration",
       "notable_clients": "",
       "awards": ""
     }

@@ -283,6 +283,11 @@
       text-align: center;
     }
 
+    .muted {
+      color: var(--muted);
+      font-size: 12px;
+    }
+
     .ag-theme-alpine {
       --ag-font-family: "IBM Plex Sans", "Segoe UI", Arial, sans-serif;
       --ag-header-background-color: #f8fafc;
@@ -320,8 +325,10 @@
     <div class="toolbar">
       <input id="search" type="text" placeholder="Search companies, ERP systems, locations..." />
       <button class="btn primary" id="btn-add">Add Row</button>
+      <button class="btn success" id="btn-sync">Save/Sync</button>
       <button class="btn tiny" id="toggle-expand">Expand all</button>
       <button class="btn" id="btn-download">Download JSON</button>
+      <span class="muted" id="sync-status"></span>
     </div>
 
     <div class="card">
@@ -358,6 +365,11 @@
   </div>
 
   <script>
+    const MCP_ENDPOINT_DEFAULT = '/api/mcp';
+    const MCP_API_KEY_DEFAULT = '';
+    const AUTO_UPSERT_DELAY = 600;
+    const pendingUpserts = new Map();
+
     const DATA = {
       australasia: { consultancies: [] },
       north_america: { consultancies: [] },
@@ -378,6 +390,86 @@
     };
 
     const STOP_WORDS = new Set(['the', 'and', 'or', 'of', 'for', 'with', 'in', 'to', 'a', 'an']);
+
+    function setSyncStatus(message, isError = false) {
+      const el = document.getElementById('sync-status');
+      if (!el) return;
+      el.textContent = message || '';
+      el.style.color = isError ? '#b42318' : 'var(--muted)';
+    }
+
+    async function callMcp(tool, args) {
+      const endpoint = (document.getElementById('mcp-endpoint')?.value || MCP_ENDPOINT_DEFAULT).trim();
+      const apiKey = (document.getElementById('mcp-key')?.value || MCP_API_KEY_DEFAULT).trim();
+      const res = await fetch(endpoint, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          ...(apiKey ? { 'X-Api-Key': apiKey } : {})
+        },
+        body: JSON.stringify({
+          jsonrpc: '2.0',
+          id: `call-${Date.now()}`,
+          method: 'tools/call',
+          params: { name: tool, arguments: args }
+        })
+      });
+      const json = await res.json();
+      if (json.error) {
+        throw new Error(json.error.message || 'MCP error');
+      }
+      const content = json.result?.content?.[0]?.text;
+      if (content) {
+        return JSON.parse(content);
+      }
+      return json.result;
+    }
+
+    function scheduleUpsert(row) {
+      if (!row || !row.id) return;
+      const key = row.id;
+      if (pendingUpserts.has(key)) {
+        clearTimeout(pendingUpserts.get(key));
+      }
+      const handle = setTimeout(() => {
+        pendingUpserts.delete(key);
+        upsertRow(row);
+      }, AUTO_UPSERT_DELAY);
+      pendingUpserts.set(key, handle);
+    }
+
+    async function upsertRow(row) {
+      if (!row.company_name) {
+        setSyncStatus('Company name required to sync.', true);
+        return;
+      }
+      setSyncStatus('Syncing...', false);
+      try {
+        await callMcp('upsert_company', {
+          region: state.currentRegion,
+          id: row.id,
+          company_name: row.company_name,
+          patch: {
+            rank: row.rank,
+            priority: row.priority,
+            country: row.country,
+            city: row.city,
+            state: row.state,
+            employees: row.employees,
+            erp_systems: row.erp_systems,
+            website: row.website,
+            decision_makers: row.decision_makers,
+            why_target: row.why_target,
+            notable_clients: row.notable_clients,
+            awards: row.awards,
+            checked: Boolean(row.checked)
+          }
+        });
+        setSyncStatus('Synced.', false);
+      } catch (err) {
+        setSyncStatus(`Sync failed: ${err.message}`, true);
+      }
+    }
 
     function priorityRenderer(params) {
       if (!params.value) return '';
@@ -416,6 +508,7 @@
       input.addEventListener('change', () => {
         if (params.data) {
           params.data.checked = input.checked;
+          scheduleUpsert(params.data);
         }
         applyCheckedOrdering();
       });
@@ -563,22 +656,33 @@
       enableCharts: true,
       isExternalFilterPresent: () => state.searchQuery.length > 0,
       doesExternalFilterPass: node => rowMatchesQuery(node.data || {}, state.searchQuery),
-      onGridReady: (params) => { state.gridApi = params.api; }
+      onGridReady: (params) => { state.gridApi = params.api; },
+      onCellValueChanged: (params) => {
+        scheduleUpsert(params.data);
+      }
     };
 
     async function loadRegion(region) {
+      // Try MCP first, fallback to local JSON
       try {
-        const response = await fetch(`${REGION_FILES[region]}?v=${Date.now()}`);
-        if (!response.ok) {
+        const result = await callMcp('get_region', { region });
+        DATA[region] = result;
+        return result.consultancies || [];
+      } catch (err) {
+        // Fallback to local JSON
+        try {
+          const response = await fetch(`${REGION_FILES[region]}?v=${Date.now()}`);
+          if (!response.ok) {
+            DATA[region] = { consultancies: [] };
+            return [];
+          }
+          const json = await response.json();
+          DATA[region] = json;
+          return json.consultancies || [];
+        } catch (fallbackErr) {
           DATA[region] = { consultancies: [] };
           return [];
         }
-        const json = await response.json();
-        DATA[region] = json;
-        return json.consultancies || [];
-      } catch (err) {
-        DATA[region] = { consultancies: [] };
-        return [];
       }
     }
 
@@ -647,6 +751,43 @@
       });
 
       document.getElementById('btn-add').addEventListener('click', addRow);
+
+      document.getElementById('btn-sync').addEventListener('click', async () => {
+        const rows = getGridRows();
+        setSyncStatus('Syncing all rows...', false);
+        try {
+          let synced = 0;
+          for (const row of rows) {
+            if (!row.company_name) continue;
+            await callMcp('upsert_company', {
+              region: state.currentRegion,
+              id: row.id,
+              company_name: row.company_name,
+              patch: {
+                rank: row.rank,
+                priority: row.priority,
+                country: row.country,
+                city: row.city,
+                state: row.state,
+                employees: row.employees,
+                erp_systems: row.erp_systems,
+                website: row.website,
+                decision_makers: row.decision_makers,
+                why_target: row.why_target,
+                notable_clients: row.notable_clients,
+                awards: row.awards,
+                checked: Boolean(row.checked)
+              }
+            });
+            synced++;
+            setSyncStatus(`Synced ${synced}/${rows.length}...`, false);
+          }
+          DATA[state.currentRegion] = { ...DATA[state.currentRegion], consultancies: rows };
+          setSyncStatus(`All ${rows.length} rows synced.`, false);
+        } catch (err) {
+          setSyncStatus(`Sync failed: ${err.message}`, true);
+        }
+      });
 
       document.getElementById('toggle-expand').addEventListener('click', () => {
         state.expandedAll = !state.expandedAll;

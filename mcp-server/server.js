@@ -169,7 +169,7 @@ async function putJsonFile(path, json, message, sha) {
 const REGION_SET = new Set(["australasia", "north_america", "europe"]);
 const PRIORITY_SET = new Set(["HIGH", "MEDIUM", "LOWER", "LOW", "HIGHEST"]);
 const REQUIRED_FIELDS = ["id", "rank", "priority", "company_name", "country"];
-const OPTIONAL_FIELDS = ["city", "state", "employees", "erp_systems", "website", "decision_makers", "why_target", "notable_clients", "awards"];
+const OPTIONAL_FIELDS = ["city", "state", "employees", "erp_systems", "website", "decision_makers", "why_target", "notable_clients", "awards", "checked"];
 
 function getRegionPath(region) {
   return `data/${region}.json`;
@@ -220,7 +220,8 @@ function normalizeRow(row, region) {
     erp_systems: Array.isArray(row.erp_systems) ? row.erp_systems : [],
     website: row.website || "",
     decision_makers: normalizeDecisionMakers(row.decision_makers || []),
-    why_target: row.why_target || "", notable_clients: row.notable_clients || "", awards: row.awards || ""
+    why_target: row.why_target || "", notable_clients: row.notable_clients || "", awards: row.awards || "",
+    checked: Boolean(row.checked)
   };
 }
 

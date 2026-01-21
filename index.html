@@ -445,7 +445,7 @@
       }
       setSyncStatus('Syncing...', false);
       try {
-        await callMcp('upsert_company', {
+        const result = await callMcp('upsert_company', {
           region: state.currentRegion,
           id: row.id,
           company_name: row.company_name,
@@ -465,6 +465,11 @@
             checked: Boolean(row.checked)
           }
         });
+        // Check if the upsert actually succeeded
+        if (result && result.status !== 'ok') {
+          setSyncStatus(`Sync failed: ${result.message || 'Unknown error'}`, true);
+          return;
+        }
         setSyncStatus('Synced.', false);
       } catch (err) {
         setSyncStatus(`Sync failed: ${err.message}`, true);
@@ -666,9 +671,12 @@
       try {
         const result = await callMcp('get_region', { region });
         DATA[region] = result;
+        setSyncStatus('Connected to server', false);
         return result.consultancies || [];
       } catch (err) {
-        // Fallback to local JSON
+        // Fallback to local JSON - warn user changes won't persist
+        console.warn('MCP load failed, using local JSON:', err);
+        setSyncStatus('Offline mode - changes may not persist', true);
         try {
           const response = await fetch(`${REGION_FILES[region]}?v=${Date.now()}`);
           if (!response.ok) {

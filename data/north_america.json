@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:08:28.147Z",
+  "last_updated": "2026-01-21T10:08:32.897Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15686,6 +15686,32 @@
       "why_target": "Largest Infor CloudSuite Industrial partner in USA. Founded 1978, 40+ years experience. Infor Partner of Year 2024. Recently acquired AIT Business Services",
       "notable_clients": "Discrete and process manufacturers",
       "awards": "Infor CloudSuite Industrial Partner of Year 2024, 100s of awards over 40 years"
+    },
+    {
+      "id": "na-1322",
+      "rank": 1322,
+      "priority": "HIGH",
+      "company_name": "Visual South",
+      "country": "USA",
+      "city": "Atlanta",
+      "state": "GA",
+      "employees": "20-50",
+      "erp_systems": [
+        "Infor CloudSuite Industrial",
+        "Infor SyteLine",
+        "Infor Service Management"
+      ],
+      "website": "visualsouth.com",
+      "decision_makers": [
+        {
+          "name": "Jack Shannon",
+          "title": "CEO & President",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Infor Gold Channel Partner since 1994. 300+ implementations. Manufacturing and service industry specialist since 1993",
+      "notable_clients": "Manufacturing, distribution, service companies",
+      "awards": "Infor Gold Channel Partner"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:54:36.852Z",
+  "last_updated": "2026-01-21T07:54:40.353Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5376,6 +5376,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "AI-powered workflows, 8000+ app integrations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-253",
+      "rank": 253,
+      "priority": "HIGH",
+      "company_name": "That Automation Agency",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "First APAC Certified Zapier Expert, 10+ years experience",
       "notable_clients": "",
       "awards": ""
     }

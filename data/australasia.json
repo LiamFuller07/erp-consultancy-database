@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:46:11.463Z",
+  "last_updated": "2026-01-21T07:46:33.757Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -3834,6 +3834,33 @@
         }
       ],
       "why_target": "Federal Government specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-171",
+      "rank": 171,
+      "priority": "MEDIUM",
+      "company_name": "CBS Group / Carrolls Business Solutions",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "60+ years combined experience",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Tony Carroll",
+          "title": "Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Felicity Carroll",
+          "title": "Founder",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "SME manufacturing/distribution focus",
       "notable_clients": "",
       "awards": ""
     }

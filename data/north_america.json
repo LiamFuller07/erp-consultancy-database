@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:12:21.301Z",
+  "last_updated": "2026-01-21T10:12:25.445Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16079,6 +16079,32 @@
       "why_target": "Acumatica Gold Certified Partner. NetSuite Partner. Founded 2008. 500+ customers, 400K+ consulting hours. Cannabis industry expertise. Inc. 5000 company",
       "notable_clients": "500+ customers across industries including cannabis",
       "awards": "Inc. 5000, Sacramento Business Journal Fastest Growing"
+    },
+    {
+      "id": "na-1335",
+      "rank": 1335,
+      "priority": "HIGH",
+      "company_name": "Corning Data",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "70",
+      "erp_systems": [
+        "IFS",
+        "Oracle JD Edwards",
+        "NetSuite"
+      ],
+      "website": "corningdata.com",
+      "decision_makers": [
+        {
+          "name": "Erik Peterson",
+          "title": "CEO",
+          "linkedin_url": "https://www.linkedin.com/in/erikrosspeterson/"
+        }
+      ],
+      "why_target": "40+ years experience (founded 1980). Oracle JDE Gold Partner, IFS Channel Partner. Consultants avg 18+ years experience. Food & beverage, aerospace, automotive, healthcare",
+      "notable_clients": "Aerospace, automotive, healthcare, food & beverage manufacturers",
+      "awards": "Oracle JD Edwards Gold Partner, IFS Channel Partner"
     }
   ]
 }

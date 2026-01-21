@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:55:52.635Z",
+  "last_updated": "2026-01-21T07:55:56.680Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5591,6 +5591,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "B2B specialist for complex integrations",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-265",
+      "rank": 265,
+      "priority": "MEDIUM",
+      "company_name": "Krish TechnoLabs",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Preferred Partner with Sydney/Melbourne/Perth presence, B2B/B2C accelerators",
       "notable_clients": "",
       "awards": ""
     }

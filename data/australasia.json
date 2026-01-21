@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:57:40.501Z",
+  "last_updated": "2026-01-21T07:57:43.754Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -6001,6 +6001,22 @@
       "notable_clients": [
         "Wesfarmers Health"
       ],
+      "awards": ""
+    },
+    {
+      "id": "au-286",
+      "rank": 286,
+      "priority": "MEDIUM",
+      "company_name": "Vuealta",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Official Partner with FastTrack pre-built models",
+      "notable_clients": "",
       "awards": ""
     }
   ]

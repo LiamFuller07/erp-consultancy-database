@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:08:56.722Z",
+  "last_updated": "2026-01-21T10:09:00.529Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15874,6 +15874,40 @@
       "why_target": "Authorized Sage Partner since 2001. Part of Reinsel Kuntz Lesher LLP accounting firm. Recently acquired Rebdev (Pittsburgh Sage X3 partner)",
       "notable_clients": "Mid-market companies across industries",
       "awards": "Award-winning national leader in Sage ERP consulting"
+    },
+    {
+      "id": "na-1329",
+      "rank": 1329,
+      "priority": "HIGH",
+      "company_name": "Big Bang 360 (Big Bang ERP)",
+      "country": "Canada",
+      "city": "Montreal",
+      "state": "QC",
+      "employees": "80+",
+      "erp_systems": [
+        "NetSuite",
+        "Sage Intacct",
+        "Microsoft Dynamics 365",
+        "Rootstock",
+        "Certinia",
+        "Odoo"
+      ],
+      "website": "bigbang360.com",
+      "decision_makers": [
+        {
+          "name": "Gabriel Tupula Yamba",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Mark Rhyman",
+          "title": "Co-CEO & Chief Business Development Officer",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "B Corp Certified consulting firm. Founded 2014, rapid growth. Offices in Montreal, Paris, Toronto, USA, London, Mauritius. Multi-platform expertise",
+      "notable_clients": "Enterprises of all sizes globally",
+      "awards": "NetSuite 4-Star Award (3 consecutive years)"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:08:49.082Z",
+  "last_updated": "2026-01-21T10:08:52.880Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15819,6 +15819,35 @@
       "why_target": "5-star Oracle NetSuite Solution Provider. DFW-based. 100-day implementation program for distribution. Author of 'The Big Commitment' (ERP implementation book)",
       "notable_clients": "Manufacturing, distribution, professional services in Texas",
       "awards": "Dallas-Fort Worth Top Workplaces 2023, 5-Star NetSuite Partner"
+    },
+    {
+      "id": "na-1327",
+      "rank": 1327,
+      "priority": "HIGH",
+      "company_name": "VAI (Vormittag Associates Inc)",
+      "country": "USA",
+      "city": "Ronkonkoma",
+      "state": "NY",
+      "employees": "200+",
+      "erp_systems": [
+        "VAI S2K ERP"
+      ],
+      "website": "vai.net",
+      "decision_makers": [
+        {
+          "name": "Robert Vormittag",
+          "title": "Founder, President & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Joe Scioscia",
+          "title": "Executive Vice President",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Independent mid-market ERP developer since 1978. Proprietary S2K platform with 300+ enhancements. 1,500+ companies using software. 100% US-based support",
+      "notable_clients": "Distribution, manufacturing, retail, food, pharmaceutical industries",
+      "awards": "Northwell Health recognition for Long Island technology contributions"
     }
   ]
 }

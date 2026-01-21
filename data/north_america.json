@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:59:56.226Z",
+  "last_updated": "2026-01-21T10:00:01.037Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15303,6 +15303,59 @@
       "why_target": "Deltek GovCon Partner of Year 2022, Americas Partner of Year 2023 - 5x award winner. 900+ Costpoint implementations for government contractors",
       "notable_clients": "Government contractors, marketing agencies, professional services firms",
       "awards": "Deltek GovCon Partner of Year 2022, Deltek Americas Partner of Year 2023, Jersey's Best Top Workplaces 2025 #15"
+    },
+    {
+      "id": "na-1312",
+      "rank": 1312,
+      "priority": "HIGHEST",
+      "company_name": "Nordic Consulting Partners",
+      "country": "USA",
+      "city": "Madison",
+      "state": "WI",
+      "employees": "3300+",
+      "erp_systems": [
+        "Infor CloudSuite",
+        "Infor Lawson",
+        "Oracle",
+        "Epic",
+        "Healthcare ERP"
+      ],
+      "website": "nordicglobal.com",
+      "decision_makers": [
+        {
+          "name": "Stu McLean",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Paul Slaughter",
+          "title": "COO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Steve Eckert",
+          "title": "Chief Growth Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kevin Erdal",
+          "title": "Managing Director, Global Practice Leader Digital Health",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Shannon Yasseri",
+          "title": "Managing Director",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Dr. Craig Joseph",
+          "title": "Chief Medical Officer",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "3,300+ consultants, serves 700+ healthcare organizations. Major healthcare ERP specialist with advisory, implementation, ERP services",
+      "notable_clients": "700+ healthcare organizations across USA",
+      "awards": "KLAS Top Performer"
     }
   ]
 }

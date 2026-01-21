@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:49.151Z",
+  "last_updated": "2026-01-21T07:50:51.961Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4687,6 +4687,22 @@
       "rank": 213,
       "priority": "LOW",
       "company_name": "TJ Microsystems",
+      "country": "Australia",
+      "city": "Cairns",
+      "state": "QLD",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-214",
+      "rank": 214,
+      "priority": "LOW",
+      "company_name": "True North Technology",
       "country": "Australia",
       "city": "Cairns",
       "state": "QLD",

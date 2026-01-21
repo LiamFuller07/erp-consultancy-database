@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:11:09.607Z",
+  "last_updated": "2026-01-21T09:11:13.334Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14845,6 +14845,47 @@
       "awards": [
         "Inc Magazine Best Workplaces 2023"
       ]
+    },
+    {
+      "id": "na-1297",
+      "rank": 1297,
+      "priority": "HIGH",
+      "company_name": "YASH Technologies",
+      "country": "USA",
+      "city": "East Moline",
+      "state": "IL",
+      "employees": "5000-10000",
+      "erp_systems": [
+        "QAD Adaptive ERP",
+        "SAP S/4HANA",
+        "Oracle"
+      ],
+      "website": "yash.com",
+      "decision_makers": [
+        {
+          "name": "Manoj Baheti",
+          "title": "Founder, President & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Balakrishna Navuluri",
+          "title": "COO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Don Young",
+          "title": "COO - Americas",
+          "linkedin_url": ""
+        },
+        {
+          "name": "John Gretter",
+          "title": "VP, SAP Strategic Alliance",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Global IT consulting firm since 1996, QAD strategic partner, SAP expertise, serves Fortune 500, $100-500M revenue",
+      "notable_clients": [],
+      "awards": []
     }
   ]
 }

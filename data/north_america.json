@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:08:45.172Z",
+  "last_updated": "2026-01-21T10:08:49.082Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15790,6 +15790,35 @@
       "why_target": "Infor Gold Channel Partner since 2011. Founded by Fred Cramer and Doug Bulla. Manufacturing specialist with global implementation experience in 20 countries",
       "notable_clients": "Discrete manufacturers, including largest independent transformer manufacturer in USA",
       "awards": "Infor Gold Channel Partner"
+    },
+    {
+      "id": "na-1326",
+      "rank": 1326,
+      "priority": "HIGH",
+      "company_name": "The Vested Group",
+      "country": "USA",
+      "city": "Plano",
+      "state": "TX",
+      "employees": "50-100",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "website": "thevested.com",
+      "decision_makers": [
+        {
+          "name": "John Mack",
+          "title": "Co-founder & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Joel Patterson",
+          "title": "Founder",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "5-star Oracle NetSuite Solution Provider. DFW-based. 100-day implementation program for distribution. Author of 'The Big Commitment' (ERP implementation book)",
+      "notable_clients": "Manufacturing, distribution, professional services in Texas",
+      "awards": "Dallas-Fort Worth Top Workplaces 2023, 5-Star NetSuite Partner"
     }
   ]
 }

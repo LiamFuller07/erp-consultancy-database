@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:25.116Z",
+  "last_updated": "2026-01-21T07:50:27.829Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4521,6 +4521,28 @@
       "website": "",
       "decision_makers": [],
       "why_target": "",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-205",
+      "rank": 205,
+      "priority": "MEDIUM",
+      "company_name": "ACTEK Business Solutions",
+      "country": "Australia",
+      "city": "Darwin",
+      "state": "NT",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Kevin Aylward",
+          "title": "Contact",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Level 4, 66 Smith St Darwin - NT specialist",
       "notable_clients": "",
       "awards": ""
     }

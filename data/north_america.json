@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:12:29.208Z",
+  "last_updated": "2026-01-21T10:21:55.651Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16137,6 +16137,46 @@
       "why_target": "Intuit's #1 QuickBooks Reseller Partner. Founded 2009. Woman-owned business. CEO named Top Austin-area CEO. Also Acumatica and NetSuite implementations",
       "notable_clients": "SMBs transitioning from QuickBooks to ERP",
       "awards": "Intuit #1 QuickBooks Reseller, Austin Business Journal Top CEO, Top QuickBooks ProAdvisor (6 years)"
+    },
+    {
+      "id": "na-1337",
+      "rank": 1337,
+      "priority": "HIGH",
+      "company_name": "CrossVue",
+      "country": "USA",
+      "city": "McLean",
+      "state": "VA",
+      "employees": "100-200",
+      "erp_systems": [
+        "Workday HCM",
+        "Workday Financials"
+      ],
+      "website": "crossvue.com",
+      "decision_makers": [
+        {
+          "name": "Bart Thielbar",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Julie Ramzel",
+          "title": "CFO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Angela Ward",
+          "title": "Chief Consulting Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Britton Bradley",
+          "title": "Chief Delivery Officer",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Workday Services Partner. Spun off from CrossCountry Consulting in 2022. GSA contract holder for federal agencies. Focus on regulated industries",
+      "notable_clients": "Federal agencies, regulated industries",
+      "awards": "GSA Multiple Award Schedule Contract"
     }
   ]
 }

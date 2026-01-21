@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:48:40.939Z",
+  "last_updated": "2026-01-21T07:48:43.137Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4230,6 +4230,30 @@
       "why_target": "Hospitality middleware integration",
       "notable_clients": "",
       "awards": ""
+    },
+    {
+      "id": "au-191",
+      "rank": 191,
+      "priority": "HIGH",
+      "company_name": "Horizon Business Systems",
+      "country": "Australia",
+      "city": "West Leederville",
+      "state": "WA",
+      "employees": "15-30",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Michael Pendred",
+          "title": "CEO",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "WA's only local Platinum MYOB Partner",
+      "notable_clients": "",
+      "awards": [
+        "Platinum Partner"
+      ]
     }
   ]
 }

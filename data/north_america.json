@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:12:16.912Z",
+  "last_updated": "2026-01-21T10:12:21.301Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16054,6 +16054,31 @@
       "why_target": "Major professional services firm with Dynamics 365 practice. 1,500+ employees. Combines accounting/advisory with technology services. Manufacturing, distribution, healthcare focus",
       "notable_clients": "Manufacturing, distribution, healthcare",
       "awards": ""
+    },
+    {
+      "id": "na-1334",
+      "rank": 1334,
+      "priority": "HIGH",
+      "company_name": "Protelo Inc",
+      "country": "USA",
+      "city": "Sacramento",
+      "state": "CA",
+      "employees": "50-100",
+      "erp_systems": [
+        "NetSuite",
+        "Acumatica"
+      ],
+      "website": "proteloinc.com",
+      "decision_makers": [
+        {
+          "name": "Christer Johansson",
+          "title": "Founder & CEO",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Acumatica Gold Certified Partner. NetSuite Partner. Founded 2008. 500+ customers, 400K+ consulting hours. Cannabis industry expertise. Inc. 5000 company",
+      "notable_clients": "500+ customers across industries including cannabis",
+      "awards": "Inc. 5000, Sacramento Business Journal Fastest Growing"
     }
   ]
 }

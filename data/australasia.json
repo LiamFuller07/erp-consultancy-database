@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:58:42.587Z",
+  "last_updated": "2026-01-21T07:58:45.832Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -6151,6 +6151,24 @@
       "decision_makers": [],
       "why_target": "Premier Fluent Partner, 250+ years collective Fluent experience",
       "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-295",
+      "rank": 295,
+      "priority": "HIGH",
+      "company_name": "Merkle",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Wave Champion Fluent Partner",
+      "notable_clients": [
+        "VF Corporation (North Face, Vans, Timberland)"
+      ],
       "awards": ""
     }
   ]

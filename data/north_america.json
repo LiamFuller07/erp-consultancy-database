@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:25:14.345Z",
+  "last_updated": "2026-01-21T10:25:19.585Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16450,6 +16450,30 @@
       "why_target": "Top NetSuite Alliance Partner in NA, Australia, LATAM. Founded 2021. Focus on NetSuite implementations, AI, Change Management. Former Oracle NetSuite professional services consultant",
       "notable_clients": "Large and midmarket organizations",
       "awards": "NetSuite Alliance Partner Spotlight Award Winter 2024 (5 categories)"
+    },
+    {
+      "id": "na-1348",
+      "rank": 1348,
+      "priority": "HIGH",
+      "company_name": "NewGen Business Solutions",
+      "country": "USA",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "employees": "26",
+      "erp_systems": [
+        "NetSuite"
+      ],
+      "website": "newgennow.com",
+      "decision_makers": [
+        {
+          "name": "Richard Kostopoulos",
+          "title": "Founder, President & CEO",
+          "linkedin_url": "https://www.linkedin.com/in/richard-rick-kostopoulos-9b83314/"
+        }
+      ],
+      "why_target": "Founded 1996 by USAF veteran CPA. 25+ years ERP experience. Offices in Scottsdale, Naperville, Las Vegas, Tampa. NetSuite Partner of Year 2023",
+      "notable_clients": "Enterprise clients across industries",
+      "awards": "NetSuite Partner of Year 2023 (Breakthrough Solution Provider), Microvertical Solution Provider of Year 2025"
     }
   ]
 }

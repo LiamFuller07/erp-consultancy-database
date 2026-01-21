@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:57:22.556Z",
+  "last_updated": "2026-01-21T07:57:24.190Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5872,6 +5872,32 @@
       "decision_makers": [],
       "why_target": "Sydney/Melbourne presence, certified consultants on engagement",
       "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-280",
+      "rank": 280,
+      "priority": "HIGHEST",
+      "company_name": "Inside Info",
+      "country": "Australia",
+      "city": "North Sydney",
+      "state": "NSW",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Phil",
+          "title": "Team Lead",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Elite Qlik Partner, 20+ years, dedicated retail practice",
+      "notable_clients": [
+        "Pillow Talk",
+        "Opal",
+        "Groupe SEB"
+      ],
       "awards": ""
     }
   ]

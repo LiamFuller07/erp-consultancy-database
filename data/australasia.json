@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:52:02.881Z",
+  "last_updated": "2026-01-21T07:52:06.890Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4776,6 +4776,24 @@
       "decision_makers": [],
       "why_target": "Smart Industry Readiness Index, Manufacturing specialist",
       "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-219",
+      "rank": 219,
+      "priority": "HIGH",
+      "company_name": "CartonCloud",
+      "country": "Australia",
+      "city": "Brisbane",
+      "state": "QLD",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "500+ logistics companies including AustraCold",
+      "notable_clients": [
+        "AustraCold"
+      ],
       "awards": ""
     }
   ]

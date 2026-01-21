@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:57:15.845Z",
+  "last_updated": "2026-01-21T07:57:19.232Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5840,6 +5840,22 @@
       "notable_clients": [
         "Teys Australia"
       ],
+      "awards": ""
+    },
+    {
+      "id": "au-278",
+      "rank": 278,
+      "priority": "MEDIUM",
+      "company_name": "Data Insight Consulting",
+      "country": "Australia",
+      "city": "Sydney",
+      "state": "NSW",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "SMB boutique Tableau specialist",
+      "notable_clients": "",
       "awards": ""
     }
   ]

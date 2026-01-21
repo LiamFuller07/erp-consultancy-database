@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:03:12.820Z",
+  "last_updated": "2026-01-21T10:08:28.147Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15661,6 +15661,31 @@
       "why_target": "Microsoft Inner Circle member (top 1% globally). 20+ years in Texas market. Offices in Houston, Dallas, Vancouver. Strong in oil & gas, construction, distribution",
       "notable_clients": "Oil & gas, manufacturing, distribution, construction in Texas/South Central US",
       "awards": "Microsoft Inner Circle (top 1% global experts)"
+    },
+    {
+      "id": "na-1321",
+      "rank": 1321,
+      "priority": "HIGHEST",
+      "company_name": "Decision Resources Inc (DRI)",
+      "country": "USA",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "employees": "100+",
+      "erp_systems": [
+        "Infor CloudSuite Industrial",
+        "Infor SyteLine"
+      ],
+      "website": "decision.com",
+      "decision_makers": [
+        {
+          "name": "Bill Titus",
+          "title": "Founder & CEO",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Largest Infor CloudSuite Industrial partner in USA. Founded 1978, 40+ years experience. Infor Partner of Year 2024. Recently acquired AIT Business Services",
+      "notable_clients": "Discrete and process manufacturers",
+      "awards": "Infor CloudSuite Industrial Partner of Year 2024, 100s of awards over 40 years"
     }
   ]
 }

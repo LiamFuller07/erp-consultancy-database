@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:52:20.597Z",
+  "last_updated": "2026-01-21T07:52:23.582Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4883,6 +4883,22 @@
         "Camilla",
         "Nobody Denim"
       ],
+      "awards": ""
+    },
+    {
+      "id": "au-225",
+      "rank": 225,
+      "priority": "HIGH",
+      "company_name": "Niche Fashion Technology",
+      "country": "Australia",
+      "city": "Sydney",
+      "state": "NSW",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Level 21, 320 Pitt St - Fashion manufacturers/wholesalers",
+      "notable_clients": "",
       "awards": ""
     }
   ]

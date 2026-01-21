@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:49:05.808Z",
+  "last_updated": "2026-01-21T07:49:08.929Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4303,6 +4303,28 @@
         }
       ],
       "why_target": "National coverage, retail integration specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-194",
+      "rank": 194,
+      "priority": "HIGH",
+      "company_name": "IPR Accounting",
+      "country": "Australia",
+      "city": "Box Hill",
+      "state": "VIC",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Shirley Xu",
+          "title": "Contact",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Retail inventory specialist",
       "notable_clients": "",
       "awards": ""
     }

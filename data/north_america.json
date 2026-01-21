@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T08:58:27.096Z",
+  "last_updated": "2026-01-21T09:06:40.573Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14470,6 +14470,61 @@
       "notable_clients": "",
       "awards": [
         "SAP Gold Partner"
+      ]
+    },
+    {
+      "id": "na-1287",
+      "rank": 1287,
+      "priority": "HIGHEST",
+      "company_name": "sa.global",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "1000+",
+      "erp_systems": [
+        "Microsoft Dynamics 365",
+        "D365 F&O",
+        "Business Central",
+        "Power Platform"
+      ],
+      "website": "saglobal.com",
+      "decision_makers": [
+        {
+          "name": "Stephen James",
+          "title": "CEO & Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Karen Covey",
+          "title": "Managing Director, Global Managed Services",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Matt Calderwood",
+          "title": "Managing Director",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Ben Campbell-Barry",
+          "title": "Chief Operating Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Jim Willsher",
+          "title": "Chief Technology Officer",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kapil Gupta",
+          "title": "Chief Revenue Officer",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "11-time Microsoft Dynamics Partner of Year, Inner Circle 11 years, 1000+ team across 25 countries",
+      "notable_clients": [],
+      "awards": [
+        "Microsoft Dynamics Partner of Year (11x)",
+        "Microsoft Inner Circle (11 years)"
       ]
     }
   ]

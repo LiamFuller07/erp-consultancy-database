@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:14.762Z",
+  "last_updated": "2026-01-21T07:50:17.114Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4459,6 +4459,22 @@
       "awards": [
         "Partner of Year APAC 2023"
       ]
+    },
+    {
+      "id": "au-201",
+      "rank": 201,
+      "priority": "MEDIUM",
+      "company_name": "Dynamic Aspect",
+      "country": "Australia",
+      "city": "Adelaide",
+      "state": "SA",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Microsoft specialist",
+      "notable_clients": "",
+      "awards": ""
     }
   ]
 }

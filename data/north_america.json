@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:15:19.075Z",
+  "last_updated": "2026-01-21T09:15:22.999Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15100,6 +15100,43 @@
         "Plex Partner of the Year",
         "Fortune 5000",
         "Columbus Fast 50"
+      ]
+    },
+    {
+      "id": "na-1305",
+      "rank": 1305,
+      "priority": "HIGH",
+      "company_name": "Captivea USA",
+      "country": "USA",
+      "city": "Orlando",
+      "state": "FL",
+      "employees": "50-100",
+      "erp_systems": [
+        "Odoo ERP",
+        "Odoo Enterprise"
+      ],
+      "website": "captivea.com",
+      "decision_makers": [
+        {
+          "name": "Joshuah",
+          "title": "CEO, Captivea USA",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Sébastien Riss",
+          "title": "Global CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Nathan Quijoux",
+          "title": "VP of Operations",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Odoo Gold Partner, 18+ years ERP experience, 600+ satisfied customers, offices in Orlando, Louisiana, Arizona, Missouri",
+      "notable_clients": [],
+      "awards": [
+        "Odoo Gold Partner"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:47:09.591Z",
+  "last_updated": "2026-01-21T07:47:12.243Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -3942,6 +3942,31 @@
         "Diamond Partner",
         "Elite Partner",
         "Partner of Year awards"
+      ]
+    },
+    {
+      "id": "au-176",
+      "rank": 176,
+      "priority": "HIGHEST",
+      "company_name": "Kilimanjaro Consulting",
+      "country": "Australia",
+      "city": "Melbourne",
+      "state": "VIC",
+      "employees": "100+",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Ronnie Baskind",
+          "title": "CEO/Founder",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Diamond Partner 7 consecutive years, 250+ implementations, Wholesale & NFP focus",
+      "notable_clients": "",
+      "awards": [
+        "Diamond Partner 7 consecutive years",
+        "Partner of Year 2016-2018"
       ]
     }
   ]

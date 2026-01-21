@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:06:58.964Z",
+  "last_updated": "2026-01-21T09:10:57.518Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14710,6 +14710,48 @@
       "awards": [
         "Inc 5000 (6x)",
         "SBA 8(a) Certified"
+      ]
+    },
+    {
+      "id": "na-1293",
+      "rank": 1293,
+      "priority": "HIGHEST",
+      "company_name": "Astra Canyon Group",
+      "country": "USA",
+      "city": "Tucson",
+      "state": "AZ",
+      "employees": "100-200",
+      "erp_systems": [
+        "IFS Cloud",
+        "IFS Applications"
+      ],
+      "website": "astracanyon.com",
+      "decision_makers": [
+        {
+          "name": "Naren Velu",
+          "title": "President & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Kanchana Narendran",
+          "title": "Vice President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Blake Snider",
+          "title": "Chief Growth Officer",
+          "linkedin_url": "linkedin.com/in/sniderblake/"
+        },
+        {
+          "name": "Ajay Gupta",
+          "title": "Client Success Officer",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "IFS Platinum Channel & Services Partner, 200+ enterprise clients, 20+ years IFS experience, merger of Astra Inc & Canyon Technologies",
+      "notable_clients": [],
+      "awards": [
+        "IFS Platinum Partner"
       ]
     }
   ]

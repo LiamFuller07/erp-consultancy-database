@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:27.829Z",
+  "last_updated": "2026-01-21T07:50:30.536Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4543,6 +4543,22 @@
         }
       ],
       "why_target": "Level 4, 66 Smith St Darwin - NT specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-206",
+      "rank": 206,
+      "priority": "LOW",
+      "company_name": "Territory Technology Solutions",
+      "country": "Australia",
+      "city": "Darwin & Alice Springs",
+      "state": "NT",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "",
       "notable_clients": "",
       "awards": ""
     }

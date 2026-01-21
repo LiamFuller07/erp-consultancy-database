@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:58:36.398Z",
+  "last_updated": "2026-01-21T07:58:39.644Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -6118,6 +6118,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Premier Coupa Partner, 300+ deployments globally",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-293",
+      "rank": 293,
+      "priority": "HIGH",
+      "company_name": "Optis Consulting",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Premier Coupa Partner, >90% supplier adoption",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:56:14.838Z",
+  "last_updated": "2026-01-21T07:56:17.907Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5727,6 +5727,24 @@
         "T2 Tea",
         "Munro Footwear",
         "Super Retail Group"
+      ],
+      "awards": ""
+    },
+    {
+      "id": "au-272",
+      "rank": 272,
+      "priority": "MEDIUM",
+      "company_name": "Cognizant (Contino)",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Lasoo marketplace implementation",
+      "notable_clients": [
+        "Lasoo"
       ],
       "awards": ""
     }

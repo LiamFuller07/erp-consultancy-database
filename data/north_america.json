@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:00:04.657Z",
+  "last_updated": "2026-01-21T10:00:08.863Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15386,6 +15386,52 @@
       "why_target": "Epicor Platinum Partner 2013-2022, Americas Partner of Year 2013. Specializes in A&D, manufacturing, machine shops, engineer-to-order",
       "notable_clients": "A&D manufacturers, machine shops, general manufacturers",
       "awards": "Epicor Platinum Partner (10 consecutive years), Americas Partner of Year 2013, Gold & Silver Channel Partner Awards"
+    },
+    {
+      "id": "na-1314",
+      "rank": 1314,
+      "priority": "HIGHEST",
+      "company_name": "delaware USA & Canada",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "216",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP ECC",
+        "RISE with SAP"
+      ],
+      "website": "delawareconsulting.com",
+      "decision_makers": [
+        {
+          "name": "Wynn Baum",
+          "title": "Managing Partner & Founder (North America), Vice Chairman delaware International",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Pete King",
+          "title": "Managing Partner, North America",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Mike Azzarello",
+          "title": "Managing Director, Sales - Automotive & General Manufacturing",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Colin Miller",
+          "title": "Partner",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Alan F. Smith",
+          "title": "Partner",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "SAP Platinum Partner (1 of 11 globally), Gartner recognized for SAP S/4HANA, RISE with SAP Validated Partner (1 of 12). Strong A&D vertical",
+      "notable_clients": "Aerospace & Defense, Automotive, General Manufacturing",
+      "awards": "SAP Pinnacle Award Customer Success, RISE with SAP Validated Partner, Gartner SAP S/4HANA Magic Quadrant (3 years)"
     }
   ]
 }

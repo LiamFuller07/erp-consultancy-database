@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:56:17.907Z",
+  "last_updated": "2026-01-21T07:57:02.308Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5746,6 +5746,28 @@
       "notable_clients": [
         "Lasoo"
       ],
+      "awards": ""
+    },
+    {
+      "id": "au-273",
+      "rank": 273,
+      "priority": "HIGH",
+      "company_name": "Tridant",
+      "country": "Australia",
+      "city": "Melbourne",
+      "state": "VIC",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Willem Boshoff",
+          "title": "Director",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Retail dashboards, IBP, S&OP, Inventory optimization app",
+      "notable_clients": "",
       "awards": ""
     }
   ]

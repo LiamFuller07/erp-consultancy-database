@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:52:36.916Z",
+  "last_updated": "2026-01-21T07:52:39.914Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4973,6 +4973,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Affordable all-in-one pharmacy solution",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-230",
+      "rank": 230,
+      "priority": "MEDIUM",
+      "company_name": "RxOne / HealthSoft",
+      "country": "Australia",
+      "city": "Oakleigh",
+      "state": "VIC",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "",
       "notable_clients": "",
       "awards": ""
     }

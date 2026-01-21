@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:52:48.489Z",
+  "last_updated": "2026-01-21T07:52:51.696Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5053,6 +5053,24 @@
       ],
       "why_target": "70% automotive aftermarket clients",
       "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-234",
+      "rank": 234,
+      "priority": "HIGH",
+      "company_name": "Markinson (MomentumPro)",
+      "country": "Australia",
+      "city": "Eight Mile Plains",
+      "state": "QLD",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "35+ years, serves Burson Auto Parts",
+      "notable_clients": [
+        "Burson Auto Parts"
+      ],
       "awards": ""
     }
   ]

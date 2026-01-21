@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:11:13.334Z",
+  "last_updated": "2026-01-21T09:11:16.961Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14886,6 +14886,28 @@
       "why_target": "Global IT consulting firm since 1996, QAD strategic partner, SAP expertise, serves Fortune 500, $100-500M revenue",
       "notable_clients": [],
       "awards": []
+    },
+    {
+      "id": "na-1298",
+      "rank": 1298,
+      "priority": "HIGH",
+      "company_name": "SystemsAccountants",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "50-100",
+      "erp_systems": [
+        "Unit4 ERP",
+        "Unit4 ERPx",
+        "Unit4 FP&A"
+      ],
+      "website": "systemsaccountants.com",
+      "decision_makers": [],
+      "why_target": "Global Unit4 Select Partner for 15+ years, 400+ Unit4 clients supported, specializes in nonprofit, higher ed, local government",
+      "notable_clients": [],
+      "awards": [
+        "Unit4 Select Partner"
+      ]
     }
   ]
 }

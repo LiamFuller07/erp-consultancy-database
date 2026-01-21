@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:52:17.770Z",
+  "last_updated": "2026-01-21T07:52:20.597Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4862,6 +4862,27 @@
       "decision_makers": [],
       "why_target": "3PL, Life Science, Retail specialist",
       "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-224",
+      "rank": 224,
+      "priority": "HIGH",
+      "company_name": "Seams Fashion ERP",
+      "country": "Australia",
+      "city": "Moorabbin",
+      "state": "VIC",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Fashion/Apparel specialist",
+      "notable_clients": [
+        "Carters OshKosh",
+        "Columbia",
+        "Camilla",
+        "Nobody Denim"
+      ],
       "awards": ""
     }
   ]

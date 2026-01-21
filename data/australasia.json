@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:12.020Z",
+  "last_updated": "2026-01-21T07:50:14.762Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4435,6 +4435,30 @@
       "why_target": "Wine industry specialist (Wine One product), Level 2, 333 King William St",
       "notable_clients": "",
       "awards": ""
+    },
+    {
+      "id": "au-200",
+      "rank": 200,
+      "priority": "HIGH",
+      "company_name": "Aligent Consulting",
+      "country": "Australia",
+      "city": "Adelaide",
+      "state": "SA",
+      "employees": "100+ staff",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Jarrod Swift",
+          "title": "CEO",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Level 1, 212 Pirie St - HIGH retail focus",
+      "notable_clients": "",
+      "awards": [
+        "Partner of Year APAC 2023"
+      ]
     }
   ]
 }

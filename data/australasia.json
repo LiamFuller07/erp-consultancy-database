@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:46:09.023Z",
+  "last_updated": "2026-01-21T07:46:11.463Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -3812,6 +3812,28 @@
       "website": "exent.co",
       "decision_makers": [],
       "why_target": "First national SaaS+ deployment",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-170",
+      "rank": 170,
+      "priority": "LOW",
+      "company_name": "Chartertech",
+      "country": "Australia",
+      "city": "Canberra",
+      "state": "ACT",
+      "employees": "150+ consultants",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Michael McRoberts",
+          "title": "Director",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Federal Government specialist",
       "notable_clients": "",
       "awards": ""
     }

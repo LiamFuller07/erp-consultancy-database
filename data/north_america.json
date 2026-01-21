@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:25:28.335Z",
+  "last_updated": "2026-01-21T10:25:35.897Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16524,6 +16524,30 @@
       "why_target": "30+ years technology solutions. Chicago-based with nationwide staff. Sage Intacct and SYSPRO specialist. Information Technology Alliance board member",
       "notable_clients": "Nonprofits, healthcare, businesses",
       "awards": ""
+    },
+    {
+      "id": "na-1351",
+      "rank": 1351,
+      "priority": "HIGH",
+      "company_name": "GRF CPAs & Advisors",
+      "country": "USA",
+      "city": "Washington",
+      "state": "DC",
+      "employees": "100-200",
+      "erp_systems": [
+        "Sage Intacct"
+      ],
+      "website": "grfcpa.com",
+      "decision_makers": [
+        {
+          "name": "Jackie Cardello",
+          "title": "President & Managing Partner",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "45 years experience. 1,600+ nonprofit clients. DC-area nonprofit specialist. Sage Intacct reseller for nonprofits. First woman Managing Partner",
+      "notable_clients": "1,600+ nonprofit organizations including NGOs",
+      "awards": "EXCEL Award sponsor since 2006"
     }
   ]
 }

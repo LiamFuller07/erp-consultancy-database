@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:03:01.283Z",
+  "last_updated": "2026-01-21T10:03:05.212Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15545,6 +15545,31 @@
       "why_target": "Largest JD Edwards consultancy in USA. 30+ years experience, 700+ clients, 250 consultants. 15 Oracle Excellence Awards",
       "notable_clients": "700+ businesses across industries",
       "awards": "15 Oracle Excellence Awards, 19 Oracle Partner Awards"
+    },
+    {
+      "id": "na-1318",
+      "rank": 1318,
+      "priority": "MEDIUM",
+      "company_name": "Turning Point Consulting",
+      "country": "USA",
+      "city": "Minneapolis",
+      "state": "MN",
+      "employees": "50-100",
+      "erp_systems": [
+        "NetSuite",
+        "Oracle OpenAir"
+      ],
+      "website": "turningpointconsulting.com",
+      "decision_makers": [
+        {
+          "name": "Dave Brady",
+          "title": "Founder, President & CEO",
+          "linkedin_url": "https://www.linkedin.com/in/bradyrd/"
+        }
+      ],
+      "why_target": "NetSuite Alliance Partner specializing in Twin Cities manufacturing. 95%+ success rate, zero data loss across implementations",
+      "notable_clients": "Twin Cities manufacturing companies",
+      "awards": ""
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:00:01.037Z",
+  "last_updated": "2026-01-21T10:00:04.657Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15356,6 +15356,36 @@
       "why_target": "3,300+ consultants, serves 700+ healthcare organizations. Major healthcare ERP specialist with advisory, implementation, ERP services",
       "notable_clients": "700+ healthcare organizations across USA",
       "awards": "KLAS Top Performer"
+    },
+    {
+      "id": "na-1313",
+      "rank": 1313,
+      "priority": "HIGH",
+      "company_name": "Cre8tive Technology & Design (CTND)",
+      "country": "USA",
+      "city": "San Diego",
+      "state": "CA",
+      "employees": "60-114",
+      "erp_systems": [
+        "Epicor Kinetic",
+        "Epicor ERP"
+      ],
+      "website": "ctnd.com",
+      "decision_makers": [
+        {
+          "name": "Aaron Continelli",
+          "title": "Founder, President & CEO",
+          "linkedin_url": "https://www.linkedin.com/in/aaron-continelli-ba5049a/"
+        },
+        {
+          "name": "Barry Mester",
+          "title": "CIO",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Epicor Platinum Partner 2013-2022, Americas Partner of Year 2013. Specializes in A&D, manufacturing, machine shops, engineer-to-order",
+      "notable_clients": "A&D manufacturers, machine shops, general manufacturers",
+      "awards": "Epicor Platinum Partner (10 consecutive years), Americas Partner of Year 2013, Gold & Silver Channel Partner Awards"
     }
   ]
 }

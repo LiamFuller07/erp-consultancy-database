@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:11:24.781Z",
+  "last_updated": "2026-01-21T09:15:06.468Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14965,6 +14965,38 @@
       "why_target": "Family-owned manufacturing ERP company, 35+ years under current CEO, no debt/no outside investment, serves 25+ industries in 30 countries",
       "notable_clients": [],
       "awards": []
+    },
+    {
+      "id": "na-1301",
+      "rank": 1301,
+      "priority": "HIGHEST",
+      "company_name": "BT Partners",
+      "country": "USA",
+      "city": "Chicago",
+      "state": "IL",
+      "employees": "50-100",
+      "erp_systems": [
+        "SYSPRO ERP"
+      ],
+      "website": "btpartners.com",
+      "decision_makers": [
+        {
+          "name": "Todd Perlman",
+          "title": "President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Jacob Specht",
+          "title": "Vice President",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Top Global SYSPRO Sales Partner 2023, 30+ years serving SMB manufacturing/distribution, Bob Scott Top 100 VAR",
+      "notable_clients": [],
+      "awards": [
+        "SYSPRO Top Global Sales Partner 2023",
+        "Bob Scott Top 100 VARs"
+      ]
     }
   ]
 }

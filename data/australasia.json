@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:48:35.514Z",
+  "last_updated": "2026-01-21T07:48:38.248Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4190,6 +4190,22 @@
         }
       ],
       "why_target": "Custom Zapier integration, 10+ years Brightpearl expertise",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-189",
+      "rank": 189,
+      "priority": "MEDIUM",
+      "company_name": "Cogent2",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Full-service Brightpearl agency (UK/Global ANZ)",
       "notable_clients": "",
       "awards": ""
     }

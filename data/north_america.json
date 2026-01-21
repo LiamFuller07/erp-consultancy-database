@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:25:19.585Z",
+  "last_updated": "2026-01-21T10:25:24.692Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16474,6 +16474,25 @@
       "why_target": "Founded 1996 by USAF veteran CPA. 25+ years ERP experience. Offices in Scottsdale, Naperville, Las Vegas, Tampa. NetSuite Partner of Year 2023",
       "notable_clients": "Enterprise clients across industries",
       "awards": "NetSuite Partner of Year 2023 (Breakthrough Solution Provider), Microvertical Solution Provider of Year 2025"
+    },
+    {
+      "id": "na-1349",
+      "rank": 1349,
+      "priority": "HIGH",
+      "company_name": "LIDD Supply Chain Consultants",
+      "country": "Canada",
+      "city": "Montreal",
+      "state": "QC",
+      "employees": "155",
+      "erp_systems": [
+        "NetSuite",
+        "Microsoft Dynamics"
+      ],
+      "website": "lidd.com",
+      "decision_makers": [],
+      "why_target": "Global supply chain consulting. Founded 2009. $15M revenue. Offices in Montreal, LA, Seoul, Toronto. NetSuite Alliance Partner Winter 2025 Spotlight Award",
+      "notable_clients": "Consumer products, food & beverage, retail, e-commerce",
+      "awards": "NetSuite Alliance Partner Spotlight Award Winter 2025"
     }
   ]
 }

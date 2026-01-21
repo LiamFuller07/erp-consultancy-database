@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:58:32.543Z",
+  "last_updated": "2026-01-21T07:58:36.398Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -6102,6 +6102,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "SME-focused ($5-50M revenue companies)",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-292",
+      "rank": 292,
+      "priority": "HIGH",
+      "company_name": "Acquis Consulting",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Premier Coupa Partner, 300+ deployments globally",
       "notable_clients": "",
       "awards": ""
     }

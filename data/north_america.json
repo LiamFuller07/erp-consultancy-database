@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:12:25.445Z",
+  "last_updated": "2026-01-21T10:12:29.208Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16105,6 +16105,38 @@
       "why_target": "40+ years experience (founded 1980). Oracle JDE Gold Partner, IFS Channel Partner. Consultants avg 18+ years experience. Food & beverage, aerospace, automotive, healthcare",
       "notable_clients": "Aerospace, automotive, healthcare, food & beverage manufacturers",
       "awards": "Oracle JD Edwards Gold Partner, IFS Channel Partner"
+    },
+    {
+      "id": "na-1336",
+      "rank": 1336,
+      "priority": "MEDIUM",
+      "company_name": "Fourlane",
+      "country": "USA",
+      "city": "Austin",
+      "state": "TX",
+      "employees": "25-50",
+      "erp_systems": [
+        "QuickBooks",
+        "Acumatica",
+        "NetSuite",
+        "Xero"
+      ],
+      "website": "fourlane.com",
+      "decision_makers": [
+        {
+          "name": "Marjorie Adams",
+          "title": "Founder & CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Rob Adams",
+          "title": "Co-founder",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Intuit's #1 QuickBooks Reseller Partner. Founded 2009. Woman-owned business. CEO named Top Austin-area CEO. Also Acumatica and NetSuite implementations",
+      "notable_clients": "SMBs transitioning from QuickBooks to ERP",
+      "awards": "Intuit #1 QuickBooks Reseller, Austin Business Journal Top CEO, Top QuickBooks ProAdvisor (6 years)"
     }
   ]
 }

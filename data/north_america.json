@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:22:15.693Z",
+  "last_updated": "2026-01-21T10:22:19.984Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16325,6 +16325,33 @@
       "why_target": "Founded 1991. 30+ years ERP experience. Offices in Louisville, Lexington KY, TN, NC. Mid-America regional focus with national reach",
       "notable_clients": "Small and mid-sized businesses throughout mid-America",
       "awards": ""
+    },
+    {
+      "id": "na-1343",
+      "rank": 1343,
+      "priority": "MEDIUM",
+      "company_name": "A BC Consulting Group",
+      "country": "USA",
+      "city": "Franklin",
+      "state": "TN",
+      "employees": "20-50",
+      "erp_systems": [
+        "Microsoft Dynamics 365 Business Central",
+        "Dynamics GP",
+        "Dynamics 365 Sales",
+        "Power Platform"
+      ],
+      "website": "abccgroup.com",
+      "decision_makers": [
+        {
+          "name": "Shannon Mullins",
+          "title": "Founder & CEO (Microsoft MVP)",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Nashville-based Microsoft Partner. CEO is Microsoft MVP. 23+ years Dynamics experience, 400+ implementation projects. Healthcare specialty packages. Staff avg 18 years experience",
+      "notable_clients": "Healthcare, professional sports, financial services, banks",
+      "awards": "Microsoft MVP (CEO Shannon Mullins)"
     }
   ]
 }

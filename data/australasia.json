@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:33.314Z",
+  "last_updated": "2026-01-21T07:50:36.150Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4581,6 +4581,28 @@
         }
       ],
       "why_target": "Level 9, 9-11 Cavenagh St",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-208",
+      "rank": 208,
+      "priority": "HIGH",
+      "company_name": "Applejack Group (Now Fusion5)",
+      "country": "Australia",
+      "city": "Brisbane",
+      "state": "QLD",
+      "employees": "~27 employees",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Stuart Mallet",
+          "title": "Founder/MD",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Retail/eCommerce focus",
       "notable_clients": "",
       "awards": ""
     }

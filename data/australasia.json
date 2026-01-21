@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:52:27.072Z",
+  "last_updated": "2026-01-21T07:52:30.226Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4922,6 +4922,25 @@
       "why_target": "3,000+ pharmacies served",
       "notable_clients": [
         "3,000+ pharmacies"
+      ],
+      "awards": ""
+    },
+    {
+      "id": "au-227",
+      "rank": 227,
+      "priority": "MEDIUM",
+      "company_name": "POS Works / Dispense Works",
+      "country": "Australia",
+      "city": "Brisbane",
+      "state": "QLD",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "",
+      "notable_clients": [
+        "Capital Chemist",
+        "Blooms"
       ],
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:54:02.429Z",
+  "last_updated": "2026-01-21T07:54:05.285Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5172,6 +5172,28 @@
       "awards": [
         "4x Partner of Year APJ"
       ]
+    },
+    {
+      "id": "au-241",
+      "rank": 241,
+      "priority": "HIGH",
+      "company_name": "Adaptiv",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "Boutique",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Nikolai Blackie",
+          "title": "Co-founder",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Platinum Boomi Partner, B2B/EDI expertise",
+      "notable_clients": "",
+      "awards": ""
     }
   ]
 }

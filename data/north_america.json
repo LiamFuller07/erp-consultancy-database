@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:15:22.999Z",
+  "last_updated": "2026-01-21T09:15:26.952Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15134,6 +15134,38 @@
         }
       ],
       "why_target": "Odoo Gold Partner, 18+ years ERP experience, 600+ satisfied customers, offices in Orlando, Louisiana, Arizona, Missouri",
+      "notable_clients": [],
+      "awards": [
+        "Odoo Gold Partner"
+      ]
+    },
+    {
+      "id": "na-1306",
+      "rank": 1306,
+      "priority": "HIGH",
+      "company_name": "OBS Solutions",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "75+",
+      "erp_systems": [
+        "Odoo ERP",
+        "Odoo Enterprise"
+      ],
+      "website": "odoo-bs.com",
+      "decision_makers": [
+        {
+          "name": "Tobias Hammeke",
+          "title": "CEO & Founder",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Robin",
+          "title": "US Team Lead",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Odoo Gold Partner since 2015, 500+ successful projects, Best Odoo Partners Alliance (BOP) founder, multinational projects specialist",
       "notable_clients": [],
       "awards": [
         "Odoo Gold Partner"

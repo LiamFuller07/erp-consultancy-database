@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:57:19.232Z",
+  "last_updated": "2026-01-21T07:57:22.556Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5855,6 +5855,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "SMB boutique Tableau specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-279",
+      "rank": 279,
+      "priority": "MEDIUM",
+      "company_name": "The Data School",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Sydney/Melbourne presence, certified consultants on engagement",
       "notable_clients": "",
       "awards": ""
     }

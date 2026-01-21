@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:10:57.518Z",
+  "last_updated": "2026-01-21T09:11:01.918Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14753,6 +14753,36 @@
       "awards": [
         "IFS Platinum Partner"
       ]
+    },
+    {
+      "id": "na-1294",
+      "rank": 1294,
+      "priority": "HIGH",
+      "company_name": "Pragmatek",
+      "country": "USA",
+      "city": "Minneapolis",
+      "state": "MN",
+      "employees": "50-100",
+      "erp_systems": [
+        "IFS Applications",
+        "IFS Field Service Management"
+      ],
+      "website": "pragmatek.com",
+      "decision_makers": [
+        {
+          "name": "Steve",
+          "title": "CEO & Owner",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Sean McGinty",
+          "title": "Senior Management & IFS Consultant",
+          "linkedin_url": "linkedin.com/in/spmcginty/"
+        }
+      ],
+      "why_target": "Only firm in North America with both full ERP & Field Service Management capabilities, 50+ IFS consultants, IFS Services Partner since 2018",
+      "notable_clients": [],
+      "awards": []
     }
   ]
 }

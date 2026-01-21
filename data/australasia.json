@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:57:29.796Z",
+  "last_updated": "2026-01-21T07:57:33.319Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5938,6 +5938,28 @@
       "website": "",
       "decision_makers": [],
       "why_target": "WA Qlik specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-283",
+      "rank": 283,
+      "priority": "HIGHEST",
+      "company_name": "Phocas Software",
+      "country": "Australia",
+      "city": "Sydney",
+      "state": "NSW",
+      "employees": "300+ employees",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Myles Glashier",
+          "title": "CEO/Co-Founder",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Australian vendor, 2,800+ companies, 48,000+ users, Accel-KKR majority equity (Oct 2025). Core focus on mid-market retail/wholesale",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:22:11.915Z",
+  "last_updated": "2026-01-21T10:22:15.693Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16299,6 +16299,32 @@
       "why_target": "Top-selling NetSuite-Only Partner globally. #3 overall in Global Solution Provider Program. 19 years NetSuite focus. 5-Star Partner. Medical devices, manufacturing, wholesale specialist",
       "notable_clients": "Medical devices, manufacturing, wholesale distribution",
       "awards": "NetSuite 5-Star Partner, Top NetSuite-Only Partner"
+    },
+    {
+      "id": "na-1342",
+      "rank": 1342,
+      "priority": "MEDIUM",
+      "company_name": "Oasis Solutions",
+      "country": "USA",
+      "city": "Louisville",
+      "state": "KY",
+      "employees": "25-50",
+      "erp_systems": [
+        "NetSuite",
+        "Sage 100",
+        "Sage Intacct"
+      ],
+      "website": "oasis.solutions",
+      "decision_makers": [
+        {
+          "name": "Aaron Rosenberg",
+          "title": "CEO",
+          "linkedin_url": "https://www.linkedin.com/in/rosenbergaaron/"
+        }
+      ],
+      "why_target": "Founded 1991. 30+ years ERP experience. Offices in Louisville, Lexington KY, TN, NC. Mid-America regional focus with national reach",
+      "notable_clients": "Small and mid-sized businesses throughout mid-America",
+      "awards": ""
     }
   ]
 }

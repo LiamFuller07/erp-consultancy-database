@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T11:06:54.967Z",
+  "last_updated": "2026-01-21T11:11:37.078Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -91,7 +91,8 @@
       "decision_makers": [],
       "why_target": "",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": true
     },
     {
       "id": "na-006",

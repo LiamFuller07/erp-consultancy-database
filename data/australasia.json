@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:06.158Z",
+  "last_updated": "2026-01-21T07:50:09.224Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4390,6 +4390,33 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Independent ERP advisor, Level 25, 108 St Georges Tce",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-198",
+      "rank": 198,
+      "priority": "MEDIUM",
+      "company_name": "ATW Consulting Services",
+      "country": "Australia",
+      "city": "Adelaide",
+      "state": "SA",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Angela White",
+          "title": "Consultant",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Simon White",
+          "title": "FCPA",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "",
       "notable_clients": "",
       "awards": ""
     }

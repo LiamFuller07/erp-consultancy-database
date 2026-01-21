@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:55:59.812Z",
+  "last_updated": "2026-01-21T07:56:03.041Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5623,6 +5623,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Platinum Agency Partner, 40+ marketplace integrations, automotive specialist",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-267",
+      "rank": 267,
+      "priority": "MEDIUM",
+      "company_name": "ShoreDigital",
+      "country": "Australia",
+      "city": "Brisbane",
+      "state": "QLD",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "",
       "notable_clients": "",
       "awards": ""
     }

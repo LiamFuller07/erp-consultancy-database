@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:54:25.243Z",
+  "last_updated": "2026-01-21T07:54:28.696Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5312,6 +5312,22 @@
       "awards": [
         "ANZ Partner of Year 2022"
       ]
+    },
+    {
+      "id": "au-249",
+      "rank": 249,
+      "priority": "MEDIUM",
+      "company_name": "Leonardo (UST)",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "ERMHA overtime solution in <4 weeks",
+      "notable_clients": "",
+      "awards": ""
     }
   ]
 }

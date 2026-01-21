@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:55:45.673Z",
+  "last_updated": "2026-01-21T07:55:49.486Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5559,6 +5559,24 @@
       "why_target": "International agency with ANZ presence",
       "notable_clients": "",
       "awards": ""
+    },
+    {
+      "id": "au-263",
+      "rank": 263,
+      "priority": "HIGH",
+      "company_name": "Digital Smoothie",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "New Partner of Year APAC",
+      "notable_clients": "",
+      "awards": [
+        "New Partner of Year APAC"
+      ]
     }
   ]
 }

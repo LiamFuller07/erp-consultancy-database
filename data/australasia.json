@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:57:12.511Z",
+  "last_updated": "2026-01-21T07:57:15.845Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5816,6 +5816,30 @@
       "decision_makers": [],
       "why_target": "ERP retail commerce, multi-state presence",
       "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-277",
+      "rank": 277,
+      "priority": "HIGH",
+      "company_name": "DataDive",
+      "country": "Australia",
+      "city": "Sydney",
+      "state": "NSW",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Neeraj Khurana",
+          "title": "Founder",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Food industry specialist (Teys Australia)",
+      "notable_clients": [
+        "Teys Australia"
+      ],
       "awards": ""
     }
   ]

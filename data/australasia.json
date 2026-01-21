@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:54:49.704Z",
+  "last_updated": "2026-01-21T07:54:52.178Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5452,6 +5452,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "#1 EDI by Capterra",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-257",
+      "rank": 257,
+      "priority": "MEDIUM",
+      "company_name": "EDIStech",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Cloud EDI for SMBs in ANZ",
       "notable_clients": "",
       "awards": ""
     }

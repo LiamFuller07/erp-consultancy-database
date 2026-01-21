@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:52:46.199Z",
+  "last_updated": "2026-01-21T07:52:48.489Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5025,6 +5025,33 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Grocery and hospitality focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-233",
+      "rank": 233,
+      "priority": "HIGH",
+      "company_name": "SQiBLE",
+      "country": "Australia",
+      "city": "Richmond",
+      "state": "VIC",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Kylie Harker",
+          "title": "CEO",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Ty Osborne",
+          "title": "COO",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "70% automotive aftermarket clients",
       "notable_clients": "",
       "awards": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:11:16.961Z",
+  "last_updated": "2026-01-21T09:11:20.649Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14907,6 +14907,28 @@
       "notable_clients": [],
       "awards": [
         "Unit4 Select Partner"
+      ]
+    },
+    {
+      "id": "na-1299",
+      "rank": 1299,
+      "priority": "HIGH",
+      "company_name": "GCON4",
+      "country": "USA",
+      "city": "USA",
+      "state": "National",
+      "employees": "20-50",
+      "erp_systems": [
+        "Unit4 ERP",
+        "Unit4 ERPx",
+        "Unit4 Business World"
+      ],
+      "website": "gcon4.com",
+      "decision_makers": [],
+      "why_target": "Unit4 Elite Partner, TOP Unit4 ERP implementation partner, founded by senior Unit4 consultants, global presence across 5 continents",
+      "notable_clients": [],
+      "awards": [
+        "Unit4 Elite Partner"
       ]
     }
   ]

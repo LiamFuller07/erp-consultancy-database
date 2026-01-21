@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:46:37.187Z",
+  "last_updated": "2026-01-21T07:46:40.400Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -3883,6 +3883,22 @@
         }
       ],
       "why_target": "37+ years SYSPRO support",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-173",
+      "rank": 173,
+      "priority": "MEDIUM",
+      "company_name": "Real ERP Pty Ltd",
+      "country": "Australia",
+      "city": "Brisbane",
+      "state": "QLD",
+      "employees": "Founded 2023",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "Complex supply chains specialist",
       "notable_clients": "",
       "awards": ""
     }

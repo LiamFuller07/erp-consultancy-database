@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T09:06:44.652Z",
+  "last_updated": "2026-01-21T09:06:48.019Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14555,6 +14555,46 @@
         }
       ],
       "why_target": "Infor HCM Alliance & CloudSuite Specialized Partner, Lawson expertise globally",
+      "notable_clients": [],
+      "awards": []
+    },
+    {
+      "id": "na-1289",
+      "rank": 1289,
+      "priority": "HIGH",
+      "company_name": "Tridex Systems",
+      "country": "USA",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "employees": "50-100",
+      "erp_systems": [
+        "Infor CloudSuite Distribution",
+        "Infor Distribution SXE"
+      ],
+      "website": "tridexsys.com",
+      "decision_makers": [
+        {
+          "name": "Matt Petty",
+          "title": "President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Brandon Watson",
+          "title": "Vice President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Timothy Watson",
+          "title": "Chairman of the Board",
+          "linkedin_url": ""
+        },
+        {
+          "name": "Roger Realsen",
+          "title": "Director, Cloud Technologies",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "25+ years Infor Distribution expertise, CloudSuite Distribution specialist since 1998",
       "notable_clients": [],
       "awards": []
     }

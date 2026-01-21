@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T10:25:24.692Z",
+  "last_updated": "2026-01-21T10:25:28.335Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16493,6 +16493,37 @@
       "why_target": "Global supply chain consulting. Founded 2009. $15M revenue. Offices in Montreal, LA, Seoul, Toronto. NetSuite Alliance Partner Winter 2025 Spotlight Award",
       "notable_clients": "Consumer products, food & beverage, retail, e-commerce",
       "awards": "NetSuite Alliance Partner Spotlight Award Winter 2025"
+    },
+    {
+      "id": "na-1350",
+      "rank": 1350,
+      "priority": "MEDIUM",
+      "company_name": "BT Partners",
+      "country": "USA",
+      "city": "Chicago",
+      "state": "IL",
+      "employees": "25-50",
+      "erp_systems": [
+        "Sage Intacct",
+        "SYSPRO",
+        "Domo"
+      ],
+      "website": "btpartners.com",
+      "decision_makers": [
+        {
+          "name": "Todd Perlman",
+          "title": "President",
+          "linkedin_url": ""
+        },
+        {
+          "name": "David Thikoll",
+          "title": "VP Business Development & Sage Intacct Practice Director",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "30+ years technology solutions. Chicago-based with nationwide staff. Sage Intacct and SYSPRO specialist. Information Technology Alliance board member",
+      "notable_clients": "Nonprofits, healthcare, businesses",
+      "awards": ""
     }
   ]
 }

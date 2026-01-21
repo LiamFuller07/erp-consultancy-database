@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:54:17.111Z",
+  "last_updated": "2026-01-21T07:54:19.460Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -5258,6 +5258,22 @@
       "website": "",
       "decision_makers": [],
       "why_target": "Australian-owned, retail experience",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-246",
+      "rank": 246,
+      "priority": "HIGH",
+      "company_name": "J4RVIS",
+      "country": "Australia",
+      "city": "",
+      "state": "",
+      "employees": "",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [],
+      "why_target": "eCommerce/POS integration specialist",
       "notable_clients": "",
       "awards": ""
     }

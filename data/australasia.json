@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "australasia",
-  "last_updated": "2026-01-21T07:50:40.963Z",
+  "last_updated": "2026-01-21T07:50:43.681Z",
   "consultancies": [
     {
       "company_name": "Deloitte Australia",
@@ -4636,6 +4636,28 @@
       "decision_makers": [
         {
           "name": "Robert Kennedy",
+          "title": "CEO",
+          "linkedin_url": ""
+        }
+      ],
+      "why_target": "Government focus",
+      "notable_clients": "",
+      "awards": ""
+    },
+    {
+      "id": "au-211",
+      "rank": 211,
+      "priority": "LOW",
+      "company_name": "Galaxy42/FTS Group (Atturra)",
+      "country": "Australia",
+      "city": "Canberra",
+      "state": "ACT",
+      "employees": "400+ people",
+      "erp_systems": [],
+      "website": "",
+      "decision_makers": [
+        {
+          "name": "Stephen Kowal",
           "title": "CEO",
           "linkedin_url": ""
         }

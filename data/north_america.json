@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:28:47.187Z",
+  "last_updated": "2026-02-14T23:28:51.149Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17671,6 +17671,27 @@
       "website": "itcinfotech.com",
       "decision_makers": [],
       "why_target": "SAP Partner (20+ years, 100+ implementations). OPTICHEM for manufacturing. Manufacturing, FMCG, Life Sciences.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111731149",
+      "rank": 1403,
+      "priority": "HIGH",
+      "company_name": "Mastech Digital",
+      "country": "USA",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "employees": "~4,000+",
+      "erp_systems": [
+        "SAP HANA",
+        "SAP BI/Data Warehousing",
+        "SAP Consulting"
+      ],
+      "website": "mastechdigital.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (NYSE: MHH). Consulting & Staffing model. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

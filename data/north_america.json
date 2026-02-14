@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:24:48.859Z",
+  "last_updated": "2026-02-14T23:24:52.411Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16598,6 +16598,27 @@
       "website": "ibm.com/consulting",
       "decision_makers": [],
       "why_target": "SAP Global Strategic Partner. Watson AI Integration, Hybrid Cloud SAP. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111492411",
+      "rank": 1354,
+      "priority": "HIGHEST",
+      "company_name": "PwC",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "~364,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP ESG/Sustainability",
+        "SAP Supply Chain"
+      ],
+      "website": "pwc.com",
+      "decision_makers": [],
+      "why_target": "SAP Platinum Partner. Finance Transformation, ESG/Sustainability. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

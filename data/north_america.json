@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:33:46.926Z",
+  "last_updated": "2026-02-14T23:34:01.494Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18927,6 +18927,28 @@
       "website": "smoothstack.com",
       "decision_makers": [],
       "why_target": "SAP Partner (Inc. 5000 #684). Hire-Train-Deploy model for SAP specialists. DoD SkillBridge participant. Healthcare, Telecom, Financial Services, Government.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112041493",
+      "rank": 1462,
+      "priority": "MEDIUM",
+      "company_name": "Syntara Consulting",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "Boutique",
+      "erp_systems": [
+        "SAP S/4HANA Cloud",
+        "SAP Datasphere",
+        "SAP Analytics Cloud",
+        "SAP BTP"
+      ],
+      "website": "syntaraconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (women-owned). S/4HANA Cloud for Oil & Gas Upstream.",
       "notable_clients": "",
       "awards": "",
       "checked": false

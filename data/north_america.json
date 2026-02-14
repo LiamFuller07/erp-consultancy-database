@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:24:52.411Z",
+  "last_updated": "2026-02-14T23:24:55.895Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16619,6 +16619,27 @@
       "website": "pwc.com",
       "decision_makers": [],
       "why_target": "SAP Platinum Partner. Finance Transformation, ESG/Sustainability. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111495895",
+      "rank": 1355,
+      "priority": "HIGHEST",
+      "company_name": "EY",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "~395,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP SuccessFactors",
+        "SAP Cloud Migration"
+      ],
+      "website": "ey.com",
+      "decision_makers": [],
+      "why_target": "SAP Global Strategic Partner. Finance Transformation, Cloud Migration. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

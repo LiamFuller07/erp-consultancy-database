@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:31:21.880Z",
+  "last_updated": "2026-02-14T23:31:25.483Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18378,6 +18378,27 @@
       "website": "sierradigitalinc.com",
       "decision_makers": [],
       "why_target": "SAP AppHaus Network; BTP Advisory Council. 30+ pre-built BTP apps, BlueSky Cloud Solution. Oil & Gas, Public Sector, Utilities.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111885483",
+      "rank": 1436,
+      "priority": "MEDIUM",
+      "company_name": "Cognitus",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Cloud ERP",
+        "SAP Managed Services"
+      ],
+      "website": "cognitus.com",
+      "decision_makers": [],
+      "why_target": "SAP Certified Partner; Recognized Expertise in A&D. CIS-GovCon for Defense. Aerospace & Defense, Professional Services, Mining, Life Sciences.",
       "notable_clients": "",
       "awards": "",
       "checked": false

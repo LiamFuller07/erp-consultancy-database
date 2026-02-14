@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:32:11.259Z",
+  "last_updated": "2026-02-14T23:32:15.699Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18547,6 +18547,28 @@
       "website": "itservices2.com",
       "decision_makers": [],
       "why_target": "SAP Partner (since 2009, 948+ engagements). Energy, Transportation, Manufacturing, Healthcare, Financial Services.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111935699",
+      "rank": 1444,
+      "priority": "MEDIUM",
+      "company_name": "MSH (TalentMSH)",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP BI/BW",
+        "SAP SuccessFactors",
+        "SAP ECC 6"
+      ],
+      "website": "talentmsh.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (20+ years). ECC 6 End-of-Life Support, Azure Migration, Staffing. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

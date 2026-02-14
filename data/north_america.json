@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:31.729Z",
+  "last_updated": "2026-02-14T23:34:35.282Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19090,6 +19090,25 @@
       "website": "sandpointc.com",
       "decision_makers": [],
       "why_target": "SAP Partner (Big 4 alumni, CPAs). BPC-to-SAC Migration. Automotive, CPG, Higher Education, Mining.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112075282",
+      "rank": 1470,
+      "priority": "MEDIUM",
+      "company_name": "Vizio Consulting",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Boutique/mid-sized",
+      "erp_systems": [
+        "SAP Analytics Cloud"
+      ],
+      "website": "vizioconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. BI, Planning, Predictive Analytics. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

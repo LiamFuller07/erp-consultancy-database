@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:30:41.256Z",
+  "last_updated": "2026-02-14T23:30:50.962Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -8687,20 +8687,21 @@
     {
       "id": "north_america-new-1768562591385",
       "rank": 1001,
-      "priority": "HIGHEST",
+      "priority": "MEDIUM",
       "company_name": "Consensus International",
       "country": "USA",
-      "city": "Miami",
+      "city": "Boca Raton",
       "state": "FL",
-      "employees": "",
+      "employees": "Small-mid",
       "erp_systems": [
         "SAP Business One"
       ],
       "website": "consensusintl.com",
       "decision_makers": [],
-      "why_target": "Top 5 SAP B1 Reseller in USA, 900+ implementations, 33+ years experience",
+      "why_target": "SAP Premier Partner; Top 3 B1 Reseller US. 900+ B1 implementations. Manufacturing, Pharma, Food & Beverage, Retail, Distribution.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "north_america-new-1768562599065",

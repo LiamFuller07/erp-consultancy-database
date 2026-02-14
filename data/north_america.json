@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:24.125Z",
+  "last_updated": "2026-02-14T23:27:27.755Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17313,6 +17313,25 @@
       "website": "veritasprime.com",
       "decision_makers": [],
       "why_target": "SAP SuccessFactors Partner. All modules, Post-Go-Live Support. Cross-industry HCM.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111647755",
+      "rank": 1386,
+      "priority": "HIGH",
+      "company_name": "ROCKCREST",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Boutique",
+      "erp_systems": [
+        "SAP SuccessFactors"
+      ],
+      "website": "rockcrest.com",
+      "decision_makers": [],
+      "why_target": "SAP SuccessFactors Partner. EC, Recruiting, Onboarding, Performance, Compensation, Time. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

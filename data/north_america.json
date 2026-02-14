@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:57.140Z",
+  "last_updated": "2026-02-14T23:35:06.090Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19211,6 +19211,27 @@
       "website": "dickinsonassociates.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. HR Digital Transformation, Workforce Analytics. Cross-industry HCM focus.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112106090",
+      "rank": 1476,
+      "priority": "MEDIUM",
+      "company_name": "Seal Consulting Inc.",
+      "country": "USA",
+      "city": "Edison",
+      "state": "NJ",
+      "employees": "Small-to-mid",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Implementation",
+        "SAP Support"
+      ],
+      "website": "sealconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Silver Partner. Implementation, Support, Optimization, S/4HANA Migration. Manufacturing, Distribution, Public Sector.",
       "notable_clients": "",
       "awards": "",
       "checked": false

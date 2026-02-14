@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:35:17.198Z",
+  "last_updated": "2026-02-14T23:35:21.147Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19297,6 +19297,26 @@
       "website": "trigent.com",
       "decision_makers": [],
       "why_target": "SAP Partner. S/4HANA Migration, ABAP Development, BTP Accelerator. Manufacturing, Distribution.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112121147",
+      "rank": 1480,
+      "priority": "MEDIUM",
+      "company_name": "HRIZONS",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP SuccessFactors",
+        "SAP HCM"
+      ],
+      "website": "hrizons.com",
+      "decision_makers": [],
+      "why_target": "SAP SuccessFactors Advisory (since 2006). Global HCM, Employee Experience. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

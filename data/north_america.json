@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:01.494Z",
+  "last_updated": "2026-02-14T23:34:05.529Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18949,6 +18949,26 @@
       "website": "syntaraconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Partner (women-owned). S/4HANA Cloud for Oil & Gas Upstream.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112045528",
+      "rank": 1463,
+      "priority": "MEDIUM",
+      "company_name": "Ingenx Technology",
+      "country": "USA",
+      "city": "Irving",
+      "state": "TX",
+      "employees": "~50-100",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Industry Cloud"
+      ],
+      "website": "ingenxtec.com",
+      "decision_makers": [],
+      "why_target": "SAP Silver Partner; Industry Cloud Partner for Oil & Gas. Proprietary iGMS gas management. Oil & Gas, Utilities, Mining.",
       "notable_clients": "",
       "awards": "",
       "checked": false

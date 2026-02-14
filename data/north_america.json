@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:28:33.610Z",
+  "last_updated": "2026-02-14T23:28:43.152Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17628,6 +17628,29 @@
       "website": "kellton.com",
       "decision_makers": [],
       "why_target": "SAP Partner. AMS, Security & GRC, Automation. Manufacturing, Retail, Healthcare, Energy.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111723151",
+      "rank": 1401,
+      "priority": "HIGH",
+      "company_name": "MOURI Tech",
+      "country": "USA",
+      "city": "Irving",
+      "state": "TX",
+      "employees": "~3,000+",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP CX",
+        "SAP SuccessFactors",
+        "SAP BTP",
+        "SAP Analytics Cloud"
+      ],
+      "website": "mouritech.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (CMMI-DEV/5). Automotive, Retail, Life Sciences.",
       "notable_clients": "",
       "awards": "",
       "checked": false

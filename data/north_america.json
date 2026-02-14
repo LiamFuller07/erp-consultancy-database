@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:25:22.012Z",
+  "last_updated": "2026-02-14T23:25:25.536Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16755,6 +16755,27 @@
       "website": "nttdata.com",
       "decision_makers": [],
       "why_target": "SAP Global Strategic Partner. GROW with SAP, Industry Solutions. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111525536",
+      "rank": 1361,
+      "priority": "HIGHEST",
+      "company_name": "DXC Technology",
+      "country": "USA",
+      "city": "Ashburn",
+      "state": "VA",
+      "employees": "~130,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Hosting",
+        "SAP Legacy Integration"
+      ],
+      "website": "dxc.com",
+      "decision_makers": [],
+      "why_target": "SAP Global Strategic Partner. Government/Defense focus, SAP Hosting. Government, Defense, Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

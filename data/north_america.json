@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:17.388Z",
+  "last_updated": "2026-02-14T23:34:20.749Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19010,6 +19010,28 @@
       "website": "us.arvato-systems.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner (Bertelsmann Group). 25+ years SAP IS-U expertise. Energy, Utilities.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112060749",
+      "rank": 1466,
+      "priority": "MEDIUM",
+      "company_name": "Fingent",
+      "country": "USA",
+      "city": "White Plains",
+      "state": "NY",
+      "employees": "~200-500",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Ariba",
+        "SAP HCM",
+        "SAP Analytics Cloud"
+      ],
+      "website": "fingent.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. FinAMSCare managed services. Healthcare, Higher Education.",
       "notable_clients": "",
       "awards": "",
       "checked": false

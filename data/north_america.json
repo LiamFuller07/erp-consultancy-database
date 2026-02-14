@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:32:47.405Z",
+  "last_updated": "2026-02-14T23:32:56.169Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18722,6 +18722,27 @@
       "website": "logicpoint.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Digital Sherpa Accelerators, Technology Optimization. Asset-Intensive Industries.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111976169",
+      "rank": 1452,
+      "priority": "MEDIUM",
+      "company_name": "Navisite",
+      "country": "USA",
+      "city": "Andover",
+      "state": "MA",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP Consulting",
+        "SAP Managed Services",
+        "SAP Cloud"
+      ],
+      "website": "navisite.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner. Consulting, Managed Services, Cloud. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

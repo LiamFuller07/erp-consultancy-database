@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:33:26.690Z",
+  "last_updated": "2026-02-14T23:33:30.200Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18824,6 +18824,28 @@
       "website": "b1bwise.com",
       "decision_makers": [],
       "why_target": "SAP B1 Partner. Proprietary WISE WMS for Distribution/3PL. Distribution, 3PL.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112010200",
+      "rank": 1457,
+      "priority": "MEDIUM",
+      "company_name": "Saberpoint",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "51-200",
+      "erp_systems": [
+        "SAP Business One",
+        "SAP Business ByDesign",
+        "SAP S/4HANA",
+        "SAP Analytics Cloud"
+      ],
+      "website": "saberpoint.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner (2020 Excellence Award). Offices: Boston, Austin, Chicago, LA. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

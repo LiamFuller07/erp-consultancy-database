@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:31:45.930Z",
+  "last_updated": "2026-02-14T23:31:55.177Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -8404,11 +8404,11 @@
       "country": "USA",
       "city": "Irvine",
       "state": "Orange County",
-      "employees": "400-500",
+      "employees": "500+",
       "erp_systems": [
         "SAP Business One",
-        "SAP S",
-        "4HANA"
+        "SAP Business ByDesign",
+        "SAP S/4HANA Cloud"
       ],
       "website": "vision33.com",
       "decision_makers": [
@@ -8418,9 +8418,10 @@
           "linkedin_url": "linkedin.com/in/tonywhalen"
         }
       ],
-      "why_target": "",
+      "why_target": "SAP Gold Partner; World's Largest B1 Team. iDocuments and Saltbox tools. Manufacturing, Distribution, Food & Beverage, Public Sector.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "na-392",

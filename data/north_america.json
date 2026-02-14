@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:36:22.621Z",
+  "last_updated": "2026-02-14T23:36:26.196Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19589,6 +19589,27 @@
       "website": "t-systems.com",
       "decision_makers": [],
       "why_target": "SAP Global Strategic Partner. SAP Hosting, Cloud Infrastructure, Managed Services. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112186196",
+      "rank": 1494,
+      "priority": "HIGHEST",
+      "company_name": "Indra / Minsait",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "~56,000",
+      "erp_systems": [
+        "SAP Implementation",
+        "SAP Integration",
+        "SAP Managed Services"
+      ],
+      "website": "indracompany.com",
+      "decision_makers": [],
+      "why_target": "SAP Global Strategic Partner. Implementation, Integration, Managed Services. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:48.177Z",
+  "last_updated": "2026-02-14T23:27:51.775Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17394,6 +17394,29 @@
       "website": "elevatiq.com",
       "decision_makers": [],
       "why_target": "Independent / Vendor-Agnostic. ERP Selection, Integration, Contract Negotiation. Digital Commerce, Supply Chain.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111671775",
+      "rank": 1390,
+      "priority": "HIGH",
+      "company_name": "Auritas",
+      "country": "USA",
+      "city": "Orlando",
+      "state": "FL",
+      "employees": "100+",
+      "erp_systems": [
+        "SAP ILM",
+        "SAP HANA",
+        "SAP MDG",
+        "SAP BTP",
+        "SAP OpenText"
+      ],
+      "website": "auritas.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (since 2005). Data Archiving, HANA Optimization, System Decommissioning. Utilities, Public Sector, Automotive, Retail, Life Sciences.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:26:48.295Z",
+  "last_updated": "2026-02-14T23:26:51.531Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14470,9 +14470,13 @@
       "country": "USA",
       "city": "Seattle",
       "state": "WA",
-      "employees": "",
+      "employees": "~700-1,000",
       "erp_systems": [
         "SAP S/4HANA",
+        "SAP BTP",
+        "SAP Ariba",
+        "SAP Datasphere",
+        "SAP Analytics Cloud",
         "SAP BW/4HANA",
         "SAP Business One"
       ],
@@ -14494,11 +14498,12 @@
           "linkedin_url": ""
         }
       ],
-      "why_target": "SAP Gold Partner since 2005, specializes in retail, fashion, consumer and high tech. Global presence in North America, UK, Middle East, India. Acquired Absoft to expand European presence",
+      "why_target": "SAP Gold Partner. CeleRITE migration platform. ~$126M revenue. Retail, Fashion, Consumer Products, Chemicals, Utilities.",
       "notable_clients": "",
       "awards": [
         "SAP Gold Partner"
-      ]
+      ],
+      "checked": false
     },
     {
       "id": "na-1287",

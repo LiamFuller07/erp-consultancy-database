@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:29:19.537Z",
+  "last_updated": "2026-02-14T23:29:23.516Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17824,6 +17824,27 @@
       "website": "archlynk.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. Pure-play SAP Digital Supply Chain. Highest volume SC partner worldwide. PE-backed.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111763516",
+      "rank": 1410,
+      "priority": "HIGH",
+      "company_name": "Movilitas Consulting",
+      "country": "USA",
+      "city": "Columbia",
+      "state": "MD",
+      "employees": "50-249",
+      "erp_systems": [
+        "SAP EWM",
+        "SAP Digital Supply Chain",
+        "SAP Track & Trace"
+      ],
+      "website": "movilitas.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner. ~$61M revenue. Serialization/DSCSA Compliance. Pharma, Food & Beverage, CPG.",
       "notable_clients": "",
       "awards": "",
       "checked": false

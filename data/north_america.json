@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:35:32.438Z",
+  "last_updated": "2026-02-14T23:35:36.293Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19362,6 +19362,26 @@
       "website": "rcktechiees.com",
       "decision_makers": [],
       "why_target": "SAP Partner; Google Cloud Partner. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112136293",
+      "rank": 1483,
+      "priority": "MEDIUM",
+      "company_name": "MSITEK",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP Ariba",
+        "SAP S/4HANA"
+      ],
+      "website": "msitekus.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Ariba Consulting, S/4HANA Implementation. Cross-industry Procurement.",
       "notable_clients": "",
       "awards": "",
       "checked": false

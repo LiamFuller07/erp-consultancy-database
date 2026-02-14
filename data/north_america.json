@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:24:41.220Z",
+  "last_updated": "2026-02-14T23:24:44.911Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16573,6 +16573,27 @@
       "website": "accenture.com",
       "decision_makers": [],
       "why_target": "SAP Platinum Partner (40+ years). RISE with SAP, Managed Services. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111484911",
+      "rank": 1353,
+      "priority": "HIGHEST",
+      "company_name": "IBM Consulting",
+      "country": "USA",
+      "city": "Armonk",
+      "state": "NY",
+      "employees": "~280,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Hybrid Cloud",
+        "SAP Managed Services"
+      ],
+      "website": "ibm.com/consulting",
+      "decision_makers": [],
+      "why_target": "SAP Global Strategic Partner. Watson AI Integration, Hybrid Cloud SAP. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

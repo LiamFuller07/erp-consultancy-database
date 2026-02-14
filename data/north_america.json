@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:31:17.955Z",
+  "last_updated": "2026-02-14T23:31:21.880Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18356,6 +18356,28 @@
       "website": "mygoconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. Digital Strategy, Transformation. Energy, Financial Services, Consumer Industries, Public Services.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111881880",
+      "rank": 1435,
+      "priority": "MEDIUM",
+      "company_name": "Sierra Digital",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP BTP",
+        "SAP S/4HANA",
+        "SAP Analytics",
+        "SAP Business AI"
+      ],
+      "website": "sierradigitalinc.com",
+      "decision_makers": [],
+      "why_target": "SAP AppHaus Network; BTP Advisory Council. 30+ pre-built BTP apps, BlueSky Cloud Solution. Oil & Gas, Public Sector, Utilities.",
       "notable_clients": "",
       "awards": "",
       "checked": false

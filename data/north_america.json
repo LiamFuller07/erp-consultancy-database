@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:26:26.974Z",
+  "last_updated": "2026-02-14T23:26:31.053Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17048,6 +17048,26 @@
       "website": "nttdata-solutions.com/us",
       "decision_makers": [],
       "why_target": "SAP Platinum Partner. Consulting, Implementation, Managed Services. Manufacturing, Distribution, Consumer Goods, Life Sciences.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111591053",
+      "rank": 1374,
+      "priority": "HIGH",
+      "company_name": "EPI-USE",
+      "country": "USA",
+      "city": "Atlanta",
+      "state": "GA",
+      "employees": "~4,200",
+      "erp_systems": [
+        "SAP SuccessFactors",
+        "SAP HR/Payroll"
+      ],
+      "website": "epiuse.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. 42 payroll country versions. Cross-industry HR/Payroll focus.",
       "notable_clients": "",
       "awards": "",
       "checked": false

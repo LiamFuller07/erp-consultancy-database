@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:25:10.503Z",
+  "last_updated": "2026-02-14T23:25:14.445Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16708,6 +16708,28 @@
       "website": "infosys.com",
       "decision_makers": [],
       "why_target": "SAP Global Strategic Partner. Cloud Migration, Digital Supply Chain, Managed Services. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111514445",
+      "rank": 1359,
+      "priority": "HIGHEST",
+      "company_name": "Wipro",
+      "country": "USA",
+      "city": "East Brunswick",
+      "state": "NJ",
+      "employees": "~235,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP BTP",
+        "SAP Process Automation",
+        "SAP Analytics"
+      ],
+      "website": "wipro.com",
+      "decision_makers": [],
+      "why_target": "SAP Global Strategic Partner. RISE with SAP, Process Automation, Analytics. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

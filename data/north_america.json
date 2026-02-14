@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:33:11.949Z",
+  "last_updated": "2026-02-14T23:33:14.960Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18766,6 +18766,25 @@
       "website": "i-bn.com",
       "decision_makers": [],
       "why_target": "SAP B1 Partner. System-Selection Advisory, Partner Academy Services. Cross-industry SMBs.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111994960",
+      "rank": 1454,
+      "priority": "MEDIUM",
+      "company_name": "LBSi / ERP Logic (NoblQ)",
+      "country": "USA",
+      "city": "Strongsville",
+      "state": "OH",
+      "employees": "11-50",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "lbsi.com",
+      "decision_makers": [],
+      "why_target": "SAP B1 Gold Partner (since 1989). Proprietary AMMP add-on. Acquired by ERP Logic 2022. Manufacturing, Distribution.",
       "notable_clients": "",
       "awards": "",
       "checked": false

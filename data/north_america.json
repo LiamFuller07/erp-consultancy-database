@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:25:48.846Z",
+  "last_updated": "2026-02-14T23:25:53.160Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16882,6 +16882,27 @@
       "website": "fujitsu.com",
       "decision_makers": [],
       "why_target": "SAP Partner (40-year partnership). 3,500+ SAP specialists, 330K+ licenses managed. Manufacturing, Financial Services, Public Sector.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111553160",
+      "rank": 1367,
+      "priority": "HIGHEST",
+      "company_name": "EPAM Systems",
+      "country": "USA",
+      "city": "Newtown",
+      "state": "PA",
+      "employees": "~55,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Cloud Migration",
+        "SAP BTP"
+      ],
+      "website": "epam.com",
+      "decision_makers": [],
+      "why_target": "SAP Platinum Partner. S/4HANA Transformation, BTP Development. Financial Services, Healthcare, Life Sciences, Retail.",
       "notable_clients": "",
       "awards": "",
       "checked": false

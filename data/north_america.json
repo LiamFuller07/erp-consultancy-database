@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:30:58.225Z",
+  "last_updated": "2026-02-14T23:31:02.656Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18247,6 +18247,27 @@
       "website": "consultare.net",
       "decision_makers": [],
       "why_target": "SAP Business One Gold Partner. Implementation, Customization, Support. Distribution, Manufacturing, SMBs.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111862656",
+      "rank": 1430,
+      "priority": "MEDIUM",
+      "company_name": "JDC Group",
+      "country": "USA",
+      "city": "Atlanta",
+      "state": "GA",
+      "employees": "Mid-sized boutique",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Advisory",
+        "SAP Staffing"
+      ],
+      "website": "jdc-group.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Strategic Advisory, Technology Workforce Solutions. Energy, Manufacturing, Consumer Products, Financial Services.",
       "notable_clients": "",
       "awards": "",
       "checked": false

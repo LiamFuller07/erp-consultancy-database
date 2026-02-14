@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:31:02.656Z",
+  "last_updated": "2026-02-14T23:31:06.507Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18268,6 +18268,25 @@
       "website": "jdc-group.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Strategic Advisory, Technology Workforce Solutions. Energy, Manufacturing, Consumer Products, Financial Services.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111866507",
+      "rank": 1431,
+      "priority": "MEDIUM",
+      "company_name": "Michell Consulting Group",
+      "country": "USA",
+      "city": "Miami",
+      "state": "FL",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "michellconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP B1 Partner (12+ years). Consulting, Implementation, Support. Manufacturing, Distribution, SMEs.",
       "notable_clients": "",
       "awards": "",
       "checked": false

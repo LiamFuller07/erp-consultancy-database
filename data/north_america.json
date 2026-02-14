@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:24:55.895Z",
+  "last_updated": "2026-02-14T23:24:59.497Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16640,6 +16640,26 @@
       "website": "ey.com",
       "decision_makers": [],
       "why_target": "SAP Global Strategic Partner. Finance Transformation, Cloud Migration. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111499497",
+      "rank": 1356,
+      "priority": "HIGHEST",
+      "company_name": "KPMG",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "~265,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Cloud Transformation"
+      ],
+      "website": "kpmg.com",
+      "decision_makers": [],
+      "why_target": "SAP Global Strategic Partner. S/4HANA Powered Enterprise, Cloud Transformation. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

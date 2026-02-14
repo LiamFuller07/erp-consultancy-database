@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:39.547Z",
+  "last_updated": "2026-02-14T23:34:44.117Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19131,6 +19131,25 @@
       "website": "orbisusa.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Embedded Analytics. Automotive, Manufacturing, Consumer Goods.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112084117",
+      "rank": 1472,
+      "priority": "MEDIUM",
+      "company_name": "Premikati",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Boutique",
+      "erp_systems": [
+        "SAP Ariba"
+      ],
+      "website": "premikati.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner (WBENC-certified Woman-Owned). Ariba Implementation and Optimization. Cross-industry Procurement.",
       "notable_clients": "",
       "awards": "",
       "checked": false

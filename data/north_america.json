@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:29:12.017Z",
+  "last_updated": "2026-02-14T23:29:15.481Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17777,6 +17777,30 @@
       "website": "argano.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. SAP NA Partner Excellence Award 2024 for Marketing. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111755481",
+      "rank": 1408,
+      "priority": "HIGH",
+      "company_name": "GyanSys, Inc.",
+      "country": "USA",
+      "city": "Carmel",
+      "state": "IN",
+      "employees": "~1,700-3,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP IBP",
+        "SAP EWM",
+        "SAP Ariba",
+        "SAP SuccessFactors",
+        "SAP CX"
+      ],
+      "website": "gyansys.com",
+      "decision_makers": [],
+      "why_target": "SAP Silver Partner; Gartner-recognized. Automotive, CPG, Manufacturing.",
       "notable_clients": "",
       "awards": "",
       "checked": false

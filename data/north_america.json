@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:35:21.147Z",
+  "last_updated": "2026-02-14T23:35:24.879Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10648,20 +10648,23 @@
     {
       "id": "north_america-new-1768616223771",
       "rank": 1083,
-      "priority": "HIGH",
+      "priority": "MEDIUM",
       "company_name": "Indus Novateur",
       "country": "USA",
       "city": "Hoffman Estates",
       "state": "IL",
-      "employees": "",
+      "employees": "Mid-sized",
       "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Ariba",
         "SAP Business One"
       ],
       "website": "indusnovateur.com",
       "decision_makers": [],
-      "why_target": "SAP Gold Partner, 450+ SAP-trained professionals, 7+ delivery centers",
+      "why_target": "SAP Gold Partner (15 years). Cross-industry.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "north_america-new-1768616228869",

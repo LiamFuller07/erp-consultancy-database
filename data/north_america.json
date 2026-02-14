@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:36:18.069Z",
+  "last_updated": "2026-02-14T23:36:22.621Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19568,6 +19568,27 @@
       "website": "yourbrg.com",
       "decision_makers": [],
       "why_target": "SAP NA Partner Excellence Award 2024 (Indirect Customer Success). RISE/GROW with SAP. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112182621",
+      "rank": 1493,
+      "priority": "HIGHEST",
+      "company_name": "T-Systems",
+      "country": "USA",
+      "city": "Reston",
+      "state": "VA",
+      "employees": "~28,000",
+      "erp_systems": [
+        "SAP Hosting",
+        "SAP Cloud Infrastructure",
+        "SAP Managed Services"
+      ],
+      "website": "t-systems.com",
+      "decision_makers": [],
+      "why_target": "SAP Global Strategic Partner. SAP Hosting, Cloud Infrastructure, Managed Services. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

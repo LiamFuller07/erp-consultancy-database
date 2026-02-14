@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:24:59.497Z",
+  "last_updated": "2026-02-14T23:25:02.985Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -2335,20 +2335,25 @@
     {
       "id": "na-107",
       "rank": 107,
-      "priority": "MEDIUM",
+      "priority": "HIGHEST",
       "company_name": "Cognizant",
       "country": "USA",
       "city": "Teaneck",
       "state": "NJ",
-      "employees": "1000+",
+      "employees": "~350,000",
       "erp_systems": [
+        "SAP S/4HANA",
+        "SAP BTP",
+        "SAP Analytics",
+        "SAP Managed Services",
         "NetSuite"
       ],
-      "website": "",
+      "website": "cognizant.com",
       "decision_makers": [],
-      "why_target": "",
+      "why_target": "SAP Global Strategic Partner. Industry Solutions, Managed Services. Cross-industry.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "na-108",

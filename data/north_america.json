@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:32:33.650Z",
+  "last_updated": "2026-02-14T23:32:37.704Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18634,6 +18634,27 @@
       "website": "evolutionaryconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Partner. SuccessFactors, Change Management. Public Sector, Healthcare, Industrial.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111957704",
+      "rank": 1448,
+      "priority": "MEDIUM",
+      "company_name": "Cloud Consulting Inc. (CCI)",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP RISE with SAP",
+        "SAP Implementation",
+        "SAP-Salesforce Integration"
+      ],
+      "website": "cloudconsultings.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. RISE with SAP, SAP-Salesforce Integration, Custom Development. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

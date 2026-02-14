@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:28:59.210Z",
+  "last_updated": "2026-02-14T23:29:03.630Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10231,16 +10231,17 @@
       "country": "USA",
       "city": "Miami",
       "state": "FL",
-      "employees": "",
+      "employees": "~1,500+",
       "erp_systems": [
-        "Oracle EPM",
-        "ERP"
+        "SAP S/4HANA",
+        "SAP Ariba"
       ],
       "website": "thehackettgroup.com",
       "decision_makers": [],
-      "why_target": "Oracle Platinum Partner for EPM and ERP",
+      "why_target": "SAP Platinum Partner; SAP Ariba Silver Partner (NASDAQ: HCKT). SAP NA Partner Excellence Award 2024. Life Sciences, Consumer Products, Midmarket.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "north_america-new-1768616048324",

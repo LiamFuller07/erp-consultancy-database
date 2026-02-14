@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:36:13.934Z",
+  "last_updated": "2026-02-14T23:36:18.069Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19548,6 +19548,26 @@
       "website": "qubittron.com",
       "decision_makers": [],
       "why_target": "SAP Partner (founded 2022). GROW with SAP for SMBs. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112178069",
+      "rank": 1492,
+      "priority": "MEDIUM",
+      "company_name": "Beyond Technologies",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP RISE/GROW with SAP"
+      ],
+      "website": "yourbrg.com",
+      "decision_makers": [],
+      "why_target": "SAP NA Partner Excellence Award 2024 (Indirect Customer Success). RISE/GROW with SAP. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

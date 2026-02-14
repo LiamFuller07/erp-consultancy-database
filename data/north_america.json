@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:29:48.683Z",
+  "last_updated": "2026-02-14T23:29:53.166Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17951,6 +17951,27 @@
       "website": "lemongrasscloud.com",
       "decision_makers": [],
       "why_target": "SAP Certified MSP; AWS Premier Partner. ~$146M revenue. Proprietary Cloud Platform. Healthcare, Oil & Gas, Utilities.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111793166",
+      "rank": 1416,
+      "priority": "HIGH",
+      "company_name": "SoftwareOne",
+      "country": "USA",
+      "city": "Milwaukee",
+      "state": "WI",
+      "employees": "~9,000+",
+      "erp_systems": [
+        "SAP Managed Services",
+        "SAP RISE with SAP",
+        "SAP S/4HANA Cloud Hosting"
+      ],
+      "website": "softwareone.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Managed Services on Azure/AWS/GCP, FinOps. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

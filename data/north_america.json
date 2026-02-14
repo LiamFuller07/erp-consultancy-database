@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:25:02.985Z",
+  "last_updated": "2026-02-14T23:25:06.484Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16665,6 +16665,28 @@
       "website": "kpmg.com",
       "decision_makers": [],
       "why_target": "SAP Global Strategic Partner. S/4HANA Powered Enterprise, Cloud Transformation. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111506483",
+      "rank": 1357,
+      "priority": "HIGHEST",
+      "company_name": "TCS",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "~600,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP BTP",
+        "SAP Analytics",
+        "SAP Managed Services"
+      ],
+      "website": "tcs.com",
+      "decision_makers": [],
+      "why_target": "SAP Global Strategic Partner. RISE with SAP, Digital Supply Chain. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

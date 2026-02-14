@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:29:53.166Z",
+  "last_updated": "2026-02-14T23:29:56.784Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17972,6 +17972,27 @@
       "website": "softwareone.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Managed Services on Azure/AWS/GCP, FinOps. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111796784",
+      "rank": 1417,
+      "priority": "HIGH",
+      "company_name": "Rackspace Technology",
+      "country": "USA",
+      "city": "San Antonio",
+      "state": "TX",
+      "employees": "Thousands",
+      "erp_systems": [
+        "SAP Hosting",
+        "SAP AMS",
+        "SAP Cloud Migration"
+      ],
+      "website": "rackspace.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (20+ years). Private Cloud Hosting, AMS. Manufacturing, Energy, Healthcare.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:30:27.093Z",
+  "last_updated": "2026-02-14T23:30:30.599Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18138,6 +18138,29 @@
       "website": "daugherty.com",
       "decision_makers": [],
       "why_target": "SAP Silver Partner. Digital Transformation, Implementation/Support, Data & Analytics. Financial Services, Healthcare, Manufacturing.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111830599",
+      "rank": 1425,
+      "priority": "HIGH",
+      "company_name": "Bramasol, Inc.",
+      "country": "USA",
+      "city": "Santa Clara",
+      "state": "CA",
+      "employees": "51-200",
+      "erp_systems": [
+        "SAP Finance",
+        "SAP Revenue Recognition",
+        "SAP Lease Management",
+        "SAP Treasury",
+        "SAP BRIM"
+      ],
+      "website": "bramasol.com",
+      "decision_makers": [],
+      "why_target": "SAP Silver Partner. ASC 606 Revenue Recognition, ASC 842 Lease Mgmt. High Tech, Software, Telco, Life Sciences.",
       "notable_clients": "",
       "awards": "",
       "checked": false

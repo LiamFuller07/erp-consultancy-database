@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:35:44.751Z",
+  "last_updated": "2026-02-14T23:35:48.889Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19424,6 +19424,28 @@
       "website": "apprisia.com",
       "decision_makers": [],
       "why_target": "SAP Partner. ECC to S/4HANA Migration, Basis Support. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112148889",
+      "rank": 1486,
+      "priority": "MEDIUM",
+      "company_name": "Dexian",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "Large",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP SuccessFactors",
+        "SAP Ariba",
+        "SAP FICO"
+      ],
+      "website": "dexian.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. SAP-Specialized Staffing. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

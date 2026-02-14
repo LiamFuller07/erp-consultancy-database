@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:33:22.884Z",
+  "last_updated": "2026-02-14T23:33:26.690Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -151,9 +151,10 @@
           "linkedin_url": ""
         }
       ],
-      "why_target": "",
+      "why_target": "SAP B1 Software Solution Partner. Niche: promotional products industry.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "na-009",

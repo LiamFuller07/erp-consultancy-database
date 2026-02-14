@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:27.855Z",
+  "last_updated": "2026-02-14T23:34:31.729Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19070,6 +19070,26 @@
       "website": "enoah.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Implementation and Customization. Healthcare, Life Sciences, Financial Services.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112071728",
+      "rank": 1469,
+      "priority": "MEDIUM",
+      "company_name": "SandPoint Consulting",
+      "country": "USA",
+      "city": "Detroit",
+      "state": "MI",
+      "employees": "Boutique",
+      "erp_systems": [
+        "SAP Analytics Cloud",
+        "SAP BPC"
+      ],
+      "website": "sandpointc.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (Big 4 alumni, CPAs). BPC-to-SAC Migration. Automotive, CPG, Higher Education, Mining.",
       "notable_clients": "",
       "awards": "",
       "checked": false

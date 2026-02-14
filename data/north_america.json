@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:29:23.516Z",
+  "last_updated": "2026-02-14T23:29:26.609Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17845,6 +17845,26 @@
       "website": "movilitas.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. ~$61M revenue. Serialization/DSCSA Compliance. Pharma, Food & Beverage, CPG.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111766609",
+      "rank": 1411,
+      "priority": "HIGH",
+      "company_name": "Bristlecone, Inc.",
+      "country": "USA",
+      "city": "San Jose",
+      "state": "CA",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Supply Chain"
+      ],
+      "website": "bristlecone.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner (Mahindra Group subsidiary). End-to-End SAP Supply Chain Transformation. Manufacturing, CPG, Chemicals, Life Sciences.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:35:06.090Z",
+  "last_updated": "2026-02-14T23:35:10.134Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19232,6 +19232,27 @@
       "website": "sealconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Silver Partner. Implementation, Support, Optimization, S/4HANA Migration. Manufacturing, Distribution, Public Sector.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112110134",
+      "rank": 1477,
+      "priority": "MEDIUM",
+      "company_name": "Gemini Consulting & Services",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP BW/4HANA",
+        "SAP Data Warehousing",
+        "SAP Business AI"
+      ],
+      "website": "gemini-us.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Government, Healthcare, Higher Education, Oil & Gas, Manufacturing.",
       "notable_clients": "",
       "awards": "",
       "checked": false

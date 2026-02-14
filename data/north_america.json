@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:32:29.672Z",
+  "last_updated": "2026-02-14T23:32:33.650Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18613,6 +18613,27 @@
       "website": "sapbwconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Partner. BW, S/4HANA Migrations, Enterprise Data Analytics. Manufacturing, Logistics, Multinationals.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111953650",
+      "rank": 1447,
+      "priority": "MEDIUM",
+      "company_name": "Evolutionary Consulting",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Boutique",
+      "erp_systems": [
+        "SAP SuccessFactors",
+        "SAP S/4HANA",
+        "SAP Workforce Management"
+      ],
+      "website": "evolutionaryconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. SuccessFactors, Change Management. Public Sector, Healthcare, Industrial.",
       "notable_clients": "",
       "awards": "",
       "checked": false

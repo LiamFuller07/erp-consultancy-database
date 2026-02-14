@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:13.272Z",
+  "last_updated": "2026-02-14T23:34:17.388Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18991,6 +18991,25 @@
       "website": "surepowerconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Partner (13+ years, Inc. 5000). 100+ electric/gas/water/sewer utility clients. Utilities exclusive focus.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112057387",
+      "rank": 1465,
+      "priority": "MEDIUM",
+      "company_name": "Arvato Systems (US)",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "~3,700 globally",
+      "erp_systems": [
+        "SAP IS-U"
+      ],
+      "website": "us.arvato-systems.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner (Bertelsmann Group). 25+ years SAP IS-U expertise. Energy, Utilities.",
       "notable_clients": "",
       "awards": "",
       "checked": false

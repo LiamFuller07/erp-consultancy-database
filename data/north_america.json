@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:28:22.445Z",
+  "last_updated": "2026-02-14T23:28:25.723Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17567,6 +17567,25 @@
       "website": "mphasis.com",
       "decision_makers": [],
       "why_target": "SAP Partner (SNP Group partnership). mSwift accelerator for S/4HANA Carve-outs/M&A. Banking, Insurance, Healthcare.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111705723",
+      "rank": 1398,
+      "priority": "HIGH",
+      "company_name": "Zensar Technologies",
+      "country": "USA",
+      "city": "San Jose",
+      "state": "CA",
+      "employees": "~10,000+",
+      "erp_systems": [
+        "SAP Business Transformation-as-a-Service"
+      ],
+      "website": "zensar.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Business Transformation-as-a-Service. Pharma, Manufacturing, Retail.",
       "notable_clients": "",
       "awards": "",
       "checked": false

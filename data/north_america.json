@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:25:45.281Z",
+  "last_updated": "2026-02-14T23:25:48.846Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16862,6 +16862,26 @@
       "website": "cgi.com",
       "decision_makers": [],
       "why_target": "SAP Partner (30+ year partnership). 25+ solution areas. Financial Services, Utilities, Government.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111548846",
+      "rank": 1366,
+      "priority": "HIGHEST",
+      "company_name": "Fujitsu",
+      "country": "USA",
+      "city": "Richardson",
+      "state": "TX",
+      "employees": "~124,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP HANA"
+      ],
+      "website": "fujitsu.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (40-year partnership). 3,500+ SAP specialists, 330K+ licenses managed. Manufacturing, Financial Services, Public Sector.",
       "notable_clients": "",
       "awards": "",
       "checked": false

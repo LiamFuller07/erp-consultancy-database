@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:30:15.609Z",
+  "last_updated": "2026-02-14T23:30:19.657Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -6455,20 +6455,22 @@
     {
       "id": "na-297",
       "rank": 297,
-      "priority": "MEDIUM",
+      "priority": "HIGH",
       "company_name": "RSM US LLP",
       "country": "USA",
       "city": "Chicago",
       "state": "IL",
-      "employees": "500+",
+      "employees": "~17,000+",
       "erp_systems": [
-        "NetSuite"
+        "SAP GRC",
+        "SAP Risk Advisory"
       ],
-      "website": "",
+      "website": "rsmus.com",
       "decision_makers": [],
-      "why_target": "",
+      "why_target": "SAP PartnerEdge Member. GRC Implementation, SoD Analysis, ERP IT Controls (SOX, FDA, ISO, PCI, NIST). Cross-industry Audit/Risk.",
       "notable_clients": "",
-      "awards": "Worldwide Solution Provider of Year (11x); 5-Star since 2011"
+      "awards": "Worldwide Solution Provider of Year (11x); 5-Star since 2011",
+      "checked": false
     },
     {
       "id": "na-298",

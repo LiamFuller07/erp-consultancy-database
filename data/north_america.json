@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:35:41.049Z",
+  "last_updated": "2026-02-14T23:35:44.751Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19403,6 +19403,27 @@
       "website": "sagesolutionsinc.com",
       "decision_makers": [],
       "why_target": "SAP Partner (20+ years, 60+ implementations). HANA Migration, BW, Cloud BI. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112144751",
+      "rank": 1485,
+      "priority": "MEDIUM",
+      "company_name": "Apprisia",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP HANA Migration",
+        "SAP Basis"
+      ],
+      "website": "apprisia.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. ECC to S/4HANA Migration, Basis Support. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

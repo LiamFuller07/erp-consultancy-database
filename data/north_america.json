@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:33:34.246Z",
+  "last_updated": "2026-02-14T23:33:38.781Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18866,6 +18866,26 @@
       "website": "c5mi.com",
       "decision_makers": [],
       "why_target": "SAP Partner (DoD prime contractor). Only SI to deploy SAP TM to DoD. First DoD S/4HANA migration (Jan 2025). 100% go-live success.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112018781",
+      "rank": 1459,
+      "priority": "MEDIUM",
+      "company_name": "EDC Consulting LLC",
+      "country": "USA",
+      "city": "Reston",
+      "state": "VA",
+      "employees": "Small-to-mid",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Federal"
+      ],
+      "website": "edcconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (multiple federal contract vehicles). Full-lifecycle SAP for DoD, DHS/CBP, IRS, NASA, Army, Navy, Air Force.",
       "notable_clients": "",
       "awards": "",
       "checked": false

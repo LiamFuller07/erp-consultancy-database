@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:24.287Z",
+  "last_updated": "2026-02-14T23:34:27.855Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19051,6 +19051,25 @@
       "website": "csneovias.com",
       "decision_makers": [],
       "why_target": "SAP Partner. One of very few SAP SLcM specialists globally. Higher Education exclusive focus.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112067855",
+      "rank": 1468,
+      "priority": "MEDIUM",
+      "company_name": "eNoah iSolution",
+      "country": "USA",
+      "city": "Edison",
+      "state": "NJ",
+      "employees": "~200-500",
+      "erp_systems": [
+        "SAP S/4HANA"
+      ],
+      "website": "enoah.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Implementation and Customization. Healthcare, Life Sciences, Financial Services.",
       "notable_clients": "",
       "awards": "",
       "checked": false

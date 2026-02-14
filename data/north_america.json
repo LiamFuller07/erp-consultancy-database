@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:31:14.074Z",
+  "last_updated": "2026-02-14T23:31:17.955Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18333,6 +18333,29 @@
       "website": "loganconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Partner. ERP Selection Consulting, Implementation, Optimization. Manufacturing, Distribution, Professional Services.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111877954",
+      "rank": 1434,
+      "priority": "MEDIUM",
+      "company_name": "Mygo Consulting",
+      "country": "USA",
+      "city": "Chicago",
+      "state": "IL",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Analytics Cloud",
+        "SAP Fiori",
+        "SAP EWM",
+        "SAP Fieldglass"
+      ],
+      "website": "mygoconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner. Digital Strategy, Transformation. Energy, Financial Services, Consumer Industries, Public Services.",
       "notable_clients": "",
       "awards": "",
       "checked": false

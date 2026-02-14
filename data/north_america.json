@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:32:44.424Z",
+  "last_updated": "2026-02-14T23:32:47.405Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18702,6 +18702,26 @@
       "website": "agconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. Broad SAP portfolio. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111967405",
+      "rank": 1451,
+      "priority": "MEDIUM",
+      "company_name": "Logic Point",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "Mid-sized niche",
+      "erp_systems": [
+        "SAP Implementation",
+        "SAP Data Management"
+      ],
+      "website": "logicpoint.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Digital Sherpa Accelerators, Technology Optimization. Asset-Intensive Industries.",
       "notable_clients": "",
       "awards": "",
       "checked": false

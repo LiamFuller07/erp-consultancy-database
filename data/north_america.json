@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:26:18.240Z",
+  "last_updated": "2026-02-14T23:26:22.799Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17004,6 +17004,29 @@
       "website": "microexcel.com",
       "decision_makers": [],
       "why_target": "SAP Services Partner. Implementation, Support, Consulting. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111582799",
+      "rank": 1372,
+      "priority": "HIGH",
+      "company_name": "SEIDOR",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "10,000+ globally",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Business One",
+        "SAP SuccessFactors",
+        "SAP BTP",
+        "SAP RISE/GROW"
+      ],
+      "website": "seidor.com/en-us",
+      "decision_makers": [],
+      "why_target": "SAP Partner. GROW with SAP. Public & Private Cloud. Manufacturing, Distribution, Retail, Professional Services.",
       "notable_clients": "",
       "awards": "",
       "checked": false

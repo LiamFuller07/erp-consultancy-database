@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:48.130Z",
+  "last_updated": "2026-02-14T23:34:52.722Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19171,6 +19171,26 @@
       "website": "thefirstcallconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Partner. User Account Maintenance, Role Creation, Threat Detection. Cross-industry Security focus.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112092721",
+      "rank": 1474,
+      "priority": "MEDIUM",
+      "company_name": "DataXstream",
+      "country": "USA",
+      "city": "Williamsburg",
+      "state": "VA",
+      "employees": "Small-to-mid",
+      "erp_systems": [
+        "SAP SD",
+        "SAP Order Management"
+      ],
+      "website": "dataxstream.com",
+      "decision_makers": [],
+      "why_target": "SAP Silver Partner. OMS+ SAP-certified solution extension. Retail, Manufacturing, Distribution.",
       "notable_clients": "",
       "awards": "",
       "checked": false

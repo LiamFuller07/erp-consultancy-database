@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:28:10.242Z",
+  "last_updated": "2026-02-14T23:28:14.408Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10433,17 +10433,20 @@
       "priority": "HIGH",
       "company_name": "Birlasoft",
       "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
+      "city": "Edison",
+      "state": "NJ",
+      "employees": "~12,000+",
       "erp_systems": [
-        "Infor M3"
+        "SAP S/4HANA",
+        "SAP SuccessFactors",
+        "SAP Analytics"
       ],
       "website": "birlasoft.com",
       "decision_makers": [],
-      "why_target": "15+ years Infor M3 practice, Center of Excellence since 2005",
+      "why_target": "ISG Leader SAP S/4HANA Midmarket US; Gartner Challenger. SMARTEDGE accelerators. Manufacturing, Life Sciences, Automotive.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "north_america-new-1768616140730",

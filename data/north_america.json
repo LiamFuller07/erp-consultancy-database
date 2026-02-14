@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:20.749Z",
+  "last_updated": "2026-02-14T23:34:24.287Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19032,6 +19032,25 @@
       "website": "fingent.com",
       "decision_makers": [],
       "why_target": "SAP Partner. FinAMSCare managed services. Healthcare, Higher Education.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112064287",
+      "rank": 1467,
+      "priority": "MEDIUM",
+      "company_name": "CSneovias",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "Niche specialist",
+      "erp_systems": [
+        "SAP Student Lifecycle Management"
+      ],
+      "website": "csneovias.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. One of very few SAP SLcM specialists globally. Higher Education exclusive focus.",
       "notable_clients": "",
       "awards": "",
       "checked": false

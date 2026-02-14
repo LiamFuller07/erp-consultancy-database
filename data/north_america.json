@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:24:44.911Z",
+  "last_updated": "2026-02-14T23:24:48.859Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -1641,20 +1641,24 @@
     {
       "id": "na-077",
       "rank": 77,
-      "priority": "MEDIUM",
+      "priority": "HIGHEST",
       "company_name": "Capgemini",
       "country": "USA",
       "city": "New York",
       "state": "NY",
-      "employees": "1000+",
+      "employees": "~340,000",
       "erp_systems": [
-        "NetSuite"
+        "SAP S/4HANA",
+        "SAP BTP",
+        "SAP Analytics",
+        "SAP Managed Services"
       ],
-      "website": "",
+      "website": "capgemini.com",
       "decision_makers": [],
-      "why_target": "",
+      "why_target": "SAP Platinum Reseller Partner. RISE with SAP, Industry Solutions. Cross-industry.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "na-078",

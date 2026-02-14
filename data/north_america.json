@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:25:29.541Z",
+  "last_updated": "2026-02-14T23:25:37.793Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16797,6 +16797,28 @@
       "website": "techmahindra.com",
       "decision_makers": [],
       "why_target": "SAP Global Strategic Partner. BTP, Digital Supply Chain, Managed Services. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111537792",
+      "rank": 1363,
+      "priority": "HIGHEST",
+      "company_name": "LTIMindtree",
+      "country": "USA",
+      "city": "Edison",
+      "state": "NJ",
+      "employees": "~84,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP BTP",
+        "SAP Analytics",
+        "SAP Managed Services"
+      ],
+      "website": "ltimindtree.com",
+      "decision_makers": [],
+      "why_target": "SAP Global Strategic Partner. BTP, Analytics, Managed Services. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:26:51.531Z",
+  "last_updated": "2026-02-14T23:26:55.583Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17141,6 +17141,28 @@
       "website": "scheer-americas.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Process Transformation, Smart Automation. Financial Services, Health, Manufacturing, Consumer Goods.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111615583",
+      "rank": 1378,
+      "priority": "HIGH",
+      "company_name": "Knack Systems",
+      "country": "USA",
+      "city": "Plainsboro",
+      "state": "NJ",
+      "employees": "350+ SAP-certified",
+      "erp_systems": [
+        "SAP CX",
+        "SAP Commerce",
+        "SAP CPQ",
+        "SAP S/4HANA"
+      ],
+      "website": "knacksystems.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner. Recognized Expertise in CX. B2B portal accelerator. Consumer Products, Manufacturing, Fashion.",
       "notable_clients": "",
       "awards": "",
       "checked": false

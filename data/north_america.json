@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:30:34.544Z",
+  "last_updated": "2026-02-14T23:30:38.094Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18183,6 +18183,26 @@
       "website": "clarkstonconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Preferred Services Partner. Crescence subsidiary (SAP VAR for SMEs). Life Sciences, Consumer Products, Retail.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111838094",
+      "rank": 1427,
+      "priority": "MEDIUM",
+      "company_name": "ALKU",
+      "country": "USA",
+      "city": "Andover",
+      "state": "MA",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Staffing & Consulting"
+      ],
+      "website": "alku.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Staffing & Consulting, S/4HANA Implementations, Upgrades, Application Management. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

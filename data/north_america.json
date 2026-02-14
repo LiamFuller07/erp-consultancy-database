@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:35:24.879Z",
+  "last_updated": "2026-02-14T23:35:28.919Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19320,6 +19320,26 @@
       "website": "hrizons.com",
       "decision_makers": [],
       "why_target": "SAP SuccessFactors Advisory (since 2006). Global HCM, Employee Experience. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112128919",
+      "rank": 1481,
+      "priority": "MEDIUM",
+      "company_name": "Pronix Inc.",
+      "country": "USA",
+      "city": "Plainsboro",
+      "state": "NJ",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Data Analytics"
+      ],
+      "website": "pronixinc.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. S/4HANA Migration, Data Analytics. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:27.755Z",
+  "last_updated": "2026-02-14T23:27:31.224Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17332,6 +17332,26 @@
       "website": "rockcrest.com",
       "decision_makers": [],
       "why_target": "SAP SuccessFactors Partner. EC, Recruiting, Onboarding, Performance, Compensation, Time. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111651224",
+      "rank": 1387,
+      "priority": "HIGH",
+      "company_name": "Panorama Consulting Group",
+      "country": "USA",
+      "city": "Denver",
+      "state": "CO",
+      "employees": "~50-200",
+      "erp_systems": [
+        "SAP",
+        "ERP Selection (Vendor-Agnostic)"
+      ],
+      "website": "panorama-consulting.com",
+      "decision_makers": [],
+      "why_target": "Independent / Vendor-Agnostic. ERP/SAP Selection, Implementation Oversight, Contract Negotiation. Manufacturing, Distribution, Energy.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:28:25.723Z",
+  "last_updated": "2026-02-14T23:28:30.102Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17586,6 +17586,27 @@
       "website": "zensar.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Business Transformation-as-a-Service. Pharma, Manufacturing, Retail.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111710099",
+      "rank": 1399,
+      "priority": "HIGH",
+      "company_name": "Sonata Software",
+      "country": "USA",
+      "city": "Redmond",
+      "state": "WA",
+      "employees": "~5,000",
+      "erp_systems": [
+        "SAP Commerce Cloud",
+        "SAP S/4HANA",
+        "SAP BTP"
+      ],
+      "website": "sonata-software.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner; SAP Pinnacle Award winner. Retail, Travel, Consumer Goods.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:28:14.408Z",
+  "last_updated": "2026-02-14T23:28:18.905Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17527,6 +17527,26 @@
       "website": "hexaware.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. 350+ SAP consultants. RISE with SAP. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111698905",
+      "rank": 1396,
+      "priority": "HIGH",
+      "company_name": "Coforge",
+      "country": "USA",
+      "city": "Edison",
+      "state": "NJ",
+      "employees": "~30,000+",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Managed Services"
+      ],
+      "website": "coforge.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. S/4HANA Transformation, Managed Services. Insurance, Travel, Banking, Life Sciences.",
       "notable_clients": "",
       "awards": "",
       "checked": false

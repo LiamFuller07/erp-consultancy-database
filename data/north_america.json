@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:29:03.630Z",
+  "last_updated": "2026-02-14T23:29:07.565Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17735,6 +17735,26 @@
       "website": "utopia-inc.com",
       "decision_makers": [],
       "why_target": "SAP Platinum Partner. Master Data Management for S/4HANA. Manufacturing, Utilities, Oil & Gas, Public Sector.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111747565",
+      "rank": 1406,
+      "priority": "HIGH",
+      "company_name": "Emergys Corporation",
+      "country": "USA",
+      "city": "Morrisville",
+      "state": "NC",
+      "employees": "~1,400-3,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Global Trade Management"
+      ],
+      "website": "emergys.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner; Strategic VAR. 2025 Pinnacle Award Finalist (Rising Star). Aerospace & Defense, Medical Devices, Manufacturing, Banking.",
       "notable_clients": "",
       "awards": "",
       "checked": false

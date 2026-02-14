@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:09.205Z",
+  "last_updated": "2026-02-14T23:34:13.272Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18970,6 +18970,27 @@
       "website": "ingenxtec.com",
       "decision_makers": [],
       "why_target": "SAP Silver Partner; Industry Cloud Partner for Oil & Gas. Proprietary iGMS gas management. Oil & Gas, Utilities, Mining.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112053272",
+      "rank": 1464,
+      "priority": "MEDIUM",
+      "company_name": "Sure Power Consulting",
+      "country": "USA",
+      "city": "Alpharetta",
+      "state": "GA",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP IS-U",
+        "SAP Smart Grid",
+        "SAP AMI"
+      ],
+      "website": "surepowerconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (13+ years, Inc. 5000). 100+ electric/gas/water/sewer utility clients. Utilities exclusive focus.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:32:19.294Z",
+  "last_updated": "2026-02-14T23:32:23.303Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -10663,20 +10663,21 @@
     {
       "id": "north_america-new-1768616228869",
       "rank": 1084,
-      "priority": "HIGH",
+      "priority": "MEDIUM",
       "company_name": "Kabeer Consulting",
       "country": "USA",
       "city": "Edison",
       "state": "NJ",
-      "employees": "",
+      "employees": "Small",
       "erp_systems": [
         "SAP Business One"
       ],
       "website": "kabeerconsulting.com",
       "decision_makers": [],
-      "why_target": "SAP B1 Partner since 2008, affordable ERP for SMEs",
+      "why_target": "SAP B1 Partner. Implementation, Customization, Cloud ERP, Maintenance. Manufacturing, Retail, Distribution, SMEs.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "north_america-new-1768616233642",

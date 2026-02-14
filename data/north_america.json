@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:29:38.633Z",
+  "last_updated": "2026-02-14T23:29:48.683Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17930,6 +17930,27 @@
       "website": "improving.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. SAP Exodus BPC-to-SAC migration tool. Utilities, Oil & Gas.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111788683",
+      "rank": 1415,
+      "priority": "HIGH",
+      "company_name": "Lemongrass Cloud",
+      "country": "USA",
+      "city": "Edison",
+      "state": "NJ",
+      "employees": "500-1,000",
+      "erp_systems": [
+        "SAP Hosting",
+        "SAP AMS",
+        "SAP Cloud Migration"
+      ],
+      "website": "lemongrasscloud.com",
+      "decision_makers": [],
+      "why_target": "SAP Certified MSP; AWS Premier Partner. ~$146M revenue. Proprietary Cloud Platform. Healthcare, Oil & Gas, Utilities.",
       "notable_clients": "",
       "awards": "",
       "checked": false

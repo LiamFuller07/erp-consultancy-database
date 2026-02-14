@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:44.117Z",
+  "last_updated": "2026-02-14T23:34:48.130Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19150,6 +19150,27 @@
       "website": "premikati.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner (WBENC-certified Woman-Owned). Ariba Implementation and Optimization. Cross-industry Procurement.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112088130",
+      "rank": 1473,
+      "priority": "MEDIUM",
+      "company_name": "FirstCall Consulting",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Boutique",
+      "erp_systems": [
+        "SAP Security",
+        "SAP GRC",
+        "SAP Authorization"
+      ],
+      "website": "thefirstcallconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. User Account Maintenance, Role Creation, Threat Detection. Cross-industry Security focus.",
       "notable_clients": "",
       "awards": "",
       "checked": false

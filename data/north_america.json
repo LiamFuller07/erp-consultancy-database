@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:31:30.155Z",
+  "last_updated": "2026-02-14T23:31:34.225Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18420,6 +18420,26 @@
       "website": "beaconsystems.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Consulting, S/4HANA Cloud, Analytics/BI. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111894225",
+      "rank": 1438,
+      "priority": "MEDIUM",
+      "company_name": "Stellar One Consulting",
+      "country": "USA",
+      "city": "Flower Mound",
+      "state": "TX",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP Business ByDesign",
+        "SAP Business One"
+      ],
+      "website": "stellaroneconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP B1/ByDesign Certified Partner (since 2011). Fixed Pricing, Guaranteed Timelines. Manufacturing, Wholesale, eCommerce, Retail.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:35:52.879Z",
+  "last_updated": "2026-02-14T23:35:56.509Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19466,6 +19466,28 @@
       "website": "deteringconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Partner (since 2003). Dual SAP Implementation + Recruitment/Staffing. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112156509",
+      "rank": 1488,
+      "priority": "MEDIUM",
+      "company_name": "The Silicon Partners (TSP)",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP AMS",
+        "SAP S/4HANA",
+        "SAP SuccessFactors",
+        "SAP RPA"
+      ],
+      "website": "thesiliconpartners.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (100+ SAP deployments). AMS, SuccessFactors, RPA. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

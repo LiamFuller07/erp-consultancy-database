@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:33:08.331Z",
+  "last_updated": "2026-02-14T23:33:11.949Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18747,6 +18747,25 @@
       "website": "navisite.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. Consulting, Managed Services, Cloud. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111991949",
+      "rank": 1453,
+      "priority": "MEDIUM",
+      "company_name": "I-Business Network (I-BN)",
+      "country": "USA",
+      "city": "Marietta",
+      "state": "GA",
+      "employees": "~10-25",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "i-bn.com",
+      "decision_makers": [],
+      "why_target": "SAP B1 Partner. System-Selection Advisory, Partner Academy Services. Cross-industry SMBs.",
       "notable_clients": "",
       "awards": "",
       "checked": false

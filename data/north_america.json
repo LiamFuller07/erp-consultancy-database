@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:32:56.169Z",
+  "last_updated": "2026-02-14T23:33:00.314Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -7095,9 +7095,10 @@
           "linkedin_url": "linkedin.com/in/gil-lasman-5a302134/"
         }
       ],
-      "why_target": "",
+      "why_target": "SAP B1 Gold Partner (Top 3 in US). Implementation, Cloud Hosting, Add-on Development. Manufacturing, Distribution, Food & Beverage.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "na-325",

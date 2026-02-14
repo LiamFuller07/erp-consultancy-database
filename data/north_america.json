@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:33:14.960Z",
+  "last_updated": "2026-02-14T23:33:18.966Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18785,6 +18785,25 @@
       "website": "lbsi.com",
       "decision_makers": [],
       "why_target": "SAP B1 Gold Partner (since 1989). Proprietary AMMP add-on. Acquired by ERP Logic 2022. Manufacturing, Distribution.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111998965",
+      "rank": 1455,
+      "priority": "MEDIUM",
+      "company_name": "Clients First Business Solutions",
+      "country": "USA",
+      "city": "Holmdel",
+      "state": "NJ",
+      "employees": "~50-200",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "clientsfirst-us.com",
+      "decision_makers": [],
+      "why_target": "SAP B1 Gold Partner. #1 client retention among B1 partners. Offices in NJ, Chicago, Minneapolis. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

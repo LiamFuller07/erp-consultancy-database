@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:25:53.160Z",
+  "last_updated": "2026-02-14T23:25:56.685Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -14875,8 +14875,11 @@
       "state": "IL",
       "employees": "5000-10000",
       "erp_systems": [
-        "QAD Adaptive ERP",
         "SAP S/4HANA",
+        "SAP Cloud Migration",
+        "SAP AMS",
+        "SAP SuccessFactors",
+        "QAD Adaptive ERP",
         "Oracle"
       ],
       "website": "yash.com",
@@ -14902,9 +14905,10 @@
           "linkedin_url": ""
         }
       ],
-      "why_target": "Global IT consulting firm since 1996, QAD strategic partner, SAP expertise, serves Fortune 500, $100-500M revenue",
+      "why_target": "SAP Gold Partner. 4,500+ SAP professionals. Full Lifecycle. Manufacturing, Life Sciences, BFSI, Mining, Healthcare, Utilities.",
       "notable_clients": [],
-      "awards": []
+      "awards": [],
+      "checked": false
     },
     {
       "id": "na-1298",

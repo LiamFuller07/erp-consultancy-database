@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:31:55.177Z",
+  "last_updated": "2026-02-14T23:31:59.311Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9065,13 +9065,14 @@
     {
       "id": "north_america-new-1768562764799",
       "rank": 1019,
-      "priority": "HIGH",
+      "priority": "MEDIUM",
       "company_name": "Navigator Business Solutions",
       "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
+      "city": "Lehi",
+      "state": "UT",
+      "employees": "Small-mid",
       "erp_systems": [
+        "SAP S/4HANA Cloud",
         "SAP Business One",
         "SAP Business ByDesign"
       ],
@@ -9098,9 +9099,10 @@
           "linkedin_url": ""
         }
       ],
-      "why_target": "SAP Gold Partner, 300+ implementations, 20+ years",
+      "why_target": "SAP Gold Channel Partner; GROW with SAP; Pinnacle Award. 500+ implementations, 30+ Proprietary Extensions. Life Sciences, Consumer Products, Industrial Equipment.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "north_america-new-1768562799631",

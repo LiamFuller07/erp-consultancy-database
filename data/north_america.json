@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:35:13.755Z",
+  "last_updated": "2026-02-14T23:35:17.198Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19276,6 +19276,27 @@
       "website": "visionsoft.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner (SuccessFactors). Proprietary HANEYA tool for ECC-to-S/4HANA migration. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112117198",
+      "rank": 1479,
+      "priority": "MEDIUM",
+      "company_name": "Trigent",
+      "country": "USA",
+      "city": "Southborough",
+      "state": "MA",
+      "employees": "~500-1,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP ABAP",
+        "SAP BTP"
+      ],
+      "website": "trigent.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. S/4HANA Migration, ABAP Development, BTP Accelerator. Manufacturing, Distribution.",
       "notable_clients": "",
       "awards": "",
       "checked": false

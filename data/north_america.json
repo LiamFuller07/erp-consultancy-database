@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:29:07.565Z",
+  "last_updated": "2026-02-14T23:29:12.017Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17755,6 +17755,28 @@
       "website": "emergys.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner; Strategic VAR. 2025 Pinnacle Award Finalist (Rising Star). Aerospace & Defense, Medical Devices, Manufacturing, Banking.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111752017",
+      "rank": 1407,
+      "priority": "HIGH",
+      "company_name": "Argano",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Mid-to-large",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Supply Chain",
+        "SAP GROW with SAP",
+        "SAP Procurement"
+      ],
+      "website": "argano.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner. SAP NA Partner Excellence Award 2024 for Marketing. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

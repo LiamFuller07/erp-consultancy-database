@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:25:56.685Z",
+  "last_updated": "2026-02-14T23:26:00.555Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16907,6 +16907,29 @@
       "website": "epam.com",
       "decision_makers": [],
       "why_target": "SAP Platinum Partner. S/4HANA Transformation, BTP Development. Financial Services, Healthcare, Life Sciences, Retail.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111560554",
+      "rank": 1368,
+      "priority": "HIGH",
+      "company_name": "Syntax",
+      "country": "USA",
+      "city": "Montreal",
+      "state": "QC",
+      "employees": "~2,800",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP SuccessFactors",
+        "SAP Ariba",
+        "SAP BTP",
+        "SAP Managed Services"
+      ],
+      "website": "syntax.com",
+      "decision_makers": [],
+      "why_target": "SAP Platinum Partner. 150+ S/4HANA implementations, ~$419M revenue. Manufacturing, Construction, Life Sciences.",
       "notable_clients": "",
       "awards": "",
       "checked": false

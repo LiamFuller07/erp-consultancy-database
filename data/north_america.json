@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:55.250Z",
+  "last_updated": "2026-02-14T23:27:58.770Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17438,6 +17438,27 @@
       "website": "tenthpin.com",
       "decision_makers": [],
       "why_target": "SAP Partner. 100% Life Sciences focus. S/4HANA, Supply Chain, Manufacturing.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111678769",
+      "rank": 1392,
+      "priority": "HIGH",
+      "company_name": "SCM Champs",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Small/emerging",
+      "erp_systems": [
+        "SAP EWM",
+        "SAP TM",
+        "SAP SCM"
+      ],
+      "website": "scmchamps.com",
+      "decision_makers": [],
+      "why_target": "SAP Silver Partner. Warehouse Automation, Supply Chain Optimization. Supply Chain, Warehousing, Logistics, 3PL.",
       "notable_clients": "",
       "awards": "",
       "checked": false

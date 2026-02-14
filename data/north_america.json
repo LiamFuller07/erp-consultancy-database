@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:29:56.784Z",
+  "last_updated": "2026-02-14T23:30:00.387Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17993,6 +17993,28 @@
       "website": "rackspace.com",
       "decision_makers": [],
       "why_target": "SAP Partner (20+ years). Private Cloud Hosting, AMS. Manufacturing, Energy, Healthcare.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111800384",
+      "rank": 1418,
+      "priority": "HIGH",
+      "company_name": "Cloud4C",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "~2,000+",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP AMS",
+        "SAP Hosting",
+        "SAP Disaster Recovery"
+      ],
+      "website": "cloud4c.com",
+      "decision_makers": [],
+      "why_target": "SAP Certified Hosting Services. Basis Support, 25+ Industry Verticals.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:31:38.416Z",
+  "last_updated": "2026-02-14T23:31:42.414Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -4371,9 +4371,10 @@
           "linkedin_url": ""
         }
       ],
-      "why_target": "",
+      "why_target": "SAP B1 Partner. Implementation, Consulting. Manufacturing, Retail, Distribution.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "na-200",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:25:25.536Z",
+  "last_updated": "2026-02-14T23:25:29.541Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16776,6 +16776,27 @@
       "website": "dxc.com",
       "decision_makers": [],
       "why_target": "SAP Global Strategic Partner. Government/Defense focus, SAP Hosting. Government, Defense, Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111529541",
+      "rank": 1362,
+      "priority": "HIGHEST",
+      "company_name": "Tech Mahindra",
+      "country": "USA",
+      "city": "Edison",
+      "state": "NJ",
+      "employees": "~145,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP BTP",
+        "SAP Digital Supply Chain"
+      ],
+      "website": "techmahindra.com",
+      "decision_makers": [],
+      "why_target": "SAP Global Strategic Partner. BTP, Digital Supply Chain, Managed Services. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

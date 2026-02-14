@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:32:07.246Z",
+  "last_updated": "2026-02-14T23:32:11.259Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18526,6 +18526,27 @@
       "website": "vistavusolutions.com",
       "decision_makers": [],
       "why_target": "SAP Certified Partner (~$5M revenue). FieldVu for Field Services. Industrial Field Services, Manufacturing, Aerospace, Life Sciences.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111931259",
+      "rank": 1443,
+      "priority": "MEDIUM",
+      "company_name": "iT Services 2 (iT2)",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP Consulting",
+        "SAP Staffing",
+        "SAP Implementation"
+      ],
+      "website": "itservices2.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (since 2009, 948+ engagements). Energy, Transportation, Manufacturing, Healthcare, Financial Services.",
       "notable_clients": "",
       "awards": "",
       "checked": false

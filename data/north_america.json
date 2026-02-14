@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:28:18.905Z",
+  "last_updated": "2026-02-14T23:28:22.445Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17547,6 +17547,26 @@
       "website": "coforge.com",
       "decision_makers": [],
       "why_target": "SAP Partner. S/4HANA Transformation, Managed Services. Insurance, Travel, Banking, Life Sciences.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111702445",
+      "rank": 1397,
+      "priority": "HIGH",
+      "company_name": "Mphasis",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "~35,000+",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP M&A/Carve-outs"
+      ],
+      "website": "mphasis.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (SNP Group partnership). mSwift accelerator for S/4HANA Carve-outs/M&A. Banking, Insurance, Healthcare.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:31.224Z",
+  "last_updated": "2026-02-14T23:27:41.140Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17352,6 +17352,26 @@
       "website": "panorama-consulting.com",
       "decision_makers": [],
       "why_target": "Independent / Vendor-Agnostic. ERP/SAP Selection, Implementation Oversight, Contract Negotiation. Manufacturing, Distribution, Energy.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111661140",
+      "rank": 1388,
+      "priority": "HIGH",
+      "company_name": "Third Stage Consulting",
+      "country": "USA",
+      "city": "Denver",
+      "state": "CO",
+      "employees": "~50-100",
+      "erp_systems": [
+        "SAP",
+        "ERP Selection (Vendor-Agnostic)"
+      ],
+      "website": "thirdstage-consulting.com",
+      "decision_makers": [],
+      "why_target": "Independent / Vendor-Agnostic. Digital Strategy, Organizational Change Management, Software Selection. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

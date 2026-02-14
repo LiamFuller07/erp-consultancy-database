@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:26:40.855Z",
+  "last_updated": "2026-02-14T23:26:44.415Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17092,6 +17092,29 @@
       "website": "delawareconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. FAST-2-S/4 accelerator. Manufacturing, Distribution, Professional Services, Retail.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111604415",
+      "rank": 1376,
+      "priority": "HIGH",
+      "company_name": "Accely",
+      "country": "USA",
+      "city": "Edison",
+      "state": "NJ",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP SuccessFactors",
+        "SAP CX",
+        "SAP BTP",
+        "SAP GROW/RISE"
+      ],
+      "website": "accely.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner, Global Strategic Supplier. Energy, Manufacturing, Education, Healthcare.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:26:22.799Z",
+  "last_updated": "2026-02-14T23:26:26.974Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17027,6 +17027,27 @@
       "website": "seidor.com/en-us",
       "decision_makers": [],
       "why_target": "SAP Partner. GROW with SAP. Public & Private Cloud. Manufacturing, Distribution, Retail, Professional Services.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111586974",
+      "rank": 1373,
+      "priority": "HIGH",
+      "company_name": "NTT DATA Business Solutions",
+      "country": "USA",
+      "city": "Plano",
+      "state": "TX",
+      "employees": "10,000+",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Cloud Hosting",
+        "SAP Managed Services"
+      ],
+      "website": "nttdata-solutions.com/us",
+      "decision_makers": [],
+      "why_target": "SAP Platinum Partner. Consulting, Implementation, Managed Services. Manufacturing, Distribution, Consumer Goods, Life Sciences.",
       "notable_clients": "",
       "awards": "",
       "checked": false

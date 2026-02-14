@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:32:40.410Z",
+  "last_updated": "2026-02-14T23:32:44.424Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18676,6 +18676,32 @@
       "website": "k2partnering.com",
       "decision_makers": [],
       "why_target": "SAP Partner (28 years). S-Imple methodology for S/4HANA Migrations. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111964424",
+      "rank": 1450,
+      "priority": "MEDIUM",
+      "company_name": "AG Consulting (AGC Apps)",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP Concur",
+        "SAP Ariba",
+        "SAP SuccessFactors",
+        "SAP GRC",
+        "SAP S/4HANA",
+        "SAP Analytics",
+        "SAP BTP",
+        "SAP Business One"
+      ],
+      "website": "agconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner. Broad SAP portfolio. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

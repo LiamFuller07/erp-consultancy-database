@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:51.775Z",
+  "last_updated": "2026-02-14T23:27:55.250Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17417,6 +17417,27 @@
       "website": "auritas.com",
       "decision_makers": [],
       "why_target": "SAP Partner (since 2005). Data Archiving, HANA Optimization, System Decommissioning. Utilities, Public Sector, Automotive, Retail, Life Sciences.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111675250",
+      "rank": 1391,
+      "priority": "HIGH",
+      "company_name": "Tenthpin",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "Boutique global",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Supply Chain",
+        "SAP Manufacturing"
+      ],
+      "website": "tenthpin.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. 100% Life Sciences focus. S/4HANA, Supply Chain, Manufacturing.",
       "notable_clients": "",
       "awards": "",
       "checked": false

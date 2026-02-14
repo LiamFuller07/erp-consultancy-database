@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:35:10.134Z",
+  "last_updated": "2026-02-14T23:35:13.755Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19253,6 +19253,29 @@
       "website": "gemini-us.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Government, Healthcare, Higher Education, Oil & Gas, Manufacturing.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112113755",
+      "rank": 1478,
+      "priority": "MEDIUM",
+      "company_name": "VisionSoft Inc.",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP SuccessFactors",
+        "SAP BTP",
+        "SAP GRC",
+        "SAP RISE"
+      ],
+      "website": "visionsoft.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner (SuccessFactors). Proprietary HANEYA tool for ECC-to-S/4HANA migration. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

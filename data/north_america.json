@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:30:50.962Z",
+  "last_updated": "2026-02-14T23:30:54.217Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18225,6 +18225,25 @@
       "website": "sapphiresystems.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. Implementation, Managed Services, Upgrades. Mid-market Manufacturing, Distribution, Professional Services.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111854217",
+      "rank": 1429,
+      "priority": "MEDIUM",
+      "company_name": "Consultare America",
+      "country": "USA",
+      "city": "Atlanta",
+      "state": "GA",
+      "employees": "<50",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "consultare.net",
+      "decision_makers": [],
+      "why_target": "SAP Business One Gold Partner. Implementation, Customization, Support. Distribution, Manufacturing, SMBs.",
       "notable_clients": "",
       "awards": "",
       "checked": false

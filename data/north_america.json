@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:09.137Z",
+  "last_updated": "2026-02-14T23:27:13.452Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17231,6 +17231,27 @@
       "website": "approyo.com",
       "decision_makers": [],
       "why_target": "SAP Partner. 500+ landscapes. S/4HANA Migrations, HANA Hosting, 24/7 Basis Support. Energy, Logistics, Financial Services.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111633452",
+      "rank": 1382,
+      "priority": "HIGH",
+      "company_name": "Protera",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP Managed Services",
+        "SAP Cloud Migration",
+        "SAP Application Management"
+      ],
+      "website": "protera.com",
+      "decision_makers": [],
+      "why_target": "SAP Managed Services Provider. Cloud Migration, Basis Support. Cross-industry enterprise.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:30:12.130Z",
+  "last_updated": "2026-02-14T23:30:15.609Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18074,6 +18074,27 @@
       "website": "s3.consulting",
       "decision_makers": [],
       "why_target": "SAP Partner (exclusively SAP Security & GRC). Access Control, Process Control, SoD Compliance. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111815609",
+      "rank": 1422,
+      "priority": "HIGH",
+      "company_name": "Turnkey Consulting",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "100-300",
+      "erp_systems": [
+        "SAP GRC",
+        "SAP Application Security",
+        "SAP IRM"
+      ],
+      "website": "turnkeyconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (20+ years). Bedrock GRC Managed Service. S/4HANA Security Migration. Cross-industry Security/GRC.",
       "notable_clients": "",
       "awards": "",
       "checked": false

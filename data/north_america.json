@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:26:58.994Z",
+  "last_updated": "2026-02-14T23:27:02.176Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15619,10 +15619,12 @@
       "employees": "100-200",
       "erp_systems": [
         "SAP S/4HANA",
-        "SAP Business One",
         "SAP SuccessFactors",
         "SAP Ariba",
-        "SAP Concur"
+        "SAP Concur",
+        "SAP Business ByDesign",
+        "SAP Analytics Cloud",
+        "SAP Business One"
       ],
       "website": "phoenixteam.com",
       "decision_makers": [
@@ -15647,9 +15649,10 @@
           "linkedin_url": ""
         }
       ],
-      "why_target": "SAP Gold Partner since 1998. Founded by former SAP Consultants and Big-4 alumni. 27+ years SAP experience. Offices in FL, CA, India, Canada",
+      "why_target": "SAP Gold Partner (28+ years). Public & Private Cloud. Public Sector, Pharma, Insurance, Banking, Manufacturing.",
       "notable_clients": "Public sector, commercial industries",
-      "awards": "SAP Gold Partner"
+      "awards": "SAP Gold Partner",
+      "checked": false
     },
     {
       "id": "na-1320",

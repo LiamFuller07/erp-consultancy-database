@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:30:54.217Z",
+  "last_updated": "2026-02-14T23:30:58.225Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -9562,14 +9562,16 @@
     {
       "id": "north_america-new-1768571796385",
       "rank": 1038,
-      "priority": "HIGH",
-      "company_name": "Effective Computer Solutions",
+      "priority": "MEDIUM",
+      "company_name": "Effective Computer Solutions (ECS)",
       "country": "USA",
-      "city": "Ponte Vedra",
+      "city": "Jacksonville",
       "state": "FL",
-      "employees": "",
+      "employees": "<50",
       "erp_systems": [
-        "SAP Business One"
+        "SAP Business One",
+        "SAP HANA",
+        "SAP B1 Cloud"
       ],
       "website": "ecs-online.com",
       "decision_makers": [
@@ -9589,9 +9591,10 @@
           "linkedin_url": ""
         }
       ],
-      "why_target": "SAP Certified Gold Partner, nearly four decades experience",
+      "why_target": "SAP Certified Gold Partner (since 1985). ProcECS Engine add-on. Healthcare, Manufacturing, Wholesale Distribution.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "north_america-new-1768571799919",

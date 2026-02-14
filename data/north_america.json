@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:20.618Z",
+  "last_updated": "2026-02-14T23:27:24.125Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17293,6 +17293,26 @@
       "website": "aspirehr.com",
       "decision_makers": [],
       "why_target": "SAP Partner. SuccessFactors, Cloud Implementation, HR BPO. Public and Private Sector.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111644124",
+      "rank": 1385,
+      "priority": "HIGH",
+      "company_name": "Veritas Prime",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Boutique-mid",
+      "erp_systems": [
+        "SAP SuccessFactors",
+        "SAP HCM"
+      ],
+      "website": "veritasprime.com",
+      "decision_makers": [],
+      "why_target": "SAP SuccessFactors Partner. All modules, Post-Go-Live Support. Cross-industry HCM.",
       "notable_clients": "",
       "awards": "",
       "checked": false

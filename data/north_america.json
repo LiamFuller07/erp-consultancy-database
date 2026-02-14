@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:13.452Z",
+  "last_updated": "2026-02-14T23:27:17.024Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17252,6 +17252,26 @@
       "website": "protera.com",
       "decision_makers": [],
       "why_target": "SAP Managed Services Provider. Cloud Migration, Basis Support. Cross-industry enterprise.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111637024",
+      "rank": 1383,
+      "priority": "HIGH",
+      "company_name": "AltaFlux",
+      "country": "USA",
+      "city": "Troy",
+      "state": "MI",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP SuccessFactors",
+        "SAP HCM"
+      ],
+      "website": "altaflux.com",
+      "decision_makers": [],
+      "why_target": "SAP SuccessFactors Partner. 200+ deployments. Dell Boomi Integration. Cross-industry HCM.",
       "notable_clients": "",
       "awards": "",
       "checked": false

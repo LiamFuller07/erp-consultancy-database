@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:58.770Z",
+  "last_updated": "2026-02-14T23:28:02.225Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17459,6 +17459,27 @@
       "website": "scmchamps.com",
       "decision_makers": [],
       "why_target": "SAP Silver Partner. Warehouse Automation, Supply Chain Optimization. Supply Chain, Warehousing, Logistics, 3PL.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111682224",
+      "rank": 1393,
+      "priority": "HIGH",
+      "company_name": "Axxiome",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "Mid-sized niche",
+      "erp_systems": [
+        "SAP Banking",
+        "SAP Insurance",
+        "SAP Analytics"
+      ],
+      "website": "axxiome.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Financial Services focus (Banks & Insurance). Consulting, Advisory, Analytics, Testing.",
       "notable_clients": "",
       "awards": "",
       "checked": false

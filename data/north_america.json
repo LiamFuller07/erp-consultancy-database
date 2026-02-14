@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:30:38.094Z",
+  "last_updated": "2026-02-14T23:30:41.256Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18203,6 +18203,27 @@
       "website": "alku.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Staffing & Consulting, S/4HANA Implementations, Upgrades, Application Management. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111841256",
+      "rank": 1428,
+      "priority": "MEDIUM",
+      "company_name": "Sapphire Systems",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "~500-1,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Business One",
+        "SAP Business ByDesign"
+      ],
+      "website": "sapphiresystems.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner. Implementation, Managed Services, Upgrades. Mid-market Manufacturing, Distribution, Professional Services.",
       "notable_clients": "",
       "awards": "",
       "checked": false

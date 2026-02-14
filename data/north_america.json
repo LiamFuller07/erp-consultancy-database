@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:32:37.704Z",
+  "last_updated": "2026-02-14T23:32:40.410Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18655,6 +18655,27 @@
       "website": "cloudconsultings.com",
       "decision_makers": [],
       "why_target": "SAP Partner. RISE with SAP, SAP-Salesforce Integration, Custom Development. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111960410",
+      "rank": 1449,
+      "priority": "MEDIUM",
+      "company_name": "K2 Partnering Solutions",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Consulting",
+        "SAP Staffing"
+      ],
+      "website": "k2partnering.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (28 years). S-Imple methodology for S/4HANA Migrations. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

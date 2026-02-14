@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:05.529Z",
+  "last_updated": "2026-02-14T23:34:09.205Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -15534,8 +15534,8 @@
       "state": "IN",
       "employees": "32",
       "erp_systems": [
+        "SAP S/4HANA",
         "JD Edwards",
-        "SAP",
         "Acumatica"
       ],
       "website": "catechnology.com",
@@ -15561,9 +15561,10 @@
           "linkedin_url": ""
         }
       ],
-      "why_target": "Boutique JDE/SAP specialist since 2011 with automotive Tier 1/2 expertise. Staff with 15+ years senior-level experience. Offices in NY, Indianapolis, Orlando, Denver",
+      "why_target": "SAP Partner (founded 2011). JDE-to-SAP Safe Passage migration. Energy, Oil & Gas, Food & Beverage, Automotive.",
       "notable_clients": "Industrial Manufacturing, Consumer Products, Automotive Tier 1/2 suppliers",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "na-1317",

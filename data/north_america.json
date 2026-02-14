@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:35:48.889Z",
+  "last_updated": "2026-02-14T23:35:52.879Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19446,6 +19446,26 @@
       "website": "dexian.com",
       "decision_makers": [],
       "why_target": "SAP Partner. SAP-Specialized Staffing. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112152879",
+      "rank": 1487,
+      "priority": "MEDIUM",
+      "company_name": "Detering Consulting",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP Implementation",
+        "SAP Staffing"
+      ],
+      "website": "deteringconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (since 2003). Dual SAP Implementation + Recruitment/Staffing. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

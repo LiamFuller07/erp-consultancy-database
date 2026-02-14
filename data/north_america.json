@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:31:34.225Z",
+  "last_updated": "2026-02-14T23:31:38.416Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18440,6 +18440,26 @@
       "website": "stellaroneconsulting.com",
       "decision_makers": [],
       "why_target": "SAP B1/ByDesign Certified Partner (since 2011). Fixed Pricing, Guaranteed Timelines. Manufacturing, Wholesale, eCommerce, Retail.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111898416",
+      "rank": 1439,
+      "priority": "MEDIUM",
+      "company_name": "DESSS",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "Small boutique",
+      "erp_systems": [
+        "SAP Consulting",
+        "SAP Advisory"
+      ],
+      "website": "desss.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Consulting & Advisory, End-to-End Solutions. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:05.672Z",
+  "last_updated": "2026-02-14T23:27:09.137Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17210,6 +17210,27 @@
       "website": "convergentis.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Procurement (Ariba Integration), Intake-to-Pay Platform. Oil & Gas, Agriculture, Utilities, Transportation.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111629137",
+      "rank": 1381,
+      "priority": "HIGH",
+      "company_name": "Approyo",
+      "country": "USA",
+      "city": "Waukesha",
+      "state": "WI",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP HANA Hosting",
+        "SAP Managed Cloud"
+      ],
+      "website": "approyo.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. 500+ landscapes. S/4HANA Migrations, HANA Hosting, 24/7 Basis Support. Energy, Logistics, Financial Services.",
       "notable_clients": "",
       "awards": "",
       "checked": false

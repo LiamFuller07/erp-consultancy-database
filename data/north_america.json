@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:31:10.563Z",
+  "last_updated": "2026-02-14T23:31:14.074Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18313,6 +18313,26 @@
       "website": "suretysystems.com",
       "decision_makers": [],
       "why_target": "SAP Partner (~$31M revenue). Staff Augmentation, S/4HANA Conversions. Manufacturing, Distribution, Construction, Healthcare.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111874073",
+      "rank": 1433,
+      "priority": "MEDIUM",
+      "company_name": "Logan Consulting",
+      "country": "USA",
+      "city": "Chicago",
+      "state": "IL",
+      "employees": "Small boutique",
+      "erp_systems": [
+        "SAP",
+        "ERP Selection"
+      ],
+      "website": "loganconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. ERP Selection Consulting, Implementation, Optimization. Manufacturing, Distribution, Professional Services.",
       "notable_clients": "",
       "awards": "",
       "checked": false

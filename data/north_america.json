@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:25:41.712Z",
+  "last_updated": "2026-02-14T23:25:45.281Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16840,6 +16840,28 @@
       "website": "atos.net",
       "decision_makers": [],
       "why_target": "SAP Global Strategic Partner. Digital Workplace, Cloud Migration, Managed Services. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111545281",
+      "rank": 1365,
+      "priority": "HIGHEST",
+      "company_name": "CGI Group",
+      "country": "USA",
+      "city": "Fairfax",
+      "state": "VA",
+      "employees": "~94,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP AMS",
+        "SAP HANA Operations",
+        "SAP Hosting"
+      ],
+      "website": "cgi.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (30+ year partnership). 25+ solution areas. Financial Services, Utilities, Government.",
       "notable_clients": "",
       "awards": "",
       "checked": false

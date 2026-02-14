@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:35.282Z",
+  "last_updated": "2026-02-14T23:34:39.547Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19109,6 +19109,28 @@
       "website": "vizioconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Partner. BI, Planning, Predictive Analytics. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112079545",
+      "rank": 1471,
+      "priority": "MEDIUM",
+      "company_name": "ORBIS America Inc.",
+      "country": "USA",
+      "city": "McLean",
+      "state": "VA",
+      "employees": "Part of global ORBIS group",
+      "erp_systems": [
+        "SAP Datasphere",
+        "SAP BW/4HANA",
+        "SAP Analytics Cloud",
+        "SAP BPC"
+      ],
+      "website": "orbisusa.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Embedded Analytics. Automotive, Manufacturing, Consumer Goods.",
       "notable_clients": "",
       "awards": "",
       "checked": false

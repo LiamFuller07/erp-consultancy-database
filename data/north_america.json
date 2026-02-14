@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:35:56.509Z",
+  "last_updated": "2026-02-14T23:36:01.404Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19488,6 +19488,25 @@
       "website": "thesiliconpartners.com",
       "decision_makers": [],
       "why_target": "SAP Partner (100+ SAP deployments). AMS, SuccessFactors, RPA. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112161403",
+      "rank": 1489,
+      "priority": "MEDIUM",
+      "company_name": "Kites Consulting",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP Staffing"
+      ],
+      "website": "kitesconsulting.us",
+      "decision_makers": [],
+      "why_target": "SAP Partner. SAP Staffing. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

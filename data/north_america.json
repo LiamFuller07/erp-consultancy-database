@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:41.140Z",
+  "last_updated": "2026-02-14T23:27:44.664Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -8296,20 +8296,22 @@
     {
       "id": "na-386",
       "rank": 386,
-      "priority": "MEDIUM",
+      "priority": "HIGH",
       "company_name": "Ultra Consultants",
       "country": "USA",
       "city": "Chicago",
       "state": "IL",
-      "employees": "50-250",
+      "employees": "Mid-sized",
       "erp_systems": [
-        "NetSuite"
+        "SAP",
+        "ERP Selection (Vendor-Agnostic)"
       ],
-      "website": "",
+      "website": "ultraconsultants.com",
       "decision_makers": [],
-      "why_target": "",
+      "why_target": "Independent / Vendor-Agnostic. SAP and ERP Selection, Business Process Improvement, Change Management. Manufacturing, Distribution.",
       "notable_clients": "",
-      "awards": "Clutch 5.0 (4 reviews)"
+      "awards": "Clutch 5.0 (4 reviews)",
+      "checked": false
     },
     {
       "id": "na-387",

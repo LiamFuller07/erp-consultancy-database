@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:25:37.793Z",
+  "last_updated": "2026-02-14T23:25:41.712Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16819,6 +16819,27 @@
       "website": "ltimindtree.com",
       "decision_makers": [],
       "why_target": "SAP Global Strategic Partner. BTP, Analytics, Managed Services. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111541712",
+      "rank": 1364,
+      "priority": "HIGHEST",
+      "company_name": "Atos",
+      "country": "USA",
+      "city": "Irving",
+      "state": "TX",
+      "employees": "~95,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Cloud Migration",
+        "SAP Managed Services"
+      ],
+      "website": "atos.net",
+      "decision_makers": [],
+      "why_target": "SAP Global Strategic Partner. Digital Workplace, Cloud Migration, Managed Services. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

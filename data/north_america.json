@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:30:22.663Z",
+  "last_updated": "2026-02-14T23:30:27.093Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18118,6 +18118,26 @@
       "website": "fusionconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. Implementation, Cloud Migration, Managed Services. Financial Services, Manufacturing.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111827093",
+      "rank": 1424,
+      "priority": "HIGH",
+      "company_name": "Daugherty Business Solutions",
+      "country": "USA",
+      "city": "St. Louis",
+      "state": "MO",
+      "employees": "~2,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Data & Analytics"
+      ],
+      "website": "daugherty.com",
+      "decision_makers": [],
+      "why_target": "SAP Silver Partner. Digital Transformation, Implementation/Support, Data & Analytics. Financial Services, Healthcare, Manufacturing.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:35:36.293Z",
+  "last_updated": "2026-02-14T23:35:41.049Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19382,6 +19382,27 @@
       "website": "msitekus.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Ariba Consulting, S/4HANA Implementation. Cross-industry Procurement.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112141048",
+      "rank": 1484,
+      "priority": "MEDIUM",
+      "company_name": "Sage Solutions Consulting",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP HANA",
+        "SAP BW",
+        "SAP Cloud BI"
+      ],
+      "website": "sagesolutionsinc.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (20+ years, 60+ implementations). HANA Migration, BW, Cloud BI. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

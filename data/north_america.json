@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:26:15.429Z",
+  "last_updated": "2026-02-14T23:26:18.240Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -6019,16 +6019,19 @@
     {
       "id": "na-278",
       "rank": 278,
-      "priority": "MEDIUM",
+      "priority": "HIGH",
       "company_name": "Protiviti",
       "country": "USA",
       "city": "Menlo Park",
       "state": "CA",
-      "employees": "1000+",
+      "employees": "~7,000-9,000",
       "erp_systems": [
-        "NetSuite"
+        "SAP S/4HANA",
+        "SAP Security/GRC",
+        "SAP Analytics Cloud",
+        "SAP Managed Services"
       ],
-      "website": "",
+      "website": "protiviti.com",
       "decision_makers": [
         {
           "name": "Joe Tarantino",
@@ -6051,9 +6054,10 @@
           "linkedin_url": ""
         }
       ],
-      "why_target": "",
+      "why_target": "SAP Gold Partner (Robert Half subsidiary). Conversion Factory for S/4HANA. Financial Services, Consumer Products, Manufacturing, Healthcare.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "na-279",

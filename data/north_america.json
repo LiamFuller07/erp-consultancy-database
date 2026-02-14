@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:44.664Z",
+  "last_updated": "2026-02-14T23:27:48.177Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17374,6 +17374,26 @@
       "website": "thirdstage-consulting.com",
       "decision_makers": [],
       "why_target": "Independent / Vendor-Agnostic. Digital Strategy, Organizational Change Management, Software Selection. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111668177",
+      "rank": 1389,
+      "priority": "HIGH",
+      "company_name": "ElevatIQ",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "Boutique",
+      "erp_systems": [
+        "SAP",
+        "ERP Selection (Vendor-Agnostic)"
+      ],
+      "website": "elevatiq.com",
+      "decision_makers": [],
+      "why_target": "Independent / Vendor-Agnostic. ERP Selection, Integration, Contract Negotiation. Digital Commerce, Supply Chain.",
       "notable_clients": "",
       "awards": "",
       "checked": false

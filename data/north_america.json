@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-01-21T21:29:29.762Z",
+  "last_updated": "2026-02-14T23:24:37.329Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16550,6 +16550,28 @@
       "why_target": "45 years experience. 1,600+ nonprofit clients. DC-area nonprofit specialist. Sage Intacct reseller for nonprofits. First woman Managing Partner",
       "notable_clients": "1,600+ nonprofit organizations including NGOs",
       "awards": "EXCEL Award sponsor since 2006"
+    },
+    {
+      "id": "north_america-new-1771111477329",
+      "rank": 1352,
+      "priority": "HIGHEST",
+      "company_name": "Accenture",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "~801,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP BTP",
+        "SAP SuccessFactors",
+        "SAP Ariba"
+      ],
+      "website": "accenture.com",
+      "decision_makers": [],
+      "why_target": "SAP Platinum Partner (40+ years). RISE with SAP, Managed Services. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
     }
   ]
 }

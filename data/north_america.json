@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:32:02.810Z",
+  "last_updated": "2026-02-14T23:32:07.246Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18506,6 +18506,26 @@
       "website": "synergytop.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Implementation, ERP Consulting, Digital Commerce, Application Management. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111927246",
+      "rank": 1442,
+      "priority": "MEDIUM",
+      "company_name": "VistaVu Solutions",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "~70",
+      "erp_systems": [
+        "SAP Business One",
+        "SAP Business ByDesign"
+      ],
+      "website": "vistavusolutions.com",
+      "decision_makers": [],
+      "why_target": "SAP Certified Partner (~$5M revenue). FieldVu for Field Services. Industrial Field Services, Manufacturing, Aerospace, Life Sciences.",
       "notable_clients": "",
       "awards": "",
       "checked": false

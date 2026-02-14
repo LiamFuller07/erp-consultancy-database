@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:28:02.225Z",
+  "last_updated": "2026-02-14T23:28:06.696Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17480,6 +17480,27 @@
       "website": "axxiome.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Financial Services focus (Banks & Insurance). Consulting, Advisory, Analytics, Testing.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111686696",
+      "rank": 1394,
+      "priority": "HIGH",
+      "company_name": "Krisp Consulting",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Boutique",
+      "erp_systems": [
+        "SAP BTP",
+        "SAP Cloud Integration",
+        "SAP Modernization"
+      ],
+      "website": "krispconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. BTP, Cloud Integration, Custom Application Development. Technology, Manufacturing, Consumer Brands.",
       "notable_clients": "",
       "awards": "",
       "checked": false

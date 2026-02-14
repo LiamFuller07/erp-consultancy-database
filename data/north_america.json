@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:28:51.149Z",
+  "last_updated": "2026-02-14T23:28:55.169Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17692,6 +17692,27 @@
       "website": "mastechdigital.com",
       "decision_makers": [],
       "why_target": "SAP Partner (NYSE: MHH). Consulting & Staffing model. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111735168",
+      "rank": 1404,
+      "priority": "HIGH",
+      "company_name": "Vistex, Inc.",
+      "country": "USA",
+      "city": "Hoffman Estates",
+      "state": "IL",
+      "employees": "1,000+",
+      "erp_systems": [
+        "SAP Solution Extensions",
+        "SAP Margin Optimization",
+        "SAP Rebate Management"
+      ],
+      "website": "vistex.com",
+      "decision_makers": [],
+      "why_target": "SAP Platinum Partner. Margin Optimization, Rebate Mgmt, Sales Commission. Consumer Goods, Chemicals, Life Sciences.",
       "notable_clients": "",
       "awards": "",
       "checked": false

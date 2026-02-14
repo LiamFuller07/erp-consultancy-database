@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:28:30.102Z",
+  "last_updated": "2026-02-14T23:28:33.610Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17607,6 +17607,27 @@
       "website": "sonata-software.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner; SAP Pinnacle Award winner. Retail, Travel, Consumer Goods.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111713610",
+      "rank": 1400,
+      "priority": "HIGH",
+      "company_name": "Kellton",
+      "country": "USA",
+      "city": "Edison",
+      "state": "NJ",
+      "employees": "~2,000+",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP AMS",
+        "SAP Security/GRC"
+      ],
+      "website": "kellton.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. AMS, Security & GRC, Automation. Manufacturing, Retail, Healthcare, Energy.",
       "notable_clients": "",
       "awards": "",
       "checked": false

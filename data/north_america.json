@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:26:31.053Z",
+  "last_updated": "2026-02-14T23:26:40.855Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17068,6 +17068,30 @@
       "website": "epiuse.com",
       "decision_makers": [],
       "why_target": "SAP Partner. 42 payroll country versions. Cross-industry HR/Payroll focus.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111600855",
+      "rank": 1375,
+      "priority": "HIGH",
+      "company_name": "delaware Consulting",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "216+",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP SuccessFactors",
+        "SAP Analytics Cloud",
+        "SAP Ariba",
+        "SAP Concur",
+        "SAP BTP"
+      ],
+      "website": "delawareconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner. FAST-2-S/4 accelerator. Manufacturing, Distribution, Professional Services, Retail.",
       "notable_clients": "",
       "awards": "",
       "checked": false

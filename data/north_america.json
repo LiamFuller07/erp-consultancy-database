@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:34:52.722Z",
+  "last_updated": "2026-02-14T23:34:57.140Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19191,6 +19191,26 @@
       "website": "dataxstream.com",
       "decision_makers": [],
       "why_target": "SAP Silver Partner. OMS+ SAP-certified solution extension. Retail, Manufacturing, Distribution.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112097140",
+      "rank": 1475,
+      "priority": "MEDIUM",
+      "company_name": "Dickinson + Associates",
+      "country": "USA",
+      "city": "Rosemont",
+      "state": "IL",
+      "employees": "Small-to-mid",
+      "erp_systems": [
+        "SAP SuccessFactors",
+        "SAP HCM"
+      ],
+      "website": "dickinsonassociates.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner. HR Digital Transformation, Workforce Analytics. Cross-industry HCM focus.",
       "notable_clients": "",
       "awards": "",
       "checked": false

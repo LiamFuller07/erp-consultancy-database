@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:25:14.445Z",
+  "last_updated": "2026-02-14T23:25:18.554Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -4193,20 +4193,24 @@
     {
       "id": "na-191",
       "rank": 191,
-      "priority": "MEDIUM",
+      "priority": "HIGHEST",
       "company_name": "HCLTech",
       "country": "USA",
-      "city": "Frisco",
-      "state": "TX",
-      "employees": "1000+",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "employees": "~225,000",
       "erp_systems": [
-        "NetSuite"
+        "SAP S/4HANA",
+        "SAP BTP",
+        "SAP Integration",
+        "SAP Managed Services"
       ],
-      "website": "",
+      "website": "hcltech.com",
       "decision_makers": [],
-      "why_target": "",
+      "why_target": "SAP Global Strategic Partner. BTP, Integration & Optimization, Managed Services. Cross-industry.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "na-192",

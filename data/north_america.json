@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:31:25.483Z",
+  "last_updated": "2026-02-14T23:31:30.155Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18399,6 +18399,27 @@
       "website": "cognitus.com",
       "decision_makers": [],
       "why_target": "SAP Certified Partner; Recognized Expertise in A&D. CIS-GovCon for Defense. Aerospace & Defense, Professional Services, Mining, Life Sciences.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111890154",
+      "rank": 1437,
+      "priority": "MEDIUM",
+      "company_name": "Beacon Systems",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP S/4HANA Cloud",
+        "SAP Analytics/BI",
+        "SAP Staff Augmentation"
+      ],
+      "website": "beaconsystems.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Consulting, S/4HANA Cloud, Analytics/BI. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:26:00.555Z",
+  "last_updated": "2026-02-14T23:26:04.233Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -2054,16 +2054,20 @@
     {
       "id": "na-094",
       "rank": 94,
-      "priority": "MEDIUM",
+      "priority": "HIGH",
       "company_name": "Chetu",
       "country": "USA",
-      "city": "Sunrise",
+      "city": "Plantation",
       "state": "FL",
-      "employees": "1000+",
+      "employees": "2,000+",
       "erp_systems": [
-        "NetSuite"
+        "SAP S/4HANA",
+        "SAP Business One",
+        "SAP SuccessFactors",
+        "SAP BTP",
+        "SAP Analytics Cloud"
       ],
-      "website": "",
+      "website": "chetu.com",
       "decision_makers": [
         {
           "name": "Atal Bansal",
@@ -2081,9 +2085,10 @@
           "linkedin_url": ""
         }
       ],
-      "why_target": "",
+      "why_target": "SAP Certified Partner. Manufacturing, Logistics, Education, Healthcare, Retail.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "na-095",

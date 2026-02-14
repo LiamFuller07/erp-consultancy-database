@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:31:42.414Z",
+  "last_updated": "2026-02-14T23:31:45.930Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18461,6 +18461,28 @@
       "website": "desss.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Consulting & Advisory, End-to-End Solutions. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111905930",
+      "rank": 1440,
+      "priority": "MEDIUM",
+      "company_name": "Utegration (now Cognizant)",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP AMI",
+        "SAP CR&B",
+        "SAP BI"
+      ],
+      "website": "utegration.com",
+      "decision_makers": [],
+      "why_target": "SAP Alliance Partner (acquired by Cognizant 2022). Utility4U, MeterData4U. Utilities & Energy.",
       "notable_clients": "",
       "awards": "",
       "checked": false

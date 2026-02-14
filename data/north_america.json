@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:33:38.781Z",
+  "last_updated": "2026-02-14T23:33:42.826Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18886,6 +18886,27 @@
       "website": "edcconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Partner (multiple federal contract vehicles). Full-lifecycle SAP for DoD, DHS/CBP, IRS, NASA, Army, Navy, Air Force.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112022825",
+      "rank": 1460,
+      "priority": "MEDIUM",
+      "company_name": "Genesis Consulting Partners",
+      "country": "USA",
+      "city": "Reston",
+      "state": "VA",
+      "employees": "~50-150",
+      "erp_systems": [
+        "SAP IS-U",
+        "SAP Concur",
+        "SAP Federal"
+      ],
+      "website": "genesisconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Silver Partner; SAP Concur Sell Partner. Utilities + Federal Government (DoD, USDA, NRC). SWaM-certified.",
       "notable_clients": "",
       "awards": "",
       "checked": false

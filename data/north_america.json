@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:31:59.311Z",
+  "last_updated": "2026-02-14T23:32:02.810Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18486,6 +18486,26 @@
       "website": "utegration.com",
       "decision_makers": [],
       "why_target": "SAP Alliance Partner (acquired by Cognizant 2022). Utility4U, MeterData4U. Utilities & Energy.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111922810",
+      "rank": 1441,
+      "priority": "MEDIUM",
+      "company_name": "SynergyTop",
+      "country": "USA",
+      "city": "San Diego",
+      "state": "CA",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP Implementation",
+        "SAP ERP Consulting"
+      ],
+      "website": "synergytop.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Implementation, ERP Consulting, Digital Commerce, Application Management. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

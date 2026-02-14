@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:33:42.826Z",
+  "last_updated": "2026-02-14T23:33:46.926Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18907,6 +18907,26 @@
       "website": "genesisconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Silver Partner; SAP Concur Sell Partner. Utilities + Federal Government (DoD, USDA, NRC). SWaM-certified.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771112026926",
+      "rank": 1461,
+      "priority": "MEDIUM",
+      "company_name": "Smoothstack",
+      "country": "USA",
+      "city": "McLean",
+      "state": "VA",
+      "employees": "200-500",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Staffing"
+      ],
+      "website": "smoothstack.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (Inc. 5000 #684). Hire-Train-Deploy model for SAP specialists. DoD SkillBridge participant. Healthcare, Telecom, Financial Services, Government.",
       "notable_clients": "",
       "awards": "",
       "checked": false

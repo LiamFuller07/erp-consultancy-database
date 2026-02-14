@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:17.024Z",
+  "last_updated": "2026-02-14T23:27:20.618Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17272,6 +17272,27 @@
       "website": "altaflux.com",
       "decision_makers": [],
       "why_target": "SAP SuccessFactors Partner. 200+ deployments. Dell Boomi Integration. Cross-industry HCM.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111640618",
+      "rank": 1384,
+      "priority": "HIGH",
+      "company_name": "AspireHR",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Mid-sized",
+      "erp_systems": [
+        "SAP SuccessFactors",
+        "SAP HCM",
+        "SAP Cloud"
+      ],
+      "website": "aspirehr.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. SuccessFactors, Cloud Implementation, HR BPO. Public and Private Sector.",
       "notable_clients": "",
       "awards": "",
       "checked": false

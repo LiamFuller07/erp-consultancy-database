@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:27:02.176Z",
+  "last_updated": "2026-02-14T23:27:05.672Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -17189,6 +17189,27 @@
       "website": "groupsoftus.com",
       "decision_makers": [],
       "why_target": "SAP Service Partner. 100+ clients. Retail, Fashion, Wholesale, CPG, Healthcare.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111625671",
+      "rank": 1380,
+      "priority": "HIGH",
+      "company_name": "ConvergentIS",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "~50-200",
+      "erp_systems": [
+        "SAP Ariba",
+        "SAP BTP",
+        "SAP S/4HANA"
+      ],
+      "website": "convergentis.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Procurement (Ariba Integration), Intake-to-Pay Platform. Oil & Gas, Agriculture, Utilities, Transportation.",
       "notable_clients": "",
       "awards": "",
       "checked": false

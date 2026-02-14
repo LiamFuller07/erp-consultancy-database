@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:26:04.233Z",
+  "last_updated": "2026-02-14T23:26:08.234Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -16935,6 +16935,28 @@
       "website": "syntax.com",
       "decision_makers": [],
       "why_target": "SAP Platinum Partner. 150+ S/4HANA implementations, ~$419M revenue. Manufacturing, Construction, Life Sciences.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111568234",
+      "rank": 1369,
+      "priority": "HIGH",
+      "company_name": "Rizing (Wipro subsidiary)",
+      "country": "USA",
+      "city": "Stamford",
+      "state": "CT",
+      "employees": "~1,300-1,500",
+      "erp_systems": [
+        "SAP SuccessFactors",
+        "SAP S/4HANA",
+        "SAP BTP",
+        "SAP Enterprise Asset Management"
+      ],
+      "website": "rizing.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner, Top 5 SAP Partner. HCM, Retail/Fashion, BTP. Consumer Industries, Energy, Manufacturing.",
       "notable_clients": "",
       "awards": "",
       "checked": false

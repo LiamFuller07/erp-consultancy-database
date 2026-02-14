@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:31:06.507Z",
+  "last_updated": "2026-02-14T23:31:10.563Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -18287,6 +18287,32 @@
       "website": "michellconsulting.com",
       "decision_makers": [],
       "why_target": "SAP B1 Partner (12+ years). Consulting, Implementation, Support. Manufacturing, Distribution, SMEs.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771111870562",
+      "rank": 1432,
+      "priority": "MEDIUM",
+      "company_name": "Surety Systems",
+      "country": "USA",
+      "city": "Cary",
+      "state": "NC",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP FICO",
+        "SAP SD",
+        "SAP MM",
+        "SAP PP",
+        "SAP WM",
+        "SAP SuccessFactors",
+        "SAP S/4HANA",
+        "SAP ABAP"
+      ],
+      "website": "suretysystems.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (~$31M revenue). Staff Augmentation, S/4HANA Conversions. Manufacturing, Distribution, Construction, Healthcare.",
       "notable_clients": "",
       "awards": "",
       "checked": false

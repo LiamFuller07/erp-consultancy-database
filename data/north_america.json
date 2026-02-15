@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:18:35.848Z",
+  "last_updated": "2026-02-15T00:18:40.054Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20556,6 +20556,27 @@
       "website": "speridian.com",
       "decision_makers": [],
       "why_target": "SAP Partner. 350+ clients. Healthcare and banking focus.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114720054",
+      "rank": 1542,
+      "priority": "MEDIUM",
+      "company_name": "TA Digital",
+      "country": "USA",
+      "city": "Philadelphia",
+      "state": "PA",
+      "employees": "Mid-size",
+      "erp_systems": [
+        "SAP CX",
+        "SAP Commerce Cloud",
+        "SAP Analytics Cloud"
+      ],
+      "website": "tadigital.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. CX, Commerce Cloud, Analytics Cloud specialist.",
       "notable_clients": "",
       "awards": "",
       "checked": false

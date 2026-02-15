@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:19:07.257Z",
+  "last_updated": "2026-02-15T00:19:11.520Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20694,6 +20694,27 @@
       "website": "gmbtechgroup.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Billing and revenue management specialist.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114751520",
+      "rank": 1549,
+      "priority": "MEDIUM",
+      "company_name": "Savantis Solutions",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Mid-size",
+      "erp_systems": [
+        "SAP ERP",
+        "SAP CRM",
+        "SAP Analytics"
+      ],
+      "website": "savantis.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. ERP, CRM, Analytics. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

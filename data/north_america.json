@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:16:45.564Z",
+  "last_updated": "2026-02-15T00:16:49.359Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20165,6 +20165,25 @@
       "website": "itresonance.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Full-stack SAP consulting. Clients: Wm. Wrigley Jr. Company. Chicago area.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114609359",
+      "rank": 1522,
+      "priority": "MEDIUM",
+      "company_name": "Rialtes",
+      "country": "USA",
+      "city": "Austin",
+      "state": "TX",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP SuccessFactors"
+      ],
+      "website": "rialtes.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. SuccessFactors full-suite transformation. Proprietary 'SuccessPlus' offering. Also Irvine, CA.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:16:21.624Z",
+  "last_updated": "2026-02-15T00:16:25.649Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20045,6 +20045,26 @@
       "website": "optimaconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner (woman-owned). 500+ projects, 150+ large enterprises. ~$15M revenue. Procurement/Spend Management focus.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114585649",
+      "rank": 1516,
+      "priority": "MEDIUM",
+      "company_name": "Dassian",
+      "country": "USA",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "employees": "50-200",
+      "erp_systems": [
+        "SAP Add-on Solutions",
+        "SAP Aerospace & Defense"
+      ],
+      "website": "dassian.com",
+      "decision_makers": [],
+      "why_target": "SAP-certified add-on solutions. DCMA/DCAA/DFARS compliance. Aerospace, Defense, Government contracting. Acquired by Omegro/Volaris Group (Nov 2024).",
       "notable_clients": "",
       "awards": "",
       "checked": false

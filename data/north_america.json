@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:16:07.332Z",
+  "last_updated": "2026-02-15T00:16:10.880Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19962,6 +19962,27 @@
       "website": "msg-global.com",
       "decision_makers": [],
       "why_target": "SAP Silver Partner. SAP-certified insurance industry solutions. Insurance vertical focus.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114570879",
+      "rank": 1512,
+      "priority": "HIGH",
+      "company_name": "Futurism Technologies",
+      "country": "USA",
+      "city": "Piscataway",
+      "state": "NJ",
+      "employees": "750+",
+      "erp_systems": [
+        "SAP ERP",
+        "SAP IoT",
+        "SAP Digital Transformation"
+      ],
+      "website": "futurismtechnologies.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. CMMI Level 3 certified. ERP and IoT integrator. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-14T23:36:29.638Z",
+  "last_updated": "2026-02-15T00:14:53.365Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19610,6 +19610,27 @@
       "website": "indracompany.com",
       "decision_makers": [],
       "why_target": "SAP Global Strategic Partner. Implementation, Integration, Managed Services. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114493365",
+      "rank": 1495,
+      "priority": "HIGHEST",
+      "company_name": "Genpact",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "115,000+",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Process Automation",
+        "SAP Managed Services"
+      ],
+      "website": "genpact.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner (NYSE: G). Former GE Capital subsidiary. S/4HANA migrations, process automation. Banking, Insurance, Manufacturing, Healthcare, Life Sciences.",
       "notable_clients": "",
       "awards": "",
       "checked": false

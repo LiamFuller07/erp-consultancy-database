@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:50.821Z",
+  "last_updated": "2026-02-15T00:17:55.013Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20459,6 +20459,26 @@
       "website": "enosix.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Real-time SAP integration solutions. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114675013",
+      "rank": 1537,
+      "priority": "MEDIUM",
+      "company_name": "Crave InfoTech",
+      "country": "USA",
+      "city": "Edison",
+      "state": "NJ",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP IoT",
+        "SAP Digital Manufacturing"
+      ],
+      "website": "craveinfotech.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. IoT and Digital Manufacturing specialist. NJ corridor.",
       "notable_clients": "",
       "awards": "",
       "checked": false

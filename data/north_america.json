@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:16:14.646Z",
+  "last_updated": "2026-02-15T00:16:17.391Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20004,6 +20004,26 @@
       "website": "globalsoftsolutions.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. Pharma, Manufacturing, Utilities.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114577390",
+      "rank": 1514,
+      "priority": "MEDIUM",
+      "company_name": "B4 Consulting",
+      "country": "USA",
+      "city": "Waltham",
+      "state": "MA",
+      "employees": "51-200",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP RE-FX"
+      ],
+      "website": "b4consulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner. Engineering, Construction, Real Estate verticals. SAP 2010 High Growth Channel Partner of the Year NA. Offices: Philadelphia, Chicago, NYC, Mountain View.",
       "notable_clients": "",
       "awards": "",
       "checked": false

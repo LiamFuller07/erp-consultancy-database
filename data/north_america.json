@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:19.752Z",
+  "last_updated": "2026-02-15T00:17:23.463Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20301,6 +20301,26 @@
       "website": "ace-pros.com",
       "decision_makers": [],
       "why_target": "SAP Partner (minority-owned). SuccessFactors specialist serving US Air Force and DIA. Federal government.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114643463",
+      "rank": 1529,
+      "priority": "MEDIUM",
+      "company_name": "cBEYONData",
+      "country": "USA",
+      "city": "Washington",
+      "state": "DC",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP BI",
+        "SAP Federal Analytics"
+      ],
+      "website": "cbeyondata.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. BI for federal CFO offices. Financial reporting, audit readiness, DATA Act analytics, procurement dashboards.",
       "notable_clients": "",
       "awards": "",
       "checked": false

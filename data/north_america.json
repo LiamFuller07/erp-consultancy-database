@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:16:33.241Z",
+  "last_updated": "2026-02-15T00:16:37.424Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20107,6 +20107,25 @@
       "website": "mckinsolconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Retail and fashion focus with SAP IS-Retail and BTP. Clients: Nike, Under Armour, Tapestry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114597424",
+      "rank": 1519,
+      "priority": "MEDIUM",
+      "company_name": "Acquis Consulting Group",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "~162",
+      "erp_systems": [
+        "SAP Concur"
+      ],
+      "website": "acquisconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Concur's first official Certified Implementation Partner (1998). Consulting Magazine 'Seven Small Jewels'.",
       "notable_clients": "",
       "awards": "",
       "checked": false

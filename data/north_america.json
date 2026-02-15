@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:14:59.978Z",
+  "last_updated": "2026-02-15T00:15:04.677Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19674,6 +19674,27 @@
       "website": "kaartech.com",
       "decision_makers": [],
       "why_target": "SAP Platinum Partner. 2025 Pinnacle Award finalist (Rising Star). 23+ SAP Quality Awards. Acquired Dunn Solutions (Midwest). Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114504677",
+      "rank": 1498,
+      "priority": "HIGHEST",
+      "company_name": "CACI International",
+      "country": "USA",
+      "city": "McLean",
+      "state": "VA",
+      "employees": "~24,000",
+      "erp_systems": [
+        "SAP ECC",
+        "SAP ISPS",
+        "SAP Federal ERP"
+      ],
+      "website": "caci.com",
+      "decision_makers": [],
+      "why_target": "NYSE-listed Fortune 1000. SAP ERP integration for DoD, intelligence, civilian CFO offices. Carahsoft government partner.",
       "notable_clients": "",
       "awards": "",
       "checked": false

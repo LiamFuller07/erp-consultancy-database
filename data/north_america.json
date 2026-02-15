@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:39.153Z",
+  "last_updated": "2026-02-15T00:17:43.099Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20400,6 +20400,26 @@
       "website": "advantagedsolutions.com",
       "decision_makers": [],
       "why_target": "SAP Partner. GSA Group 70 contract for SAP-based strategic consulting. Public sector.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114663099",
+      "rank": 1534,
+      "priority": "MEDIUM",
+      "company_name": "The Advizor Group (TAG)",
+      "country": "USA",
+      "city": "Washington",
+      "state": "DC",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP ECM",
+        "SAP BI"
+      ],
+      "website": "theadvizorgroup.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (minority and woman-owned). SAP ECM and BI for federal, state, local government including education, fire, police.",
       "notable_clients": "",
       "awards": "",
       "checked": false

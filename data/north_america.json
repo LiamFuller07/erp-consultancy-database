@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:16.007Z",
+  "last_updated": "2026-02-15T00:17:19.752Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20282,6 +20282,25 @@
       "website": "neaconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Implementation and staffing. Princeton NJ corridor.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114639751",
+      "rank": 1528,
+      "priority": "MEDIUM",
+      "company_name": "Ace-Pros",
+      "country": "USA",
+      "city": "Herndon",
+      "state": "VA",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP SuccessFactors"
+      ],
+      "website": "ace-pros.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (minority-owned). SuccessFactors specialist serving US Air Force and DIA. Federal government.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:03.671Z",
+  "last_updated": "2026-02-15T00:17:07.617Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20223,6 +20223,25 @@
       "website": "achieveitsolutions.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner for Business One. Long Island, NY.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114627617",
+      "rank": 1525,
+      "priority": "MEDIUM",
+      "company_name": "Gravity Pro Consulting",
+      "country": "USA",
+      "city": "San Clemente",
+      "state": "CA",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP S/4HANA"
+      ],
+      "website": "gravityproconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

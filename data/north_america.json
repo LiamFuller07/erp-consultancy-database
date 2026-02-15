@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:15:44.099Z",
+  "last_updated": "2026-02-15T00:15:47.403Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19883,6 +19883,26 @@
       "website": "cnt-online.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner since 2013. ~€135M revenue. Pharma/Life Sciences, Machinery, Food & Beverage S/4HANA Cloud transformations.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114547403",
+      "rank": 1508,
+      "priority": "HIGH",
+      "company_name": "Oxford Global Resources",
+      "country": "USA",
+      "city": "Beverly",
+      "state": "MA",
+      "employees": "900+",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Staffing"
+      ],
+      "website": "oxfordcorp.com",
+      "decision_makers": [],
+      "why_target": "SAP Service Partner. Acquired Linksap (SAP staffing firm, June 2024). Consulting + workforce solutions.",
       "notable_clients": "",
       "awards": "",
       "checked": false

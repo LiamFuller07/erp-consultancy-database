@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:11.926Z",
+  "last_updated": "2026-02-15T00:17:16.007Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20262,6 +20262,26 @@
       "website": "seleccionconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Partner. RISE with SAP advisory. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114636007",
+      "rank": 1527,
+      "priority": "MEDIUM",
+      "company_name": "NEA Consulting",
+      "country": "USA",
+      "city": "Princeton",
+      "state": "NJ",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP Implementation",
+        "SAP Staffing"
+      ],
+      "website": "neaconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Implementation and staffing. Princeton NJ corridor.",
       "notable_clients": "",
       "awards": "",
       "checked": false

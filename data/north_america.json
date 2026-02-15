@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:15:32.495Z",
+  "last_updated": "2026-02-15T00:15:36.696Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19822,6 +19822,27 @@
       "website": "mindsetconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. SAP's first US AppHaus Partner (Minneapolis). ~$35.9M revenue. Proprietary M-Suite migration tool. Clients: Xcel Energy, Red Wing Shoes.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114536696",
+      "rank": 1505,
+      "priority": "HIGH",
+      "company_name": "Avvale (formerly NIMBL/Techedge)",
+      "country": "USA",
+      "city": "Denver",
+      "state": "CO",
+      "employees": "51-200",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Technical Consulting",
+        "SAP AMS"
+      ],
+      "website": "avvale.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner. ~$30M revenue. Multiple Inc. 5000 appearances. Clients: Nestlé, PepsiCo, Crocs. Consumer Products.",
       "notable_clients": "",
       "awards": "",
       "checked": false

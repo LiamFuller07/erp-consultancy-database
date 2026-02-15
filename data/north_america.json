@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:35.286Z",
+  "last_updated": "2026-02-15T00:17:39.153Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20381,6 +20381,25 @@
       "website": "newwavetel.com",
       "decision_makers": [],
       "why_target": "SAP Partner (certified 8(a) small business, CMMI ML3). Mission-critical healthcare IT on SAP for government agencies.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114659153",
+      "rank": 1533,
+      "priority": "MEDIUM",
+      "company_name": "Advantaged Solutions Inc.",
+      "country": "USA",
+      "city": "Washington",
+      "state": "DC",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP Strategic Consulting"
+      ],
+      "website": "advantagedsolutions.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. GSA Group 70 contract for SAP-based strategic consulting. Public sector.",
       "notable_clients": "",
       "awards": "",
       "checked": false

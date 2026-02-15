@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:19:03.145Z",
+  "last_updated": "2026-02-15T00:19:07.257Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20674,6 +20674,26 @@
       "website": "rhondos.com",
       "decision_makers": [],
       "why_target": "SAP Partner. PowerConnect SAP security monitoring tool. Niche cybersecurity.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114747256",
+      "rank": 1548,
+      "priority": "MEDIUM",
+      "company_name": "GMB Technology",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "Mid-size",
+      "erp_systems": [
+        "SAP Billing",
+        "SAP Revenue Management"
+      ],
+      "website": "gmbtechgroup.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Billing and revenue management specialist.",
       "notable_clients": "",
       "awards": "",
       "checked": false

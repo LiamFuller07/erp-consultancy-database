@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:18:13.623Z",
+  "last_updated": "2026-02-15T00:18:35.848Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20536,6 +20536,26 @@
       "website": "domaincg.com",
       "decision_makers": [],
       "why_target": "SAP Partner. SAP consulting. Pennsylvania.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114715848",
+      "rank": 1541,
+      "priority": "MEDIUM",
+      "company_name": "Speridian Technologies",
+      "country": "USA",
+      "city": "Irvine",
+      "state": "CA",
+      "employees": "Mid-size",
+      "erp_systems": [
+        "SAP Healthcare",
+        "SAP Banking"
+      ],
+      "website": "speridian.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. 350+ clients. Healthcare and banking focus.",
       "notable_clients": "",
       "awards": "",
       "checked": false

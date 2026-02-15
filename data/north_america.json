@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:14:56.818Z",
+  "last_updated": "2026-02-15T00:14:59.978Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19652,6 +19652,28 @@
       "website": "hitachids.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner (formerly Hitachi Consulting). Backed by Hitachi Ltd ($80B+). 1,000+ SAP engagements. Manufacturing, Automotive, Energy, Utilities.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114499978",
+      "rank": 1497,
+      "priority": "HIGHEST",
+      "company_name": "KaarTech (Kaar Technologies)",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "2,500-3,500",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP RISE with SAP",
+        "SAP BTP",
+        "SAP SuccessFactors"
+      ],
+      "website": "kaartech.com",
+      "decision_makers": [],
+      "why_target": "SAP Platinum Partner. 2025 Pinnacle Award finalist (Rising Star). 23+ SAP Quality Awards. Acquired Dunn Solutions (Midwest). Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:23.463Z",
+  "last_updated": "2026-02-15T00:17:27.286Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20321,6 +20321,26 @@
       "website": "cbeyondata.com",
       "decision_makers": [],
       "why_target": "SAP Partner. BI for federal CFO offices. Financial reporting, audit readiness, DATA Act analytics, procurement dashboards.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114647286",
+      "rank": 1530,
+      "priority": "MEDIUM",
+      "company_name": "Optimal Solutions Inc.",
+      "country": "USA",
+      "city": "Chantilly",
+      "state": "VA",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP Technical Architecture",
+        "SAP ECM"
+      ],
+      "website": "optimalsolutions.us",
+      "decision_makers": [],
+      "why_target": "SAP Partner (certified MBE). Technical architecture and enterprise content management for federal agencies.",
       "notable_clients": "",
       "awards": "",
       "checked": false

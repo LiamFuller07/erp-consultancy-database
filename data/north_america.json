@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:16:17.391Z",
+  "last_updated": "2026-02-15T00:16:21.624Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20024,6 +20024,27 @@
       "website": "b4consulting.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. Engineering, Construction, Real Estate verticals. SAP 2010 High Growth Channel Partner of the Year NA. Offices: Philadelphia, Chicago, NYC, Mountain View.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114581624",
+      "rank": 1515,
+      "priority": "MEDIUM",
+      "company_name": "Optima Consulting",
+      "country": "USA",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "employees": "51-200",
+      "erp_systems": [
+        "SAP Ariba",
+        "SAP Spend Management",
+        "SAP VIM"
+      ],
+      "website": "optimaconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner (woman-owned). 500+ projects, 150+ large enterprises. ~$15M revenue. Procurement/Spend Management focus.",
       "notable_clients": "",
       "awards": "",
       "checked": false

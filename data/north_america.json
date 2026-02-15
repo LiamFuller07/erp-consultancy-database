@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:18:59.445Z",
+  "last_updated": "2026-02-15T00:19:03.145Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20655,6 +20655,25 @@
       "website": "vedasoft.com",
       "decision_makers": [],
       "why_target": "SAP Partner. ERP consulting. Maryland.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114743145",
+      "rank": 1547,
+      "priority": "MEDIUM",
+      "company_name": "RHONDOS",
+      "country": "USA",
+      "city": "Washougal",
+      "state": "WA",
+      "employees": "10-49",
+      "erp_systems": [
+        "SAP Security Monitoring"
+      ],
+      "website": "rhondos.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. PowerConnect SAP security monitoring tool. Niche cybersecurity.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:15:20.454Z",
+  "last_updated": "2026-02-15T00:15:25.048Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19761,6 +19761,25 @@
       "website": "neoris.com",
       "decision_makers": [],
       "why_target": "SAP Silver Partner. S/4HANA and cloud migrations. Financial Services, Retail, Manufacturing.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114525047",
+      "rank": 1502,
+      "priority": "HIGH",
+      "company_name": "Carahsoft Technology",
+      "country": "USA",
+      "city": "Reston",
+      "state": "VA",
+      "employees": "1,000+",
+      "erp_systems": [
+        "SAP Government Reseller/Distributor"
+      ],
+      "website": "carahsoft.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner (government aggregator). SAP reseller/distributor for federal, state, local government.",
       "notable_clients": "",
       "awards": "",
       "checked": false

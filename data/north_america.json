@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:15:28.245Z",
+  "last_updated": "2026-02-15T00:15:32.495Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19801,6 +19801,27 @@
       "website": "bearingpoint.com",
       "decision_makers": [],
       "why_target": "SAP Tier 2 Partner (HQ Amsterdam). Energy, Utilities, Public Sector.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114532495",
+      "rank": 1504,
+      "priority": "HIGH",
+      "company_name": "Mindset Consulting",
+      "country": "USA",
+      "city": "Minneapolis",
+      "state": "MN",
+      "employees": "135-200",
+      "erp_systems": [
+        "SAP BTP",
+        "SAP Fiori",
+        "SAP S/4HANA"
+      ],
+      "website": "mindsetconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner. SAP's first US AppHaus Partner (Minneapolis). ~$35.9M revenue. Proprietary M-Suite migration tool. Clients: Xcel Energy, Red Wing Shoes.",
       "notable_clients": "",
       "awards": "",
       "checked": false

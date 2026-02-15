@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:18:09.090Z",
+  "last_updated": "2026-02-15T00:18:13.623Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20517,6 +20517,25 @@
       "website": "forgestik.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Business One specialist. Chicago area.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114693623",
+      "rank": 1540,
+      "priority": "MEDIUM",
+      "company_name": "Domain Consulting Group",
+      "country": "USA",
+      "city": "Wyomissing",
+      "state": "PA",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP Consulting"
+      ],
+      "website": "domaincg.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. SAP consulting. Pennsylvania.",
       "notable_clients": "",
       "awards": "",
       "checked": false

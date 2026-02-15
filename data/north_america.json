@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:19:11.520Z",
+  "last_updated": "2026-02-15T00:19:15.724Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20715,6 +20715,25 @@
       "website": "savantis.com",
       "decision_makers": [],
       "why_target": "SAP Partner. ERP, CRM, Analytics. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114755723",
+      "rank": 1550,
+      "priority": "MEDIUM",
+      "company_name": "Cornerstone Consulting",
+      "country": "USA",
+      "city": "Tampa",
+      "state": "FL",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP Consulting"
+      ],
+      "website": "cornerstoneconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. SAP consulting. Tampa, FL.",
       "notable_clients": "",
       "awards": "",
       "checked": false

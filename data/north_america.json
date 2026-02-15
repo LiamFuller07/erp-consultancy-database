@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:15:08.255Z",
+  "last_updated": "2026-02-15T00:15:12.574Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -4565,8 +4565,10 @@
       "state": "Silicon Valley",
       "employees": "1001-5000",
       "erp_systems": [
+        "SAP S/4HANA",
+        "SAP BTP",
+        "SAP Business AI",
         "Oracle",
-        "SAP",
         "NetSuite",
         "Salesforce"
       ],
@@ -4593,9 +4595,10 @@
           "linkedin_url": ""
         }
       ],
-      "why_target": "",
+      "why_target": "SAP Certified Implementation Partner. Offices in Philadelphia, Dallas, San Diego, LA. Hi-tech, Life Sciences, Healthcare, Financial Services.",
       "notable_clients": "",
-      "awards": ""
+      "awards": "",
+      "checked": false
     },
     {
       "id": "na-210",

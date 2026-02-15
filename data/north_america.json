@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:15:36.696Z",
+  "last_updated": "2026-02-15T00:15:40.360Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19843,6 +19843,27 @@
       "website": "avvale.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. ~$30M revenue. Multiple Inc. 5000 appearances. Clients: Nestlé, PepsiCo, Crocs. Consumer Products.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114540360",
+      "rank": 1506,
+      "priority": "HIGH",
+      "company_name": "Techwave Consulting",
+      "country": "USA",
+      "city": "Houston",
+      "state": "TX",
+      "employees": "Mid-size",
+      "erp_systems": [
+        "SAP Analytics Cloud",
+        "SAP Datasphere",
+        "SAP S/4HANA"
+      ],
+      "website": "techwave.net",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner; SAPinsider Gold Member. 600+ global customers since 2004. Analytics Cloud and Datasphere specialist.",
       "notable_clients": "",
       "awards": "",
       "checked": false

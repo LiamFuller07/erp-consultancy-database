@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:16:25.649Z",
+  "last_updated": "2026-02-15T00:16:29.327Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20065,6 +20065,28 @@
       "website": "dassian.com",
       "decision_makers": [],
       "why_target": "SAP-certified add-on solutions. DCMA/DCAA/DFARS compliance. Aerospace, Defense, Government contracting. Acquired by Omegro/Volaris Group (Nov 2024).",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114589327",
+      "rank": 1517,
+      "priority": "MEDIUM",
+      "company_name": "Havensight Consulting",
+      "country": "USA",
+      "city": "Chicago",
+      "state": "IL",
+      "employees": "20-50",
+      "erp_systems": [
+        "SAP Work Manager",
+        "SAP EWM",
+        "SAP IIoT",
+        "SAP Mobile"
+      ],
+      "website": "havensightconsulting.com",
+      "decision_makers": [],
+      "why_target": "Founded by creators of SAP's Mobile Platform (Syclo, acquired by SAP 2012). SAP Influence Committee member. Mobile, EWM, IIoT specialist.",
       "notable_clients": "",
       "awards": "",
       "checked": false

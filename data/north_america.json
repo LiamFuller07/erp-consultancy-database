@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:15:12.574Z",
+  "last_updated": "2026-02-15T00:15:16.175Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19719,6 +19719,28 @@
       "website": "saic.com",
       "decision_makers": [],
       "why_target": "Fortune 500 ($7.5B revenue). SAP implementations for DLA, DoD, civilian agencies. Enterprise IT modernization.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114516173",
+      "rank": 1500,
+      "priority": "HIGH",
+      "company_name": "MHP Americas (Porsche AG subsidiary)",
+      "country": "USA",
+      "city": "Atlanta",
+      "state": "GA",
+      "employees": "4,500+ globally",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Digital Supply Chain",
+        "SAP Digital Manufacturing",
+        "SAP CX"
+      ],
+      "website": "mhp.com",
+      "decision_makers": [],
+      "why_target": "SAP Silver Partner. Subsidiary of Porsche AG. Automotive and mobility focus.",
       "notable_clients": "",
       "awards": "",
       "checked": false

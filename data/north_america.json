@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:43.099Z",
+  "last_updated": "2026-02-15T00:17:46.961Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20420,6 +20420,26 @@
       "website": "theadvizorgroup.com",
       "decision_makers": [],
       "why_target": "SAP Partner (minority and woman-owned). SAP ECM and BI for federal, state, local government including education, fire, police.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114666961",
+      "rank": 1535,
+      "priority": "MEDIUM",
+      "company_name": "TekLink International",
+      "country": "USA",
+      "city": "Warrenville",
+      "state": "IL",
+      "employees": "Mid-size",
+      "erp_systems": [
+        "SAP BW/BI",
+        "SAP Analytics"
+      ],
+      "website": "teklinkinternational.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. BW/BI and analytics specialist. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

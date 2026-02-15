@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:18:43.312Z",
+  "last_updated": "2026-02-15T00:18:47.553Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20597,6 +20597,25 @@
       "website": "xiting.com",
       "decision_makers": [],
       "why_target": "SAP Partner (HQ Germany). SAP security and compliance tools.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114727552",
+      "rank": 1544,
+      "priority": "MEDIUM",
+      "company_name": "Sapta Global",
+      "country": "USA",
+      "city": "Woodbridge",
+      "state": "NJ",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP HCM"
+      ],
+      "website": "saptaglobal.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. HCM specialist. NJ corridor.",
       "notable_clients": "",
       "awards": "",
       "checked": false

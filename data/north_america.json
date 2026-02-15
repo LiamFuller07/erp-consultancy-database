@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:15:16.175Z",
+  "last_updated": "2026-02-15T00:15:20.454Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19741,6 +19741,26 @@
       "website": "mhp.com",
       "decision_makers": [],
       "why_target": "SAP Silver Partner. Subsidiary of Porsche AG. Automotive and mobility focus.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114520454",
+      "rank": 1501,
+      "priority": "HIGH",
+      "company_name": "Neoris",
+      "country": "USA",
+      "city": "Miami",
+      "state": "FL",
+      "employees": "3,000+",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Cloud Migration"
+      ],
+      "website": "neoris.com",
+      "decision_makers": [],
+      "why_target": "SAP Silver Partner. S/4HANA and cloud migrations. Financial Services, Retail, Manufacturing.",
       "notable_clients": "",
       "awards": "",
       "checked": false

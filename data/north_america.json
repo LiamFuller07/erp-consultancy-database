@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:31.028Z",
+  "last_updated": "2026-02-15T00:17:35.286Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20362,6 +20362,25 @@
       "website": "v3it.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Hosting, migration, support on fixed-cost model. Government and commercial.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114655286",
+      "rank": 1532,
+      "priority": "MEDIUM",
+      "company_name": "NewWave Telecom & Technologies",
+      "country": "USA",
+      "city": "Washington",
+      "state": "DC",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP Healthcare IT"
+      ],
+      "website": "newwavetel.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (certified 8(a) small business, CMMI ML3). Mission-critical healthcare IT on SAP for government agencies.",
       "notable_clients": "",
       "awards": "",
       "checked": false

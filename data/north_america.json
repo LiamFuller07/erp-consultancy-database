@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:15:40.360Z",
+  "last_updated": "2026-02-15T00:15:44.099Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19864,6 +19864,25 @@
       "website": "techwave.net",
       "decision_makers": [],
       "why_target": "SAP Gold Partner; SAPinsider Gold Member. 600+ global customers since 2004. Analytics Cloud and Datasphere specialist.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114544099",
+      "rank": 1507,
+      "priority": "HIGH",
+      "company_name": "CNT Management Consulting",
+      "country": "USA",
+      "city": "Atlanta",
+      "state": "GA",
+      "employees": "500+",
+      "erp_systems": [
+        "SAP S/4HANA Cloud"
+      ],
+      "website": "cnt-online.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner since 2013. ~€135M revenue. Pharma/Life Sciences, Machinery, Food & Beverage S/4HANA Cloud transformations.",
       "notable_clients": "",
       "awards": "",
       "checked": false

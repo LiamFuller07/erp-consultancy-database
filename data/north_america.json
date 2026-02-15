@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:18:47.553Z",
+  "last_updated": "2026-02-15T00:18:51.176Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20616,6 +20616,26 @@
       "website": "saptaglobal.com",
       "decision_makers": [],
       "why_target": "SAP Partner. HCM specialist. NJ corridor.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114731176",
+      "rank": 1545,
+      "priority": "MEDIUM",
+      "company_name": "KSoft Systems",
+      "country": "USA",
+      "city": "Edison",
+      "state": "NJ",
+      "employees": "150+ resources",
+      "erp_systems": [
+        "SAP ERP Consulting",
+        "Oracle ERP"
+      ],
+      "website": "ksoftsystems.com",
+      "decision_makers": [],
+      "why_target": "SAP/Oracle ERP consulting. New Jersey.",
       "notable_clients": "",
       "awards": "",
       "checked": false

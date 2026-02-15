@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:16:29.327Z",
+  "last_updated": "2026-02-15T00:16:33.241Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20087,6 +20087,26 @@
       "website": "havensightconsulting.com",
       "decision_makers": [],
       "why_target": "Founded by creators of SAP's Mobile Platform (Syclo, acquired by SAP 2012). SAP Influence Committee member. Mobile, EWM, IIoT specialist.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114593241",
+      "rank": 1518,
+      "priority": "MEDIUM",
+      "company_name": "McKinsol Consulting",
+      "country": "USA",
+      "city": "Edison",
+      "state": "NJ",
+      "employees": "25-138",
+      "erp_systems": [
+        "SAP IS-Retail",
+        "SAP BTP"
+      ],
+      "website": "mckinsolconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Retail and fashion focus with SAP IS-Retail and BTP. Clients: Nike, Under Armour, Tapestry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

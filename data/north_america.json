@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:27.286Z",
+  "last_updated": "2026-02-15T00:17:31.028Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20341,6 +20341,27 @@
       "website": "optimalsolutions.us",
       "decision_makers": [],
       "why_target": "SAP Partner (certified MBE). Technical architecture and enterprise content management for federal agencies.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114651028",
+      "rank": 1531,
+      "priority": "MEDIUM",
+      "company_name": "V3iT Consulting",
+      "country": "USA",
+      "city": "Washington",
+      "state": "DC",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP Hosting",
+        "SAP Migration",
+        "SAP Support"
+      ],
+      "website": "v3it.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Hosting, migration, support on fixed-cost model. Government and commercial.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:46.961Z",
+  "last_updated": "2026-02-15T00:17:50.821Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20440,6 +20440,25 @@
       "website": "teklinkinternational.com",
       "decision_makers": [],
       "why_target": "SAP Partner. BW/BI and analytics specialist. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114670821",
+      "rank": 1536,
+      "priority": "MEDIUM",
+      "company_name": "enosiX",
+      "country": "USA",
+      "city": "Cincinnati",
+      "state": "OH",
+      "employees": "Small-mid",
+      "erp_systems": [
+        "SAP Integration Solutions"
+      ],
+      "website": "enosix.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Real-time SAP integration solutions. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:18:40.054Z",
+  "last_updated": "2026-02-15T00:18:43.312Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20577,6 +20577,26 @@
       "website": "tadigital.com",
       "decision_makers": [],
       "why_target": "SAP Partner. CX, Commerce Cloud, Analytics Cloud specialist.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114723312",
+      "rank": 1543,
+      "priority": "MEDIUM",
+      "company_name": "Xiting",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "~100-200",
+      "erp_systems": [
+        "SAP Security",
+        "SAP Compliance Tools"
+      ],
+      "website": "xiting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner (HQ Germany). SAP security and compliance tools.",
       "notable_clients": "",
       "awards": "",
       "checked": false

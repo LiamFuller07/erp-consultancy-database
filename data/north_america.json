@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:14:53.365Z",
+  "last_updated": "2026-02-15T00:14:56.818Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19631,6 +19631,27 @@
       "website": "genpact.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner (NYSE: G). Former GE Capital subsidiary. S/4HANA migrations, process automation. Banking, Insurance, Manufacturing, Healthcare, Life Sciences.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114496817",
+      "rank": 1496,
+      "priority": "HIGHEST",
+      "company_name": "Hitachi Digital Services",
+      "country": "USA",
+      "city": "Dallas",
+      "state": "TX",
+      "employees": "2,000+ SAP consultants",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP HANA Hosting",
+        "SAP Cloud Migration"
+      ],
+      "website": "hitachids.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner (formerly Hitachi Consulting). Backed by Hitachi Ltd ($80B+). 1,000+ SAP engagements. Manufacturing, Automotive, Energy, Utilities.",
       "notable_clients": "",
       "awards": "",
       "checked": false

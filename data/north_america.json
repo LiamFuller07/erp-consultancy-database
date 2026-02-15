@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:15:25.048Z",
+  "last_updated": "2026-02-15T00:15:28.245Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19780,6 +19780,27 @@
       "website": "carahsoft.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner (government aggregator). SAP reseller/distributor for federal, state, local government.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114528245",
+      "rank": 1503,
+      "priority": "HIGH",
+      "company_name": "BearingPoint",
+      "country": "USA",
+      "city": "New York",
+      "state": "NY",
+      "employees": "~6,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Energy",
+        "SAP Utilities"
+      ],
+      "website": "bearingpoint.com",
+      "decision_makers": [],
+      "why_target": "SAP Tier 2 Partner (HQ Amsterdam). Energy, Utilities, Public Sector.",
       "notable_clients": "",
       "awards": "",
       "checked": false

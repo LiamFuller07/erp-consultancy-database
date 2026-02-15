@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:15:58.391Z",
+  "last_updated": "2026-02-15T00:16:03.062Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19923,6 +19923,26 @@
       "website": "tekwissen.com",
       "decision_makers": [],
       "why_target": "SAP Partner. S/4HANA and SuccessFactors consulting + workforce solutions. Automotive, Pharma, Healthcare.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114563062",
+      "rank": 1510,
+      "priority": "HIGH",
+      "company_name": "Onapsis",
+      "country": "USA",
+      "city": "Boston",
+      "state": "MA",
+      "employees": "200-500",
+      "erp_systems": [
+        "SAP Cybersecurity",
+        "SAP Vulnerability Assessment"
+      ],
+      "website": "onapsis.com",
+      "decision_makers": [],
+      "why_target": "SAP Silver Partner. Leading SAP cybersecurity firm. Acquired Virtual Forge (2019). SAP threat detection and compliance.",
       "notable_clients": "",
       "awards": "",
       "checked": false

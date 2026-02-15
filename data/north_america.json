@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:55.013Z",
+  "last_updated": "2026-02-15T00:17:59.309Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20479,6 +20479,25 @@
       "website": "craveinfotech.com",
       "decision_makers": [],
       "why_target": "SAP Partner. IoT and Digital Manufacturing specialist. NJ corridor.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114679308",
+      "rank": 1538,
+      "priority": "MEDIUM",
+      "company_name": "Sovos Compliance",
+      "country": "USA",
+      "city": "Wilmington",
+      "state": "DE",
+      "employees": "Mid-size",
+      "erp_systems": [
+        "SAP Tax Compliance Solutions"
+      ],
+      "website": "sovos.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Tax compliance solutions for SAP. Growing niche as regulatory pressure increases.",
       "notable_clients": "",
       "awards": "",
       "checked": false

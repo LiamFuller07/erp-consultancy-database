@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:07.617Z",
+  "last_updated": "2026-02-15T00:17:11.926Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20242,6 +20242,26 @@
       "website": "gravityproconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. Cross-industry.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114631926",
+      "rank": 1526,
+      "priority": "MEDIUM",
+      "company_name": "SELECCION Consulting",
+      "country": "USA",
+      "city": "East Brunswick",
+      "state": "NJ",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP RISE with SAP",
+        "SAP Advisory"
+      ],
+      "website": "seleccionconsulting.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. RISE with SAP advisory. Cross-industry.",
       "notable_clients": "",
       "awards": "",
       "checked": false

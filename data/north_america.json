@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:16:03.062Z",
+  "last_updated": "2026-02-15T00:16:07.332Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19943,6 +19943,25 @@
       "website": "onapsis.com",
       "decision_makers": [],
       "why_target": "SAP Silver Partner. Leading SAP cybersecurity firm. Acquired Virtual Forge (2019). SAP threat detection and compliance.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114567332",
+      "rank": 1511,
+      "priority": "HIGH",
+      "company_name": "msg global solutions",
+      "country": "USA",
+      "city": "Princeton",
+      "state": "NJ",
+      "employees": "500+ globally",
+      "erp_systems": [
+        "SAP Insurance Industry Solutions"
+      ],
+      "website": "msg-global.com",
+      "decision_makers": [],
+      "why_target": "SAP Silver Partner. SAP-certified insurance industry solutions. Insurance vertical focus.",
       "notable_clients": "",
       "awards": "",
       "checked": false

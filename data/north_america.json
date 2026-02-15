@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:16:41.767Z",
+  "last_updated": "2026-02-15T00:16:45.564Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20146,6 +20146,25 @@
       "website": "gbsi.com",
       "decision_makers": [],
       "why_target": "SAP Partner. 568+ SAP implementations since 2004. $15-18M revenue. Manufacturing, Automotive, Life Sciences.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114605564",
+      "rank": 1521,
+      "priority": "MEDIUM",
+      "company_name": "IT Resonance",
+      "country": "USA",
+      "city": "Naperville",
+      "state": "IL",
+      "employees": "51-200",
+      "erp_systems": [
+        "SAP Full-Stack Consulting"
+      ],
+      "website": "itresonance.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Full-stack SAP consulting. Clients: Wm. Wrigley Jr. Company. Chicago area.",
       "notable_clients": "",
       "awards": "",
       "checked": false

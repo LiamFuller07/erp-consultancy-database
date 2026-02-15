@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:17:59.309Z",
+  "last_updated": "2026-02-15T00:18:09.090Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20498,6 +20498,25 @@
       "website": "sovos.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Tax compliance solutions for SAP. Growing niche as regulatory pressure increases.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114689090",
+      "rank": 1539,
+      "priority": "MEDIUM",
+      "company_name": "Forgestik USA",
+      "country": "USA",
+      "city": "Oak Lawn",
+      "state": "IL",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "forgestik.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. Business One specialist. Chicago area.",
       "notable_clients": "",
       "awards": "",
       "checked": false

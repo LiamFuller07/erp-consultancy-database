@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:16:53.513Z",
+  "last_updated": "2026-02-15T00:17:03.671Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20204,6 +20204,25 @@
       "website": "telestogroup.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Program management and technical architecture focus.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114623671",
+      "rank": 1524,
+      "priority": "MEDIUM",
+      "company_name": "AchieveIT Solutions",
+      "country": "USA",
+      "city": "Port Jefferson",
+      "state": "NY",
+      "employees": "Small",
+      "erp_systems": [
+        "SAP Business One"
+      ],
+      "website": "achieveitsolutions.com",
+      "decision_makers": [],
+      "why_target": "SAP Gold Partner for Business One. Long Island, NY.",
       "notable_clients": "",
       "awards": "",
       "checked": false

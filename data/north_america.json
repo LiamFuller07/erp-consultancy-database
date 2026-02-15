@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:16:37.424Z",
+  "last_updated": "2026-02-15T00:16:41.767Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -20126,6 +20126,26 @@
       "website": "acquisconsulting.com",
       "decision_makers": [],
       "why_target": "SAP Concur's first official Certified Implementation Partner (1998). Consulting Magazine 'Seven Small Jewels'.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114601767",
+      "rank": 1520,
+      "priority": "MEDIUM",
+      "company_name": "GBSI (Genius Business Solutions)",
+      "country": "USA",
+      "city": "Moline",
+      "state": "IL",
+      "employees": "~69",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Implementation"
+      ],
+      "website": "gbsi.com",
+      "decision_makers": [],
+      "why_target": "SAP Partner. 568+ SAP implementations since 2004. $15-18M revenue. Manufacturing, Automotive, Life Sciences.",
       "notable_clients": "",
       "awards": "",
       "checked": false

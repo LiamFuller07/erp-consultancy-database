@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:15:04.677Z",
+  "last_updated": "2026-02-15T00:15:08.255Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -19695,6 +19695,27 @@
       "website": "caci.com",
       "decision_makers": [],
       "why_target": "NYSE-listed Fortune 1000. SAP ERP integration for DoD, intelligence, civilian CFO offices. Carahsoft government partner.",
+      "notable_clients": "",
+      "awards": "",
+      "checked": false
+    },
+    {
+      "id": "north_america-new-1771114508255",
+      "rank": 1499,
+      "priority": "HIGHEST",
+      "company_name": "SAIC",
+      "country": "USA",
+      "city": "Reston",
+      "state": "VA",
+      "employees": "~24,000",
+      "erp_systems": [
+        "SAP S/4HANA",
+        "SAP Federal",
+        "SAP Cloud Migration"
+      ],
+      "website": "saic.com",
+      "decision_makers": [],
+      "why_target": "Fortune 500 ($7.5B revenue). SAP implementations for DLA, DoD, civilian agencies. Enterprise IT modernization.",
       "notable_clients": "",
       "awards": "",
       "checked": false

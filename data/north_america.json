@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "region": "north_america",
-  "last_updated": "2026-02-15T00:19:15.724Z",
+  "last_updated": "2026-04-28T18:23:59Z",
   "consultancies": [
     {
       "id": "na-001",
@@ -130,31 +130,6 @@
       "why_target": "",
       "notable_clients": "",
       "awards": ""
-    },
-    {
-      "id": "na-008",
-      "rank": 8,
-      "priority": "HIGH",
-      "company_name": "Abbasoft Technologies",
-      "country": "USA",
-      "city": "Laguna Hills",
-      "state": "Orange County",
-      "employees": "18",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "abbasoft.com",
-      "decision_makers": [
-        {
-          "name": "James Alan Baskin",
-          "title": "President",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "SAP B1 Software Solution Partner. Niche: promotional products industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
     },
     {
       "id": "na-009",
@@ -1640,28 +1615,6 @@
       "awards": ""
     },
     {
-      "id": "na-077",
-      "rank": 77,
-      "priority": "HIGHEST",
-      "company_name": "Capgemini",
-      "country": "USA",
-      "city": "New York",
-      "state": "NY",
-      "employees": "~340,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP BTP",
-        "SAP Analytics",
-        "SAP Managed Services"
-      ],
-      "website": "capgemini.com",
-      "decision_makers": [],
-      "why_target": "SAP Platinum Reseller Partner. RISE with SAP, Industry Solutions. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
       "id": "na-078",
       "rank": 78,
       "priority": "MEDIUM",
@@ -1705,24 +1658,6 @@
           "linkedin_url": ""
         }
       ],
-      "why_target": "",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "na-080",
-      "rank": 80,
-      "priority": "HIGH",
-      "company_name": "Carlsbad Consulting Group",
-      "country": "USA",
-      "city": "Carlsbad",
-      "state": "San Diego",
-      "employees": "<25",
-      "erp_systems": [
-        "Epicor ERP"
-      ],
-      "website": "carlsbadgroup.com",
-      "decision_makers": [],
       "why_target": "",
       "notable_clients": "",
       "awards": ""
@@ -2339,29 +2274,6 @@
       "awards": "CIOReview Most Promising NetSuite Providers 2023"
     },
     {
-      "id": "na-107",
-      "rank": 107,
-      "priority": "HIGHEST",
-      "company_name": "Cognizant",
-      "country": "USA",
-      "city": "Teaneck",
-      "state": "NJ",
-      "employees": "~350,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP BTP",
-        "SAP Analytics",
-        "SAP Managed Services",
-        "NetSuite"
-      ],
-      "website": "cognizant.com",
-      "decision_makers": [],
-      "why_target": "SAP Global Strategic Partner. Industry Solutions, Managed Services. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
       "id": "na-108",
       "rank": 108,
       "priority": "MEDIUM",
@@ -2635,35 +2547,6 @@
       "awards": "BPO Partner of Year 2023, 2024"
     },
     {
-      "id": "na-122",
-      "rank": 122,
-      "priority": "HIGH",
-      "company_name": "Cre8tive Technology and Design",
-      "country": "USA",
-      "city": "San Diego",
-      "state": "San Diego",
-      "employees": "51-138",
-      "erp_systems": [
-        "Epicor ERP"
-      ],
-      "website": "ctnd.com",
-      "decision_makers": [
-        {
-          "name": "Aaron Continelli",
-          "title": "CEO & Founder",
-          "linkedin_url": "linkedin.com/in/aaron-continelli-ba5049a/"
-        },
-        {
-          "name": "Bob Aronson",
-          "title": "Chief Revenue Officer",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "na-123",
       "rank": 123,
       "priority": "MEDIUM",
@@ -2875,24 +2758,6 @@
         "NetSuite Implementation & Support"
       ],
       "website": "dkminc.com",
-      "decision_makers": [],
-      "why_target": "",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "na-134",
-      "rank": 134,
-      "priority": "HIGH",
-      "company_name": "DNG Systems Inc",
-      "country": "USA",
-      "city": "Los Angeles",
-      "state": "Los Angeles",
-      "employees": "15-30",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "dngsystems.com",
       "decision_makers": [],
       "why_target": "",
       "notable_clients": "",
@@ -3419,36 +3284,6 @@
       ],
       "website": "",
       "decision_makers": [],
-      "why_target": "",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "na-156",
-      "rank": 156,
-      "priority": "HIGH",
-      "company_name": "EPIQ Infotech",
-      "country": "USA",
-      "city": "Cerritos",
-      "state": "Los Angeles",
-      "employees": "50-100",
-      "erp_systems": [
-        "NetSuite",
-        "Oracle JD Edwards"
-      ],
-      "website": "epiqinfo.com",
-      "decision_makers": [
-        {
-          "name": "",
-          "title": "",
-          "linkedin_url": "Ankur Raj"
-        },
-        {
-          "name": "Business Dev",
-          "title": "linkedin.com/in/ankur-raj-855425bb/",
-          "linkedin_url": ""
-        }
-      ],
       "why_target": "",
       "notable_clients": "",
       "awards": ""
@@ -4197,28 +4032,6 @@
       "awards": ""
     },
     {
-      "id": "na-191",
-      "rank": 191,
-      "priority": "HIGHEST",
-      "company_name": "HCLTech",
-      "country": "USA",
-      "city": "Sunnyvale",
-      "state": "CA",
-      "employees": "~225,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP BTP",
-        "SAP Integration",
-        "SAP Managed Services"
-      ],
-      "website": "hcltech.com",
-      "decision_makers": [],
-      "why_target": "SAP Global Strategic Partner. BTP, Integration & Optimization, Managed Services. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
       "id": "na-192",
       "rank": 192,
       "priority": "MEDIUM",
@@ -4352,32 +4165,6 @@
       "awards": ""
     },
     {
-      "id": "na-199",
-      "rank": 199,
-      "priority": "HIGH",
-      "company_name": "Innormax",
-      "country": "USA",
-      "city": "Irvine",
-      "state": "Orange County",
-      "employees": "25-50",
-      "erp_systems": [
-        "SAP Business One",
-        "SAP ByDesign"
-      ],
-      "website": "innormax.com",
-      "decision_makers": [
-        {
-          "name": "Tiran Mendis",
-          "title": "CEO",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "SAP B1 Partner. Implementation, Consulting. Manufacturing, Retail, Distribution.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
       "id": "na-200",
       "rank": 200,
       "priority": "MEDIUM",
@@ -4386,24 +4173,6 @@
       "city": "Georgia",
       "state": "GA",
       "employees": "20-50",
-      "erp_systems": [
-        "NetSuite"
-      ],
-      "website": "",
-      "decision_makers": [],
-      "why_target": "",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "na-201",
-      "rank": 201,
-      "priority": "MEDIUM",
-      "company_name": "Inspirage (Accenture)",
-      "country": "USA",
-      "city": "Bellevue",
-      "state": "WA",
-      "employees": "200-500",
       "erp_systems": [
         "NetSuite"
       ],
@@ -6724,38 +6493,6 @@
       "awards": ""
     },
     {
-      "id": "na-309",
-      "rank": 309,
-      "priority": "HIGH",
-      "company_name": "Seidor USA",
-      "country": "USA",
-      "city": "Silicon Valley",
-      "state": "Multiple",
-      "employees": "10000+",
-      "erp_systems": [
-        "SAP Business One",
-        "ByDesign",
-        "S",
-        "4HANA"
-      ],
-      "website": "seidor.com",
-      "decision_makers": [
-        {
-          "name": "Dario Stern",
-          "title": "CEO SEIDOR USA",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Rodolpho Cardenuto",
-          "title": "CEO North America",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "na-310",
       "rank": 310,
       "priority": "HIGH",
@@ -7072,37 +6809,6 @@
       "why_target": "",
       "notable_clients": "",
       "awards": ""
-    },
-    {
-      "id": "na-324",
-      "rank": 324,
-      "priority": "HIGH",
-      "company_name": "Softengine Inc",
-      "country": "USA",
-      "city": "Woodland Hills",
-      "state": "Los Angeles",
-      "employees": "50-100",
-      "erp_systems": [
-        "SAP Business One",
-        "Acumatica"
-      ],
-      "website": "softengine.com",
-      "decision_makers": [
-        {
-          "name": "Joseph Lasman",
-          "title": "CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Gil Lasman",
-          "title": "VP Sales",
-          "linkedin_url": "linkedin.com/in/gil-lasman-5a302134/"
-        }
-      ],
-      "why_target": "SAP B1 Gold Partner (Top 3 in US). Implementation, Cloud Hosting, Add-on Development. Manufacturing, Distribution, Food & Beverage.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
     },
     {
       "id": "na-325",
@@ -7881,24 +7587,6 @@
       "awards": ""
     },
     {
-      "id": "na-365",
-      "rank": 365,
-      "priority": "HIGH",
-      "company_name": "Technologies International",
-      "country": "USA",
-      "city": "Southern California",
-      "state": "Los Angeles",
-      "employees": "Small",
-      "erp_systems": [
-        "SYSPRO ERP (Manufacturing)"
-      ],
-      "website": "tech-intl.com",
-      "decision_makers": [],
-      "why_target": "",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "na-366",
       "rank": 366,
       "priority": "HIGH",
@@ -8087,30 +7775,6 @@
       "why_target": "",
       "notable_clients": "",
       "awards": "2024 SuiteCloud Growth Partner of Year"
-    },
-    {
-      "id": "na-375",
-      "rank": 375,
-      "priority": "HIGH",
-      "company_name": "Tomerlin-ERP",
-      "country": "USA",
-      "city": "Los Angeles",
-      "state": "Los Angeles",
-      "employees": "20-50",
-      "erp_systems": [
-        "Epicor Kinetic ERP"
-      ],
-      "website": "tomerlin-erp.com",
-      "decision_makers": [
-        {
-          "name": "Monte Tomerlin",
-          "title": "Founder & CEO",
-          "linkedin_url": "linkedin.com/in/monte-tomerlin-140b207/"
-        }
-      ],
-      "why_target": "",
-      "notable_clients": "",
-      "awards": ""
     },
     {
       "id": "na-376",
@@ -8657,22 +8321,6 @@
       "awards": "Inc 5000; Deloitte Technology Fast 500"
     },
     {
-      "id": "na-999",
-      "rank": 999,
-      "priority": "LOWER",
-      "company_name": "MCP Sandbox Co",
-      "country": "USA",
-      "city": "",
-      "state": "",
-      "employees": "",
-      "erp_systems": [],
-      "website": "",
-      "decision_makers": [],
-      "why_target": "",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768562583511",
       "rank": 1000,
       "priority": "HIGH",
@@ -8688,82 +8336,6 @@
       "website": "trenegy.com",
       "decision_makers": [],
       "why_target": "ERP selection and implementation consulting firm",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768562591385",
-      "rank": 1001,
-      "priority": "MEDIUM",
-      "company_name": "Consensus International",
-      "country": "USA",
-      "city": "Boca Raton",
-      "state": "FL",
-      "employees": "Small-mid",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "consensusintl.com",
-      "decision_makers": [],
-      "why_target": "SAP Premier Partner; Top 3 B1 Reseller US. 900+ B1 implementations. Manufacturing, Pharma, Food & Beverage, Retail, Distribution.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1768562599065",
-      "rank": 1002,
-      "priority": "HIGHEST",
-      "company_name": "Decision Resources (DRI)",
-      "country": "USA",
-      "city": "Pittsburgh",
-      "state": "PA",
-      "employees": "",
-      "erp_systems": [
-        "Infor CloudSuite Industrial",
-        "SyteLine"
-      ],
-      "website": "decision.com",
-      "decision_makers": [],
-      "why_target": "#1 Gold Infor partner, 500+ manufacturing clients, 40+ years experience",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768562605521",
-      "rank": 1003,
-      "priority": "HIGHEST",
-      "company_name": "Godlan",
-      "country": "USA",
-      "city": "Clinton Township",
-      "state": "MI",
-      "employees": "",
-      "erp_systems": [
-        "Infor CloudSuite Industrial",
-        "SyteLine"
-      ],
-      "website": "godlan.com",
-      "decision_makers": [],
-      "why_target": "Largest dedicated CloudSuite Industrial partner, multiple Partner of Year awards",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768562613066",
-      "rank": 1004,
-      "priority": "HIGHEST",
-      "company_name": "ComTec Solutions",
-      "country": "USA",
-      "city": "Rochester",
-      "state": "NY",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic",
-        "Prophet 21"
-      ],
-      "website": "comtecsolutions.com",
-      "decision_makers": [],
-      "why_target": "Epicor Global Partner of the Year 2023",
       "notable_clients": "",
       "awards": ""
     },
@@ -8843,43 +8415,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768562664888",
-      "rank": 1009,
-      "priority": "HIGHEST",
-      "company_name": "Aktion Associates",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor Distribution",
-        "Acumatica"
-      ],
-      "website": "aktion.com",
-      "decision_makers": [],
-      "why_target": "Largest Infor Distribution partner in US, Acumatica President Club",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768562686540",
-      "rank": 1010,
-      "priority": "HIGHEST",
-      "company_name": "Six S Partners",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic"
-      ],
-      "website": "sixspartners.com",
-      "decision_makers": [],
-      "why_target": "Epicor Platinum Elite partner, training and consulting",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768562693262",
       "rank": 1011,
       "priority": "HIGH",
@@ -8894,83 +8429,6 @@
       "website": "westerncomputer.com",
       "decision_makers": [],
       "why_target": "35 years experience, 1000+ implementations",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768562699560",
-      "rank": 1012,
-      "priority": "HIGH",
-      "company_name": "RPI Consultants",
-      "country": "USA",
-      "city": "Baltimore",
-      "state": "MD",
-      "employees": "",
-      "erp_systems": [
-        "Infor Lawson",
-        "CloudSuite Financials"
-      ],
-      "website": "rpic.com",
-      "decision_makers": [],
-      "why_target": "25+ years Infor Lawson, Government and Healthcare specialist",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768562705217",
-      "rank": 1013,
-      "priority": "HIGH",
-      "company_name": "Columbus Global",
-      "country": "USA",
-      "city": "Minneapolis",
-      "state": "MN",
-      "employees": "",
-      "erp_systems": [
-        "Infor M3",
-        "Microsoft Dynamics 365"
-      ],
-      "website": "columbusglobal.com",
-      "decision_makers": [
-        {
-          "name": "Chris Mean",
-          "title": "CEO for Columbus UK and Columbus US",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Lena Ridström",
-          "title": "Head of Data & Analytics globally",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Tina Algkvist",
-          "title": "Business Line Executive for M3",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Kapil",
-          "title": "Head of Columbus Global Delivery",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Largest independent Infor M3 partner, 350+ clients",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768562711219",
-      "rank": 1014,
-      "priority": "HIGH",
-      "company_name": "Cinntra",
-      "country": "USA",
-      "city": "Houston",
-      "state": "TX",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "cinntra.com",
-      "decision_makers": [],
-      "why_target": "CMMI Level-3 certified SAP B1 partner",
       "notable_clients": "",
       "awards": ""
     },
@@ -9048,25 +8506,6 @@
       "why_target": "150+ professionals, Acumatica Manufacturing Partner of Year, 28 years",
       "notable_clients": "",
       "awards": ""
-    },
-    {
-      "id": "north_america-new-1768562756540",
-      "rank": 1018,
-      "priority": "MEDIUM",
-      "company_name": "Third Wave Business Systems",
-      "country": "USA",
-      "city": "Wayne",
-      "state": "NJ",
-      "employees": "~20-50",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "twbs.com",
-      "decision_makers": [],
-      "why_target": "SAP B1 Gold Partner. CPG, Life Sciences, Manufacturing, Wholesale Distribution.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
     },
     {
       "id": "north_america-new-1768562764799",
@@ -9147,81 +8586,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768562815756",
-      "rank": 1022,
-      "priority": "HIGH",
-      "company_name": "EpiCenter ERP",
-      "country": "USA",
-      "city": "Westfield",
-      "state": "MA",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic"
-      ],
-      "website": "epicentererp.com",
-      "decision_makers": [],
-      "why_target": "Epicor Platinum partner, manufacturing focus",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768562823818",
-      "rank": 1023,
-      "priority": "HIGH",
-      "company_name": "Central Data",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor Distribution"
-      ],
-      "website": "centraldata.com",
-      "decision_makers": [
-        {
-          "name": "Joe Davidson",
-          "title": "President",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Shane Doyle",
-          "title": "Head of Sales and Marketing",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Daryl Ziegelman",
-          "title": "Chief Technology Officer",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Julie Zindle",
-          "title": "Consulting Services Manager",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "50+ years, North American Partner of Year 2020, 200+ implementations",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768562833471",
-      "rank": 1024,
-      "priority": "HIGH",
-      "company_name": "Consultare",
-      "country": "USA",
-      "city": "Miami",
-      "state": "FL",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "consultare.net",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner since 2013, multilingual team",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768562865276",
       "rank": 1025,
       "priority": "HIGH",
@@ -9294,182 +8658,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768562876313",
-      "rank": 1028,
-      "priority": "HIGH",
-      "company_name": "Pioneer Business Systems",
-      "country": "USA",
-      "city": "Dallas",
-      "state": "TX",
-      "employees": "",
-      "erp_systems": [
-        "SYSPRO"
-      ],
-      "website": "",
-      "decision_makers": [],
-      "why_target": "SYSPRO Premium Partner, manufacturing/distribution focus",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768565169504",
-      "rank": 1029,
-      "priority": "HIGH",
-      "company_name": "2W Technologies",
-      "country": "USA",
-      "city": "Milwaukee",
-      "state": "WI",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic"
-      ],
-      "website": "2wtech.com",
-      "decision_makers": [
-        {
-          "name": "Mark Jamieson",
-          "title": "President & CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Alan Winegar",
-          "title": "Chief Operations Officer (COO)",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Tom Geairn",
-          "title": "Chief Technology Officer (CTO)",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Samuel Plumer",
-          "title": "Director, Epicor ERP Consulting Practice",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Epicor Platinum partner",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768565171366",
-      "rank": 1030,
-      "priority": "HIGH",
-      "company_name": "Turning Point Consulting",
-      "country": "USA",
-      "city": "Minneapolis",
-      "state": "MN",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic",
-        "Prophet 21"
-      ],
-      "website": "turningpointconsulting.com",
-      "decision_makers": [
-        {
-          "name": "Dave Brady",
-          "title": "Founder, President and CEO",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Epicor Certified Services Partner for both Manufacturing and Distribution",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768565174270",
-      "rank": 1031,
-      "priority": "HIGH",
-      "company_name": "Scaled Solutions Group",
-      "country": "USA",
-      "city": "Chicago",
-      "state": "IL",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Prophet 21",
-        "Kinetic"
-      ],
-      "website": "scaledsolutionsgroup.com",
-      "decision_makers": [
-        {
-          "name": "Mike Pereda",
-          "title": "Founder and CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Carly Thompson",
-          "title": "Head of Finance and HR",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Robert Destromp",
-          "title": "ERP and Business Process Expert",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Epicor Platinum partner for P21",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768565177454",
-      "rank": 1032,
-      "priority": "HIGH",
-      "company_name": "Inavista",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor LN",
-        "ERP LN"
-      ],
-      "website": "inavista.com",
-      "decision_makers": [],
-      "why_target": "Infor Alliance Partner for large/complex ERP LN implementations",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768566902828",
-      "rank": 1033,
-      "priority": "HIGH",
-      "company_name": "Copley Consulting Group",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor CloudSuite Food & Beverage",
-        "SyteLine"
-      ],
-      "website": "copleycg.com",
-      "decision_makers": [
-        {
-          "name": "Martin E. Judge III",
-          "title": "Chief Executive Officer",
-          "linkedin_url": ""
-        },
-        {
-          "name": "John Battaglia",
-          "title": "President and Chief Technology Officer",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Rob Rosenbaum",
-          "title": "Director of Professional Services",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Jim Reilly",
-          "title": "Executive Vice President",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "30 years Infor Gold Channel Partner, Food & Beverage specialist",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768566905877",
       "rank": 1034,
       "priority": "HIGH",
@@ -9527,152 +8715,6 @@
       "website": "boyerassoc.com",
       "decision_makers": [],
       "why_target": "Top 5% Microsoft partners (President Club)",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768571793932",
-      "rank": 1037,
-      "priority": "HIGH",
-      "company_name": "Sama Consulting",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor LN"
-      ],
-      "website": "samaconsultinginc.com",
-      "decision_makers": [
-        {
-          "name": "Madhu Nair",
-          "title": "Managing Partner",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Madhu Meir",
-          "title": "President",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Justin Cummins",
-          "title": "Principal",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Tony Vengel",
-          "title": "Owner",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "15+ years Infor experience, 150+ Infor LN projects, Fortune 500 implementations",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768571796385",
-      "rank": 1038,
-      "priority": "MEDIUM",
-      "company_name": "Effective Computer Solutions (ECS)",
-      "country": "USA",
-      "city": "Jacksonville",
-      "state": "FL",
-      "employees": "<50",
-      "erp_systems": [
-        "SAP Business One",
-        "SAP HANA",
-        "SAP B1 Cloud"
-      ],
-      "website": "ecs-online.com",
-      "decision_makers": [
-        {
-          "name": "Darran Vayhinger",
-          "title": "President and CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Dan Macferran",
-          "title": "VP of Sales and Marketing",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Jonathan Bryant",
-          "title": "Vice President of Systems and Support",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "SAP Certified Gold Partner (since 1985). ProcECS Engine add-on. Healthcare, Manufacturing, Wholesale Distribution.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1768571799919",
-      "rank": 1039,
-      "priority": "HIGH",
-      "company_name": "Sierra-Cedar",
-      "country": "USA",
-      "city": "Alpharetta",
-      "state": "GA",
-      "employees": "",
-      "erp_systems": [
-        "Oracle",
-        "AWS",
-        "PeopleSoft"
-      ],
-      "website": "sierra-cedar.com",
-      "decision_makers": [
-        {
-          "name": "Cal Yonker",
-          "title": "Founder & CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Mark Kelly",
-          "title": "CFO / Board Member",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Peter Kislowski",
-          "title": "Vice President of Commercial Sales",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Marlene Smith",
-          "title": "Vice President, Human Resources",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "[NEW] Oracle, AWS, PeopleSoft specialist - 25+ years experience",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768571802747",
-      "rank": 1040,
-      "priority": "HIGH",
-      "company_name": "Phoenix Business Consulting",
-      "country": "USA",
-      "city": "Sarasota",
-      "state": "FL",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "phoenixteam.com",
-      "decision_makers": [
-        {
-          "name": "Michael R. Zimmerman",
-          "title": "Leadership Team Member",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Loyd W. Hawkins",
-          "title": "Leadership Team Member",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "SAP Gold Partner since 2019, 27+ years experience, global presence",
       "notable_clients": "",
       "awards": ""
     },
@@ -10187,22 +9229,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768600745621",
-      "rank": 1058,
-      "priority": "HIGH",
-      "company_name": "Example Co",
-      "country": "United States",
-      "city": "",
-      "state": "",
-      "employees": "",
-      "erp_systems": [],
-      "website": "https://example.com",
-      "decision_makers": [],
-      "why_target": "",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768616033683",
       "rank": 1059,
       "priority": "HIGH",
@@ -10218,24 +9244,6 @@
       "website": "kalypso.com",
       "decision_makers": [],
       "why_target": "Rockwell Automation company, Oracle Cloud and PLM specialist",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616038932",
-      "rank": 1060,
-      "priority": "HIGH",
-      "company_name": "Aspire Systems",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Oracle ERP"
-      ],
-      "website": "aspiresys.com",
-      "decision_makers": [],
-      "why_target": "Oracle Platinum Partner, AI-driven Cloud Implementation",
       "notable_clients": "",
       "awards": ""
     },
@@ -10258,98 +9266,6 @@
       "notable_clients": "",
       "awards": "",
       "checked": false
-    },
-    {
-      "id": "north_america-new-1768616048324",
-      "rank": 1062,
-      "priority": "HIGH",
-      "company_name": "Perficient",
-      "country": "USA",
-      "city": "St. Louis",
-      "state": "MO",
-      "employees": "",
-      "erp_systems": [
-        "Oracle"
-      ],
-      "website": "perficient.com",
-      "decision_makers": [],
-      "why_target": "Oracle Platinum Partner with 15 specializations",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616053793",
-      "rank": 1063,
-      "priority": "HIGH",
-      "company_name": "ChainSys",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Oracle ERP",
-        "SAP",
-        "Salesforce"
-      ],
-      "website": "chainsys.com",
-      "decision_makers": [],
-      "why_target": "23+ years Oracle, SAP, Salesforce experience",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616059935",
-      "rank": 1064,
-      "priority": "HIGH",
-      "company_name": "ennVee",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Oracle Fusion Cloud"
-      ],
-      "website": "ennvee.com",
-      "decision_makers": [],
-      "why_target": "Oracle Fusion Cloud specialist, 20+ years",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616072044",
-      "rank": 1065,
-      "priority": "HIGH",
-      "company_name": "Brij",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "JD Edwards"
-      ],
-      "website": "brij.net",
-      "decision_makers": [],
-      "why_target": "JD Edwards Gold Partner, 30+ years experience",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616077148",
-      "rank": 1066,
-      "priority": "HIGH",
-      "company_name": "Briteskies",
-      "country": "USA",
-      "city": "Cleveland",
-      "state": "OH",
-      "employees": "",
-      "erp_systems": [
-        "JD Edwards"
-      ],
-      "website": "briteskies.com",
-      "decision_makers": [],
-      "why_target": "JD Edwards Functional & Technical Support",
-      "notable_clients": "",
-      "awards": ""
     },
     {
       "id": "north_america-new-1768616082239",
@@ -10422,139 +9338,6 @@
       "website": "atqor.com",
       "decision_makers": [],
       "why_target": "D365 end-to-end services, 20+ years",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616129640",
-      "rank": 1071,
-      "priority": "HIGH",
-      "company_name": "Progent",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor CloudSuite Industrial",
-        "SyteLine"
-      ],
-      "website": "progent.com",
-      "decision_makers": [],
-      "why_target": "Infor SyteLine platform specialist, 20+ years",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616134538",
-      "rank": 1072,
-      "priority": "HIGH",
-      "company_name": "Birlasoft",
-      "country": "USA",
-      "city": "Edison",
-      "state": "NJ",
-      "employees": "~12,000+",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP SuccessFactors",
-        "SAP Analytics"
-      ],
-      "website": "birlasoft.com",
-      "decision_makers": [],
-      "why_target": "ISG Leader SAP S/4HANA Midmarket US; Gartner Challenger. SMARTEDGE accelerators. Manufacturing, Life Sciences, Automotive.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1768616140730",
-      "rank": 1073,
-      "priority": "HIGH",
-      "company_name": "Sailotech",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor LN"
-      ],
-      "website": "sailotech.com",
-      "decision_makers": [],
-      "why_target": "Certified Infor Partner, Infor LN consultants",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616145454",
-      "rank": 1074,
-      "priority": "HIGH",
-      "company_name": "Crossroads RMC",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor LN"
-      ],
-      "website": "crossroadsrmc.com",
-      "decision_makers": [],
-      "why_target": "Infor LN consulting and support services",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616150736",
-      "rank": 1075,
-      "priority": "HIGH",
-      "company_name": "ICCG",
-      "country": "USA",
-      "city": "Warminster",
-      "state": "PA",
-      "employees": "",
-      "erp_systems": [
-        "Infor CloudSuite Food & Beverage",
-        "Infor M3"
-      ],
-      "website": "iccg.com",
-      "decision_makers": [],
-      "why_target": "CloudSuite Food & Beverage, Infor M3, Infor Optiva PLM specialist",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616155281",
-      "rank": 1076,
-      "priority": "HIGH",
-      "company_name": "GForce Technology Consulting",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor Lawson",
-        "CloudSuite Financials",
-        "Infor Birst"
-      ],
-      "website": "thegforce.com",
-      "decision_makers": [],
-      "why_target": "Infor Lawson Version 10, CloudSuite Financials specialist",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616163210",
-      "rank": 1077,
-      "priority": "HIGH",
-      "company_name": "Kastech Software Solutions",
-      "country": "USA",
-      "city": "Houston",
-      "state": "TX",
-      "employees": "",
-      "erp_systems": [
-        "Oracle PeopleSoft"
-      ],
-      "website": "",
-      "decision_makers": [],
-      "why_target": "450+ employees, Oracle PeopleSoft specialist",
       "notable_clients": "",
       "awards": ""
     },
@@ -10670,232 +9453,6 @@
       "checked": false
     },
     {
-      "id": "north_america-new-1768616228869",
-      "rank": 1084,
-      "priority": "MEDIUM",
-      "company_name": "Kabeer Consulting",
-      "country": "USA",
-      "city": "Edison",
-      "state": "NJ",
-      "employees": "Small",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "kabeerconsulting.com",
-      "decision_makers": [],
-      "why_target": "SAP B1 Partner. Implementation, Customization, Cloud ERP, Maintenance. Manufacturing, Retail, Distribution, SMEs.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1768616233642",
-      "rank": 1085,
-      "priority": "MEDIUM",
-      "company_name": "be one solutions",
-      "country": "USA",
-      "city": "New York",
-      "state": "NY",
-      "employees": "~200-500",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "beonesolutions.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner. Template-Based Rollouts for Multinational Subsidiaries, 24/7 Support. 30+ countries.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1768616238720",
-      "rank": 1086,
-      "priority": "MEDIUM",
-      "company_name": "Support One, Inc.",
-      "country": "USA",
-      "city": "Denver",
-      "state": "CO",
-      "employees": "~15-30",
-      "erp_systems": [
-        "SAP Business One",
-        "SAP Business ByDesign"
-      ],
-      "website": "supportone.us",
-      "decision_makers": [],
-      "why_target": "SAP B1 Gold Partner + ByDesign Partner (founded 2007). Multi-industry SMBs.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1768616243347",
-      "rank": 1087,
-      "priority": "HIGH",
-      "company_name": "Innovapte",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "innovapte.com",
-      "decision_makers": [],
-      "why_target": "SAP Silver Partner, 20+ years leadership, 25 professionals",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616249502",
-      "rank": 1088,
-      "priority": "HIGH",
-      "company_name": "N-Ware Technologies",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "nwaretech.com",
-      "decision_makers": [],
-      "why_target": "SAP B1 Gold Partner, ERP/WMS/BI/E-Commerce for SMBs",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616257802",
-      "rank": 1089,
-      "priority": "HIGH",
-      "company_name": "Atlas Precision Consulting",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Prophet 21"
-      ],
-      "website": "atlasprecon.com",
-      "decision_makers": [],
-      "why_target": "Epicor Certified Partner, Prophet 21 specialist",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616262828",
-      "rank": 1090,
-      "priority": "HIGH",
-      "company_name": "Teccweb",
-      "country": "USA",
-      "city": "New York",
-      "state": "NY",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic",
-        "Prophet 21",
-        "DocStar"
-      ],
-      "website": "teccweb.com",
-      "decision_makers": [],
-      "why_target": "Epicor Certified Services Partner for Kinetic, P21, DocStar",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616267570",
-      "rank": 1091,
-      "priority": "HIGH",
-      "company_name": "MIS Consulting & Sales",
-      "country": "USA",
-      "city": "Beaverton",
-      "state": "OR",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic",
-        "Epicor Enterprise"
-      ],
-      "website": "mis-c.com",
-      "decision_makers": [],
-      "why_target": "Epicor Gold Partner",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616272031",
-      "rank": 1092,
-      "priority": "HIGH",
-      "company_name": "Clear Business Outcome",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic"
-      ],
-      "website": "clearbusinessoutcome.com",
-      "decision_makers": [],
-      "why_target": "Epicor Premium Partner for Kinetic",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616277284",
-      "rank": 1093,
-      "priority": "HIGH",
-      "company_name": "PracticalTek",
-      "country": "USA",
-      "city": "Ohio",
-      "state": "OH",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic",
-        "Vantage"
-      ],
-      "website": "practicaltek.com",
-      "decision_makers": [],
-      "why_target": "Independent Epicor Services Provider for Kinetic/Vantage",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616282452",
-      "rank": 1094,
-      "priority": "HIGH",
-      "company_name": "Butiq",
-      "country": "USA",
-      "city": "Birmingham",
-      "state": "AL",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic",
-        "Microsoft Dynamics 365"
-      ],
-      "website": "butiq.io",
-      "decision_makers": [],
-      "why_target": "Epicor Kinetic and D365 consulting partner",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616287023",
-      "rank": 1095,
-      "priority": "HIGH",
-      "company_name": "EC Solutions",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic",
-        "Prophet 21"
-      ],
-      "website": "e-c-solutions.com",
-      "decision_makers": [],
-      "why_target": "Epicor Gold Partner for Kinetic and P21",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768616315119",
       "rank": 1096,
       "priority": "HIGH",
@@ -10950,25 +9507,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768616329698",
-      "rank": 1099,
-      "priority": "HIGH",
-      "company_name": "Sequoia Group",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor Distribution",
-        "WMS"
-      ],
-      "website": "",
-      "decision_makers": [],
-      "why_target": "Certified Infor Channel Partner for Distribution ERP and WMS",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768616335126",
       "rank": 1100,
       "priority": "HIGH",
@@ -11019,24 +9557,6 @@
       "website": "smartsi.com",
       "decision_makers": [],
       "why_target": "Infor CloudSuite software and integration",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616350058",
-      "rank": 1103,
-      "priority": "HIGH",
-      "company_name": "Clients First Business Systems",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "clientsfirst-us.com",
-      "decision_makers": [],
-      "why_target": "Specializes in rescuing complex failed SAP B1 implementations",
       "notable_clients": "",
       "awards": ""
     },
@@ -11169,83 +9689,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768616734175",
-      "rank": 1111,
-      "priority": "HIGH",
-      "company_name": "Elire Consulting",
-      "country": "USA",
-      "city": "Minneapolis",
-      "state": "MN",
-      "employees": "",
-      "erp_systems": [
-        "Oracle PeopleSoft",
-        "Oracle Cloud",
-        "EPM"
-      ],
-      "website": "elire.com",
-      "decision_makers": [],
-      "why_target": "[NEW] PeopleSoft & Oracle Cloud EPM specialist, 475+ clients",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768616743282",
-      "rank": 1112,
-      "priority": "HIGH",
-      "company_name": "SpearMC",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Oracle PeopleSoft"
-      ],
-      "website": "spearmc.com",
-      "decision_makers": [],
-      "why_target": "[NEW] PeopleSoft Experts, 20+ years - now part of Mythics",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617330913",
-      "rank": 1113,
-      "priority": "HIGH",
-      "company_name": "[NEW] Sierra-Cedar",
-      "country": "USA",
-      "city": "Alpharetta",
-      "state": "GA",
-      "employees": "",
-      "erp_systems": [
-        "Oracle",
-        "AWS",
-        "PeopleSoft"
-      ],
-      "website": "sierra-cedar.com",
-      "decision_makers": [],
-      "why_target": "Oracle, AWS, PeopleSoft specialist - 25+ years experience",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617336536",
-      "rank": 1114,
-      "priority": "HIGH",
-      "company_name": "[NEW] Sunrise Technologies",
-      "country": "USA",
-      "city": "Winston-Salem",
-      "state": "NC",
-      "employees": "",
-      "erp_systems": [
-        "Microsoft Dynamics 365",
-        "JD Edwards"
-      ],
-      "website": "sunriseconsult.com",
-      "decision_makers": [],
-      "why_target": "Supply chain and manufacturing focused, Microsoft Inner Circle",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768617341191",
       "rank": 1115,
       "priority": "HIGH",
@@ -11278,101 +9721,6 @@
       "website": "archerpoint.com",
       "decision_makers": [],
       "why_target": "Microsoft Inner Circle, BC implementation specialist",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617349868",
-      "rank": 1117,
-      "priority": "HIGH",
-      "company_name": "[NEW] Elire Consulting",
-      "country": "USA",
-      "city": "Minneapolis",
-      "state": "MN",
-      "employees": "",
-      "erp_systems": [
-        "Oracle PeopleSoft",
-        "Oracle Cloud",
-        "EPM"
-      ],
-      "website": "elire.com",
-      "decision_makers": [],
-      "why_target": "PeopleSoft & Oracle Cloud EPM specialist, 475+ clients",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617374955",
-      "rank": 1118,
-      "priority": "HIGHEST",
-      "company_name": "[NEW] Consensus International",
-      "country": "USA",
-      "city": "Miami",
-      "state": "FL",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "consensusintl.com",
-      "decision_makers": [],
-      "why_target": "Top 5 SAP B1 Reseller in USA, 900+ implementations, 33+ years",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617378398",
-      "rank": 1119,
-      "priority": "HIGHEST",
-      "company_name": "[NEW] Decision Resources",
-      "country": "USA",
-      "city": "Pittsburgh",
-      "state": "PA",
-      "employees": "",
-      "erp_systems": [
-        "Infor CloudSuite Industrial",
-        "SyteLine"
-      ],
-      "website": "decision.com",
-      "decision_makers": [],
-      "why_target": "#1 Gold Infor partner, 500+ manufacturing clients, 40+ years",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617381964",
-      "rank": 1120,
-      "priority": "HIGHEST",
-      "company_name": "[NEW] Godlan",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor CloudSuite Industrial",
-        "SyteLine"
-      ],
-      "website": "godlan.com",
-      "decision_makers": [],
-      "why_target": "Largest dedicated CloudSuite Industrial partner, multiple Partner of Year awards",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617385448",
-      "rank": 1121,
-      "priority": "HIGHEST",
-      "company_name": "[NEW] ComTec Solutions",
-      "country": "USA",
-      "city": "Rochester",
-      "state": "NY",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic",
-        "Prophet 21"
-      ],
-      "website": "comtecsolutions.com",
-      "decision_makers": [],
-      "why_target": "Epicor Global Partner of the Year 2023",
       "notable_clients": "",
       "awards": ""
     },
@@ -11413,25 +9761,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768617723141",
-      "rank": 1124,
-      "priority": "HIGHEST",
-      "company_name": "[NEW] Aktion Associates",
-      "country": "USA",
-      "city": "Toledo",
-      "state": "OH",
-      "employees": "",
-      "erp_systems": [
-        "Infor Distribution",
-        "Acumatica"
-      ],
-      "website": "aktion.com",
-      "decision_makers": [],
-      "why_target": "Largest Infor Distribution partner in US, Acumatica President Club",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768617726405",
       "rank": 1125,
       "priority": "HIGHEST",
@@ -11464,24 +9793,6 @@
       "website": "hso.com",
       "decision_makers": [],
       "why_target": "Inner Circle member 19 years, 2023 D365 Finance Partner of Year",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617734682",
-      "rank": 1127,
-      "priority": "HIGHEST",
-      "company_name": "[NEW] Six S Partners",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic"
-      ],
-      "website": "sixspartners.com",
-      "decision_makers": [],
-      "why_target": "Epicor Platinum Elite partner",
       "notable_clients": "",
       "awards": ""
     },
@@ -11525,25 +9836,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768617788153",
-      "rank": 1130,
-      "priority": "HIGH",
-      "company_name": "[NEW] RPI Consultants",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor Lawson",
-        "CloudSuite Financials"
-      ],
-      "website": "rpic.com",
-      "decision_makers": [],
-      "why_target": "25+ years Infor Lawson since 1999, Government & Healthcare focus",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768617792240",
       "rank": 1131,
       "priority": "HIGH",
@@ -11580,43 +9872,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768617798797",
-      "rank": 1133,
-      "priority": "HIGH",
-      "company_name": "[NEW] Third Wave Business Systems",
-      "country": "USA",
-      "city": "Wayne",
-      "state": "NJ",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "twbs.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner since 2006, CPG/Life Sciences/Manufacturing focus",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617802513",
-      "rank": 1134,
-      "priority": "HIGH",
-      "company_name": "[NEW] Navigator Business Solutions",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One",
-        "SAP Business ByDesign"
-      ],
-      "website": "nbs-us.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner, 300+ implementations, 20+ years",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768617807061",
       "rank": 1135,
       "priority": "HIGH",
@@ -11631,61 +9886,6 @@
       "website": "houseblend.io",
       "decision_makers": [],
       "why_target": "Boutique NetSuite firm specializing in rescue missions for troubled implementations",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617810825",
-      "rank": 1136,
-      "priority": "HIGH",
-      "company_name": "[NEW] EpiCenter ERP",
-      "country": "USA",
-      "city": "Westfield",
-      "state": "MA",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic"
-      ],
-      "website": "epicentererp.com",
-      "decision_makers": [],
-      "why_target": "Epicor Platinum partner, manufacturing focus",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617814681",
-      "rank": 1137,
-      "priority": "HIGH",
-      "company_name": "[NEW] Columbus Global",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor M3",
-        "Microsoft Dynamics"
-      ],
-      "website": "columbusglobal.com",
-      "decision_makers": [],
-      "why_target": "Largest independent Infor M3 partner, 350+ clients",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617849910",
-      "rank": 1138,
-      "priority": "HIGH",
-      "company_name": "[NEW] Consultare",
-      "country": "USA",
-      "city": "Miami",
-      "state": "FL",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "consultare.net",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner since 2013, multilingual team",
       "notable_clients": "",
       "awards": ""
     },
@@ -11708,61 +9908,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768617857692",
-      "rank": 1140,
-      "priority": "HIGH",
-      "company_name": "[NEW] Phoenix Business Consulting",
-      "country": "USA",
-      "city": "Sarasota",
-      "state": "FL",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "phoenixteam.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner since 2019, 27+ years experience, global presence",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617860964",
-      "rank": 1141,
-      "priority": "HIGH",
-      "company_name": "[NEW] Central Data",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor Distribution"
-      ],
-      "website": "centraldata.com",
-      "decision_makers": [],
-      "why_target": "50+ years, North American Partner of Year 2020, 200+ implementations",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617865520",
-      "rank": 1142,
-      "priority": "HIGH",
-      "company_name": "[NEW] Copley Consulting Group",
-      "country": "USA",
-      "city": "Boston",
-      "state": "MA",
-      "employees": "",
-      "erp_systems": [
-        "Infor LN",
-        "Infor CloudSuite"
-      ],
-      "website": "copleycg.com",
-      "decision_makers": [],
-      "why_target": "Premier Infor partner since 1987, manufacturing specialist",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768617870155",
       "rank": 1143,
       "priority": "HIGH",
@@ -11778,24 +9923,6 @@
       "website": "trenegy.com",
       "decision_makers": [],
       "why_target": "ERP selection & implementation consulting firm",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617873946",
-      "rank": 1144,
-      "priority": "HIGH",
-      "company_name": "[NEW] Cinntra",
-      "country": "USA",
-      "city": "Houston",
-      "state": "TX",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "cinntra.com",
-      "decision_makers": [],
-      "why_target": "CMMI Level-3 certified SAP B1 partner",
       "notable_clients": "",
       "awards": ""
     },
@@ -11946,25 +10073,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768617938194",
-      "rank": 1153,
-      "priority": "HIGHEST",
-      "company_name": "[NEW] Alithya",
-      "country": "Canada",
-      "city": "Montreal",
-      "state": "QC",
-      "employees": "",
-      "erp_systems": [
-        "Microsoft Dynamics 365",
-        "Oracle"
-      ],
-      "website": "alithya.com",
-      "decision_makers": [],
-      "why_target": "3000+ employees, major Microsoft and Oracle partner",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768617942050",
       "rank": 1154,
       "priority": "HIGH",
@@ -12077,24 +10185,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768617990629",
-      "rank": 1160,
-      "priority": "HIGH",
-      "company_name": "[NEW] Brij",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "JD Edwards"
-      ],
-      "website": "brij.net",
-      "decision_makers": [],
-      "why_target": "JD Edwards Gold Partner, 30+ years experience",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768617993909",
       "rank": 1161,
       "priority": "HIGH",
@@ -12109,80 +10199,6 @@
       "website": "appsassociates.com",
       "decision_makers": [],
       "why_target": "700+ Oracle cloud projects, 20+ years experience",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768617996880",
-      "rank": 1162,
-      "priority": "HIGH",
-      "company_name": "[NEW] SpearMC",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Oracle PeopleSoft"
-      ],
-      "website": "spearmc.com",
-      "decision_makers": [],
-      "why_target": "PeopleSoft Experts, 20+ years - now part of Mythics",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768618000267",
-      "rank": 1163,
-      "priority": "HIGH",
-      "company_name": "[NEW] Birlasoft",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor M3"
-      ],
-      "website": "birlasoft.com",
-      "decision_makers": [],
-      "why_target": "15+ years Infor M3 practice, Center of Excellence since 2005",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768618003527",
-      "rank": 1164,
-      "priority": "HIGH",
-      "company_name": "[NEW] ICCG",
-      "country": "USA",
-      "city": "Warminster",
-      "state": "PA",
-      "employees": "",
-      "erp_systems": [
-        "Infor CloudSuite Food & Beverage",
-        "Infor M3"
-      ],
-      "website": "iccg.com",
-      "decision_makers": [],
-      "why_target": "CloudSuite Food & Beverage, Infor M3, Infor Optiva PLM specialist",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768618006455",
-      "rank": 1165,
-      "priority": "HIGH",
-      "company_name": "[NEW] Progent",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor CloudSuite Industrial",
-        "SyteLine"
-      ],
-      "website": "progent.com",
-      "decision_makers": [],
-      "why_target": "Infor SyteLine platform specialist, 20+ years",
       "notable_clients": "",
       "awards": ""
     },
@@ -12220,25 +10236,6 @@
       "website": "customis.com",
       "decision_makers": [],
       "why_target": "30+ years Microsoft Dynamics experience",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768618193378",
-      "rank": 1168,
-      "priority": "HIGHEST",
-      "company_name": "[NEW] Decision Resources (DRI)",
-      "country": "USA",
-      "city": "Pittsburgh",
-      "state": "PA",
-      "employees": "",
-      "erp_systems": [
-        "Infor CloudSuite Industrial",
-        "SyteLine"
-      ],
-      "website": "decision.com",
-      "decision_makers": [],
-      "why_target": "#1 Gold Infor partner, 500+ manufacturing clients, 40+ years",
       "notable_clients": "",
       "awards": ""
     },
@@ -12394,25 +10391,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768618501377",
-      "rank": 1177,
-      "priority": "HIGH",
-      "company_name": "[NEW] Illumiti",
-      "country": "Canada",
-      "city": "Toronto",
-      "state": "ON",
-      "employees": "",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Business One"
-      ],
-      "website": "illumiti.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner, 500+ implementations in North America",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768618506267",
       "rank": 1178,
       "priority": "HIGH",
@@ -12427,25 +10405,6 @@
       "website": "domain6.com",
       "decision_makers": [],
       "why_target": "D365 specialist for associations and nonprofits",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768618511420",
-      "rank": 1179,
-      "priority": "HIGH",
-      "company_name": "[NEW] Intelligent Technologies",
-      "country": "USA",
-      "city": "Dallas",
-      "state": "TX",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business ByDesign",
-        "SAP Business One"
-      ],
-      "website": "intelli-tech.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner since 2004, mid-market specialist",
       "notable_clients": "",
       "awards": ""
     },
@@ -12488,44 +10447,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768618545494",
-      "rank": 1182,
-      "priority": "HIGHEST",
-      "company_name": "[NEW] Datix",
-      "country": "USA",
-      "city": "Columbus",
-      "state": "OH",
-      "employees": "",
-      "erp_systems": [
-        "Epicor ERP",
-        "Epicor Prophet 21"
-      ],
-      "website": "datixinc.com",
-      "decision_makers": [],
-      "why_target": "Epicor Platinum partner, 25+ years, manufacturing focus",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768618556276",
-      "rank": 1183,
-      "priority": "HIGH",
-      "company_name": "[NEW] Turnkey Technologies",
-      "country": "USA",
-      "city": "Atlanta",
-      "state": "GA",
-      "employees": "",
-      "erp_systems": [
-        "Infor CloudSuite Industrial",
-        "SyteLine"
-      ],
-      "website": "turnkeytec.com",
-      "decision_makers": [],
-      "why_target": "Infor Gold Channel Partner, Southeast focus",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768618562234",
       "rank": 1184,
       "priority": "HIGH",
@@ -12541,24 +10462,6 @@
       "website": "crestwood.com",
       "decision_makers": [],
       "why_target": "Sage Intacct Partner of Year, also Acumatica Gold",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768618582879",
-      "rank": 1185,
-      "priority": "HIGH",
-      "company_name": "[NEW] Silverado Technologies",
-      "country": "USA",
-      "city": "Tucson",
-      "state": "AZ",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "silveradotech.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner, Southwest regional leader",
       "notable_clients": "",
       "awards": ""
     },
@@ -12658,25 +10561,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768618635153",
-      "rank": 1191,
-      "priority": "HIGH",
-      "company_name": "[NEW] WebSan Solutions",
-      "country": "Canada",
-      "city": "Mississauga",
-      "state": "ON",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One",
-        "SAP Business ByDesign"
-      ],
-      "website": "websan.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner, 20+ years, 800+ implementations",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768618640452",
       "rank": 1192,
       "priority": "HIGHEST",
@@ -12751,25 +10635,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768618663978",
-      "rank": 1196,
-      "priority": "HIGH",
-      "company_name": "[NEW] Advantive (Kerridge)",
-      "country": "USA",
-      "city": "Huntersville",
-      "state": "NC",
-      "employees": "",
-      "erp_systems": [
-        "Kerridge K8",
-        "Distribution One"
-      ],
-      "website": "advantive.com",
-      "decision_makers": [],
-      "why_target": "Distribution ERP specialist, 350+ customers",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768618685821",
       "rank": 1197,
       "priority": "HIGH",
@@ -12804,45 +10669,6 @@
       "website": "cabortiont.cabortiont.calbusiness.com",
       "decision_makers": [],
       "why_target": "Acumatica Gold Partner, manufacturing specialist",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768618702316",
-      "rank": 1199,
-      "priority": "HIGH",
-      "company_name": "[NEW] Foresiight Consulting",
-      "country": "USA",
-      "city": "Alpharetta",
-      "state": "GA",
-      "employees": "",
-      "erp_systems": [
-        "Oracle JD Edwards",
-        "Oracle ERP Cloud"
-      ],
-      "website": "foresight.com",
-      "decision_makers": [],
-      "why_target": "JDE specialist since 1991, JDE upgrade expert",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768618708852",
-      "rank": 1200,
-      "priority": "HIGHEST",
-      "company_name": "[NEW] Syntax",
-      "country": "Canada",
-      "city": "Montreal",
-      "state": "QC",
-      "employees": "",
-      "erp_systems": [
-        "SAP",
-        "Oracle JD Edwards",
-        "Infor"
-      ],
-      "website": "syntax.com",
-      "decision_makers": [],
-      "why_target": "Multi-ERP managed services, 800+ customers, $400M revenue",
       "notable_clients": "",
       "awards": ""
     },
@@ -12907,45 +10733,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768618746222",
-      "rank": 1204,
-      "priority": "HIGH",
-      "company_name": "[NEW] Navisite (Accenture)",
-      "country": "USA",
-      "city": "Andover",
-      "state": "MA",
-      "employees": "",
-      "erp_systems": [
-        "SAP",
-        "Oracle",
-        "Microsoft"
-      ],
-      "website": "navisite.com",
-      "decision_makers": [],
-      "why_target": "ERP managed services, now part of Accenture",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768618752158",
-      "rank": 1205,
-      "priority": "HIGH",
-      "company_name": "[NEW] Simplus (Infosys)",
-      "country": "USA",
-      "city": "Salt Lake City",
-      "state": "UT",
-      "employees": "",
-      "erp_systems": [
-        "Salesforce CPQ",
-        "NetSuite"
-      ],
-      "website": "simplus.com",
-      "decision_makers": [],
-      "why_target": "Salesforce Platinum partner with ERP integration",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768618757902",
       "rank": 1206,
       "priority": "HIGH",
@@ -12985,25 +10772,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768618786655",
-      "rank": 1208,
-      "priority": "HIGH",
-      "company_name": "[NEW] CSG Consulting",
-      "country": "USA",
-      "city": "Phoenix",
-      "state": "AZ",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One",
-        "SAP Business ByDesign"
-      ],
-      "website": "consultcsg.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner, process manufacturing focus",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768618797791",
       "rank": 1209,
       "priority": "HIGH",
@@ -13038,44 +10806,6 @@
       "website": "oakwoodsys.com",
       "decision_makers": [],
       "why_target": "GP-to-BC migration specialist, 500+ customers",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768618815996",
-      "rank": 1211,
-      "priority": "HIGH",
-      "company_name": "[NEW] Sage IT",
-      "country": "USA",
-      "city": "Reston",
-      "state": "VA",
-      "employees": "",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP ECC"
-      ],
-      "website": "sageitinc.com",
-      "decision_makers": [],
-      "why_target": "SAP partner, federal government contractor",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768618836305",
-      "rank": 1212,
-      "priority": "HIGH",
-      "company_name": "[NEW] Navigator Management Partners",
-      "country": "USA",
-      "city": "Cincinnati",
-      "state": "OH",
-      "employees": "",
-      "erp_systems": [
-        "Oracle JD Edwards",
-        "Oracle ERP Cloud"
-      ],
-      "website": "navmp.com",
-      "decision_makers": [],
-      "why_target": "JD Edwards specialist, manufacturing and distribution",
       "notable_clients": "",
       "awards": ""
     },
@@ -13132,25 +10862,6 @@
       "website": "stambaughness.com",
       "decision_makers": [],
       "why_target": "Top 100 CPA firm with tech consulting division",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768618862212",
-      "rank": 1216,
-      "priority": "HIGH",
-      "company_name": "[NEW] Lumen Solutions",
-      "country": "USA",
-      "city": "Vienna",
-      "state": "VA",
-      "employees": "",
-      "erp_systems": [
-        "Oracle EBS",
-        "Oracle Cloud"
-      ],
-      "website": "lumensolutions.com",
-      "decision_makers": [],
-      "why_target": "Oracle partner, federal and commercial sectors",
       "notable_clients": "",
       "awards": ""
     },
@@ -13493,44 +11204,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768619077708",
-      "rank": 1235,
-      "priority": "HIGH",
-      "company_name": "[NEW] Aptean Partners Network",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Aptean Ross",
-        "Aptean Food",
-        "Aptean Industrial"
-      ],
-      "website": "aptean.com",
-      "decision_makers": [],
-      "why_target": "Aptean ERP implementation partner network",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768619083971",
-      "rank": 1236,
-      "priority": "HIGH",
-      "company_name": "[NEW] 360 Visibility",
-      "country": "Canada",
-      "city": "Vancouver",
-      "state": "BC",
-      "employees": "",
-      "erp_systems": [
-        "Microsoft Dynamics 365 Business Central"
-      ],
-      "website": "360visibility.com",
-      "decision_makers": [],
-      "why_target": "Microsoft Inner Circle, BC specialist for project-based",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768619093843",
       "rank": 1237,
       "priority": "HIGH",
@@ -13565,24 +11238,6 @@
       "website": "k3btg.com",
       "decision_makers": [],
       "why_target": "D365 for fashion, retail, manufacturing",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768619109870",
-      "rank": 1239,
-      "priority": "HIGH",
-      "company_name": "[NEW] DataLane Inc",
-      "country": "USA",
-      "city": "San Diego",
-      "state": "CA",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "datalane.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner, life sciences and pharma",
       "notable_clients": "",
       "awards": ""
     },
@@ -13732,24 +11387,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768619291183",
-      "rank": 1248,
-      "priority": "HIGH",
-      "company_name": "[NEW] Arista Consulting",
-      "country": "USA",
-      "city": "Canton",
-      "state": "MI",
-      "employees": "",
-      "erp_systems": [
-        "QAD"
-      ],
-      "website": "aristaconsultingus.com",
-      "decision_makers": [],
-      "why_target": "QAD Consulting Partner, medical device/manufacturing",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768619299109",
       "rank": 1249,
       "priority": "HIGH",
@@ -13768,25 +11405,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768619306839",
-      "rank": 1250,
-      "priority": "HIGH",
-      "company_name": "[NEW] Turning Point Consulting",
-      "country": "USA",
-      "city": "Twin Cities",
-      "state": "MN",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic",
-        "Epicor Prophet 21"
-      ],
-      "website": "turningpointconsulting.com",
-      "decision_makers": [],
-      "why_target": "Only firm dual-certified Kinetic+P21, 95% success rate",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768619315601",
       "rank": 1251,
       "priority": "HIGH",
@@ -13801,24 +11419,6 @@
       "website": "solsyst.com",
       "decision_makers": [],
       "why_target": "Milwaukee top Microsoft manufacturing partner, 35+ years",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768619341966",
-      "rank": 1252,
-      "priority": "HIGH",
-      "company_name": "[NEW] MAGI ERP",
-      "country": "USA",
-      "city": "Grand Rapids",
-      "state": "MI",
-      "employees": "",
-      "erp_systems": [
-        "WinMAGI"
-      ],
-      "website": "magierp.com",
-      "decision_makers": [],
-      "why_target": "Manufacturing ERP developer since 1985, aerospace/automotive",
       "notable_clients": "",
       "awards": ""
     },
@@ -13892,24 +11492,6 @@
       "website": "queueassoc.com",
       "decision_makers": [],
       "why_target": "NYC Microsoft D365 partner in landmark Graybar Building",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768619381998",
-      "rank": 1257,
-      "priority": "HIGH",
-      "company_name": "[NEW] Kabeer Consulting",
-      "country": "USA",
-      "city": "New Jersey",
-      "state": "NJ",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "kabeerconsulting.com",
-      "decision_makers": [],
-      "why_target": "Trusted SAP B1 Partner in NJ and NY",
       "notable_clients": "",
       "awards": ""
     },
@@ -14125,43 +11707,6 @@
       "awards": ""
     },
     {
-      "id": "north_america-new-1768619510053",
-      "rank": 1269,
-      "priority": "HIGH",
-      "company_name": "[NEW] BatchMaster Software",
-      "country": "USA",
-      "city": "Laguna Hills",
-      "state": "CA",
-      "employees": "",
-      "erp_systems": [
-        "SAP Business One",
-        "Microsoft Dynamics GP"
-      ],
-      "website": "batchmaster.com",
-      "decision_makers": [],
-      "why_target": "Process manufacturing ERP, pharma/nutraceutical specialist",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768619534936",
-      "rank": 1270,
-      "priority": "HIGH",
-      "company_name": "[NEW] Adroit North America",
-      "country": "USA",
-      "city": "Atlanta",
-      "state": "GA",
-      "employees": "",
-      "erp_systems": [
-        "Aptean Food & Beverage ERP"
-      ],
-      "website": "adroitna.com",
-      "decision_makers": [],
-      "why_target": "Aptean alliance partner, food processing/distribution specialist",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "north_america-new-1768619541954",
       "rank": 1271,
       "priority": "HIGH",
@@ -14213,46 +11758,6 @@
       "website": "nextlevelis.com",
       "decision_makers": [],
       "why_target": "Tampa Bay Acumatica partner, 20+ years mid-market",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768619568094",
-      "rank": 1274,
-      "priority": "HIGHEST",
-      "company_name": "[NEW] Barry-Wehmiller International",
-      "country": "USA",
-      "city": "Atlanta",
-      "state": "GA",
-      "employees": "",
-      "erp_systems": [
-        "Infor CloudSuite Industrial",
-        "Infor XA"
-      ],
-      "website": "bwi-intl.com",
-      "decision_makers": [],
-      "why_target": "Infor Gold Partner 25+ years, 400 implementations, 2500+ users",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "north_america-new-1768619576759",
-      "rank": 1275,
-      "priority": "HIGH",
-      "company_name": "[NEW] Healthcare IT Leaders",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "",
-      "erp_systems": [
-        "Infor CloudSuite",
-        "Infor Lawson",
-        "UKG",
-        "Oracle"
-      ],
-      "website": "healthcareitleaders.com",
-      "decision_makers": [],
-      "why_target": "Infor Alliance Partner, health systems specialist",
       "notable_clients": "",
       "awards": ""
     },
@@ -14365,133 +11870,6 @@
       "awards": ""
     },
     {
-      "id": "na-1282",
-      "rank": 1282,
-      "priority": "HIGH",
-      "company_name": "Cambia Advisors",
-      "country": "USA",
-      "city": "Minneapolis",
-      "state": "MN",
-      "employees": "",
-      "erp_systems": [
-        "Epicor Kinetic"
-      ],
-      "website": "cambiaadvisors.com",
-      "decision_makers": [
-        {
-          "name": "Craig Thompson",
-          "title": "Co-Founder & Managing Director",
-          "linkedin_url": "linkedin.com/in/craigwilliamthompson"
-        },
-        {
-          "name": "Brian Clark",
-          "title": "Managing Director, Optimizations",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Epicor Certified Platinum Partner, 100+ years combined ERP implementation expertise, exclusive Epicor focus",
-      "notable_clients": "",
-      "awards": [
-        "Epicor Certified Platinum Partner"
-      ]
-    },
-    {
-      "id": "na-1283",
-      "rank": 1283,
-      "priority": "HIGH",
-      "company_name": "EstesGroup",
-      "country": "USA",
-      "city": "Loveland",
-      "state": "CO",
-      "employees": "33",
-      "erp_systems": [
-        "Epicor Kinetic",
-        "Epicor Prophet 21"
-      ],
-      "website": "estesgrp.com",
-      "decision_makers": [
-        {
-          "name": "Bruce Grant",
-          "title": "Founder & CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Brad Feakes",
-          "title": "President, Partner",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Michael Bittner",
-          "title": "Principal / Senior Management Advisor",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Only US partner certified for both Epicor ERP, Prophet 21 and Epicor Managed Hosting. Founded 2004, 17+ years experience",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
-      "id": "na-1284",
-      "rank": 1284,
-      "priority": "HIGHEST",
-      "company_name": "Endeavour Solutions",
-      "country": "Canada",
-      "city": "Toronto",
-      "state": "Ontario",
-      "employees": "1,200+ clients",
-      "erp_systems": [
-        "Microsoft Dynamics 365 Business Central",
-        "Dynamics NAV",
-        "Dynamics GP",
-        "Dynamics CRM",
-        "PowerApps"
-      ],
-      "website": "endeavoursolutions.ca",
-      "decision_makers": [
-        {
-          "name": "Terry Sunderland",
-          "title": "Founder, President & CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "David Shimoni",
-          "title": "President",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Steve Ewing",
-          "title": "Director",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Top Microsoft Dynamics partner in Canada, 36 years in business, multi-year Microsoft President's Club (top 5% worldwide), offices in Toronto, Halifax, Vancouver, Montreal, Edmonton, Chicago, San Antonio",
-      "notable_clients": "",
-      "awards": [
-        "Microsoft President's Club - Top 5% worldwide"
-      ]
-    },
-    {
-      "id": "na-1285",
-      "rank": 1285,
-      "priority": "MEDIUM",
-      "company_name": "Evolvous",
-      "country": "Canada",
-      "city": "Calgary",
-      "state": "Alberta",
-      "employees": "101-250",
-      "erp_systems": [
-        "ERP",
-        "CRM",
-        "RPA",
-        "Business Analytics"
-      ],
-      "website": "evolvous.com",
-      "decision_makers": [],
-      "why_target": "Multidisciplinary IT consultant in Canada, serves Toronto, Vancouver, Ottawa, Montreal. Cloud ERP & CRM consulting for over a decade",
-      "notable_clients": "",
-      "awards": ""
-    },
-    {
       "id": "na-1286",
       "rank": 1286,
       "priority": "HIGHEST",
@@ -14588,77 +11966,6 @@
         "Microsoft Dynamics Partner of Year (11x)",
         "Microsoft Inner Circle (11 years)"
       ]
-    },
-    {
-      "id": "na-1288",
-      "rank": 1288,
-      "priority": "HIGH",
-      "company_name": "ClearSky Consulting",
-      "country": "USA",
-      "city": "Atlanta",
-      "state": "GA",
-      "employees": "17",
-      "erp_systems": [
-        "Infor HCM",
-        "Infor CloudSuite",
-        "Infor Lawson"
-      ],
-      "website": "clearskyerp.com",
-      "decision_makers": [
-        {
-          "name": "Rowan Hinton",
-          "title": "Managing Director",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Bryan Waters",
-          "title": "Senior Consultant, Solution Management",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Infor HCM Alliance & CloudSuite Specialized Partner, Lawson expertise globally",
-      "notable_clients": [],
-      "awards": []
-    },
-    {
-      "id": "na-1289",
-      "rank": 1289,
-      "priority": "HIGH",
-      "company_name": "Tridex Systems",
-      "country": "USA",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "employees": "50-100",
-      "erp_systems": [
-        "Infor CloudSuite Distribution",
-        "Infor Distribution SXE"
-      ],
-      "website": "tridexsys.com",
-      "decision_makers": [
-        {
-          "name": "Matt Petty",
-          "title": "President",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Brandon Watson",
-          "title": "Vice President",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Timothy Watson",
-          "title": "Chairman of the Board",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Roger Realsen",
-          "title": "Director, Cloud Technologies",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "25+ years Infor Distribution expertise, CloudSuite Distribution specialist since 1998",
-      "notable_clients": [],
-      "awards": []
     },
     {
       "id": "na-1290",
@@ -14775,78 +12082,6 @@
       ]
     },
     {
-      "id": "na-1293",
-      "rank": 1293,
-      "priority": "HIGHEST",
-      "company_name": "Astra Canyon Group",
-      "country": "USA",
-      "city": "Tucson",
-      "state": "AZ",
-      "employees": "100-200",
-      "erp_systems": [
-        "IFS Cloud",
-        "IFS Applications"
-      ],
-      "website": "astracanyon.com",
-      "decision_makers": [
-        {
-          "name": "Naren Velu",
-          "title": "President & CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Kanchana Narendran",
-          "title": "Vice President",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Blake Snider",
-          "title": "Chief Growth Officer",
-          "linkedin_url": "linkedin.com/in/sniderblake/"
-        },
-        {
-          "name": "Ajay Gupta",
-          "title": "Client Success Officer",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "IFS Platinum Channel & Services Partner, 200+ enterprise clients, 20+ years IFS experience, merger of Astra Inc & Canyon Technologies",
-      "notable_clients": [],
-      "awards": [
-        "IFS Platinum Partner"
-      ]
-    },
-    {
-      "id": "na-1294",
-      "rank": 1294,
-      "priority": "HIGH",
-      "company_name": "Pragmatek",
-      "country": "USA",
-      "city": "Minneapolis",
-      "state": "MN",
-      "employees": "50-100",
-      "erp_systems": [
-        "IFS Applications",
-        "IFS Field Service Management"
-      ],
-      "website": "pragmatek.com",
-      "decision_makers": [
-        {
-          "name": "Steve",
-          "title": "CEO & Owner",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Sean McGinty",
-          "title": "Senior Management & IFS Consultant",
-          "linkedin_url": "linkedin.com/in/spmcginty/"
-        }
-      ],
-      "why_target": "Only firm in North America with both full ERP & Field Service Management capabilities, 50+ IFS consultants, IFS Services Partner since 2018",
-      "notable_clients": [],
-      "awards": []
-    },
-    {
       "id": "na-1295",
       "rank": 1295,
       "priority": "HIGH",
@@ -14909,51 +12144,6 @@
       ]
     },
     {
-      "id": "na-1297",
-      "rank": 1297,
-      "priority": "HIGH",
-      "company_name": "YASH Technologies",
-      "country": "USA",
-      "city": "East Moline",
-      "state": "IL",
-      "employees": "5000-10000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Cloud Migration",
-        "SAP AMS",
-        "SAP SuccessFactors",
-        "QAD Adaptive ERP",
-        "Oracle"
-      ],
-      "website": "yash.com",
-      "decision_makers": [
-        {
-          "name": "Manoj Baheti",
-          "title": "Founder, President & CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Balakrishna Navuluri",
-          "title": "COO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Don Young",
-          "title": "COO - Americas",
-          "linkedin_url": ""
-        },
-        {
-          "name": "John Gretter",
-          "title": "VP, SAP Strategic Alliance",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "SAP Gold Partner. 4,500+ SAP professionals. Full Lifecycle. Manufacturing, Life Sciences, BFSI, Mining, Healthcare, Utilities.",
-      "notable_clients": [],
-      "awards": [],
-      "checked": false
-    },
-    {
       "id": "na-1298",
       "rank": 1298,
       "priority": "HIGH",
@@ -14995,177 +12185,6 @@
       "notable_clients": [],
       "awards": [
         "Unit4 Elite Partner"
-      ]
-    },
-    {
-      "id": "na-1300",
-      "rank": 1300,
-      "priority": "HIGH",
-      "company_name": "Global Shop Solutions",
-      "country": "USA",
-      "city": "The Woodlands",
-      "state": "TX",
-      "employees": "320+",
-      "erp_systems": [
-        "Global Shop Solutions ERP",
-        "Manufacturing ERP/MRP"
-      ],
-      "website": "globalshopsolutions.com",
-      "decision_makers": [
-        {
-          "name": "Dusty Alexander",
-          "title": "President & CEO",
-          "linkedin_url": "linkedin.com/in/dustyalexander/"
-        },
-        {
-          "name": "Mike Melzer",
-          "title": "VP Operations & Service",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Trent Maynard",
-          "title": "Director of Product & Engineering",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Family-owned manufacturing ERP company, 35+ years under current CEO, no debt/no outside investment, serves 25+ industries in 30 countries",
-      "notable_clients": [],
-      "awards": []
-    },
-    {
-      "id": "na-1301",
-      "rank": 1301,
-      "priority": "HIGHEST",
-      "company_name": "BT Partners",
-      "country": "USA",
-      "city": "Chicago",
-      "state": "IL",
-      "employees": "50-100",
-      "erp_systems": [
-        "SYSPRO ERP"
-      ],
-      "website": "btpartners.com",
-      "decision_makers": [
-        {
-          "name": "Todd Perlman",
-          "title": "President",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Jacob Specht",
-          "title": "Vice President",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Top Global SYSPRO Sales Partner 2023, 30+ years serving SMB manufacturing/distribution, Bob Scott Top 100 VAR",
-      "notable_clients": [],
-      "awards": [
-        "SYSPRO Top Global Sales Partner 2023",
-        "Bob Scott Top 100 VARs"
-      ]
-    },
-    {
-      "id": "na-1302",
-      "rank": 1302,
-      "priority": "HIGH",
-      "company_name": "Lonehill Systems",
-      "country": "USA",
-      "city": "Orlando",
-      "state": "FL",
-      "employees": "50-100",
-      "erp_systems": [
-        "SYSPRO ERP"
-      ],
-      "website": "lonehill.com",
-      "decision_makers": [
-        {
-          "name": "John Edgar",
-          "title": "President, Owner & CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Kim Nel",
-          "title": "President",
-          "linkedin_url": "linkedin.com/in/lonehillsystemskimnel/"
-        },
-        {
-          "name": "Joe Loughman",
-          "title": "VP of Support",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "SYSPRO Premium Partner since 1978, 320+ customers, largest single SYSPRO site in USA, mixed-mode manufacturing specialist",
-      "notable_clients": [],
-      "awards": []
-    },
-    {
-      "id": "na-1303",
-      "rank": 1303,
-      "priority": "HIGHEST",
-      "company_name": "Cumulus Consulting",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "50-100",
-      "erp_systems": [
-        "Plex Smart Manufacturing Platform",
-        "Plex ERP"
-      ],
-      "website": "cumulus-erp.com",
-      "decision_makers": [
-        {
-          "name": "David Chidsey",
-          "title": "President & Managing Partner",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Jason Delozier",
-          "title": "Managing Partner",
-          "linkedin_url": "linkedin.com/in/jasondelozier/"
-        },
-        {
-          "name": "Matt Parowski",
-          "title": "Director of Professional Services",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "2024 Plex Partner of the Year, only partner accredited for all Plex services, 100+ implementations, 10+ years Plex experience",
-      "notable_clients": [],
-      "awards": [
-        "Plex Partner of the Year 2024"
-      ]
-    },
-    {
-      "id": "na-1304",
-      "rank": 1304,
-      "priority": "HIGH",
-      "company_name": "Revolution Group",
-      "country": "USA",
-      "city": "Columbus/Westerville",
-      "state": "OH",
-      "employees": "100",
-      "erp_systems": [
-        "Plex Smart Manufacturing Platform"
-      ],
-      "website": "revolutiongroup.com",
-      "decision_makers": [
-        {
-          "name": "Rick Snide",
-          "title": "Co-Founder & CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Pat Welsh",
-          "title": "Managing Director, Manufacturing ERP Services",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Plex Partner of the Year, Fortune 5000 company, Columbus Best Places to Work, F&B and transportation specialists",
-      "notable_clients": [],
-      "awards": [
-        "Plex Partner of the Year",
-        "Fortune 5000",
-        "Columbus Fast 50"
       ]
     },
     {
@@ -15238,112 +12257,6 @@
       ]
     },
     {
-      "id": "na-1307",
-      "rank": 1307,
-      "priority": "HIGH",
-      "company_name": "Arisoft Global",
-      "country": "Canada",
-      "city": "Richmond Hill",
-      "state": "ON",
-      "employees": "50-100",
-      "erp_systems": [
-        "DELMIAworks",
-        "IQMS"
-      ],
-      "website": "arisoftglobal.com",
-      "decision_makers": [
-        {
-          "name": "Imtiaz Lodhi",
-          "title": "CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Rajesh Kochar",
-          "title": "Director",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "DELMIAWorks Partner of the Year 2023, 70+ global clients, 100+ combined years ERP expertise, manufacturing ERP specialist",
-      "notable_clients": [],
-      "awards": [
-        "DELMIAWorks Partner of the Year 2023"
-      ]
-    },
-    {
-      "id": "na-1308",
-      "rank": 1308,
-      "priority": "MEDIUM",
-      "company_name": "mVerve",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "20-50",
-      "erp_systems": [
-        "Plex ERP",
-        "Plex API Integrations"
-      ],
-      "website": "mverve.com",
-      "decision_makers": [],
-      "why_target": "Plex Services Partner, API integrations specialist, rapid prototyping (2 weeks), solutions in 6 weeks",
-      "notable_clients": [],
-      "awards": []
-    },
-    {
-      "id": "na-1309",
-      "rank": 1309,
-      "priority": "HIGH",
-      "company_name": "BAASS Business Solutions",
-      "country": "Canada",
-      "city": "Thornhill",
-      "state": "ON",
-      "employees": "51-200",
-      "erp_systems": [
-        "Sage 300",
-        "Sage X3",
-        "Sage Intacct",
-        "NetSuite"
-      ],
-      "website": "baass.com",
-      "decision_makers": [
-        {
-          "name": "Joe Arnone",
-          "title": "President & Co-Founder",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Sam Cangialosi",
-          "title": "Operations Manager Canada",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Founded 1988, Sage Partner of the Year, Bob Scott Top 100 VARs, CRN Solution Provider 500 (#450), comprehensive ERP across Canada",
-      "notable_clients": [],
-      "awards": [
-        "Sage Partner of the Year",
-        "Bob Scott Top 100 VARs",
-        "CRN Solution Provider 500"
-      ]
-    },
-    {
-      "id": "na-1310",
-      "rank": 1310,
-      "priority": "MEDIUM",
-      "company_name": "Tamir Consulting",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "10-20",
-      "erp_systems": [
-        "DELMIAworks",
-        "IQMS"
-      ],
-      "website": "tamirconsulting.com",
-      "decision_makers": [],
-      "why_target": "DELMIAworks/IQMS specialist, ISO 9001/13485 compliance expertise, Quality Modules specialist",
-      "notable_clients": [],
-      "awards": []
-    },
-    {
       "id": "na-1311",
       "rank": 1311,
       "priority": "HIGHEST",
@@ -15369,89 +12282,6 @@
       "why_target": "Deltek GovCon Partner of Year 2022, Americas Partner of Year 2023 - 5x award winner. 900+ Costpoint implementations for government contractors",
       "notable_clients": "Government contractors, marketing agencies, professional services firms",
       "awards": "Deltek GovCon Partner of Year 2022, Deltek Americas Partner of Year 2023, Jersey's Best Top Workplaces 2025 #15"
-    },
-    {
-      "id": "na-1312",
-      "rank": 1312,
-      "priority": "HIGHEST",
-      "company_name": "Nordic Consulting Partners",
-      "country": "USA",
-      "city": "Madison",
-      "state": "WI",
-      "employees": "3300+",
-      "erp_systems": [
-        "Infor CloudSuite",
-        "Infor Lawson",
-        "Oracle",
-        "Epic",
-        "Healthcare ERP"
-      ],
-      "website": "nordicglobal.com",
-      "decision_makers": [
-        {
-          "name": "Stu McLean",
-          "title": "CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Paul Slaughter",
-          "title": "COO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Steve Eckert",
-          "title": "Chief Growth Officer",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Kevin Erdal",
-          "title": "Managing Director, Global Practice Leader Digital Health",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Shannon Yasseri",
-          "title": "Managing Director",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Dr. Craig Joseph",
-          "title": "Chief Medical Officer",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "3,300+ consultants, serves 700+ healthcare organizations. Major healthcare ERP specialist with advisory, implementation, ERP services",
-      "notable_clients": "700+ healthcare organizations across USA",
-      "awards": "KLAS Top Performer"
-    },
-    {
-      "id": "na-1313",
-      "rank": 1313,
-      "priority": "HIGH",
-      "company_name": "Cre8tive Technology & Design (CTND)",
-      "country": "USA",
-      "city": "San Diego",
-      "state": "CA",
-      "employees": "60-114",
-      "erp_systems": [
-        "Epicor Kinetic",
-        "Epicor ERP"
-      ],
-      "website": "ctnd.com",
-      "decision_makers": [
-        {
-          "name": "Aaron Continelli",
-          "title": "Founder, President & CEO",
-          "linkedin_url": "https://www.linkedin.com/in/aaron-continelli-ba5049a/"
-        },
-        {
-          "name": "Barry Mester",
-          "title": "CIO",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Epicor Platinum Partner 2013-2022, Americas Partner of Year 2013. Specializes in A&D, manufacturing, machine shops, engineer-to-order",
-      "notable_clients": "A&D manufacturers, machine shops, general manufacturers",
-      "awards": "Epicor Platinum Partner (10 consecutive years), Americas Partner of Year 2013, Gold & Silver Channel Partner Awards"
     },
     {
       "id": "na-1314",
@@ -15529,89 +12359,6 @@
       "why_target": "Malcolm Baldrige National Quality Award 2018. NetSuite Alliance Partner. 500+ clients, 5000+ projects, 100K+ hours in ERP implementations since 2012",
       "notable_clients": "Food & beverage, life sciences, healthcare, consumer products",
       "awards": "Malcolm Baldrige National Quality Award 2018, Forbes 25 Best Small Companies, Great Place to Work"
-    },
-    {
-      "id": "na-1316",
-      "rank": 1316,
-      "priority": "HIGH",
-      "company_name": "C&A Technology (CAT)",
-      "country": "USA",
-      "city": "Indianapolis",
-      "state": "IN",
-      "employees": "32",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "JD Edwards",
-        "Acumatica"
-      ],
-      "website": "catechnology.com",
-      "decision_makers": [
-        {
-          "name": "Craig Hill",
-          "title": "Co-Founder, EVP Industry Strategy & Service Delivery",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Aubrey Evens",
-          "title": "Co-Founder, EVP Sales & Marketing",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Jeff Copper",
-          "title": "Partner, CTO, EVP JD Edwards & Managed Services Practice Leader",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Don Mackenzie",
-          "title": "Partner, EVP SAP Practice Leadership",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "SAP Partner (founded 2011). JDE-to-SAP Safe Passage migration. Energy, Oil & Gas, Food & Beverage, Automotive.",
-      "notable_clients": "Industrial Manufacturing, Consumer Products, Automotive Tier 1/2 suppliers",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "na-1317",
-      "rank": 1317,
-      "priority": "HIGHEST",
-      "company_name": "Terillium",
-      "country": "USA",
-      "city": "Cincinnati",
-      "state": "OH",
-      "employees": "222-250",
-      "erp_systems": [
-        "Oracle JD Edwards",
-        "Oracle Fusion Cloud",
-        "Oracle NetSuite"
-      ],
-      "website": "terillium.com",
-      "decision_makers": [
-        {
-          "name": "Warren Bach",
-          "title": "CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Dave Woodworth",
-          "title": "President",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Steve May",
-          "title": "VP, NetSuite Practice",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Chris Garrity",
-          "title": "VP",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Largest JD Edwards consultancy in USA. 30+ years experience, 700+ clients, 250 consultants. 15 Oracle Excellence Awards",
-      "notable_clients": "700+ businesses across industries",
-      "awards": "15 Oracle Excellence Awards, 19 Oracle Partner Awards"
     },
     {
       "id": "na-1318",
@@ -15733,57 +12480,6 @@
       "awards": "Microsoft Inner Circle (top 1% global experts)"
     },
     {
-      "id": "na-1321",
-      "rank": 1321,
-      "priority": "HIGHEST",
-      "company_name": "Decision Resources Inc (DRI)",
-      "country": "USA",
-      "city": "Pittsburgh",
-      "state": "PA",
-      "employees": "100+",
-      "erp_systems": [
-        "Infor CloudSuite Industrial",
-        "Infor SyteLine"
-      ],
-      "website": "decision.com",
-      "decision_makers": [
-        {
-          "name": "Bill Titus",
-          "title": "Founder & CEO",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Largest Infor CloudSuite Industrial partner in USA. Founded 1978, 40+ years experience. Infor Partner of Year 2024. Recently acquired AIT Business Services",
-      "notable_clients": "Discrete and process manufacturers",
-      "awards": "Infor CloudSuite Industrial Partner of Year 2024, 100s of awards over 40 years"
-    },
-    {
-      "id": "na-1322",
-      "rank": 1322,
-      "priority": "HIGH",
-      "company_name": "Visual South",
-      "country": "USA",
-      "city": "Atlanta",
-      "state": "GA",
-      "employees": "20-50",
-      "erp_systems": [
-        "Infor CloudSuite Industrial",
-        "Infor SyteLine",
-        "Infor Service Management"
-      ],
-      "website": "visualsouth.com",
-      "decision_makers": [
-        {
-          "name": "Jack Shannon",
-          "title": "CEO & President",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Infor Gold Channel Partner since 1994. 300+ implementations. Manufacturing and service industry specialist since 1993",
-      "notable_clients": "Manufacturing, distribution, service companies",
-      "awards": "Infor Gold Channel Partner"
-    },
-    {
       "id": "na-1323",
       "rank": 1323,
       "priority": "MEDIUM",
@@ -15827,41 +12523,6 @@
       "awards": "Sage Intacct President's Club 2019, Abila Presidents Circle, City & State Nonprofit Trailblazer (CEO)"
     },
     {
-      "id": "na-1325",
-      "rank": 1325,
-      "priority": "HIGH",
-      "company_name": "Guide Technologies",
-      "country": "USA",
-      "city": "Cincinnati",
-      "state": "OH",
-      "employees": "50-100",
-      "erp_systems": [
-        "Infor CloudSuite Industrial",
-        "Infor SyteLine"
-      ],
-      "website": "guidetechnologies.com",
-      "decision_makers": [
-        {
-          "name": "Todd Moritz",
-          "title": "Managing Partner & CFO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Shane Barger",
-          "title": "Vice President of Consulting",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Rick Altenau",
-          "title": "Vice President of Business Development",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Infor Gold Channel Partner since 2011. Founded by Fred Cramer and Doug Bulla. Manufacturing specialist with global implementation experience in 20 countries",
-      "notable_clients": "Discrete manufacturers, including largest independent transformer manufacturer in USA",
-      "awards": "Infor Gold Channel Partner"
-    },
-    {
       "id": "na-1326",
       "rank": 1326,
       "priority": "HIGH",
@@ -15891,35 +12552,6 @@
       "awards": "Dallas-Fort Worth Top Workplaces 2023, 5-Star NetSuite Partner"
     },
     {
-      "id": "na-1327",
-      "rank": 1327,
-      "priority": "HIGH",
-      "company_name": "VAI (Vormittag Associates Inc)",
-      "country": "USA",
-      "city": "Ronkonkoma",
-      "state": "NY",
-      "employees": "200+",
-      "erp_systems": [
-        "VAI S2K ERP"
-      ],
-      "website": "vai.net",
-      "decision_makers": [
-        {
-          "name": "Robert Vormittag",
-          "title": "Founder, President & CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Joe Scioscia",
-          "title": "Executive Vice President",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Independent mid-market ERP developer since 1978. Proprietary S2K platform with 300+ enhancements. 1,500+ companies using software. 100% US-based support",
-      "notable_clients": "Distribution, manufacturing, retail, food, pharmaceutical industries",
-      "awards": "Northwell Health recognition for Long Island technology contributions"
-    },
-    {
       "id": "na-1328",
       "rank": 1328,
       "priority": "HIGH",
@@ -15944,104 +12576,6 @@
       "why_target": "Authorized Sage Partner since 2001. Part of Reinsel Kuntz Lesher LLP accounting firm. Recently acquired Rebdev (Pittsburgh Sage X3 partner)",
       "notable_clients": "Mid-market companies across industries",
       "awards": "Award-winning national leader in Sage ERP consulting"
-    },
-    {
-      "id": "na-1329",
-      "rank": 1329,
-      "priority": "HIGH",
-      "company_name": "Big Bang 360 (Big Bang ERP)",
-      "country": "Canada",
-      "city": "Montreal",
-      "state": "QC",
-      "employees": "80+",
-      "erp_systems": [
-        "NetSuite",
-        "Sage Intacct",
-        "Microsoft Dynamics 365",
-        "Rootstock",
-        "Certinia",
-        "Odoo"
-      ],
-      "website": "bigbang360.com",
-      "decision_makers": [
-        {
-          "name": "Gabriel Tupula Yamba",
-          "title": "CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Mark Rhyman",
-          "title": "Co-CEO & Chief Business Development Officer",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "B Corp Certified consulting firm. Founded 2014, rapid growth. Offices in Montreal, Paris, Toronto, USA, London, Mauritius. Multi-platform expertise",
-      "notable_clients": "Enterprises of all sizes globally",
-      "awards": "NetSuite 4-Star Award (3 consecutive years)"
-    },
-    {
-      "id": "na-1330",
-      "rank": 1330,
-      "priority": "HIGH",
-      "company_name": "Conveyance Solutions",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "25",
-      "erp_systems": [
-        "Epicor Prophet 21"
-      ],
-      "website": "conveyance365.com",
-      "decision_makers": [
-        {
-          "name": "Andrew Taylor",
-          "title": "Founder",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Allie Taylor",
-          "title": "Founder",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Largest independent Prophet 21 firm. Epicor Platinum Elite Partner 2025. Founded 2018. Clients from $20M to $1B+ revenue",
-      "notable_clients": "Industrial distributors, Private Equity portfolio companies",
-      "awards": "Epicor Platinum Elite Partner (Distribution)"
-    },
-    {
-      "id": "na-1331",
-      "rank": 1331,
-      "priority": "HIGH",
-      "company_name": "EstesGroup",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "50-100",
-      "erp_systems": [
-        "Epicor Kinetic",
-        "Epicor Prophet 21"
-      ],
-      "website": "estesgrp.com",
-      "decision_makers": [
-        {
-          "name": "Bruce Grant",
-          "title": "Founder & CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Brad Feakes",
-          "title": "President",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Ben Nixon",
-          "title": "VP, Enterprise Technology",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "20+ years Epicor consulting. Founded 2004. US-based senior consultants only. Also provides managed IT and cloud hosting",
-      "notable_clients": "Manufacturers and distributors",
-      "awards": ""
     },
     {
       "id": "na-1332",
@@ -16151,32 +12685,6 @@
       "awards": "Inc. 5000, Sacramento Business Journal Fastest Growing"
     },
     {
-      "id": "na-1335",
-      "rank": 1335,
-      "priority": "HIGH",
-      "company_name": "Corning Data",
-      "country": "USA",
-      "city": "USA",
-      "state": "National",
-      "employees": "70",
-      "erp_systems": [
-        "IFS",
-        "Oracle JD Edwards",
-        "NetSuite"
-      ],
-      "website": "corningdata.com",
-      "decision_makers": [
-        {
-          "name": "Erik Peterson",
-          "title": "CEO",
-          "linkedin_url": "https://www.linkedin.com/in/erikrosspeterson/"
-        }
-      ],
-      "why_target": "40+ years experience (founded 1980). Oracle JDE Gold Partner, IFS Channel Partner. Consultants avg 18+ years experience. Food & beverage, aerospace, automotive, healthcare",
-      "notable_clients": "Aerospace, automotive, healthcare, food & beverage manufacturers",
-      "awards": "Oracle JD Edwards Gold Partner, IFS Channel Partner"
-    },
-    {
       "id": "na-1336",
       "rank": 1336,
       "priority": "MEDIUM",
@@ -16207,46 +12715,6 @@
       "why_target": "Intuit's #1 QuickBooks Reseller Partner. Founded 2009. Woman-owned business. CEO named Top Austin-area CEO. Also Acumatica and NetSuite implementations",
       "notable_clients": "SMBs transitioning from QuickBooks to ERP",
       "awards": "Intuit #1 QuickBooks Reseller, Austin Business Journal Top CEO, Top QuickBooks ProAdvisor (6 years)"
-    },
-    {
-      "id": "na-1337",
-      "rank": 1337,
-      "priority": "HIGH",
-      "company_name": "CrossVue",
-      "country": "USA",
-      "city": "McLean",
-      "state": "VA",
-      "employees": "100-200",
-      "erp_systems": [
-        "Workday HCM",
-        "Workday Financials"
-      ],
-      "website": "crossvue.com",
-      "decision_makers": [
-        {
-          "name": "Bart Thielbar",
-          "title": "CEO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Julie Ramzel",
-          "title": "CFO",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Angela Ward",
-          "title": "Chief Consulting Officer",
-          "linkedin_url": ""
-        },
-        {
-          "name": "Britton Bradley",
-          "title": "Chief Delivery Officer",
-          "linkedin_url": ""
-        }
-      ],
-      "why_target": "Workday Services Partner. Spun off from CrossCountry Consulting in 2022. GSA contract holder for federal agencies. Focus on regulated industries",
-      "notable_clients": "Federal agencies, regulated industries",
-      "awards": "GSA Multiple Award Schedule Contract"
     },
     {
       "id": "na-1338",
@@ -16546,25 +13014,6 @@
       "awards": "NetSuite Partner of Year 2023 (Breakthrough Solution Provider), Microvertical Solution Provider of Year 2025"
     },
     {
-      "id": "na-1349",
-      "rank": 1349,
-      "priority": "HIGH",
-      "company_name": "LIDD Supply Chain Consultants",
-      "country": "Canada",
-      "city": "Montreal",
-      "state": "QC",
-      "employees": "155",
-      "erp_systems": [
-        "NetSuite",
-        "Microsoft Dynamics"
-      ],
-      "website": "lidd.com",
-      "decision_makers": [],
-      "why_target": "Global supply chain consulting. Founded 2009. $15M revenue. Offices in Montreal, LA, Seoul, Toronto. NetSuite Alliance Partner Winter 2025 Spotlight Award",
-      "notable_clients": "Consumer products, food & beverage, retail, e-commerce",
-      "awards": "NetSuite Alliance Partner Spotlight Award Winter 2025"
-    },
-    {
       "id": "na-1350",
       "rank": 1350,
       "priority": "MEDIUM",
@@ -16618,49 +13067,6 @@
       "why_target": "45 years experience. 1,600+ nonprofit clients. DC-area nonprofit specialist. Sage Intacct reseller for nonprofits. First woman Managing Partner",
       "notable_clients": "1,600+ nonprofit organizations including NGOs",
       "awards": "EXCEL Award sponsor since 2006"
-    },
-    {
-      "id": "north_america-new-1771111477329",
-      "rank": 1352,
-      "priority": "HIGHEST",
-      "company_name": "Accenture",
-      "country": "USA",
-      "city": "New York",
-      "state": "NY",
-      "employees": "~801,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP BTP",
-        "SAP SuccessFactors",
-        "SAP Ariba"
-      ],
-      "website": "accenture.com",
-      "decision_makers": [],
-      "why_target": "SAP Platinum Partner (40+ years). RISE with SAP, Managed Services. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111484911",
-      "rank": 1353,
-      "priority": "HIGHEST",
-      "company_name": "IBM Consulting",
-      "country": "USA",
-      "city": "Armonk",
-      "state": "NY",
-      "employees": "~280,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Hybrid Cloud",
-        "SAP Managed Services"
-      ],
-      "website": "ibm.com/consulting",
-      "decision_makers": [],
-      "why_target": "SAP Global Strategic Partner. Watson AI Integration, Hybrid Cloud SAP. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
     },
     {
       "id": "north_america-new-1771111492411",
@@ -16720,263 +13126,6 @@
       "website": "kpmg.com",
       "decision_makers": [],
       "why_target": "SAP Global Strategic Partner. S/4HANA Powered Enterprise, Cloud Transformation. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111506483",
-      "rank": 1357,
-      "priority": "HIGHEST",
-      "company_name": "TCS",
-      "country": "USA",
-      "city": "New York",
-      "state": "NY",
-      "employees": "~600,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP BTP",
-        "SAP Analytics",
-        "SAP Managed Services"
-      ],
-      "website": "tcs.com",
-      "decision_makers": [],
-      "why_target": "SAP Global Strategic Partner. RISE with SAP, Digital Supply Chain. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111510503",
-      "rank": 1358,
-      "priority": "HIGHEST",
-      "company_name": "Infosys",
-      "country": "USA",
-      "city": "Indianapolis",
-      "state": "IN",
-      "employees": "~335,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Cloud Migration",
-        "SAP Digital Supply Chain"
-      ],
-      "website": "infosys.com",
-      "decision_makers": [],
-      "why_target": "SAP Global Strategic Partner. Cloud Migration, Digital Supply Chain, Managed Services. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111514445",
-      "rank": 1359,
-      "priority": "HIGHEST",
-      "company_name": "Wipro",
-      "country": "USA",
-      "city": "East Brunswick",
-      "state": "NJ",
-      "employees": "~235,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP BTP",
-        "SAP Process Automation",
-        "SAP Analytics"
-      ],
-      "website": "wipro.com",
-      "decision_makers": [],
-      "why_target": "SAP Global Strategic Partner. RISE with SAP, Process Automation, Analytics. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111522012",
-      "rank": 1360,
-      "priority": "HIGHEST",
-      "company_name": "NTT DATA",
-      "country": "USA",
-      "city": "Plano",
-      "state": "TX",
-      "employees": "~190,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Cloud Migration",
-        "SAP GROW with SAP"
-      ],
-      "website": "nttdata.com",
-      "decision_makers": [],
-      "why_target": "SAP Global Strategic Partner. GROW with SAP, Industry Solutions. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111525536",
-      "rank": 1361,
-      "priority": "HIGHEST",
-      "company_name": "DXC Technology",
-      "country": "USA",
-      "city": "Ashburn",
-      "state": "VA",
-      "employees": "~130,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Hosting",
-        "SAP Legacy Integration"
-      ],
-      "website": "dxc.com",
-      "decision_makers": [],
-      "why_target": "SAP Global Strategic Partner. Government/Defense focus, SAP Hosting. Government, Defense, Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111529541",
-      "rank": 1362,
-      "priority": "HIGHEST",
-      "company_name": "Tech Mahindra",
-      "country": "USA",
-      "city": "Edison",
-      "state": "NJ",
-      "employees": "~145,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP BTP",
-        "SAP Digital Supply Chain"
-      ],
-      "website": "techmahindra.com",
-      "decision_makers": [],
-      "why_target": "SAP Global Strategic Partner. BTP, Digital Supply Chain, Managed Services. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111537792",
-      "rank": 1363,
-      "priority": "HIGHEST",
-      "company_name": "LTIMindtree",
-      "country": "USA",
-      "city": "Edison",
-      "state": "NJ",
-      "employees": "~84,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP BTP",
-        "SAP Analytics",
-        "SAP Managed Services"
-      ],
-      "website": "ltimindtree.com",
-      "decision_makers": [],
-      "why_target": "SAP Global Strategic Partner. BTP, Analytics, Managed Services. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111541712",
-      "rank": 1364,
-      "priority": "HIGHEST",
-      "company_name": "Atos",
-      "country": "USA",
-      "city": "Irving",
-      "state": "TX",
-      "employees": "~95,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Cloud Migration",
-        "SAP Managed Services"
-      ],
-      "website": "atos.net",
-      "decision_makers": [],
-      "why_target": "SAP Global Strategic Partner. Digital Workplace, Cloud Migration, Managed Services. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111545281",
-      "rank": 1365,
-      "priority": "HIGHEST",
-      "company_name": "CGI Group",
-      "country": "USA",
-      "city": "Fairfax",
-      "state": "VA",
-      "employees": "~94,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP AMS",
-        "SAP HANA Operations",
-        "SAP Hosting"
-      ],
-      "website": "cgi.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner (30+ year partnership). 25+ solution areas. Financial Services, Utilities, Government.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111548846",
-      "rank": 1366,
-      "priority": "HIGHEST",
-      "company_name": "Fujitsu",
-      "country": "USA",
-      "city": "Richardson",
-      "state": "TX",
-      "employees": "~124,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP HANA"
-      ],
-      "website": "fujitsu.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner (40-year partnership). 3,500+ SAP specialists, 330K+ licenses managed. Manufacturing, Financial Services, Public Sector.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111553160",
-      "rank": 1367,
-      "priority": "HIGHEST",
-      "company_name": "EPAM Systems",
-      "country": "USA",
-      "city": "Newtown",
-      "state": "PA",
-      "employees": "~55,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Cloud Migration",
-        "SAP BTP"
-      ],
-      "website": "epam.com",
-      "decision_makers": [],
-      "why_target": "SAP Platinum Partner. S/4HANA Transformation, BTP Development. Financial Services, Healthcare, Life Sciences, Retail.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111560554",
-      "rank": 1368,
-      "priority": "HIGH",
-      "company_name": "Syntax",
-      "country": "USA",
-      "city": "Montreal",
-      "state": "QC",
-      "employees": "~2,800",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP SuccessFactors",
-        "SAP Ariba",
-        "SAP BTP",
-        "SAP Managed Services"
-      ],
-      "website": "syntax.com",
-      "decision_makers": [],
-      "why_target": "SAP Platinum Partner. 150+ S/4HANA implementations, ~$419M revenue. Manufacturing, Construction, Life Sciences.",
       "notable_clients": "",
       "awards": "",
       "checked": false
@@ -17534,236 +13683,6 @@
       "checked": false
     },
     {
-      "id": "north_america-new-1771111690242",
-      "rank": 1395,
-      "priority": "HIGH",
-      "company_name": "Hexaware Technologies",
-      "country": "USA",
-      "city": "New York",
-      "state": "NY",
-      "employees": "~25,000+",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP SuccessFactors",
-        "SAP Ariba",
-        "SAP Analytics Cloud",
-        "SAP RISE"
-      ],
-      "website": "hexaware.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner. 350+ SAP consultants. RISE with SAP. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111698905",
-      "rank": 1396,
-      "priority": "HIGH",
-      "company_name": "Coforge",
-      "country": "USA",
-      "city": "Edison",
-      "state": "NJ",
-      "employees": "~30,000+",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Managed Services"
-      ],
-      "website": "coforge.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner. S/4HANA Transformation, Managed Services. Insurance, Travel, Banking, Life Sciences.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111702445",
-      "rank": 1397,
-      "priority": "HIGH",
-      "company_name": "Mphasis",
-      "country": "USA",
-      "city": "New York",
-      "state": "NY",
-      "employees": "~35,000+",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP M&A/Carve-outs"
-      ],
-      "website": "mphasis.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner (SNP Group partnership). mSwift accelerator for S/4HANA Carve-outs/M&A. Banking, Insurance, Healthcare.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111705723",
-      "rank": 1398,
-      "priority": "HIGH",
-      "company_name": "Zensar Technologies",
-      "country": "USA",
-      "city": "San Jose",
-      "state": "CA",
-      "employees": "~10,000+",
-      "erp_systems": [
-        "SAP Business Transformation-as-a-Service"
-      ],
-      "website": "zensar.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner. Business Transformation-as-a-Service. Pharma, Manufacturing, Retail.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111710099",
-      "rank": 1399,
-      "priority": "HIGH",
-      "company_name": "Sonata Software",
-      "country": "USA",
-      "city": "Redmond",
-      "state": "WA",
-      "employees": "~5,000",
-      "erp_systems": [
-        "SAP Commerce Cloud",
-        "SAP S/4HANA",
-        "SAP BTP"
-      ],
-      "website": "sonata-software.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner; SAP Pinnacle Award winner. Retail, Travel, Consumer Goods.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111713610",
-      "rank": 1400,
-      "priority": "HIGH",
-      "company_name": "Kellton",
-      "country": "USA",
-      "city": "Edison",
-      "state": "NJ",
-      "employees": "~2,000+",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP AMS",
-        "SAP Security/GRC"
-      ],
-      "website": "kellton.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner. AMS, Security & GRC, Automation. Manufacturing, Retail, Healthcare, Energy.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111723151",
-      "rank": 1401,
-      "priority": "HIGH",
-      "company_name": "MOURI Tech",
-      "country": "USA",
-      "city": "Irving",
-      "state": "TX",
-      "employees": "~3,000+",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP CX",
-        "SAP SuccessFactors",
-        "SAP BTP",
-        "SAP Analytics Cloud"
-      ],
-      "website": "mouritech.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner (CMMI-DEV/5). Automotive, Retail, Life Sciences.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111727187",
-      "rank": 1402,
-      "priority": "HIGH",
-      "company_name": "ITC Infotech",
-      "country": "USA",
-      "city": "Edison",
-      "state": "NJ",
-      "employees": "~10,000+",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP OPTICHEM"
-      ],
-      "website": "itcinfotech.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner (20+ years, 100+ implementations). OPTICHEM for manufacturing. Manufacturing, FMCG, Life Sciences.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111731149",
-      "rank": 1403,
-      "priority": "HIGH",
-      "company_name": "Mastech Digital",
-      "country": "USA",
-      "city": "Pittsburgh",
-      "state": "PA",
-      "employees": "~4,000+",
-      "erp_systems": [
-        "SAP HANA",
-        "SAP BI/Data Warehousing",
-        "SAP Consulting"
-      ],
-      "website": "mastechdigital.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner (NYSE: MHH). Consulting & Staffing model. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111735168",
-      "rank": 1404,
-      "priority": "HIGH",
-      "company_name": "Vistex, Inc.",
-      "country": "USA",
-      "city": "Hoffman Estates",
-      "state": "IL",
-      "employees": "1,000+",
-      "erp_systems": [
-        "SAP Solution Extensions",
-        "SAP Margin Optimization",
-        "SAP Rebate Management"
-      ],
-      "website": "vistex.com",
-      "decision_makers": [],
-      "why_target": "SAP Platinum Partner. Margin Optimization, Rebate Mgmt, Sales Commission. Consumer Goods, Chemicals, Life Sciences.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111739210",
-      "rank": 1405,
-      "priority": "HIGH",
-      "company_name": "Utopia Global, Inc.",
-      "country": "USA",
-      "city": "Mundelein",
-      "state": "IL",
-      "employees": "Mid-sized",
-      "erp_systems": [
-        "SAP MDG",
-        "SAP Data Migration",
-        "SAP Data Governance"
-      ],
-      "website": "utopia-inc.com",
-      "decision_makers": [],
-      "why_target": "SAP Platinum Partner. Master Data Management for S/4HANA. Manufacturing, Utilities, Oil & Gas, Public Sector.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
       "id": "north_america-new-1771111747565",
       "rank": 1406,
       "priority": "HIGH",
@@ -17779,159 +13698,6 @@
       "website": "emergys.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner; Strategic VAR. 2025 Pinnacle Award Finalist (Rising Star). Aerospace & Defense, Medical Devices, Manufacturing, Banking.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111752017",
-      "rank": 1407,
-      "priority": "HIGH",
-      "company_name": "Argano",
-      "country": "USA",
-      "city": "Dallas",
-      "state": "TX",
-      "employees": "Mid-to-large",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Supply Chain",
-        "SAP GROW with SAP",
-        "SAP Procurement"
-      ],
-      "website": "argano.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner. SAP NA Partner Excellence Award 2024 for Marketing. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111755481",
-      "rank": 1408,
-      "priority": "HIGH",
-      "company_name": "GyanSys, Inc.",
-      "country": "USA",
-      "city": "Carmel",
-      "state": "IN",
-      "employees": "~1,700-3,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP IBP",
-        "SAP EWM",
-        "SAP Ariba",
-        "SAP SuccessFactors",
-        "SAP CX"
-      ],
-      "website": "gyansys.com",
-      "decision_makers": [],
-      "why_target": "SAP Silver Partner; Gartner-recognized. Automotive, CPG, Manufacturing.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111759537",
-      "rank": 1409,
-      "priority": "HIGH",
-      "company_name": "ArchLynk",
-      "country": "USA",
-      "city": "San Jose",
-      "state": "CA",
-      "employees": "200-500",
-      "erp_systems": [
-        "SAP TM",
-        "SAP IBP",
-        "SAP BN4L",
-        "SAP EWM",
-        "SAP GTS"
-      ],
-      "website": "archlynk.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner. Pure-play SAP Digital Supply Chain. Highest volume SC partner worldwide. PE-backed.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111763516",
-      "rank": 1410,
-      "priority": "HIGH",
-      "company_name": "Movilitas Consulting",
-      "country": "USA",
-      "city": "Columbia",
-      "state": "MD",
-      "employees": "50-249",
-      "erp_systems": [
-        "SAP EWM",
-        "SAP Digital Supply Chain",
-        "SAP Track & Trace"
-      ],
-      "website": "movilitas.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner. ~$61M revenue. Serialization/DSCSA Compliance. Pharma, Food & Beverage, CPG.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111766609",
-      "rank": 1411,
-      "priority": "HIGH",
-      "company_name": "Bristlecone, Inc.",
-      "country": "USA",
-      "city": "San Jose",
-      "state": "CA",
-      "employees": "Mid-sized",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Supply Chain"
-      ],
-      "website": "bristlecone.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner (Mahindra Group subsidiary). End-to-End SAP Supply Chain Transformation. Manufacturing, CPG, Chemicals, Life Sciences.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111770568",
-      "rank": 1412,
-      "priority": "HIGH",
-      "company_name": "Westernacher Consulting",
-      "country": "USA",
-      "city": "Atlanta",
-      "state": "GA",
-      "employees": "Mid-sized",
-      "erp_systems": [
-        "SAP IBP",
-        "SAP EWM",
-        "SAP TM",
-        "SAP Warehouse Automation"
-      ],
-      "website": "westernacher.com",
-      "decision_makers": [],
-      "why_target": "SAP Digital Supply Chain Focus Partner. AMR/AGV warehouse automation. Retail, Wholesale, Manufacturing, Logistics.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111774606",
-      "rank": 1413,
-      "priority": "HIGH",
-      "company_name": "Column5 Consulting",
-      "country": "USA",
-      "city": "Scottsdale",
-      "state": "AZ",
-      "employees": "Mid-sized",
-      "erp_systems": [
-        "SAP Analytics Cloud",
-        "SAP BPC",
-        "SAP Datasphere"
-      ],
-      "website": "column5.com",
-      "decision_makers": [],
-      "why_target": "SAP Silver Partner. Global Leader in EPM and xP&A. Cross-industry Finance/Planning focus.",
       "notable_clients": "",
       "awards": "",
       "checked": false
@@ -17954,91 +13720,6 @@
       "website": "improving.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner. SAP Exodus BPC-to-SAC migration tool. Utilities, Oil & Gas.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111788683",
-      "rank": 1415,
-      "priority": "HIGH",
-      "company_name": "Lemongrass Cloud",
-      "country": "USA",
-      "city": "Edison",
-      "state": "NJ",
-      "employees": "500-1,000",
-      "erp_systems": [
-        "SAP Hosting",
-        "SAP AMS",
-        "SAP Cloud Migration"
-      ],
-      "website": "lemongrasscloud.com",
-      "decision_makers": [],
-      "why_target": "SAP Certified MSP; AWS Premier Partner. ~$146M revenue. Proprietary Cloud Platform. Healthcare, Oil & Gas, Utilities.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111793166",
-      "rank": 1416,
-      "priority": "HIGH",
-      "company_name": "SoftwareOne",
-      "country": "USA",
-      "city": "Milwaukee",
-      "state": "WI",
-      "employees": "~9,000+",
-      "erp_systems": [
-        "SAP Managed Services",
-        "SAP RISE with SAP",
-        "SAP S/4HANA Cloud Hosting"
-      ],
-      "website": "softwareone.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner. Managed Services on Azure/AWS/GCP, FinOps. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111796784",
-      "rank": 1417,
-      "priority": "HIGH",
-      "company_name": "Rackspace Technology",
-      "country": "USA",
-      "city": "San Antonio",
-      "state": "TX",
-      "employees": "Thousands",
-      "erp_systems": [
-        "SAP Hosting",
-        "SAP AMS",
-        "SAP Cloud Migration"
-      ],
-      "website": "rackspace.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner (20+ years). Private Cloud Hosting, AMS. Manufacturing, Energy, Healthcare.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111800384",
-      "rank": 1418,
-      "priority": "HIGH",
-      "company_name": "Cloud4C",
-      "country": "USA",
-      "city": "Dallas",
-      "state": "TX",
-      "employees": "~2,000+",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP AMS",
-        "SAP Hosting",
-        "SAP Disaster Recovery"
-      ],
-      "website": "cloud4c.com",
-      "decision_makers": [],
-      "why_target": "SAP Certified Hosting Services. Basis Support, 25+ Industry Verticals.",
       "notable_clients": "",
       "awards": "",
       "checked": false
@@ -18251,25 +13932,6 @@
       "checked": false
     },
     {
-      "id": "north_america-new-1771111854217",
-      "rank": 1429,
-      "priority": "MEDIUM",
-      "company_name": "Consultare America",
-      "country": "USA",
-      "city": "Atlanta",
-      "state": "GA",
-      "employees": "<50",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "consultare.net",
-      "decision_makers": [],
-      "why_target": "SAP Business One Gold Partner. Implementation, Customization, Support. Distribution, Manufacturing, SMBs.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
       "id": "north_america-new-1771111862656",
       "rank": 1430,
       "priority": "MEDIUM",
@@ -18286,25 +13948,6 @@
       "website": "jdc-group.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Strategic Advisory, Technology Workforce Solutions. Energy, Manufacturing, Consumer Products, Financial Services.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111866507",
-      "rank": 1431,
-      "priority": "MEDIUM",
-      "company_name": "Michell Consulting Group",
-      "country": "USA",
-      "city": "Miami",
-      "state": "FL",
-      "employees": "Small",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "michellconsulting.com",
-      "decision_makers": [],
-      "why_target": "SAP B1 Partner (12+ years). Consulting, Implementation, Support. Manufacturing, Distribution, SMEs.",
       "notable_clients": "",
       "awards": "",
       "checked": false
@@ -18443,26 +14086,6 @@
       "checked": false
     },
     {
-      "id": "north_america-new-1771111894225",
-      "rank": 1438,
-      "priority": "MEDIUM",
-      "company_name": "Stellar One Consulting",
-      "country": "USA",
-      "city": "Flower Mound",
-      "state": "TX",
-      "employees": "Small",
-      "erp_systems": [
-        "SAP Business ByDesign",
-        "SAP Business One"
-      ],
-      "website": "stellaroneconsulting.com",
-      "decision_makers": [],
-      "why_target": "SAP B1/ByDesign Certified Partner (since 2011). Fixed Pricing, Guaranteed Timelines. Manufacturing, Wholesale, eCommerce, Retail.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
       "id": "north_america-new-1771111898416",
       "rank": 1439,
       "priority": "MEDIUM",
@@ -18483,28 +14106,6 @@
       "checked": false
     },
     {
-      "id": "north_america-new-1771111905930",
-      "rank": 1440,
-      "priority": "MEDIUM",
-      "company_name": "Utegration (now Cognizant)",
-      "country": "USA",
-      "city": "Houston",
-      "state": "TX",
-      "employees": "Small-mid",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP AMI",
-        "SAP CR&B",
-        "SAP BI"
-      ],
-      "website": "utegration.com",
-      "decision_makers": [],
-      "why_target": "SAP Alliance Partner (acquired by Cognizant 2022). Utility4U, MeterData4U. Utilities & Energy.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
       "id": "north_america-new-1771111922810",
       "rank": 1441,
       "priority": "MEDIUM",
@@ -18520,26 +14121,6 @@
       "website": "synergytop.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Implementation, ERP Consulting, Digital Commerce, Application Management. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111927246",
-      "rank": 1442,
-      "priority": "MEDIUM",
-      "company_name": "VistaVu Solutions",
-      "country": "USA",
-      "city": "Houston",
-      "state": "TX",
-      "employees": "~70",
-      "erp_systems": [
-        "SAP Business One",
-        "SAP Business ByDesign"
-      ],
-      "website": "vistavusolutions.com",
-      "decision_makers": [],
-      "why_target": "SAP Certified Partner (~$5M revenue). FieldVu for Field Services. Industrial Field Services, Manufacturing, Aerospace, Life Sciences.",
       "notable_clients": "",
       "awards": "",
       "checked": false
@@ -18583,27 +14164,6 @@
       "website": "talentmsh.com",
       "decision_makers": [],
       "why_target": "SAP Partner (20+ years). ECC 6 End-of-Life Support, Azure Migration, Staffing. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771111939294",
-      "rank": 1445,
-      "priority": "MEDIUM",
-      "company_name": "N'ware Technologies",
-      "country": "USA",
-      "city": "New York",
-      "state": "NY",
-      "employees": "Small-mid",
-      "erp_systems": [
-        "SAP Business One",
-        "SAP WMS",
-        "SAP BI"
-      ],
-      "website": "nwaretech.com",
-      "decision_makers": [],
-      "why_target": "SAP B1 Premier Partner (since 1995). Integrated eCommerce. Manufacturing, Distribution.",
       "notable_clients": "",
       "awards": "",
       "checked": false
@@ -18779,25 +14339,6 @@
       "checked": false
     },
     {
-      "id": "north_america-new-1771111994960",
-      "rank": 1454,
-      "priority": "MEDIUM",
-      "company_name": "LBSi / ERP Logic (NoblQ)",
-      "country": "USA",
-      "city": "Strongsville",
-      "state": "OH",
-      "employees": "11-50",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "lbsi.com",
-      "decision_makers": [],
-      "why_target": "SAP B1 Gold Partner (since 1989). Proprietary AMMP add-on. Acquired by ERP Logic 2022. Manufacturing, Distribution.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
       "id": "north_america-new-1771111998965",
       "rank": 1455,
       "priority": "MEDIUM",
@@ -18812,25 +14353,6 @@
       "website": "clientsfirst-us.com",
       "decision_makers": [],
       "why_target": "SAP B1 Gold Partner. #1 client retention among B1 partners. Offices in NJ, Chicago, Minneapolis. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771112002884",
-      "rank": 1456,
-      "priority": "MEDIUM",
-      "company_name": "BWISE Solutions",
-      "country": "USA",
-      "city": "Long Beach",
-      "state": "CA",
-      "employees": "~15-40",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "b1bwise.com",
-      "decision_makers": [],
-      "why_target": "SAP B1 Partner. Proprietary WISE WMS for Distribution/3PL. Distribution, 3PL.",
       "notable_clients": "",
       "awards": "",
       "checked": false
@@ -18853,67 +14375,6 @@
       "website": "saberpoint.com",
       "decision_makers": [],
       "why_target": "SAP Gold Partner (2020 Excellence Award). Offices: Boston, Austin, Chicago, LA. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771112014245",
-      "rank": 1458,
-      "priority": "MEDIUM",
-      "company_name": "C5MI",
-      "country": "USA",
-      "city": "Washington",
-      "state": "DC",
-      "employees": "~100-250",
-      "erp_systems": [
-        "SAP TM",
-        "SAP S/4HANA"
-      ],
-      "website": "c5mi.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner (DoD prime contractor). Only SI to deploy SAP TM to DoD. First DoD S/4HANA migration (Jan 2025). 100% go-live success.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771112018781",
-      "rank": 1459,
-      "priority": "MEDIUM",
-      "company_name": "EDC Consulting LLC",
-      "country": "USA",
-      "city": "Reston",
-      "state": "VA",
-      "employees": "Small-to-mid",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Federal"
-      ],
-      "website": "edcconsulting.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner (multiple federal contract vehicles). Full-lifecycle SAP for DoD, DHS/CBP, IRS, NASA, Army, Navy, Air Force.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771112022825",
-      "rank": 1460,
-      "priority": "MEDIUM",
-      "company_name": "Genesis Consulting Partners",
-      "country": "USA",
-      "city": "Reston",
-      "state": "VA",
-      "employees": "~50-150",
-      "erp_systems": [
-        "SAP IS-U",
-        "SAP Concur",
-        "SAP Federal"
-      ],
-      "website": "genesisconsulting.com",
-      "decision_makers": [],
-      "why_target": "SAP Silver Partner; SAP Concur Sell Partner. Utilities + Federal Government (DoD, USDA, NRC). SWaM-certified.",
       "notable_clients": "",
       "awards": "",
       "checked": false
@@ -18981,27 +14442,6 @@
       "checked": false
     },
     {
-      "id": "north_america-new-1771112053272",
-      "rank": 1464,
-      "priority": "MEDIUM",
-      "company_name": "Sure Power Consulting",
-      "country": "USA",
-      "city": "Alpharetta",
-      "state": "GA",
-      "employees": "Small-mid",
-      "erp_systems": [
-        "SAP IS-U",
-        "SAP Smart Grid",
-        "SAP AMI"
-      ],
-      "website": "surepowerconsulting.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner (13+ years, Inc. 5000). 100+ electric/gas/water/sewer utility clients. Utilities exclusive focus.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
       "id": "north_america-new-1771112057387",
       "rank": 1465,
       "priority": "MEDIUM",
@@ -19038,25 +14478,6 @@
       "website": "fingent.com",
       "decision_makers": [],
       "why_target": "SAP Partner. FinAMSCare managed services. Healthcare, Higher Education.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771112064287",
-      "rank": 1467,
-      "priority": "MEDIUM",
-      "company_name": "CSneovias",
-      "country": "USA",
-      "city": "New York",
-      "state": "NY",
-      "employees": "Niche specialist",
-      "erp_systems": [
-        "SAP Student Lifecycle Management"
-      ],
-      "website": "csneovias.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner. One of very few SAP SLcM specialists globally. Higher Education exclusive focus.",
       "notable_clients": "",
       "awards": "",
       "checked": false
@@ -19515,26 +14936,6 @@
       "checked": false
     },
     {
-      "id": "north_america-new-1771112170059",
-      "rank": 1490,
-      "priority": "MEDIUM",
-      "company_name": "Persistent Systems",
-      "country": "USA",
-      "city": "Santa Clara",
-      "state": "CA",
-      "employees": "~23,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Application Modernization"
-      ],
-      "website": "persistent.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner (secondary capability). S/4HANA Migration, Application Modernization. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
       "id": "north_america-new-1771112173934",
       "rank": 1491,
       "priority": "MEDIUM",
@@ -19571,154 +14972,6 @@
       "website": "yourbrg.com",
       "decision_makers": [],
       "why_target": "SAP NA Partner Excellence Award 2024 (Indirect Customer Success). RISE/GROW with SAP. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771112182621",
-      "rank": 1493,
-      "priority": "HIGHEST",
-      "company_name": "T-Systems",
-      "country": "USA",
-      "city": "Reston",
-      "state": "VA",
-      "employees": "~28,000",
-      "erp_systems": [
-        "SAP Hosting",
-        "SAP Cloud Infrastructure",
-        "SAP Managed Services"
-      ],
-      "website": "t-systems.com",
-      "decision_makers": [],
-      "why_target": "SAP Global Strategic Partner. SAP Hosting, Cloud Infrastructure, Managed Services. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771112186196",
-      "rank": 1494,
-      "priority": "HIGHEST",
-      "company_name": "Indra / Minsait",
-      "country": "USA",
-      "city": "New York",
-      "state": "NY",
-      "employees": "~56,000",
-      "erp_systems": [
-        "SAP Implementation",
-        "SAP Integration",
-        "SAP Managed Services"
-      ],
-      "website": "indracompany.com",
-      "decision_makers": [],
-      "why_target": "SAP Global Strategic Partner. Implementation, Integration, Managed Services. Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771114493365",
-      "rank": 1495,
-      "priority": "HIGHEST",
-      "company_name": "Genpact",
-      "country": "USA",
-      "city": "New York",
-      "state": "NY",
-      "employees": "115,000+",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Process Automation",
-        "SAP Managed Services"
-      ],
-      "website": "genpact.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner (NYSE: G). Former GE Capital subsidiary. S/4HANA migrations, process automation. Banking, Insurance, Manufacturing, Healthcare, Life Sciences.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771114496817",
-      "rank": 1496,
-      "priority": "HIGHEST",
-      "company_name": "Hitachi Digital Services",
-      "country": "USA",
-      "city": "Dallas",
-      "state": "TX",
-      "employees": "2,000+ SAP consultants",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP HANA Hosting",
-        "SAP Cloud Migration"
-      ],
-      "website": "hitachids.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner (formerly Hitachi Consulting). Backed by Hitachi Ltd ($80B+). 1,000+ SAP engagements. Manufacturing, Automotive, Energy, Utilities.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771114499978",
-      "rank": 1497,
-      "priority": "HIGHEST",
-      "company_name": "KaarTech (Kaar Technologies)",
-      "country": "USA",
-      "city": "Dallas",
-      "state": "TX",
-      "employees": "2,500-3,500",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP RISE with SAP",
-        "SAP BTP",
-        "SAP SuccessFactors"
-      ],
-      "website": "kaartech.com",
-      "decision_makers": [],
-      "why_target": "SAP Platinum Partner. 2025 Pinnacle Award finalist (Rising Star). 23+ SAP Quality Awards. Acquired Dunn Solutions (Midwest). Cross-industry.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771114504677",
-      "rank": 1498,
-      "priority": "HIGHEST",
-      "company_name": "CACI International",
-      "country": "USA",
-      "city": "McLean",
-      "state": "VA",
-      "employees": "~24,000",
-      "erp_systems": [
-        "SAP ECC",
-        "SAP ISPS",
-        "SAP Federal ERP"
-      ],
-      "website": "caci.com",
-      "decision_makers": [],
-      "why_target": "NYSE-listed Fortune 1000. SAP ERP integration for DoD, intelligence, civilian CFO offices. Carahsoft government partner.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771114508255",
-      "rank": 1499,
-      "priority": "HIGHEST",
-      "company_name": "SAIC",
-      "country": "USA",
-      "city": "Reston",
-      "state": "VA",
-      "employees": "~24,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Federal",
-        "SAP Cloud Migration"
-      ],
-      "website": "saic.com",
-      "decision_makers": [],
-      "why_target": "Fortune 500 ($7.5B revenue). SAP implementations for DLA, DoD, civilian agencies. Enterprise IT modernization.",
       "notable_clients": "",
       "awards": "",
       "checked": false
@@ -19761,46 +15014,6 @@
       "website": "neoris.com",
       "decision_makers": [],
       "why_target": "SAP Silver Partner. S/4HANA and cloud migrations. Financial Services, Retail, Manufacturing.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771114525047",
-      "rank": 1502,
-      "priority": "HIGH",
-      "company_name": "Carahsoft Technology",
-      "country": "USA",
-      "city": "Reston",
-      "state": "VA",
-      "employees": "1,000+",
-      "erp_systems": [
-        "SAP Government Reseller/Distributor"
-      ],
-      "website": "carahsoft.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner (government aggregator). SAP reseller/distributor for federal, state, local government.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771114528245",
-      "rank": 1503,
-      "priority": "HIGH",
-      "company_name": "BearingPoint",
-      "country": "USA",
-      "city": "New York",
-      "state": "NY",
-      "employees": "~6,000",
-      "erp_systems": [
-        "SAP S/4HANA",
-        "SAP Energy",
-        "SAP Utilities"
-      ],
-      "website": "bearingpoint.com",
-      "decision_makers": [],
-      "why_target": "SAP Tier 2 Partner (HQ Amsterdam). Energy, Utilities, Public Sector.",
       "notable_clients": "",
       "awards": "",
       "checked": false
@@ -19943,25 +15156,6 @@
       "website": "onapsis.com",
       "decision_makers": [],
       "why_target": "SAP Silver Partner. Leading SAP cybersecurity firm. Acquired Virtual Forge (2019). SAP threat detection and compliance.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771114567332",
-      "rank": 1511,
-      "priority": "HIGH",
-      "company_name": "msg global solutions",
-      "country": "USA",
-      "city": "Princeton",
-      "state": "NJ",
-      "employees": "500+ globally",
-      "erp_systems": [
-        "SAP Insurance Industry Solutions"
-      ],
-      "website": "msg-global.com",
-      "decision_makers": [],
-      "why_target": "SAP Silver Partner. SAP-certified insurance industry solutions. Insurance vertical focus.",
       "notable_clients": "",
       "awards": "",
       "checked": false
@@ -20209,25 +15403,6 @@
       "checked": false
     },
     {
-      "id": "north_america-new-1771114623671",
-      "rank": 1524,
-      "priority": "MEDIUM",
-      "company_name": "AchieveIT Solutions",
-      "country": "USA",
-      "city": "Port Jefferson",
-      "state": "NY",
-      "employees": "Small",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "achieveitsolutions.com",
-      "decision_makers": [],
-      "why_target": "SAP Gold Partner for Business One. Long Island, NY.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
       "id": "north_america-new-1771114627617",
       "rank": 1525,
       "priority": "MEDIUM",
@@ -20287,65 +15462,6 @@
       "checked": false
     },
     {
-      "id": "north_america-new-1771114639751",
-      "rank": 1528,
-      "priority": "MEDIUM",
-      "company_name": "Ace-Pros",
-      "country": "USA",
-      "city": "Herndon",
-      "state": "VA",
-      "employees": "Small",
-      "erp_systems": [
-        "SAP SuccessFactors"
-      ],
-      "website": "ace-pros.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner (minority-owned). SuccessFactors specialist serving US Air Force and DIA. Federal government.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771114643463",
-      "rank": 1529,
-      "priority": "MEDIUM",
-      "company_name": "cBEYONData",
-      "country": "USA",
-      "city": "Washington",
-      "state": "DC",
-      "employees": "Small-mid",
-      "erp_systems": [
-        "SAP BI",
-        "SAP Federal Analytics"
-      ],
-      "website": "cbeyondata.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner. BI for federal CFO offices. Financial reporting, audit readiness, DATA Act analytics, procurement dashboards.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771114647286",
-      "rank": 1530,
-      "priority": "MEDIUM",
-      "company_name": "Optimal Solutions Inc.",
-      "country": "USA",
-      "city": "Chantilly",
-      "state": "VA",
-      "employees": "Small",
-      "erp_systems": [
-        "SAP Technical Architecture",
-        "SAP ECM"
-      ],
-      "website": "optimalsolutions.us",
-      "decision_makers": [],
-      "why_target": "SAP Partner (certified MBE). Technical architecture and enterprise content management for federal agencies.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
       "id": "north_america-new-1771114651028",
       "rank": 1531,
       "priority": "MEDIUM",
@@ -20400,26 +15516,6 @@
       "website": "advantagedsolutions.com",
       "decision_makers": [],
       "why_target": "SAP Partner. GSA Group 70 contract for SAP-based strategic consulting. Public sector.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771114663099",
-      "rank": 1534,
-      "priority": "MEDIUM",
-      "company_name": "The Advizor Group (TAG)",
-      "country": "USA",
-      "city": "Washington",
-      "state": "DC",
-      "employees": "Small",
-      "erp_systems": [
-        "SAP ECM",
-        "SAP BI"
-      ],
-      "website": "theadvizorgroup.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner (minority and woman-owned). SAP ECM and BI for federal, state, local government including education, fire, police.",
       "notable_clients": "",
       "awards": "",
       "checked": false
@@ -20498,25 +15594,6 @@
       "website": "sovos.com",
       "decision_makers": [],
       "why_target": "SAP Partner. Tax compliance solutions for SAP. Growing niche as regulatory pressure increases.",
-      "notable_clients": "",
-      "awards": "",
-      "checked": false
-    },
-    {
-      "id": "north_america-new-1771114689090",
-      "rank": 1539,
-      "priority": "MEDIUM",
-      "company_name": "Forgestik USA",
-      "country": "USA",
-      "city": "Oak Lawn",
-      "state": "IL",
-      "employees": "Small",
-      "erp_systems": [
-        "SAP Business One"
-      ],
-      "website": "forgestik.com",
-      "decision_makers": [],
-      "why_target": "SAP Partner. Business One specialist. Chicago area.",
       "notable_clients": "",
       "awards": "",
       "checked": false
